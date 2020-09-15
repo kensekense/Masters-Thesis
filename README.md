@@ -9,3 +9,5 @@
 	- Round 3 *current
 - sample_thesis
 - Meeting 1 Presentation
+- Notes
+- Collaborative Acts Labels
