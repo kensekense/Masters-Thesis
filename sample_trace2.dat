@@ -1,0 +1,24 @@
+U200+欸，hello,+use.social.convention+1
+U201+hey,+use.social.convention+2
+U202+用中文沒問題吧？,+closed.question+2
+U203+沒問題，+respond.agree+1
+U204+你跟你的前一個partner都是用中文嗎？,+closed.question+2
+U205+差不多，有時候會換英文,+respond.agree+1
+U206+那我們也盡量用中文,+give.opinion+2
+U207+yea,挺好的,+respond.agree+1
+U208+那你現在都在做些什麽？,+open.question+2
+U209+想在在日内瓦念masters,寫thesis,+respond.agree+1
+U210+你在加州念書吧？,+closed.question+1
+U211+第幾年了？,+closed.question+1
+U212+對，我在USC第四年了,+respond.agree+2
+U213+啊，那快畢業了,現在一定很亂，+give.opinion+1
+U214+yea,很累，+respond.agree+2
+U215+其實畢業以後想去紐約找工作,+give.opinion+2
+U216+哦，紐約不錯，你是做finance,right?,+closed.question+1
+U217+yea,+respond.agree+2
+U218+紐約的finance很好。但是現在哪裏找工作都很不容易,+give.opinion+1
+U219+你可以再念一年書嗎？還是沒辦法？,+closed.question+1
+U220+可以，我也是想說如果找工作不容易可以再念個CS minor,+respond.agree+2
+U221+哦，finance念CS minor很好，一定會用到。+respond.agree+1
+U222+嗯，所以還有很多選擇,+give.opinion+2
+U223+啊，挺好的,+respond.agree+1
