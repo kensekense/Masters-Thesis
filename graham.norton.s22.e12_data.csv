@@ -1,0 +1,940 @@
+U,L
+"Good evening, everyone.",use.social.convention
+This is Will Smith wishing you a very merry Christmas,use.social.convention
+and saying welcome to The Graham Norton Show!,use.social.convention
+AUDIENCE CHEERS,use.social.convention
+"Hello! Hello, hello!",use.social.convention
+Oh!,use.social.convention
+"Oh, aren't you kind?",use.social.convention
+"That's so sweet of you. Hello, good evening. Welcome, everyone.",use.social.convention
+Merry Christmas!,use.social.convention
+Yay!,use.social.convention
+"Oh, we are feeling festive, aren't we?",closed.question
+"Yes, we are. So Christmassy.",respond.agree
+Has everyone got their Christmas trees up?,closed.question
+"Have you, have you? AUDIENCE: Yes!",respond.agree
+All right!,respond.agree
+I'm not the police.,give.opinion
+"""Yes, we have!""",respond.agree
+Can you believe some people are so stupid,give.opinion
+they ordered a tree too big to fit through their front door?,give.opinion
+"Yeah. Number 10, there.",give.opinion
+"Theresa, really - measure, measure!",give.opinion
+But Theresa May did put a little decoration on top of that tree.,give.opinion
+Yeah.,give.opinion
+I imagine she enjoyed ramming that branch up its arse.,give.opinion
+"Now, did you all enjoy your office Christmas parties?",closed.question
+Did you? AUDIENCE: Yes!,respond.agree
+"""I don't remember.""",give.opinion
+"Now, look, I hope you remembered the golden rule -",give.opinion
+"the golden rule, ladies and gentlemen -",give.opinion
+don't have sex in the office.,give.opinion
+Don't. That's not romantic.,give.opinion
+Wait until you're somewhere nice and cosy,give.opinion
+and the mood takes you and pop upstairs.,give.opinion
+"Yeah, ding-ding!",give.opinion
+Room for a small one?,give.opinion
+"Hey, let's get some guests on!",use.social.convention
+"Later, we'll have music from former Keane front man Tom Chaplin.",give.opinion
+"Yes, he'll be performing his new single, Midnight Mass,",give.opinion
+a true Christmas treat -,give.opinion
+"but first, no Christmas is complete",give.opinion
+without this man's festive food and cheer.,give.opinion
+"Here to talk about his 20th cookbook,",give.opinion
+please welcome the award-winning chef and restaurateur Jamie Oliver!,use.social.convention
+AUDIENCE CHEERS,use.social.convention
+"Hello, sir. Lovely to see you.",use.social.convention
+"Very smart, very smart. Jamie Oliver.",give.opinion
+"She's gone from soap star to Doctor Who companion,",give.opinion
+and now she stars as the Queen herself in the hit series Victoria.,give.opinion
+Please welcome Jenna Coleman!,use.social.convention
+AUDIENCE CHEERS,use.social.convention
+Very nice.,use.social.convention
+"Jamie, Jenna, Jenna, Jamie.",use.social.convention
+And he's one of the world's biggest movie stars,give.opinion
+and one of our favourite guests on this show.,give.opinion
+It's always a pleasure to welcome the great Will Smith!,use.social.convention
+AUDIENCE CHEERS,use.social.convention
+Yeah!,use.social.convention
+Yeah!,use.social.convention
+Yeah!,use.social.convention
+"Well, hey, Merry Christmas, everybody.",use.social.convention
+Merry Christmas!,use.social.convention
+Yay! Merry Christmas!,use.social.convention
+I almost wore that same jacket.,give.opinion
+Really?,closed.question
+That would have been so embarrassing. So embarrassing.,give.opinion
+"You would have worn it better, I think.",give.opinion
+"You look Christmassy - and, actually, the two of you",deflection
+"look like you're going to do something together,",give.opinion
+because your tie matches your dress.,give.opinion
+"We are performing tonight. Yeah, blending.",respond.agree
+I look like the driver.,give.opinion
+"""Where y'all headed tonight?""",open.question
+"So, welcome, all.",use.social.convention
+Are we all ready for Christmas?,closed.question
+"Mm-hm. Yes, I'm very ready. So excited, I can't believe it.",respond.agree
+You're lying. Presents and food and stuff.,give.opinion
+"Yeah, all that good stuff. Yeah!",respond.agree
+"We could talk about Christmas for hours,",give.opinion
+but I'm distracted by the makings of a cocktail.,give.opinion
+"Oh, yes.",respond.agree
+AUDIENCE: Ooh!,use.social.convention
+"Who likes a cocktail at Christmas, everyone?",closed.question
+AUDIENCE: Yeah! Do you like a cocktail?,closed.question
+"I like a cocktail. Shall I endeavour? Yes, please.",respond.agree
+What have you brought us?,open.question
+"I like to give Britain a little tip every now and again,",respond.agree
+"so you need to find yourself a sheath, right?",give.opinion
+"Now, this is... Whoa.",give.opinion
+Just a minute!,give.opinion
+"Hold on, hold on - I don't know if I want that drink.",give.opinion
+"If you go to the really posh cocktail bars,",give.opinion
+you get these incredible ice cubes that they hand-carve.,give.opinion
+"Oh, no, no, no!",give.opinion
+We go get a water bomb and we just split it,give.opinion
+and we peel it off and we get a lovely round...,give.opinion
+Ooh! Bear with me.,use.social.convention
+This is what they do in the posh places.,give.opinion
+Then we're going to make a Christmas negroni.,give.opinion
+I love this!,respond.agree
+APPLAUSE,use.social.convention
+I think of myself as a Christmas negroni.,relax.atmosphere
+LAUGHTER,use.social.convention
+Only you could have said that.,give.opinion
+I couldn't have got away with that one.,give.opinion
+"So, negroni, I want you to think of it as medicine. OK.",give.opinion
+"Every one of us has someone a bit boring,",give.opinion
+a bit sort of dodgy coming to the Christmas party.,give.opinion
+There's always one.,give.opinion
+"So what you do is you take this negroni, AKA medicine... Medicine.",give.opinion
+..and it turns people that are a bit problematic and boring,give.opinion
+into interesting people.,give.opinion
+What's going to happen? Whoa!,open.question
+"So, a negroni is... Yes! What's Jamie trying to say?",open.question
+"I know, right?!",respond.agree
+And he's pouring three drinks.,give.opinion
+"This is 20 mils of Campari, 20 mils of vermouth rosso,",give.opinion
+which we've scented with a little cinnamon and Christmas fare. Yes!,give.opinion
+"And then we have a little gin,",give.opinion
+a little bit of clementine to get you going. Yes!,give.opinion
+"Are you ready for this? I'm like, come on, man!",closed.question
+"Now, once you sip this, if you don't become more interesting,",give.opinion
+I don't know what's going to happen. OK.,give.opinion
+Go on. OK. Lovely.,give.opinion
+"Take one, pass it down - it's like school.",give.opinion
+"Yeah, go on.",respond.agree
+"Oh, we have four, we have four. We have four.",give.opinion
+Cheers. Merry Christmas!,use.social.convention
+Merry Christmas! Merry Christmas!,use.social.convention
+"Merry Christmas, everyone!",use.social.convention
+"This is a bit like A Christmas Carol and we are Scrooge,",give.opinion
+"because I'm like, ""Merry Christmas, everybody!""",give.opinion
+It's like 600 Tiny Tims. Yes!,give.opinion
+"OK. Oh, come on.",give.opinion
+Come on!,give.opinion
+"Oh, that is delicious. The world's changing.",give.opinion
+"Hold on, I'll be the judge of whether or not it's delicious.",relax.atmosphere
+"No, I like that.",respond.agree
+It has just enough Christmas in it.,respond.agree
+Here's the thing...,give.opinion
+"No, that's very good.",respond.agree
+You want a sip? You want a sip? Hold on.,closed.question
+Here we go. Uh-oh.,respond.agree
+"I drank from this side, so you can drink from that side.",give.opinion
+You can drink from the other side.,give.opinion
+See what you think.,give.opinion
+Is this like feeding a gremlin after midnight? How's that?,closed.question
+"That's good, that's good.",respond.agree
+CHEERING AND APPLAUSE,use.social.convention
+"Delicious. Yeah. It's good, isn't it?",closed.question
+"It's nice. Yeah. No, seriously...",respond.agree
+"Now, we've got our Christmas cocktail...",respond.agree
+HE MOUTHS,relax.atmosphere
+LAUGHTER,use.social.convention
+"Yeah, a Christmas to remember.",relax.atmosphere
+That was the Christmas... Oh.,relax.atmosphere
+"Jenna Coleman, you have almost turned into a Christmas tradition",give.opinion
+"in yourself, in that you did the Doctor Who Christmas specials...",give.opinion
+"Yes. ..then Death Comes To Pemberley,",respond.agree
+"which was on at Christmas,",give.opinion
+"and now this year, you have got the Victoria Christmas special. Yeah.",respond.agree
+"Is it weird, because you're at home -",open.question
+does everybody have to stop and watch you on telly?,open.question
+I think my family thought this year was going to be a break...,respond.agree
+..and now it's the Christmas special.,respond.agree
+Do you watch it or do you kind of Sky Plus it,open.question
+and then come back to it?,open.question
+"My grandma will always watch it unless Wimbledon's on,",respond.agree
+and then I get Sky Plussed all of the time...,respond.agree
+"..and then we usually go 50-50,",give.opinion
+so you kind of get the drunk games room,give.opinion
+and then my grandparents watching the telly. Aww.,give.opinion
+"Or it gets to, like, the heat of the moment",give.opinion
+and Matt Smith is about to die on Doctor Who,give.opinion
+and suddenly my niece Millie,give.opinion
+will do a little dance in front of the telly.,give.opinion
+"Get out of the way! I'm going to put this down, in case...",give.opinion
+"I'll hold that for you, darling.",use.social.convention
+"Absolutely delicious, but I'm so scared what might happen.",give.opinion
+"OK. There we go. Actually, it's hitting me already.",respond.agree
+I'm like...,give.opinion
+"Girl, that's a pretty dress you've got on!",give.opinion
+Has that got a little kick to it?,closed.question
+"Yeah. No, no, it's a glow.",respond.agree
+It makes everyone nicer.,give.opinion
+Let's start with our first Christmas treat -,give.opinion
+Will Smith's movie Bright.,give.opinion
+"Now, this started streaming today on Netflix.",give.opinion
+"It's one of those films, it's like nothing you've seen before.",give.opinion
+It is when genres collide. Yes.,give.opinion
+But you've got a very good way of describing it to people.,open.question
+"Yeah, Bright is... It's out today, that's right, I like that. So...",respond.agree
+What the hell are you all doing here?!,relax.atmosphere
+LAUGHTER,use.social.convention
+"No, it's...",give.opinion
+"Sort of... Imagine Training Day, if you saw Training Day,",give.opinion
+"so it's a sort of gritty LA cop drama,",give.opinion
+so it's like Training Day meets Lord Of The Rings.,give.opinion
+Right?,give.opinion
+It sounds like he's making that up. No.,give.opinion
+"They're like, ""Oh, Will's stupid.""",relax.atmosphere
+"No, but...imagine that Lord Of The Rings was 4,000 years ago,",give.opinion
+"but all of the creatures came forward into the modern day,",give.opinion
+"so it's a modern-day rough LA cop drama,",give.opinion
+"but there's orcs and there's fairies and there's elves,",give.opinion
+as if they've come in to society.,give.opinion
+"So it's really... It's essentially about racism, right?",give.opinion
+"In a really interesting, bizarre, fun action way.",give.opinion
+It does take about five or ten minutes to get your head round it...,respond.agree
+"Yeah, yeah. ..and then, once you're in it, you're in it,",respond.agree
+"cos the world is so complete. Yes, it's really bizarre.",respond.agree
+"Joel Edgerton plays an orc,",give.opinion
+and he's the first orc on the Los Angeles Police Department.,give.opinion
+What's an orc? An orc. What is it?,open.question
+"Come on, everybody knows what an orc is, Jamie!",relax.atmosphere
+LAUGHTER,use.social.convention
+"Now, having said that, I do know what orcs are,",respond.agree
+but what is an orc?,open.question
+"It's the... See, Jenna doesn't know either.",give.opinion
+I don't know what an orc is.,respond.agree
+It's the thing that Joel Edgerton is in the movie.,give.opinion
+Put the picture...,give.opinion
+"There it is, that's an orc. That's an orc. That's an orc.",give.opinion
+That's an orc.,give.opinion
+"Yeah, but a lot of them have bigger teeth.",respond.agree
+You'll see. Yes.,respond.agree
+"It's directed by David Ayer, who wrote Training Day.",give.opinion
+"Yes, he wrote Training Day.",respond.agree
+"He did Suicide Squad,",give.opinion
+"so he's into that, you know, really weird stuff.",give.opinion
+"It's a whole lot better than I'm sounding right now, trust me.",give.opinion
+You're going to love it!,give.opinion
+Here's a clip to demonstrate what we're talking about,give.opinion
+"and this is you and Joel Edgerton, your orc partner,",give.opinion
+preparing for a shoot-out. Mm-hm.,give.opinion
+"I'm running out of patience, Officer Ward.",give.opinion
+Let's give them the wand. What?,give.opinion
+"Look, we're going to get everyone in here killed,",give.opinion
+"and then he's going to take the damn wand, anyway.",give.opinion
+I'm not giving that guy the wand.,respond.deny
+Over my dead body.,respond.deny
+He's going to have to kill me first.,respond.deny
+So you want to die in a gunfight in a nasty-ass titty bar?,closed.question
+I want to die. Let's do it right now.,give.opinion
+We're going to titty-bar gunfight die.,give.opinion
+"Let's do it, right here, right now.",give.opinion
+You ready? I just wish your dumb ass was a better shot.,closed.question
+"Let's go, on three.",give.opinion
+"One... Let's do it. ..two, three.",respond.agree
+SCREAMING,use.social.convention
+Ooh!,use.social.convention
+APPLAUSE,use.social.convention
+I'm sure you are wearing some make-up in this film...,relax.atmosphere
+"I know, yeah! Joel Edgerton's wearing a lot.",relax.atmosphere
+It was terrible.,respond.agree
+"Joel Edgerton, he had four hours a day in make-up. Wow.",give.opinion
+"So he would do four hours, and then I'd show up like this.",give.opinion
+"So, he would have the four hours and I'd come on set",give.opinion
+"and go, ""Hey, all right, Joel, what's up?!""",give.opinion
+"He'd go, ""Mm-mm. No.""",give.opinion
+"So, yeah, I mean, I felt bad taking most of the money.",relax.atmosphere
+LAUGHTER,use.social.convention
+Yeah.,relax.atmosphere
+APPLAUSE,use.social.convention
+"You've got so many movies in the pipeline,",give.opinion
+lots of things coming out -,give.opinion
+"but, I notice, still no sign",give.opinion
+of the Fresh Prince Of Bel Air reboot that everyone wants.,give.opinion
+CHEERING,use.social.convention
+They do! Man...,give.opinion
+Make it for them!,give.opinion
+"I'd have to be Uncle Phil, and that I wouldn't like.",relax.atmosphere
+I'm going to be 50.,give.opinion
+"""Come on, Aunt Viv! I'm 50. I can't go out on my own?""",relax.atmosphere
+"No, you did...",give.opinion
+"You did drive the fans wild, because you posted this.",give.opinion
+"AUDIENCE: Whoo! Oh, yeah.",use.social.convention
+"Did you bump into them, or...was it a reunion?",open.question
+"So, every year, Karyn has a charitable event,",respond.agree
+"and she hosts a lunch with the cast of the Fresh Prince,",give.opinion
+"so we do that every year, and it will be 10 or 12 people",give.opinion
+from around the world that have won this lunch... Wow.,give.opinion
+"..so, that's in Los Angeles, and the people flew in",give.opinion
+and we have the lunch with the fans who gave the most to charity.,give.opinion
+And you mentioned you would play Uncle Phil.,give.opinion
+A weird thing happened. Mm-hm.,give.opinion
+"You - I think you were in Africa, and you bungee jumped.",closed.question
+"I bungee jumped, yes. OK. Some people filmed this",respond.agree
+"and then you filmed the rest - so, here you are.",respond.agree
+"Yeah, I bungee jumped.",respond.agree
+"So, there you go - and then you're filming yourself",closed.question
+"on a GoPro or something... GoPro, yeah.",respond.agree
+..and people noticed that if you freeze-frame it,give.opinion
+at a certain point... Yes. ..you look remarkably like...,respond.agree
+LAUGHTER,use.social.convention
+"..James Avery! It's crazy, right?",give.opinion
+Yes! Yeah.,respond.agree
+"You are never bungee jumping again. Yeah, yeah!",respond.agree
+It's all the blood rushing to my head.,give.opinion
+"But that's really... Like, who's going through it frame by frame?",open.question
+I love it.,respond.agree
+"Right, Jenna Coleman's Christmas treat for us",give.opinion
+"is Victoria, a Christmas special.",give.opinion
+It goes out on ITV on Christmas Day at 9pm -,give.opinion
+"and it's sort of perfect,",give.opinion
+because so much of our Christmas came from Victoria... Uh-huh.,give.opinion
+"..kind of that period. Yeah, from Albert, really,",respond.agree
+"so it's before the Christmas tree was even in England,",give.opinion
+"so there's a lot of, like, why on earth would you bring a forest",open.question
+into your home for Christmas?,open.question
+"It is an odd thing, but it's lovely. It is an odd thing!",give.opinion
+"Yeah, and it was before Christmas cards were invented,",give.opinion
+so you kind of see Christmas,give.opinion
+becoming the Christmas as we now know it. Got it.,give.opinion
+"So, you get that side of it, you get how they created Christmas,",give.opinion
+but there's also this -,give.opinion
+"and this is true, the story about her adopting the child.",closed.question
+Yeah. Yeah.,respond.agree
+"So, Victoria got an unexpected Christmas gift,",give.opinion
+"which was a young girl called Sara Forbes,",give.opinion
+who was going to be sacrificed,give.opinion
+"and then got sent over to Victoria as a gift,",give.opinion
+and Victoria decided to educate her. Sacrificed?,closed.question
+This was from Africa? Yeah. OK.,closed.question
+King Ghezo. King Ghezo. Of Dahomey.,respond.agree
+"To... Yeah... So, he was going to sacrifice her,",give.opinion
+"and then thought, ""Oh, no, Victoria would love this.""",relax.atmosphere
+"I mean, it was unexpected!",respond.agree
+And so difficult to wrap! Yeah.,relax.atmosphere
+"There is a line, where she thinks it's going to be a baby elephant,",respond.agree
+"and then she arrives into the room and there is complete confusion,",respond.agree
+"because you're giving me a little girl,",give.opinion
+and she developed this amazing relationship with this young girl,give.opinion
+"throughout her entire life,",give.opinion
+"and educates her, she becomes part of the court...",give.opinion
+Did you know the story? No!,closed.question
+I had never heard this story. Never heard this story.,respond.deny
+"Extraordinary. Well, we're going to watch a clip.",give.opinion
+"So, this is you and the girl, and...",give.opinion
+Is there anything else you need to tell us about this?,open.question
+"You didn't sacrifice her, though, right? No, no, no.",closed.question
+Because I'm not going to watch that!,respond.deny
+She lived a happy life.,give.opinion
+Good. Well... Merry Christmas.,relax.atmosphere
+"Here you all are, in a very Christmassy scene.",give.opinion
+"Victoria, do you know that my mother, she taught me how to skate?",closed.question
+Do you remember?,closed.question
+"Ja. Ja, I remember.",respond.agree
+"Perhaps one day, we could teach the Queen ourselves.",give.opinion
+"Harriet, may I? No, thank you.",respond.deny
+Are you coming?,closed.question
+"Would you like to try skating, Sara?",closed.question
+"No, thank you, Your Majesty.",respond.deny
+But it's quite safe.,give.opinion
+I promise. Victoria! Hurry! We are waiting.,give.opinion
+I'm going to stay here with Sara.,respond.deny
+Would you like to build a snowman?,closed.question
+A snowman?,open.question
+I'll show you.,respond.agree
+Awww!,use.social.convention
+APPLAUSE,use.social.convention
+It gets much more exciting!,give.opinion
+"It does get exciting, yes.",give.opinion
+Presumably you didn't film this in winter? No.,closed.question
+"I mean, see... Because, apparently, I do a lot of Christmas specials,",respond.agree
+"I'm in Christmas for, like, six months of the year.",give.opinion
+I've been having Christmas since July.,give.opinion
+Snow business. Really?,give.opinion
+And it's really hard to improvise in Victorian language,give.opinion
+"about a snowman, I've discovered. Yeah.",give.opinion
+"Yes, making small talk!",relax.atmosphere
+"The thing is, you just went from school to Emmerdale. Yeah.",closed.question
+You didn't go to drama school in between. No.,respond.agree
+"Straight in? Yeah, I didn't know what I was doing.",closed.question
+"Because it is one of those weird jobs were people kind of think,",respond.agree
+"you learn it and then say it and that's the end of it,",respond.agree
+but there's a lot of technical stuff.,give.opinion
+"Yeah, there's like, ""Find your light,"" and you'd be like...",give.opinion
+"Yeah, there really is, ""Find my light...?""",give.opinion
+"You had a problem with marks, as well, hitting your mark. Oh, yeah.",open.question
+"I could never hit a mark, because I'm not...",respond.agree
+"I am a good multitasker, when you have to...",give.opinion
+"I mean, throw in a prop and I'm totally lost... Yeah.",give.opinion
+"..but it would always be like, ""Hit your mark,""",give.opinion
+and I did a couple of days on Captain America,give.opinion
+"and it was the first film I'd ever done,",give.opinion
+"and it was all, like, really big,",give.opinion
+and obviously the set-ups are massive,give.opinion
+"and all I remember, I had obviously not hit my mark,",give.opinion
+and I remember feeling someone like slap the bottom of my leg.,give.opinion
+"""Go to your mark.""",give.opinion
+"""You in MY mark, girl!",relax.atmosphere
+"""That's my mark, move!""",relax.atmosphere
+What was the thing on Doctor Who,open.question
+"when it was another actor, I think it was his first job?",open.question
+"Oh, yeah.",respond.agree
+It was his first job out of drama school,give.opinion
+"and you know what a sausage is, right?",closed.question
+A sausage? Yeah. Like a...,closed.question
+LAUGHTER,use.social.convention
+You notice that she didn't ask me!,relax.atmosphere
+I'm jealous!,relax.atmosphere
+"Yeah, like...",give.opinion
+"So, it's like 11 o'clock... Uh-huh.",give.opinion
+Do you call it something different in America?,closed.question
+We probably call it something different.,respond.agree
+"Unless it's, like, meat, then we... OK.",give.opinion
+..we probably call it something different.,give.opinion
+There's obviously a big confusion somewhere... Yeah.,give.opinion
+"..but...so, we call marks that are raised, here, a sausage.",give.opinion
+"Yeah, we don't say that in the States. No?",respond.agree
+"So, it's called a sausage mark.",give.opinion
+Just don't do that. A sausage mark.,closed.question
+"No, we call them raised marks. Really?",respond.deny
+LAUGHTER Interesting.,use.social.convention
+"Anyway, it was this poor guy's first day,",give.opinion
+and it was like 11 o'clock and I was like -,give.opinion
+"we were setting up a shot, and I was like, ""Can I get a sausage, please?""",give.opinion
+"And I paid no attention, and then someone came and brought a mark",give.opinion
+"and this guy was like, ""Oh, I'm so relieved.""",give.opinion
+"He was like, ""I literally thought it was like 11 o'clock",give.opinion
+"""and time for Jenna's morning sausage!""",give.opinion
+Being a diva.,relax.atmosphere
+Sausage! Sausage!,relax.atmosphere
+"Sausage, please. ""Oh, man, listen,",relax.atmosphere
+"""that girl don't get her 11 o'clock sausage...",relax.atmosphere
+"""We ain't going to shoot nothing today!""",relax.atmosphere
+"Jamie Oliver, famously, you were plucked from obscurity,",give.opinion
+"you were just a sous chef, and then you got your own series.",give.opinion
+"Now, I don't think I knew this - so, series one didn't go that well.",open.question
+"Well, not the series. The programme one.",respond.deny
+Don't write me whole series off!,relax.atmosphere
+LAUGHTER,use.social.convention
+"Yeah, it was the first one -",respond.agree
+"I actually never wanted to be on telly,",give.opinion
+so we did the first show and it was terrible.,give.opinion
+"It was really, really bad.",give.opinion
+AUDIENCE: Awww!,use.social.convention
+"That was me before my face grew into my lips, all right?",relax.atmosphere
+LAUGHTER,use.social.convention
+"But, no, basically it was really bad, and I think...",give.opinion
+"It's an interesting lesson to be learned about mistakes, or failure,",give.opinion
+"or however you want to look at it, because then we went back,",give.opinion
+we had to re-budget the programmes,give.opinion
+"and, actually, that's when I started to look off camera,",give.opinion
+"talk to the director, have a conversation,",give.opinion
+"be myself, cut the music to the music of my record collection",give.opinion
+"at home, and then be a bit more documentary about it,",give.opinion
+"so, really, if it hadn't been for that massive terrible programme",give.opinion
+that you have never and will never see...,give.opinion
+"It must exist somewhere, has it not been...?",open.question
+"There's probably some in the archives,",respond.agree
+"but I've just got a feeling that... It was shot on tape,",give.opinion
+"which is terrible, and it has aged badly",give.opinion
+"and, also, there has been a fire",give.opinion
+at the production company that owned it... That you started!,relax.atmosphere
+LAUGHTER,use.social.convention
+"You know, I'm the same, with the words and the sort of lingo",give.opinion
+"that goes with filming, they used to shout, ""Speed!""",give.opinion
+"And I'm just going, ""What is this drug problem?""",relax.atmosphere
+LAUGHTER,use.social.convention
+"""Check the gate!""",relax.atmosphere
+"""We haven't got a gate!",relax.atmosphere
+"""There's no garden!""",relax.atmosphere
+"Now, here's the thing, the Fresh Prince,",closed.question
+that was your very first acting job. Yeah.,respond.agree
+You had never acted before. Never acted.,give.opinion
+"So, presumably, you were doing that thing of just learning on set?",closed.question
+"Yes, absolutely.",respond.agree
+"Yeah, that was... I was very, very focused on being successful,",respond.agree
+"so I learned the entire script and I learned everybody else's line,",give.opinion
+"and I knew everything about it,",give.opinion
+"and, if you watch, like, the first four or five episodes,",give.opinion
+"you can see, I'm mouthing the other people's lines.",give.opinion
+No way! Yeah.,use.social.convention
+"I would be, like...",give.opinion
+"If you said, ""No way,"" I would be like...",give.opinion
+"I was like, ""Oh, my God!""",give.opinion
+"It's, like, people... Nobody noticed,",give.opinion
+because psychologically you're looking at the person,give.opinion
+"who's talking, but it is terrible.",give.opinion
+I can't bear to watch.,give.opinion
+It makes me want to go back and watch them now. I know!,give.opinion
+"Yeah. Going even further back,",respond.agree
+"before the acting, before Fresh Prince, there was music.",closed.question
+"There was music, yes.",respond.agree
+I was going through my record collection only the other day...,give.opinion
+"Oh, no. Tragedy. Oh, no.",relax.atmosphere
+"..and this... Wow. ..unbelievably, this is 30 years old.",give.opinion
+That is 30 years old. This is 30 years old.,give.opinion
+Wow. DJ Jazzy Jeff and Fresh Prince.,respond.agree
+CHEERING AND APPLAUSE,use.social.convention
+How old... How old was Will Smith here?,open.question
+"Yeah, I was 18 in that picture.",respond.agree
+"Like, look at my face - like, what am I trying to accomplish?",relax.atmosphere
+LAUGHTER,use.social.convention
+"I tell you what,",relax.atmosphere
+"you want your 11 o'clock sausage, that's what you want!",relax.atmosphere
+LAUGHTER,use.social.convention
+You had a hit record while you were still in high school.,closed.question
+"Yeah, in high school. Yeah.",respond.agree
+The single from this album is called Girls Ain't Nothing But Trouble.,give.opinion
+Yeah! And...,respond.agree
+"It's not true, it's not true.",relax.atmosphere
+But it was the single that came out in the last month,give.opinion
+"I was in high school, so I was a senior",give.opinion
+and had a record out for probably about 30 days.,give.opinion
+That is too much power for one man to have!,relax.atmosphere
+"Didn't they play it at your prom? Yeah, it was...",respond.agree
+"That's awkward, though, like, when you're in a place",give.opinion
+"and, like, DJs think that's cool,",give.opinion
+if you come in and they put your song on.,give.opinion
+It just makes you look stupid.,give.opinion
+"You can't be, like, ""Whoo!""",relax.atmosphere
+"All of a sudden, you've got to be like, ""Yeah, yeah...""",relax.atmosphere
+"And everyone is looking at you, like...",give.opinion
+"""Is he gon' sing? Is he gon' sing?""",give.opinion
+It's an awkward moment.,give.opinion
+"DJs shouldn't do that. Oh, very good.",give.opinion
+"Now, Jamie Oliver's latest -",give.opinion
+"it's 5 Ingredients, Quick And Easy Food.",give.opinion
+It's out now.,give.opinion
+CHEERING AND APPLAUSE Now... Yeah. Yes!,use.social.convention
+"It's the fastest selling book I have ever done,",give.opinion
+"and that just means it's resonating,",give.opinion
+and I am shocked at how the young kids have got into it,give.opinion
+because it's kind of like cooking by numbers.,give.opinion
+"It's, like, making Lego or something, you know? Yeah.",closed.question
+"And, actually, I even got jumped on...",give.opinion
+"..not jumped on, but I got complimented by an 80-year-old woman",give.opinion
+"the other day, just saying - and she was clearly a good cook -",give.opinion
+"just saying that she was using it, and her shopping was easier,",give.opinion
+because it was less stuff to buy and all that kind of stuff. Yeah.,give.opinion
+"OK, so, obviously, you could have made it six ingredients.",open.question
+Yeah. Or maybe you could have made it four...,respond.agree
+"I wrote it for four, originally. OK.",respond.agree
+"Yeah, and then I kind of... You get back and you look...",give.opinion
+Writing a book is quite an emotional thing for me,give.opinion
+"for lots of strange reasons, it's quite a thing,",give.opinion
+"and I'd done a good job on four,",give.opinion
+"but then I didn't feel I was giving the British public what they needed,",give.opinion
+"which was a bit of magic, so the fifth is the magic number,",give.opinion
+"you can give it a little bit of a spank. Ooh, ooh!",give.opinion
+Look at this!,give.opinion
+"Oh, you had a little flick of the wrist, there, bam!",relax.atmosphere
+Bam!,relax.atmosphere
+"Look, there's your five ingredients, that's all that you need.",give.opinion
+"Boom, boom, boom, boom, boom, ba-doom. Yeah. It's so clever.",give.opinion
+"And that's the 11 o'clock sausage, right down at the bottom, there.",relax.atmosphere
+Yes. LAUGHTER,use.social.convention
+A little bit of chorizo in there.,give.opinion
+It's smoky.,relax.atmosphere
+"I have to say, I have overheard people talking about this book,",give.opinion
+people you would never think in a million years,give.opinion
+"would be buying a cookbook,",give.opinion
+"but everyone just believes, ""Five ingredients,",give.opinion
+"""surely I could do that.""",give.opinion
+I think it's in tune with the public now,give.opinion
+and the way we work and we live now. Let me see!,give.opinion
+"Oh, yeah, have a look. Have a look. Yeah, have a look.",respond.agree
+It's delicious.,give.opinion
+"Not the book, obviously. You look so handsome!",relax.atmosphere
+Thank you very much.,use.social.convention
+Photoshop!,relax.atmosphere
+"Will Smith, do you cook?",closed.question
+Would you ever sit down and cook?,closed.question
+I do now.,deflection
+"Only five ingredients, I can do this!",give.opinion
+"Jenna, do you cook?",closed.question
+"Um, I... I... No. No.",respond.deny
+LAUGHTER,use.social.convention
+I'm a hazard cook.,relax.atmosphere
+"If you have to say ""I"" four times...",relax.atmosphere
+"""I... I... I..."" No.",relax.atmosphere
+"No, you don't, you don't. No.",relax.atmosphere
+Can you sign this for me?,closed.question
+"Mm-hm. I mean... I haven't got a pen, but I could do blood.",relax.atmosphere
+You'd do blood? For Will Smith...,closed.question
+"Actually, you know, I'm good.",relax.atmosphere
+"We should mention, Jamie's other holiday fare",give.opinion
+"is the latest edition of Jamie & Jimmy's Friday Night Feast,",give.opinion
+it continues next Friday on Channel 4 at 8pm.,give.opinion
+"Whoo! Yeah. Oh, sorry!",relax.atmosphere
+"Let's have a look at a clip, here we go.",give.opinion
+"You only have to do this, like, once or twice a year.",give.opinion
+You can make a batch and freeze it. Yeah.,respond.agree
+"And when you come back from a gig, a few prawns...",give.opinion
+You think I'm going to do this when I get home? I hope so!,respond.agree
+"It's never going to happen, is it? No.",respond.deny
+"I'll be doing this, ""Hello, is that the Thai takeaway?"" Yeah.",relax.atmosphere
+LAUGHTER,use.social.convention
+"Four, lemon grass...",give.opinion
+..and for that... Ooh!,give.opinion
+..we are going to give it a little spank.,give.opinion
+"Did you just spank the lemon grass? Yes, I did.",closed.question
+"That's the name of my new band, actually.",relax.atmosphere
+APPLAUSE Not a lot of cooking.,use.social.convention
+There was a little.,give.opinion
+And you do... You film at the end of Southend Pier.,closed.question
+"Yeah, it's a mile and a quarter out to sea, you know,",respond.agree
+"you guys are coming in next year, thanks for confirming that.",relax.atmosphere
+"You do get great guests, though.",closed.question
+"We did get great guests,",respond.agree
+"but, historically, it has always been people that are real foodies,",give.opinion
+that's why they would come out... Right.,give.opinion
+"..because it's an hour outside of London,",give.opinion
+"but it is a different interview, a different vibe,",give.opinion
+"to cook with someone is quite a precious thing,",give.opinion
+"and you're just sort of tuning in to memories, moments,",give.opinion
+"and we had a really nice mix of actors and singers and all sorts,",give.opinion
+"but this year, I did get Luke Skywalker, Mark Hamill.",give.opinion
+"Oh! Yes! And that was a moment for me,",respond.agree
+because obviously he was a big part of my childhood.,give.opinion
+Yeah. You are a proper Star Wars fan.,closed.question
+"I am a proper... As is Jimmy, so we were kind of fighting -",respond.agree
+"we were trying to get the lines in,",give.opinion
+"and steal each other's lines to ask the question, but...",give.opinion
+"..it was the most brilliant, and one of the hardest interviews",give.opinion
+"I have ever done, because he's got so many stories,",give.opinion
+"so, like, they're just tangenting all over the place... Yeah.",give.opinion
+"..and me and Jim were trying to bring it back,",give.opinion
+but it wasn't happening - but it was great.,give.opinion
+It's like you can't get a word in edgewise.,give.opinion
+"Mm-hm. Yeah, I know how that feels.",relax.atmosphere
+LAUGHTER,use.social.convention
+"Now, if you think Jamie Oliver's exaggerating",give.opinion
+"about how much of a fan he is of Star Wars, here's a picture...",give.opinion
+"This is you, this is Jamie taking a couple of his kids to school.",give.opinion
+"Oh, yes!",respond.agree
+LAUGHTER,use.social.convention
+Yeah! And that's a proper...,respond.agree
+"Just look how proud Poppy and Daisy are, they love it.",give.opinion
+It's tough being a teenager's dad.,give.opinion
+"I am trying to get better at it, and I went to parents evening",give.opinion
+"and...""Stop being embarrassing,""",give.opinion
+"""I'm only breathing!""",relax.atmosphere
+"So, after that, I'm trying to calibrate my embarrassingness",give.opinion
+"and that, I felt, was appropriate.",give.opinion
+"And this is your proper... That's not a... No, I bought that.",closed.question
+"That's from Pinewood Studios, legit mould,",respond.agree
+"massive chafing around the growler, though, it's...",give.opinion
+"I mean, honestly, credit to the real stormtroopers,",give.opinion
+"cos when you run with that, there's chafing. There's chafing.",give.opinion
+"Yeah, yeah, yeah.",respond.agree
+"In America, you would have been shot and killed wearing that outfit!",relax.atmosphere
+"When you wear that, you do feel powerful.",give.opinion
+Really? Yeah.,respond.agree
+"Like, what do you feel like you could do?",open.question
+"Literally, a minute after that,",give.opinion
+I just walked out into the street and just stopped a bus...,give.opinion
+"..and then, also, the hilarious thing is,",give.opinion
+"the bus driver is a similar age, and he's like, ""I'm stopping.",give.opinion
+"""This is not normal.""",give.opinion
+"And then I go, and he opened the door...",give.opinion
+IMPERSONATES BUS DOOR,give.opinion
+Even sounds right!,give.opinion
+"""Have you had any problems with the rebellion?"" He went...",relax.atmosphere
+Move on.,relax.atmosphere
+APPLAUSE AND CHEERING,use.social.convention
+"Science-fiction fans, they're a different breed of fan -",give.opinion
+"and you know this, Jenna, after Doctor Who.",give.opinion
+They always own you.,give.opinion
+"I mean, you will always be a part of that world for them.",give.opinion
+Do you still go to the conventions and the comic cons and things?,closed.question
+"Yeah. Or even, you know,",respond.agree
+"just around London, and someone will be",respond.agree
+sat next to you and you will hear this faint...,give.opinion
+"# Dun-dun-dun, dun-dun-dun... #",give.opinion
+LAUGHTER,use.social.convention
+It's a whole world I didn't know existed before Doctor Who.,give.opinion
+Didn't you have to sign somebody's underwear?,closed.question
+"Oh, yeah, er, no. Well, I was asked to.",respond.deny
+"Oh, you refused?",closed.question
+Er... Yes. They said it's bigger on the inside.,respond.agree
+LAUGHTER,use.social.convention
+Brrrr-dsssssh!,relax.atmosphere
+It is the TARDIS reference. Have you ever seen Doctor Who?,closed.question
+"No, I have not. It's bigger on the inside.",respond.deny
+"OK, got it.",respond.agree
+All right.,use.social.convention
+"I was like, well, that's not fun.",relax.atmosphere
+LAUGHTER,use.social.convention
+"I get it, I get it.",use.social.convention
+"Now, talking of science fiction classics,",give.opinion
+it is a year of anniversaries.,give.opinion
+20 years since the original Men In Black.,give.opinion
+"Oh, wow. Really? I know! 20 years. Wow.",respond.agree
+APPLAUSE AND CHEERING,use.social.convention
+"But in my head, that's a new movie.",give.opinion
+"It's like, that's a new one, yeah.",give.opinion
+"That is great. Like, when people say lines to you,",give.opinion
+it's like... Like people... You shouldn't do that. Like...,give.opinion
+"For the fans, we should, like, help.",give.opinion
+"Like, don't walk up to people and say the line from the movie",give.opinion
+"because it is like, people walk up and go, ""Hey, Will!",give.opinion
+"""I'll make this look good!""",give.opinion
+"That's not how that line goes, and it's just awkward.",give.opinion
+HE FAKES A LAUGH,relax.atmosphere
+"Yeah, man, only 73,000 people said that to me in the last...",give.opinion
+It's just like... It just creates awkward moments.,give.opinion
+We won't do that.,relax.atmosphere
+"Cancel that idea, we're not doing that.",relax.atmosphere
+"I didn't realise, Steven Spielberg, he produced it.",closed.question
+"Yeah, Steven Spielberg produced the Men In Blacks.",respond.agree
+"And so, the two of you, you would go to screenings of this film.",closed.question
+"Well, that was like a really...",deflection
+"That was one of my... I was brand-new, I'm making movies,",respond.agree
+"I'm excited. And so they have what is called test screenings,",give.opinion
+where they will show the movie to people before it comes out.,give.opinion
+"So I'm going in and it's my first test screening for Men In Black,",give.opinion
+"I'm excited, and we're in the back.",give.opinion
+"And, I'm like, ""Hey, come on, we got to get in and get a seat.""",give.opinion
+"Steven said, ""No, no, no, you don't get to go in."" ""What do you...""",give.opinion
+"I want to see the movie, I want to sit right in the centre.",give.opinion
+"And he's like, ""No, no, it's a test screening, the audience can't know you're here.",give.opinion
+"""If they know you are here, it will skew their opinion.",give.opinion
+"""They'll clap different, so they can't know you are here.",give.opinion
+"""After the movie starts, we'll let it get started,",give.opinion
+"""and then we'll go in and sit in the back row.""",give.opinion
+I was like...,relax.atmosphere
+He wants to sit in the back row of a movie.,relax.atmosphere
+Those people back there are pissed right now.,relax.atmosphere
+It's like... But he said...,give.opinion
+"And we sat and I watched Men In Black with Steven Spielberg,",give.opinion
+and he explained the movements of the backs of people's heads.,give.opinion
+"He was like, you can learn everything",give.opinion
+you need to know from the backs of people's heads watching the movie.,give.opinion
+"And we sat, and now I can only sit in the back of the movie theatre.",give.opinion
+"It's like, you get... This is the best,",give.opinion
+"this is going to be awkward, you can shoot the back.",give.opinion
+Do we have to guess the reaction?,closed.question
+"There must be some camera that can see the back of your head, yes.",respond.agree
+"So, there's this one.",give.opinion
+LAUGHTER,use.social.convention
+"Right, and there is the dreaded...",give.opinion
+LAUGHTER,use.social.convention
+And then there's...this one.,give.opinion
+LAUGHTER,use.social.convention
+"Yeah, you hate that one, you hate this one.",give.opinion
+"Now, this is the holy grail. This is the holy grail.",give.opinion
+LAUGHTER,use.social.convention
+Right? Where you have them riveted. And this is the bottom.,give.opinion
+This is the absolute bottom.,give.opinion
+LAUGHTER,use.social.convention
+APPLAUSE That is the one.,use.social.convention
+You don't want that! That's the one where it's all bad.,give.opinion
+That's when it's all bad.,give.opinion
+"Well, listen, it is time for our musical guest. It is.",give.opinion
+He rose to fame as the leader of British pop rock band Keane.,give.opinion
+"Now, he brings us a solo Christmas album.",give.opinion
+"Here performing the single Midnight Mass, please welcome Tom Chaplin.",use.social.convention
+WHOOPING AND CHEERING,use.social.convention
+"# Down every road, we come",x
+"# Through driving snow, we come",x
+# All running on empty,x
+# But still dying to make it home,x
+# In spite of everything,x
+"# To simple truths, we cling",x
+# To follow the guiding star of love in our hearts and homes,x
+"# So come on, all ye faithful friends",x
+# Glory to the bitter end,x
+# We're coming up to midnight,x
+# Sing ah-ah-ah-ah-ah,x
+# Hallelujah,x
+"# Yeah, come on, all ye faithful, believe",x
+# Let's sing it out for Christmas Eve,x
+# Cos it's coming up to midnight,x
+# Sing ah-ah-ah-ah-ah,x
+# Hallelujah,x
+# Hallelujah,x
+"# Step in, shake off the snow",x
+# Safe in the fire glow,x
+# Raise up our voices,x
+# Send them echoing on and on,x
+"# Yeah, come on, all ye faithful friends",x
+# Glory to the bitter end,x
+# We're coming up to midnight,x
+# Sing ah-ah-ah-ah-ah,x
+# Hallelujah,x
+"# Yeah, come on, all ye faithful, believe",x
+# Let's sing it out for Christmas Eve,x
+# Cos it's coming up to midnight,x
+# Sing ah-ah-ah-ah-ah-ah-ah,x
+# Ah-ah-ah-ah-ah-ah-ah,x
+# Ah-ah-ah-ah-ah-ah-ah,x
+# Ah-ah-ah-ah-ah-ah-ah,x
+# Ah-ah-ah-ah-ah-ah-ah,x
+# Ah-ah-ah-ah-ah-ah-ah,x
+# Ah-ah-ah-ah-ah-ah-ah Hallelujah,x
+# Hallelujah,x
+"# Down every road, we come",x
+# Through driving snow. #,x
+WHOOPING AND CHEERING,use.social.convention
+Beautiful!,use.social.convention
+"Tom Chaplin, thank you so much. And his choir.",use.social.convention
+"Come on over, Tom.",use.social.convention
+Beautiful. So Christmassy.,use.social.convention
+Thank you so much. Lovely to see you. Merry Christmas.,use.social.convention
+Come and say hello to everybody.,use.social.convention
+"Jamie, Jenna, Will.",use.social.convention
+All shove up a bit.,use.social.convention
+Nice to meet you. There we go.,use.social.convention
+Very good.,use.social.convention
+That is gorgeous.,use.social.convention
+"Midnight Mass, and that is off the Christmas album.",give.opinion
+"Oh, yes. The Twelve Tales Of Christmas. Mmm.",respond.agree
+"Now, this is unusual, because it's your second solo album,",closed.question
+and you've gone straight to Christmas.,closed.question
+You know...? Yeah. Yeah.,give.opinion
+"So, you obviously love Christmas? I do love Christmas.",closed.question
+"I found it very inspiring to write about, actually.",respond.agree
+"I mean, it's not your conventional Christmas album.",give.opinion
+I ended up writing a lot about death.,give.opinion
+"I can imagine, yeah. Nice and positive! Yeah!",relax.atmosphere
+"People like to hold on till Christmas, don't they?",relax.atmosphere
+"But I think Christmas, it's a time of reflection,",respond.agree
+so it brings up all sorts of feelings for us.,give.opinion
+"Obviously, people we might have lost along the way,",give.opinion
+but also joy and despair and drunkenness and anger,give.opinion
+"and crying on the stairs. Yeah, yeah, I get that.",respond.agree
+Crappy presents we didn't want.,relax.atmosphere
+"Now, talking of Christmas - Tom Chaplin, what was the thing...?",open.question
+"So, one year, you've got a turkey that was too...?",open.question
+How can a turkey be too big?,open.question
+"Well, we only had a few of us round,",respond.agree
+"and we left it to the last minute, so ended up being the idiots",give.opinion
+going into the supermarket on Christmas Eve.,give.opinion
+"And there was one turkey left that was for, like, 18-20 people.",give.opinion
+So we cooked it up and there was loads left.,give.opinion
+"And my wife, bear in mind, was a vegetarian.",give.opinion
+"Strict vegetarian, all the time.",give.opinion
+So she claimed she didn't want to eat it.,give.opinion
+"So we cooked it, it didn't get finished,",give.opinion
+"it got put in the fridge, out in the shed.",give.opinion
+"And I went back there a few days later,",give.opinion
+"and most of it was gone, and I was thinking, ""Where's it gone?""",give.opinion
+And then I discovered my wife...,give.opinion
+Loves a turkey sandwich?,give.opinion
+..had suddenly become a meat eater.,give.opinion
+"Claiming that she, you know,",give.opinion
+she didn't want to murder this animal in vain.,give.opinion
+"But it was just greed, really.",relax.atmosphere
+Has she stuck with the meat?,closed.question
+"It's kind of like going black, you never go back.",relax.atmosphere
+APPLAUSE,use.social.convention
+"Thank you, Tom, for putting us in such a Christmassy mood.",use.social.convention
+"It was really, really lovely, and good luck with the album. Thank you.",use.social.convention
+"Tom Chaplin, everybody.",use.social.convention
+APPLAUSE,use.social.convention
+"OK, that's nearly it.",use.social.convention
+"Before we go, just time for a visit to the big red chair. Hello!",use.social.convention
+"Hi there, gang.",use.social.convention
+Hey!,use.social.convention
+"No, no.",relax.atmosphere
+"Exactly, no.",relax.atmosphere
+Not tonight. Not tonight.,relax.atmosphere
+"Not that attitude, not in here.",relax.atmosphere
+Not in the mood. Not in Graham's house. Not in Graham's house.,relax.atmosphere
+"No, it's not children's television. Yeah, yeah.",relax.atmosphere
+"What was he thinking? OK, let's have another one.",relax.atmosphere
+Hello! Hello!,use.social.convention
+"Hi! What's your name? Marsha. Marsha, lovely.",use.social.convention
+"What do you do, Marsha? Nothing.",closed.question
+OK!,relax.atmosphere
+Everyone wants to sit next to Marsha at dinner.,relax.atmosphere
+"Have you ever done anything, Marsha? I have. You have, OK.",closed.question
+What did you used to do? I have taught exercise.,open.question
+"Oh, yes? And I've done make-up. Yes.",respond.agree
+Raised children. Yes. Cooked. Yes.,respond.agree
+What more do you want?,open.question
+"I mean, that is a full life. That's a full life, yeah. Exactly.",respond.agree
+Exactly.,respond.agree
+"I mean, it still doesn't explain why you do NOTHING.",relax.atmosphere
+"Anyway, off you go, Marsha, with your story.",give.opinion
+"So, many years ago, I'd gone into a very exclusive clothes shop.",give.opinion
+GRAHAM GIGGLES,use.social.convention
+It's not funny! Yet.,give.opinion
+"So, I'd gone into a clothes shop and went to try on some clothes,",give.opinion
+"and there was someone next to me, in the next changing room,",give.opinion
+and I recognised her.,give.opinion
+"So we spent the next half-hour trying on clothes,",give.opinion
+"and we were very honest with each other,",give.opinion
+"and I said to her, ""That's really nice on you.""",give.opinion
+"And she said, ""That's really nice on you.""",give.opinion
+We were totally honest with each other.,give.opinion
+"After about half an hour, she came out of the changing room,",give.opinion
+"and I said to her, ""No, that's really not your colour.",give.opinion
+"""That just doesn't suit you.""",give.opinion
+"She said to me, ""This is what I came in wearing.""",give.opinion
+APPLAUSE,use.social.convention
+That's good one. That is a good one.,give.opinion
+You can walk. You can walk.,respond.agree
+That was an actual good story. Yeah. There was a punch line. Yeah.,respond.agree
+And I didn't see it coming.,give.opinion
+I thought she was going to be a famous person.,respond.agree
+"I thought she was going to say, like, Theresa May or something.",give.opinion
+"Yes. Yeah, in a kitten heel.",respond.agree
+"OK, one more, one more.",give.opinion
+Hello! Hello!,use.social.convention
+"Hi, how are you? I'm fine, thank you. And what's your name?",use.social.convention
+"It's Gemma. Gemma, lovely. And what do you do, Gemma?",open.question
+I'm a full-time mum. How many kids?,respond.agree
+"Three. Three, what ages?",open.question
+"18, 14 and 12.",respond.agree
+That sounds like trouble.,give.opinion
+Yes.,respond.agree
+She's in the teeth of the crocodile right now.,relax.atmosphere
+No wonder you came out for the night.,relax.atmosphere
+"All right, off you go with your story.",give.opinion
+"It was my first-ever driving test, and I was extremely nervous.",give.opinion
+I was taking the test on my own car.,give.opinion
+So I got to the test centre and the examiner came out,give.opinion
+and she checked around the car to check it was safe.,give.opinion
+She got into the vehicle with me and she had a little look around,give.opinion
+to check everything was OK.,give.opinion
+"She noticed that, on the front, there was a little bag",give.opinion
+"with nuts and bolts in,",give.opinion
+which she asked me to remove and put in the back of the car.,give.opinion
+"I picked them up and I swung them,",give.opinion
+"what I thought between the seats,",give.opinion
+and I smashed the poor lady in the face.,give.opinion
+I split her nose and it was pouring with blood.,give.opinion
+"And the poor lady was searching for a tissue this whole time,",give.opinion
+and I ended up reversing into a fence and failing my test!,give.opinion
+"Aw, bless. You can walk.",use.social.convention
+APPLAUSE,use.social.convention
+"Well done, everyone.",use.social.convention
+"If you'd like to join us on the show and have a go in the red chair,",give.opinion
+you can contact us at our website at this very address.,give.opinion
+That is it for tonight.,use.social.convention
+Please say a huge thank you to my guests - Mr Tom Chaplain!,use.social.convention
+APPLAUSE,use.social.convention
+Jamie Oliver! APPLAUSE,use.social.convention
+Jenna Coleman! APPLAUSE,use.social.convention
+And Mr Will Smith! APPLAUSE,use.social.convention
+We'll be back here on New Year's Eve with a very starry,use.social.convention
+"Hogmanay sofa, including Hollywood heart-throb Zac Efron",use.social.convention
+and the great Hugh Jackman.,use.social.convention
+"Have a very happy Christmas! Good night, everyone. Bye!",use.social.convention
+APPLAUSE,use.social.convention

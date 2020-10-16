@@ -1,0 +1,4534 @@
+1
+00:00:04,000 --> 00:00:06,000
+<font color="#ffffff">Good evening, I'm Harrison Ford.</font>
+
+2
+00:00:06,000 --> 00:00:07,000
+<font color="#ffffff">And I'm Ryan Gosling.</font>
+
+3
+00:00:07,000 --> 00:00:09,000
+<font color="#ffffff">BOTH: Welcome to the</font>
+<font color="#ffffff">Graham Norton Show.</font>
+
+4
+00:00:09,000 --> 00:00:12,000
+<font color="#ffffff">CHEERING AND APPLAUSE</font>
+
+5
+00:00:28,000 --> 00:00:33,000
+<font color="#ffffff">Oh, oh, oh, oh!</font>
+
+6
+00:00:33,000 --> 00:00:42,000
+<font color="#ffffff">CHEERING AND APPLAUSE</font>
+
+7
+00:00:42,000 --> 00:00:44,000
+<font color="#ffffff">Oh, hello, what a</font>
+<font color="#ffffff">lovely welcome back!</font>
+
+8
+00:00:44,000 --> 00:00:46,000
+<font color="#ffffff">Thank you very much everybody.</font>
+
+9
+00:00:46,000 --> 00:00:47,000
+<font color="#ffffff">Hello, and welcome!</font>
+
+10
+00:00:47,000 --> 00:00:49,000
+<font color="#ffffff">Did you all have a nice summer?</font>
+
+11
+00:00:49,000 --> 00:00:50,000
+<font color="#ffffff">AUDIENCE: Yes!</font>
+
+12
+00:00:50,000 --> 00:00:52,000
+<font color="#ffffff">I know some people</font>
+<font color="#ffffff">are still on holiday.</font>
+
+13
+00:00:52,000 --> 00:00:55,000
+<font color="#ffffff">They hadn't planned it that</font>
+<font color="#ffffff">way, it's just they had</font>
+
+14
+00:00:55,000 --> 00:00:56,000
+<font color="#ffffff">tickets with Ryanair.</font>
+
+15
+00:00:56,000 --> 00:00:57,000
+<font color="#ffffff">LAUGHTER</font>
+
+16
+00:00:57,000 --> 00:01:03,000
+<font color="#ffffff">18,000 further cancellations</font>
+<font color="#ffffff">announced this week.</font>
+
+17
+00:01:03,000 --> 00:01:05,000
+<font color="#ffffff">I mean, the whole thing</font>
+<font color="#ffffff">could cost Ryanair ?17</font>
+
+18
+00:01:05,000 --> 00:01:06,000
+<font color="#ffffff">million in compensation.</font>
+
+19
+00:01:06,000 --> 00:01:08,000
+<font color="#ffffff">I mean, they're hoping</font>
+<font color="#ffffff">to make that back by</font>
+
+20
+00:01:08,000 --> 00:01:11,000
+<font color="#ffffff">selling two packets of Pringles</font>
+<font color="#ffffff">on their next flight, but, still...</font>
+
+21
+00:01:11,000 --> 00:01:12,000
+<font color="#ffffff">LAUGHTER</font>
+
+22
+00:01:12,000 --> 00:01:15,000
+<font color="#ffffff">The good news, though is that</font>
+<font color="#ffffff">Ryanair customer services have been</font>
+
+23
+00:01:15,000 --> 00:01:16,000
+<font color="#ffffff">very sympathetic to passengers.</font>
+
+24
+00:01:16,000 --> 00:01:20,000
+<font color="#ffffff">You know, advising them to use</font>
+<font color="#ffffff">the exits here, here and here.</font>
+
+25
+00:01:20,000 --> 00:01:23,000
+<font color="#ffffff">LAUGHTER AND APPLAUSE</font>
+
+26
+00:01:25,000 --> 00:01:30,000
+<font color="#ffffff">You'll all be aware</font>
+<font color="#ffffff">of the big news, of course.</font>
+
+27
+00:01:30,000 --> 00:01:32,000
+<font color="#ffffff">Twitter are trialling a plan</font>
+<font color="#ffffff">for a new 280 character limit.</font>
+
+28
+00:01:32,000 --> 00:01:34,000
+<font color="#ffffff">280 characters!</font>
+
+29
+00:01:34,000 --> 00:01:36,000
+<font color="#ffffff">It's more than you get</font>
+<font color="#ffffff">in Game of Thrones.</font>
+
+30
+00:01:36,000 --> 00:01:38,000
+<font color="#ffffff">LAUGHTER</font>
+
+31
+00:01:38,000 --> 00:01:41,000
+<font color="#ffffff">People will now be able to tweet</font>
+<font color="#ffffff">their followers twice as many of</font>
+
+32
+00:01:41,000 --> 00:01:42,000
+<font color="#ffffff">their thoughts...</font>
+
+33
+00:01:42,000 --> 00:01:43,000
+<font color="#ffffff">LAUGHTER</font>
+
+34
+00:01:43,000 --> 00:01:45,000
+<font color="#ffffff">Uh-oh...</font>
+
+35
+00:01:45,000 --> 00:01:49,000
+<font color="#ffffff">Hey, it might keep him busy</font>
+<font color="#ffffff">so he won't have time</font>
+
+36
+00:01:49,000 --> 00:01:51,000
+<font color="#ffffff">to start World War three!</font>
+
+37
+00:01:51,000 --> 00:01:52,000
+<font color="#ffffff">Tensions with North Korea continue.</font>
+
+38
+00:01:52,000 --> 00:01:54,000
+<font color="#ffffff">This week leader Kim Jong-un</font>
+<font color="#ffffff">said Donald Trump was</font>
+
+39
+00:01:54,000 --> 00:01:56,000
+<font color="#ffffff">"Mentally deranged".</font>
+
+40
+00:01:56,000 --> 00:02:00,000
+<font color="#ffffff">Hello, kettle?</font>
+
+41
+00:02:00,000 --> 00:02:01,000
+<font color="#ffffff">LAUGHTER</font>
+
+42
+00:02:01,000 --> 00:02:04,000
+<font color="#ffffff">I mean...</font>
+
+43
+00:02:04,000 --> 00:02:08,000
+<font color="#ffffff">That's like Trump accusing Kim</font>
+<font color="#ffffff">Jong-un of having weird hair!</font>
+
+44
+00:02:08,000 --> 00:02:11,000
+<font color="#ffffff">Let's get some guests on!</font>
+
+45
+00:02:11,000 --> 00:02:13,000
+<font color="#ffffff">Later we'll have music</font>
+<font color="#ffffff">from pop icons Bananarama!</font>
+
+46
+00:02:13,000 --> 00:02:14,000
+<font color="#ffffff">CHEERING</font>
+
+47
+00:02:14,000 --> 00:02:18,000
+<font color="#ffffff">Yes!</font>
+
+48
+00:02:18,000 --> 00:02:20,000
+<font color="#ffffff">They're back, Bananarama,</font>
+<font color="#ffffff">and they'll be performing</font>
+
+49
+00:02:20,000 --> 00:02:22,000
+<font color="#ffffff">Cruel Summer.</font>
+
+50
+00:02:22,000 --> 00:02:25,000
+<font color="#ffffff">But first, this Aussie star went</font>
+<font color="#ffffff">from Neighbours' Ramsay Street</font>
+
+51
+00:02:25,000 --> 00:02:31,000
+<font color="#ffffff">to The Wolf of Wall Street</font>
+<font color="#ffffff">and is now one of the most in-demand</font>
+
+52
+00:02:31,000 --> 00:02:32,000
+<font color="#ffffff">actors in Hollywood -</font>
+<font color="#ffffff">it's Margot Robbie, everybody!</font>
+
+53
+00:02:32,000 --> 00:02:33,000
+<font color="#ffffff">CHEERING</font>
+
+54
+00:02:33,000 --> 00:02:34,000
+<font color="#ffffff">It is Margot Robbie.</font>
+
+55
+00:02:34,000 --> 00:02:36,000
+<font color="#ffffff">Hello!</font>
+
+56
+00:02:36,000 --> 00:02:37,000
+<font color="#ffffff">I was looking at the curtain...</font>
+
+57
+00:02:37,000 --> 00:02:38,000
+<font color="#ffffff">Is she, is she?</font>
+
+58
+00:02:38,000 --> 00:02:39,000
+<font color="#ffffff">She's here, Margot Robbie!</font>
+
+59
+00:02:39,000 --> 00:02:42,000
+<font color="#ffffff">CHEERING AND APPLAUSE</font>
+
+60
+00:02:43,000 --> 00:02:46,000
+<font color="#ffffff">This Oscar winning star</font>
+<font color="#ffffff">and producer has given us hits</font>
+
+61
+00:02:46,000 --> 00:02:49,000
+<font color="#ffffff">like Legally Blonde,</font>
+<font color="#ffffff">Walk the Line and Big Little Lies -</font>
+
+62
+00:02:49,000 --> 00:02:51,000
+<font color="#ffffff">it's a warm welcome back</font>
+<font color="#ffffff">to Reese Witherspoon.</font>
+
+63
+00:02:51,000 --> 00:02:53,000
+<font color="#ffffff">CHEERING AND APPLAUSE</font>
+
+64
+00:02:53,000 --> 00:02:55,000
+<font color="#ffffff">Oh!</font>
+
+65
+00:02:55,000 --> 00:02:59,000
+<font color="#ffffff">Hello!</font>
+
+66
+00:03:00,000 --> 00:03:03,000
+<font color="#ffffff">Reese Witherspoon!</font>
+
+67
+00:03:03,000 --> 00:03:08,000
+<font color="#ffffff">And we've waited 35 years</font>
+<font color="#ffffff">for a sequel to Blade Runner -</font>
+
+68
+00:03:08,000 --> 00:03:10,000
+<font color="#ffffff">at last it's here.</font>
+
+69
+00:03:10,000 --> 00:03:12,000
+<font color="#ffffff">Please welcome the stars</font>
+<font color="#ffffff">of Blade Runner 2049 -</font>
+
+70
+00:03:12,000 --> 00:03:15,000
+<font color="#ffffff">Ryan Gosling and Harrison Ford.</font>
+
+71
+00:03:15,000 --> 00:03:18,000
+<font color="#ffffff">CHEERING AND APPLAUSE</font>
+
+72
+00:03:18,000 --> 00:03:20,000
+<font color="#ffffff">Hello, sir!</font>
+
+73
+00:03:20,000 --> 00:03:25,000
+<font color="#ffffff">Very nice to see you again.</font>
+
+74
+00:03:29,000 --> 00:03:34,000
+<font color="#ffffff">All right, that's all right, please,</font>
+<font color="#ffffff">please, have a seat.</font>
+
+75
+00:03:40,000 --> 00:03:44,000
+<font color="#ffffff">They seem pleased!</font>
+
+76
+00:03:44,000 --> 00:03:46,000
+<font color="#ffffff">They seem pleased</font>
+<font color="#ffffff">with their line-up.</font>
+
+77
+00:03:46,000 --> 00:03:50,000
+<font color="#ffffff">Lovely to see you all.</font>
+
+78
+00:03:50,000 --> 00:03:53,000
+<font color="#ffffff">Reece and Harrison, do you know each</font>
+<font color="#ffffff">other out of show business land?</font>
+
+79
+00:03:53,000 --> 00:03:54,000
+<font color="#ffffff">A little bit.</font>
+
+80
+00:03:54,000 --> 00:03:57,000
+<font color="#ffffff">I've seen her in the</font>
+<font color="#ffffff">parking lot at school!</font>
+
+81
+00:03:57,000 --> 00:03:57,000
+<font color="#ffffff">LAUGHTER</font>
+
+82
+00:03:57,000 --> 00:03:59,000
+<font color="#ffffff">At school!</font>
+
+83
+00:03:59,000 --> 00:04:00,000
+<font color="#ffffff">At school, yeah.</font>
+
+84
+00:04:00,000 --> 00:04:01,000
+<font color="#ffffff">Picking up and dropping off.</font>
+
+85
+00:04:01,000 --> 00:04:03,000
+<font color="#ffffff">So do you do the school</font>
+<font color="#ffffff">run, Harrison?</font>
+
+86
+00:04:03,000 --> 00:04:04,000
+<font color="#ffffff">My son is now of driving age.</font>
+
+87
+00:04:04,000 --> 00:04:05,000
+<font color="#ffffff">Oh.</font>
+
+88
+00:04:05,000 --> 00:04:07,000
+<font color="#ffffff">Yes.</font>
+
+89
+00:04:07,000 --> 00:04:07,000
+<font color="#ffffff">LAUGHTER</font>
+
+90
+00:04:07,000 --> 00:04:09,000
+<font color="#ffffff">My daughter can drive, too.</font>
+
+91
+00:04:09,000 --> 00:04:10,000
+<font color="#ffffff">So she drives her little brother.</font>
+
+92
+00:04:10,000 --> 00:04:12,000
+<font color="#ffffff">It's a different world, isn't it?</font>
+
+93
+00:04:12,000 --> 00:04:13,000
+<font color="#ffffff">Here, no one drives to school.</font>
+
+94
+00:04:13,000 --> 00:04:15,000
+<font color="#ffffff">Really?</font>
+
+95
+00:04:15,000 --> 00:04:17,000
+<font color="#ffffff">Unless they're a bus driver,</font>
+<font color="#ffffff">they don't drive to school.</font>
+
+96
+00:04:17,000 --> 00:04:18,000
+<font color="#ffffff">LAUGHTER</font>
+
+97
+00:04:18,000 --> 00:04:24,000
+<font color="#ffffff">That's a good thing.</font>
+
+98
+00:04:24,000 --> 00:04:26,000
+<font color="#ffffff">Reese Witherspoon, how</font>
+<font color="#ffffff">hot are you right now?</font>
+
+99
+00:04:26,000 --> 00:04:27,000
+<font color="#ffffff">The Emmys, how many...?</font>
+
+100
+00:04:27,000 --> 00:04:28,000
+<font color="#ffffff">Thank you.</font>
+
+101
+00:04:28,000 --> 00:04:29,000
+<font color="#ffffff">We won eight Emmy awards.</font>
+
+102
+00:04:29,000 --> 00:04:31,000
+<font color="#ffffff">APPLAUSE</font>
+
+103
+00:04:31,000 --> 00:04:35,000
+<font color="#ffffff">Yes, a round of applause.</font>
+
+104
+00:04:35,000 --> 00:04:38,000
+<font color="#ffffff">What a brilliant night</font>
+<font color="#ffffff">it must have been.</font>
+
+105
+00:04:38,000 --> 00:04:40,000
+<font color="#ffffff">I was nervous, though,</font>
+<font color="#ffffff">because there were so many people</font>
+
+106
+00:04:40,000 --> 00:04:43,000
+<font color="#ffffff">nominated in our team,</font>
+<font color="#ffffff">and instead of just, you know...</font>
+
+107
+00:04:43,000 --> 00:04:47,000
+<font color="#ffffff">I was just worried every single time</font>
+<font color="#ffffff">that they talked about somebody</font>
+
+108
+00:04:47,000 --> 00:04:49,000
+<font color="#ffffff">that they weren't going to win,</font>
+<font color="#ffffff">I was just nervous.</font>
+
+109
+00:04:49,000 --> 00:04:52,000
+<font color="#ffffff">So by the time we won, I went</font>
+<font color="#ffffff">backstage and I burst into tears.</font>
+
+110
+00:04:52,000 --> 00:04:53,000
+<font color="#ffffff">Ahh.</font>
+
+111
+00:04:53,000 --> 00:04:56,000
+<font color="#ffffff">Yeah, nervous.</font>
+
+112
+00:04:56,000 --> 00:04:59,000
+<font color="#ffffff">Ryan, the last time you were here</font>
+<font color="#ffffff">was to celebrate La La Land.</font>
+
+113
+00:04:59,000 --> 00:05:01,000
+<font color="#ffffff">And of course that went</font>
+<font color="#ffffff">on to win all sorts</font>
+
+114
+00:05:01,000 --> 00:05:03,000
+<font color="#ffffff">of accolades and win things.</font>
+
+115
+00:05:03,000 --> 00:05:04,000
+<font color="#ffffff">APPLAUSE</font>
+
+116
+00:05:04,000 --> 00:05:10,000
+<font color="#ffffff">Yes.</font>
+
+117
+00:05:10,000 --> 00:05:10,000
+<font color="#ffffff">Do</font>
+
+118
+00:05:10,000 --> 00:05:10,000
+<font color="#ffffff">Do you</font>
+
+119
+00:05:10,000 --> 00:05:11,000
+<font color="#ffffff">Do you want</font>
+
+120
+00:05:11,000 --> 00:05:11,000
+<font color="#ffffff">Do you want my</font>
+
+121
+00:05:11,000 --> 00:05:12,000
+<font color="#ffffff">Do you want my drink?</font>
+
+122
+00:05:12,000 --> 00:05:13,000
+<font color="#ffffff">I want to clap, too.</font>
+
+123
+00:05:13,000 --> 00:05:15,000
+<font color="#ffffff">At the end of the Oscars...</font>
+
+124
+00:05:15,000 --> 00:05:16,000
+<font color="#ffffff">I don't know what</font>
+<font color="#ffffff">you're talking about!</font>
+
+125
+00:05:16,000 --> 00:05:19,000
+<font color="#ffffff">Well...</font>
+
+126
+00:05:19,000 --> 00:05:22,000
+<font color="#ffffff">At the end of the Oscars when La La</font>
+<font color="#ffffff">Land didn't win, but had won.</font>
+
+127
+00:05:22,000 --> 00:05:26,000
+<font color="#ffffff">There's a picture of you...</font>
+
+128
+00:05:26,000 --> 00:05:29,000
+<font color="#ffffff">This is right when I think you find</font>
+<font color="#ffffff">out that La La Land hadn't won.</font>
+
+129
+00:05:29,000 --> 00:05:30,000
+<font color="#ffffff">Yeah...</font>
+
+130
+00:05:30,000 --> 00:05:31,000
+<font color="#ffffff">What emotion is this?</font>
+
+131
+00:05:31,000 --> 00:05:38,000
+<font color="#ffffff">LAUGHTER</font>
+
+132
+00:05:38,000 --> 00:05:44,000
+<font color="#ffffff">It was so good!</font>
+
+133
+00:05:44,000 --> 00:05:46,000
+<font color="#ffffff">Did you see what the</font>
+<font color="#ffffff">crowd looked like?</font>
+
+134
+00:05:46,000 --> 00:05:48,000
+<font color="#ffffff">Oh, we've got a picture of that,</font>
+<font color="#ffffff">the crowd were amazing.</font>
+
+135
+00:05:48,000 --> 00:05:51,000
+<font color="#ffffff">Matt Damon looks like he's</font>
+<font color="#ffffff">swallowed his own teeth!</font>
+
+136
+00:05:51,000 --> 00:05:52,000
+<font color="#ffffff">LAUGHTER</font>
+
+137
+00:05:52,000 --> 00:05:53,000
+<font color="#ffffff">With shock, look at him!</font>
+
+138
+00:05:53,000 --> 00:05:55,000
+<font color="#ffffff">I mean, it was like they were</font>
+<font color="#ffffff">watching their childhood</font>
+
+139
+00:05:55,000 --> 00:05:56,000
+<font color="#ffffff">homes catch fire.</font>
+
+140
+00:05:56,000 --> 00:05:58,000
+<font color="#ffffff">LAUGHTER</font>
+
+141
+00:05:58,000 --> 00:06:00,000
+<font color="#ffffff">The Rock has never cared</font>
+<font color="#ffffff">about anything more.</font>
+
+142
+00:06:00,000 --> 00:06:05,000
+<font color="#ffffff">LAUGHTER</font>
+
+143
+00:06:07,000 --> 00:06:10,000
+<font color="#ffffff">Were you there, you guys?</font>
+
+144
+00:06:10,000 --> 00:06:12,000
+<font color="#ffffff">I wasn't, I was shooting</font>
+<font color="#ffffff">in Atlanta at the time.</font>
+
+145
+00:06:12,000 --> 00:06:14,000
+<font color="#ffffff">I was watching on TV, though.</font>
+
+146
+00:06:14,000 --> 00:06:17,000
+<font color="#ffffff">I had a similar</font>
+<font color="#ffffff">expression to that, yeah.</font>
+
+147
+00:06:17,000 --> 00:06:20,000
+<font color="#ffffff">That must have been a bonkers</font>
+<font color="#ffffff">moment, when that all went down?</font>
+
+148
+00:06:20,000 --> 00:06:22,000
+<font color="#ffffff">Well, it was...</font>
+
+149
+00:06:22,000 --> 00:06:24,000
+<font color="#ffffff">You know, interesting.</font>
+
+150
+00:06:24,000 --> 00:06:26,000
+<font color="#ffffff">But it was, you know, unexpected.</font>
+
+151
+00:06:26,000 --> 00:06:30,000
+<font color="#ffffff">But I thought someone had</font>
+<font color="#ffffff">been hurt, you know?</font>
+
+152
+00:06:30,000 --> 00:06:34,000
+<font color="#ffffff">The way everyone was talking amongst</font>
+<font color="#ffffff">themselves, it felt like someone had</font>
+
+153
+00:06:34,000 --> 00:06:41,000
+<font color="#ffffff">a heart attack or worse and it felt</font>
+<font color="#ffffff">like someone was in danger.</font>
+
+154
+00:06:41,000 --> 00:06:44,000
+<font color="#ffffff">And then I found out that they just</font>
+<font color="#ffffff">read the wrong name.</font>
+
+155
+00:06:44,000 --> 00:06:47,000
+<font color="#ffffff">LAUGHTER</font>
+
+156
+00:06:47,000 --> 00:06:52,000
+<font color="#ffffff">Now, here's the thing,</font>
+<font color="#ffffff">I would have thought Harrison Ford,</font>
+
+157
+00:06:52,000 --> 00:06:55,000
+<font color="#ffffff">that you wouldn't like these</font>
+<font color="#ffffff">sorts of award bashes,</font>
+
+158
+00:06:55,000 --> 00:06:57,000
+<font color="#ffffff">that you'd never go,</font>
+<font color="#ffffff">but you do go, don't you?</font>
+
+159
+00:06:57,000 --> 00:07:00,000
+<font color="#ffffff">On the rare occasions that I've got</font>
+<font color="#ffffff">anything to do with it.</font>
+
+160
+00:07:00,000 --> 00:07:01,000
+<font color="#ffffff">Yeah.</font>
+
+161
+00:07:01,000 --> 00:07:02,000
+<font color="#ffffff">Which is usually</font>
+<font color="#ffffff">presenting an award.</font>
+
+162
+00:07:02,000 --> 00:07:03,000
+<font color="#ffffff">LAUGHTER</font>
+
+163
+00:07:03,000 --> 00:07:04,000
+<font color="#ffffff">That's an honour.</font>
+
+164
+00:07:04,000 --> 00:07:05,000
+<font color="#ffffff">Is it?</font>
+
+165
+00:07:05,000 --> 00:07:08,000
+<font color="#ffffff">Then I've won.</font>
+
+166
+00:07:08,000 --> 00:07:10,000
+<font color="#ffffff">LAUGHTER</font>
+
+167
+00:07:10,000 --> 00:07:12,000
+<font color="#ffffff">Because Margot, she is</font>
+<font color="#ffffff">an enormous Harrison Ford fan.</font>
+
+168
+00:07:12,000 --> 00:07:13,000
+<font color="#ffffff">It's true, isn't it?</font>
+
+169
+00:07:13,000 --> 00:07:15,000
+<font color="#ffffff">Yeah, I am.</font>
+
+170
+00:07:15,000 --> 00:07:18,000
+<font color="#ffffff">This is really weird.</font>
+
+171
+00:07:18,000 --> 00:07:21,000
+<font color="#ffffff">That's why we separated you.</font>
+
+172
+00:07:21,000 --> 00:07:23,000
+<font color="#ffffff">It's going to stay that way.</font>
+
+173
+00:07:23,000 --> 00:07:26,000
+<font color="#ffffff">This is your intervention.</font>
+
+174
+00:07:26,000 --> 00:07:28,000
+<font color="#ffffff">LAUGHTER</font>
+
+175
+00:07:28,000 --> 00:07:36,000
+<font color="#ffffff">I mean, to be honest...</font>
+
+176
+00:07:36,000 --> 00:07:37,000
+<font color="#ffffff">Disabuse you of</font>
+<font color="#ffffff">that notion.</font>
+
+177
+00:07:37,000 --> 00:07:39,000
+<font color="#ffffff">And you'll help, won't you?</font>
+
+178
+00:07:39,000 --> 00:07:40,000
+<font color="#ffffff">Don't you worry.</font>
+
+179
+00:07:40,000 --> 00:07:41,000
+<font color="#ffffff">I can count on him!</font>
+
+180
+00:07:41,000 --> 00:07:42,000
+<font color="#ffffff">I have to admit something, Harrison.</font>
+
+181
+00:07:42,000 --> 00:07:45,000
+<font color="#ffffff">Though Indiana Jones is one</font>
+<font color="#ffffff">of the most iconic characters ever,</font>
+
+182
+00:07:45,000 --> 00:07:47,000
+<font color="#ffffff">my favourite movie that you're</font>
+<font color="#ffffff">in is actually Six</font>
+
+183
+00:07:47,000 --> 00:07:52,000
+<font color="#ffffff">Days, Seven Nights.</font>
+
+184
+00:07:52,000 --> 00:07:53,000
+<font color="#ffffff">Oooh...</font>
+
+185
+00:07:53,000 --> 00:07:55,000
+<font color="#ffffff">APPLAUSE A very good movie,</font>
+<font color="#ffffff">if you haven't seen it.</font>
+
+186
+00:07:55,000 --> 00:07:57,000
+<font color="#ffffff">I guess it's still available.</font>
+
+187
+00:07:57,000 --> 00:07:58,000
+<font color="#ffffff">LAUGHTER</font>
+
+188
+00:07:58,000 --> 00:08:05,000
+<font color="#ffffff">I hope so.</font>
+
+189
+00:08:05,000 --> 00:08:08,000
+<font color="#ffffff">I should stay on this side</font>
+<font color="#ffffff">of the couch, shouldn't I?</font>
+
+190
+00:08:08,000 --> 00:08:08,000
+<font color="#ffffff">I'm getting too excited.</font>
+
+191
+00:08:08,000 --> 00:08:11,000
+<font color="#ffffff">I have a bunch of DVDs</font>
+<font color="#ffffff">in the back of my car,</font>
+
+192
+00:08:11,000 --> 00:08:13,000
+<font color="#ffffff">I'll meet you out in the street.</font>
+
+193
+00:08:13,000 --> 00:08:14,000
+<font color="#ffffff">LAUGHTER</font>
+
+194
+00:08:14,000 --> 00:08:17,000
+<font color="#ffffff">SOMEONE BLOWING THEIR NOSE</font>
+
+195
+00:08:17,000 --> 00:08:18,000
+<font color="#ffffff">LAUGHTER</font>
+
+196
+00:08:18,000 --> 00:08:19,000
+<font color="#ffffff">Oh, you saw it.</font>
+
+197
+00:08:19,000 --> 00:08:23,000
+<font color="#ffffff">LAUGHTER AND APPLAUSE</font>
+
+198
+00:08:31,000 --> 00:08:33,000
+<font color="#ffffff">Now let's start tonight</font>
+<font color="#ffffff">with Harrison and Ryan's movie,</font>
+
+199
+00:08:33,000 --> 00:08:36,000
+<font color="#ffffff">it's the much awaited</font>
+<font color="#ffffff">Blade Runner 2049.</font>
+
+200
+00:08:36,000 --> 00:08:39,000
+<font color="#ffffff">It opens on the 5th of October,</font>
+<font color="#ffffff">and I mean the expectation,</font>
+
+201
+00:08:39,000 --> 00:08:42,000
+<font color="#ffffff">the hopes that this film are high.</font>
+
+202
+00:08:42,000 --> 00:08:44,000
+<font color="#ffffff">Ridley Scott is involved,</font>
+<font color="#ffffff">Harrison, you're involved.</font>
+
+203
+00:08:44,000 --> 00:08:46,000
+<font color="#ffffff">But presumably this</font>
+<font color="#ffffff">isn't the first time...</font>
+
+204
+00:08:46,000 --> 00:08:47,000
+<font color="#ffffff">I'm not just involved.</font>
+
+205
+00:08:47,000 --> 00:08:48,000
+<font color="#ffffff">You're in it, you're in it.</font>
+
+206
+00:08:48,000 --> 00:08:50,000
+<font color="#ffffff">You are on the poster!</font>
+
+207
+00:08:50,000 --> 00:08:52,000
+<font color="#ffffff">APPLAUSE</font>
+
+208
+00:08:56,000 --> 00:09:05,000
+<font color="#ffffff">But, OK, my question is this.</font>
+
+209
+00:09:05,000 --> 00:09:07,000
+<font color="#ffffff">There must have been mentions</font>
+<font color="#ffffff">of a sequel between...</font>
+
+210
+00:09:07,000 --> 00:09:09,000
+<font color="#ffffff">It was 1982, wasn't</font>
+<font color="#ffffff">it, when it came out?</font>
+
+211
+00:09:09,000 --> 00:09:12,000
+<font color="#ffffff">So between then and now,</font>
+<font color="#ffffff">so why now, why not before?</font>
+
+212
+00:09:12,000 --> 00:09:15,000
+<font color="#ffffff">I guess because Ryan</font>
+<font color="#ffffff">wasn't available.</font>
+
+213
+00:09:15,000 --> 00:09:16,000
+<font color="#ffffff">LAUGHTER</font>
+
+214
+00:09:16,000 --> 00:09:18,000
+<font color="#ffffff">For many years</font>
+<font color="#ffffff">he was unavailable?</font>
+
+215
+00:09:18,000 --> 00:09:19,000
+<font color="#ffffff">Yes, well not for 30 years.</font>
+
+216
+00:09:19,000 --> 00:09:22,000
+<font color="#ffffff">But they were waiting</font>
+<font color="#ffffff">for me to grow up.</font>
+
+217
+00:09:22,000 --> 00:09:27,000
+<font color="#ffffff">But they decided they'd</font>
+<font color="#ffffff">have to go ahead anyway.</font>
+
+218
+00:09:27,000 --> 00:09:31,000
+<font color="#ffffff">They finally came up with a story.</font>
+
+219
+00:09:31,000 --> 00:09:38,000
+<font color="#ffffff">I read it and I thought it was</font>
+<font color="#ffffff">awesome, I thought it was great.</font>
+
+220
+00:09:38,000 --> 00:09:40,000
+<font color="#ffffff">And as I read it, I read</font>
+<font color="#ffffff">about the character that Ryan...</font>
+
+221
+00:09:40,000 --> 00:09:41,000
+<font color="#ffffff">Ryan?</font>
+
+222
+00:09:41,000 --> 00:09:44,000
+<font color="#ffffff">It's Ryan.</font>
+
+223
+00:09:44,000 --> 00:09:50,000
+<font color="#ffffff">LAUGHTER</font>
+
+224
+00:09:50,000 --> 00:09:53,000
+<font color="#ffffff">That Ryan came to play and I said,</font>
+<font color="#ffffff">with great enthusiasm,</font>
+
+225
+00:09:53,000 --> 00:09:56,000
+<font color="#ffffff">I called up the producers</font>
+<font color="#ffffff">and I said, this is great,</font>
+
+226
+00:09:56,000 --> 00:09:58,000
+<font color="#ffffff">can't wait, blah, blah, blah,</font>
+<font color="#ffffff">and what a great part...</font>
+
+227
+00:09:58,000 --> 00:10:00,000
+<font color="#ffffff">Why don't we see if we can get...</font>
+
+228
+00:10:00,000 --> 00:10:02,000
+<font color="#ffffff">Ryan.</font>
+
+229
+00:10:02,000 --> 00:10:04,000
+<font color="#ffffff">Ryan Gosling.</font>
+
+230
+00:10:04,000 --> 00:10:08,000
+<font color="#ffffff">And they said, oh, I don't...</font>
+
+231
+00:10:08,000 --> 00:10:11,000
+<font color="#ffffff">Did you say Rosling?</font>
+
+232
+00:10:11,000 --> 00:10:12,000
+<font color="#ffffff">Ryan Gosling.</font>
+
+233
+00:10:12,000 --> 00:10:17,000
+<font color="#ffffff">Good, right.</font>
+
+234
+00:10:17,000 --> 00:10:19,000
+<font color="#ffffff">You got that on tape, Ryan Gosling?</font>
+
+235
+00:10:19,000 --> 00:10:21,000
+<font color="#ffffff">And I said, it's a great</font>
+<font color="#ffffff">part for Ryan Gosling.</font>
+
+236
+00:10:21,000 --> 00:10:23,000
+<font color="#ffffff">LAUGHTER AND APPLAUSE</font>
+
+237
+00:10:30,000 --> 00:10:32,000
+<font color="#ffffff">And they said we've been</font>
+<font color="#ffffff">talking to him for months.</font>
+
+238
+00:10:32,000 --> 00:10:35,000
+<font color="#ffffff">Now wait a second, they'd only been</font>
+<font color="#ffffff">speaking to me for weeks.</font>
+
+239
+00:10:35,000 --> 00:10:41,000
+<font color="#ffffff">LAUGHTER</font>
+
+240
+00:10:41,000 --> 00:10:43,000
+<font color="#ffffff">So they probably would have</font>
+<font color="#ffffff">gone ahead without me.</font>
+
+241
+00:10:43,000 --> 00:10:44,000
+<font color="#ffffff">No!</font>
+
+242
+00:10:44,000 --> 00:10:45,000
+<font color="#ffffff">No?</font>
+
+243
+00:10:45,000 --> 00:10:46,000
+<font color="#ffffff">No.</font>
+
+244
+00:10:46,000 --> 00:10:48,000
+<font color="#ffffff">That's what I said, no.</font>
+
+245
+00:10:48,000 --> 00:10:50,000
+<font color="#ffffff">Because the fact is,</font>
+<font color="#ffffff">Ryan, when the movie</font>
+
+246
+00:10:50,000 --> 00:10:51,000
+<font color="#ffffff">came out, you were two?</font>
+
+247
+00:10:51,000 --> 00:10:52,000
+<font color="#ffffff">Yeah, that's right.</font>
+
+248
+00:10:52,000 --> 00:10:53,000
+<font color="#ffffff">Sorry about that!</font>
+
+249
+00:10:53,000 --> 00:10:57,000
+<font color="#ffffff">LAUGHTER</font>
+
+250
+00:10:57,000 --> 00:11:02,000
+<font color="#ffffff">So when did you first</font>
+<font color="#ffffff">become aware of this film?</font>
+
+251
+00:11:02,000 --> 00:11:06,000
+<font color="#ffffff">I was about 12, and Harrison likes</font>
+<font color="#ffffff">to say where was your mother and why</font>
+
+252
+00:11:06,000 --> 00:11:08,000
+<font color="#ffffff">was she letting you watch it at 12?</font>
+
+253
+00:11:08,000 --> 00:11:09,000
+<font color="#ffffff">Well...</font>
+
+254
+00:11:09,000 --> 00:11:11,000
+<font color="#ffffff">That's another story.</font>
+
+255
+00:11:11,000 --> 00:11:17,000
+<font color="#ffffff">LAUGHTER</font>
+
+256
+00:11:17,000 --> 00:11:21,000
+<font color="#ffffff">Let's keep this nice, OK?</font>
+
+257
+00:11:21,000 --> 00:11:23,000
+<font color="#ffffff">I didn't know what I</font>
+<font color="#ffffff">was getting into.</font>
+
+258
+00:11:23,000 --> 00:11:30,000
+<font color="#ffffff">I thought I was just</font>
+<font color="#ffffff">about to watch, you know,</font>
+
+259
+00:11:30,000 --> 00:11:32,000
+<font color="#ffffff">a regular science fiction film,</font>
+<font color="#ffffff">I guess.</font>
+
+260
+00:11:32,000 --> 00:11:34,000
+<font color="#ffffff">Yeah.</font>
+
+261
+00:11:34,000 --> 00:11:36,000
+<font color="#ffffff">But it's a little more than that.</font>
+
+262
+00:11:36,000 --> 00:11:38,000
+<font color="#ffffff">So you are Deckard again,</font>
+<font color="#ffffff">so who are you, Ryan?</font>
+
+263
+00:11:38,000 --> 00:11:39,000
+<font color="#ffffff">I play...</font>
+
+264
+00:11:39,000 --> 00:11:40,000
+<font color="#ffffff">You want to field that one?</font>
+
+265
+00:11:40,000 --> 00:11:43,000
+<font color="#ffffff">Can't tell you anything about it.</font>
+
+266
+00:11:43,000 --> 00:11:44,000
+<font color="#ffffff">LAUGHTER</font>
+
+267
+00:11:44,000 --> 00:11:47,000
+<font color="#ffffff">Shall we watch a clip?</font>
+
+268
+00:11:47,000 --> 00:11:50,000
+<font color="#ffffff">I can tell you anything!</font>
+
+269
+00:11:50,000 --> 00:11:53,000
+<font color="#ffffff">So the questions we were left</font>
+<font color="#ffffff">with at the end of the first</font>
+
+270
+00:11:53,000 --> 00:11:55,000
+<font color="#ffffff">Blade Runner, are they all answered</font>
+<font color="#ffffff">in this one?</font>
+
+271
+00:11:55,000 --> 00:11:56,000
+<font color="#ffffff">No.</font>
+
+272
+00:11:56,000 --> 00:12:02,000
+<font color="#ffffff">OK.</font>
+
+273
+00:12:02,000 --> 00:12:05,000
+<font color="#ffffff">We'll watch a clip, this is,</font>
+<font color="#ffffff">I believe, in the story, Ryan's</font>
+
+274
+00:12:05,000 --> 00:12:06,000
+<font color="#ffffff">character is looking for you.</font>
+
+275
+00:12:06,000 --> 00:12:08,000
+<font color="#ffffff">He finds you but he's not alone.</font>
+
+276
+00:12:08,000 --> 00:12:10,000
+<font color="#ffffff">They know you're here.</font>
+
+277
+00:12:10,000 --> 00:12:14,000
+<font color="#ffffff">I came alone.</font>
+
+278
+00:12:16,000 --> 00:12:20,000
+<font color="#ffffff">DRAMATIC MUSIC</font>
+
+279
+00:12:28,000 --> 00:12:31,000
+<font color="#ffffff">EXPLOSION</font>
+
+280
+00:12:34,000 --> 00:12:44,000
+<font color="#ffffff">CHEERING AND APPLAUSE</font>
+
+281
+00:12:46,000 --> 00:12:51,000
+<font color="#ffffff">Now we saw there some action</font>
+<font color="#ffffff">and things do take preparation,</font>
+
+282
+00:12:51,000 --> 00:12:52,000
+<font color="#ffffff">like fights take preparation.</font>
+
+283
+00:12:52,000 --> 00:12:55,000
+<font color="#ffffff">They take a lot of preparation.</font>
+
+284
+00:12:55,000 --> 00:12:56,000
+<font color="#ffffff">Yes, now Ryan...</font>
+
+285
+00:12:56,000 --> 00:12:57,000
+<font color="#ffffff">Harrison feels...</font>
+
+286
+00:12:57,000 --> 00:13:00,000
+<font color="#ffffff">Here we go.</font>
+
+287
+00:13:00,000 --> 00:13:03,000
+<font color="#ffffff">Harrison feels, Ryan, you were</font>
+<font color="#ffffff">underprepared for one fight.</font>
+
+288
+00:13:03,000 --> 00:13:04,000
+<font color="#ffffff">No...</font>
+
+289
+00:13:04,000 --> 00:13:05,000
+<font color="#ffffff">I know what you're referring to.</font>
+
+290
+00:13:05,000 --> 00:13:06,000
+<font color="#ffffff">Yes.</font>
+
+291
+00:13:06,000 --> 00:13:07,000
+<font color="#ffffff">Just say it.</font>
+
+292
+00:13:07,000 --> 00:13:08,000
+<font color="#ffffff">Use your words.</font>
+
+293
+00:13:08,000 --> 00:13:10,000
+<font color="#ffffff">Stop beating around the bush.</font>
+
+294
+00:13:10,000 --> 00:13:11,000
+<font color="#ffffff">He punched you.</font>
+
+295
+00:13:11,000 --> 00:13:12,000
+<font color="#ffffff">Yeah, that's right.</font>
+
+296
+00:13:12,000 --> 00:13:15,000
+<font color="#ffffff">"Well, he punched you".</font>
+
+297
+00:13:15,000 --> 00:13:20,000
+<font color="#ffffff">LAUGHTER</font>
+
+298
+00:13:20,000 --> 00:13:21,000
+<font color="#ffffff">Yeah, of</font>
+<font color="#ffffff">course I punched him.</font>
+
+299
+00:13:21,000 --> 00:13:23,000
+<font color="#ffffff">But you weren't meant to punch him.</font>
+
+300
+00:13:23,000 --> 00:13:25,000
+<font color="#ffffff">Right?</font>
+
+301
+00:13:25,000 --> 00:13:28,000
+<font color="#ffffff">Oh, I misread the script.</font>
+
+302
+00:13:28,000 --> 00:13:30,000
+<font color="#ffffff">LAUGHTER</font>
+
+303
+00:13:30,000 --> 00:13:32,000
+<font color="#ffffff">He stepped on my foot,</font>
+<font color="#ffffff">for Christ's sake.</font>
+
+304
+00:13:32,000 --> 00:13:40,000
+<font color="#ffffff">We were doing a scene in lights,</font>
+<font color="#ffffff">in flashing strobe lights.</font>
+
+305
+00:13:40,000 --> 00:13:46,000
+<font color="#ffffff">He was walking backward,</font>
+<font color="#ffffff">I was walking forward,</font>
+
+306
+00:13:46,000 --> 00:13:48,000
+<font color="#ffffff">the camera was hand-held.</font>
+
+307
+00:13:48,000 --> 00:13:51,000
+<font color="#ffffff">You know, you have to make the punch</font>
+<font color="#ffffff">look like it's intended.</font>
+
+308
+00:13:51,000 --> 00:13:52,000
+<font color="#ffffff">Yes.</font>
+
+309
+00:13:52,000 --> 00:13:54,000
+<font color="#ffffff">But I hit him.</font>
+
+310
+00:13:54,000 --> 00:13:55,000
+<font color="#ffffff">LAUGHTER</font>
+
+311
+00:13:55,000 --> 00:13:57,000
+<font color="#ffffff">One out of</font>
+<font color="#ffffff">100 times I hit him.</font>
+
+312
+00:13:57,000 --> 00:14:00,000
+<font color="#ffffff">Right, right, I should be lucky</font>
+<font color="#ffffff">I didn't get hit more.</font>
+
+313
+00:14:00,000 --> 00:14:02,000
+<font color="#ffffff">Is the theme of this.</font>
+
+314
+00:14:02,000 --> 00:14:04,000
+<font color="#ffffff">I apologised...</font>
+
+315
+00:14:04,000 --> 00:14:07,000
+<font color="#ffffff">It's not just a punch,</font>
+<font color="#ffffff">though, I think it's</font>
+
+316
+00:14:07,000 --> 00:14:09,000
+<font color="#ffffff">like a Harrison Ford punch</font>
+<font color="#ffffff">is a different animal altogether.</font>
+
+317
+00:14:09,000 --> 00:14:11,000
+<font color="#ffffff">It was not, it was not a good punch.</font>
+
+318
+00:14:11,000 --> 00:14:13,000
+<font color="#ffffff">I just...</font>
+
+319
+00:14:13,000 --> 00:14:14,000
+<font color="#ffffff">I will be the judge of that.</font>
+
+320
+00:14:14,000 --> 00:14:15,000
+<font color="#ffffff">LAUGHTER</font>
+
+321
+00:14:15,000 --> 00:14:18,000
+<font color="#ffffff">I tried to apologise.</font>
+
+322
+00:14:18,000 --> 00:14:25,000
+<font color="#ffffff">I went to his dressing room,</font>
+<font color="#ffffff">his palatial motorhome.</font>
+
+323
+00:14:25,000 --> 00:14:27,000
+<font color="#ffffff">With a bottle of Scotch in hand.</font>
+
+324
+00:14:27,000 --> 00:14:32,000
+<font color="#ffffff">Lovely gesture.</font>
+
+325
+00:14:32,000 --> 00:14:35,000
+<font color="#ffffff">Cracked the top, poured him a drink,</font>
+<font color="#ffffff">gave him a drink...</font>
+
+326
+00:14:35,000 --> 00:14:37,000
+<font color="#ffffff">He said, I'm kind of busy now.</font>
+
+327
+00:14:37,000 --> 00:14:40,000
+<font color="#ffffff">LAUGHTER</font>
+
+328
+00:14:40,000 --> 00:14:44,000
+<font color="#ffffff">And I went back to my trailer,</font>
+<font color="#ffffff">with the rest of the bottle.</font>
+
+329
+00:14:44,000 --> 00:14:45,000
+<font color="#ffffff">LAUGHTER</font>
+
+330
+00:14:45,000 --> 00:14:47,000
+<font color="#ffffff">I had the intention</font>
+<font color="#ffffff">to leave it but...nah!</font>
+
+331
+00:14:47,000 --> 00:14:49,000
+<font color="#ffffff">My hand hurts.</font>
+
+332
+00:14:49,000 --> 00:14:53,000
+<font color="#ffffff">I needed some medicine.</font>
+
+333
+00:14:53,000 --> 00:14:55,000
+<font color="#ffffff">Actually we do have,</font>
+<font color="#ffffff">there's a still, I think.</font>
+
+334
+00:14:55,000 --> 00:14:59,000
+<font color="#ffffff">This is the actual moment</font>
+<font color="#ffffff">when you punched Ryan for real.</font>
+
+335
+00:14:59,000 --> 00:15:05,000
+<font color="#ffffff">LAUGHTER</font>
+
+336
+00:15:05,000 --> 00:15:10,000
+<font color="#ffffff">Look at his face!</font>
+
+337
+00:15:10,000 --> 00:15:16,000
+<font color="#ffffff">LAUGHTER</font>
+
+338
+00:15:16,000 --> 00:15:19,000
+<font color="#ffffff">Is that the face</font>
+<font color="#ffffff">of regret or is that just,</font>
+
+339
+00:15:19,000 --> 00:15:22,000
+<font color="#ffffff">I really hurt my hand?</font>
+
+340
+00:15:22,000 --> 00:15:25,000
+<font color="#ffffff">No, that's the face of oh, shit,</font>
+<font color="#ffffff">I'm in deep doo-doo.</font>
+
+341
+00:15:25,000 --> 00:15:33,000
+<font color="#ffffff">LAUGHTER Harrison Ford,</font>
+<font color="#ffffff">here you are, Blade Runner.</font>
+
+342
+00:15:33,000 --> 00:15:35,000
+<font color="#ffffff">But Indiana Jones, is it</font>
+<font color="#ffffff">five, is coming next?</font>
+
+343
+00:15:35,000 --> 00:15:36,000
+<font color="#ffffff">Yeah.</font>
+
+344
+00:15:36,000 --> 00:15:39,000
+<font color="#ffffff">APPLAUSE</font>
+
+345
+00:15:40,000 --> 00:15:41,000
+<font color="#ffffff">Five, yes.</font>
+
+346
+00:15:41,000 --> 00:15:43,000
+<font color="#ffffff">Yeah.</font>
+
+347
+00:15:43,000 --> 00:15:44,000
+<font color="#ffffff">That's all, that's</font>
+<font color="#ffffff">definitely happening now?</font>
+
+348
+00:15:44,000 --> 00:15:45,000
+<font color="#ffffff">Yes, it is.</font>
+
+349
+00:15:45,000 --> 00:15:47,000
+<font color="#ffffff">OK, just asking.</font>
+
+350
+00:15:47,000 --> 00:15:52,000
+<font color="#ffffff">We have a release date.</font>
+
+351
+00:15:52,000 --> 00:15:58,000
+<font color="#ffffff">We're working on a script.</font>
+
+352
+00:15:58,000 --> 00:15:59,000
+<font color="#ffffff">It will be great.</font>
+
+353
+00:15:59,000 --> 00:16:01,000
+<font color="#ffffff">I'm looking forward</font>
+<font color="#ffffff">to working with Steven again,</font>
+
+354
+00:16:01,000 --> 00:16:02,000
+<font color="#ffffff">revisiting the character.</font>
+
+355
+00:16:02,000 --> 00:16:05,000
+<font color="#ffffff">I think that can be</font>
+<font color="#ffffff">a good thing to do.</font>
+
+356
+00:16:05,000 --> 00:16:10,000
+<font color="#ffffff">I've heard you talk about how</font>
+<font color="#ffffff">Indiana Jones is one of those things</font>
+
+357
+00:16:10,000 --> 00:16:13,000
+<font color="#ffffff">where you might as well do it</font>
+<font color="#ffffff">because you cannot escape it,</font>
+
+358
+00:16:13,000 --> 00:16:15,000
+<font color="#ffffff">especially the music</font>
+<font color="#ffffff">is a constant thing in your life.</font>
+
+359
+00:16:15,000 --> 00:16:20,000
+<font color="#ffffff">CHUCKLES</font>
+
+360
+00:16:20,000 --> 00:16:23,000
+<font color="#ffffff">I did a tribute</font>
+<font color="#ffffff">for John Williams and they played</font>
+
+361
+00:16:23,000 --> 00:16:25,000
+<font color="#ffffff">me on with the theme</font>
+<font color="#ffffff">from Indiana Jones, and I said,</font>
+
+362
+00:16:25,000 --> 00:16:29,000
+<font color="#ffffff">I cannot escape this god dam music.</font>
+
+363
+00:16:29,000 --> 00:16:35,000
+<font color="#ffffff">I said, and this is true,</font>
+<font color="#ffffff">I hear it in the elevator,</font>
+
+364
+00:16:35,000 --> 00:16:38,000
+<font color="#ffffff">the last time I was lightly sedated</font>
+<font color="#ffffff">and rolled in for a colonoscopy they</font>
+
+365
+00:16:38,000 --> 00:16:39,000
+<font color="#ffffff">were playing it on the speakers.</font>
+
+366
+00:16:39,000 --> 00:16:45,000
+<font color="#ffffff">LAUGHTER</font>
+
+367
+00:16:45,000 --> 00:16:49,000
+<font color="#ffffff">INDIANA JONES THEME TUNE PALYS</font>
+
+368
+00:16:49,000 --> 00:16:51,000
+<font color="#ffffff">-- PLAYS</font>
+
+369
+00:16:51,000 --> 00:16:52,000
+<font color="#ffffff">CHEERING AND APPLAUSE</font>
+
+370
+00:16:52,000 --> 00:16:53,000
+<font color="#ffffff">A special treat.</font>
+
+371
+00:16:53,000 --> 00:16:55,000
+<font color="#ffffff">Right, Reese Witherspoon's</font>
+<font color="#ffffff">new movie is Home Again,</font>
+
+372
+00:16:55,000 --> 00:16:56,000
+<font color="#ffffff">which opens tonight.</font>
+
+373
+00:16:56,000 --> 00:16:59,000
+<font color="#ffffff">Now, you look at the poster</font>
+<font color="#ffffff">and you think, OK, it's a rom-com,</font>
+
+374
+00:16:59,000 --> 00:17:02,000
+<font color="#ffffff">and it is a rom-com,</font>
+<font color="#ffffff">but in fact it is different,</font>
+
+375
+00:17:02,000 --> 00:17:04,000
+<font color="#ffffff">it's kind of got an edgy twist.</font>
+
+376
+00:17:04,000 --> 00:17:07,000
+<font color="#ffffff">Yeah, my character's recently</font>
+<font color="#ffffff">separated, she's a single mum,</font>
+
+377
+00:17:07,000 --> 00:17:09,000
+<font color="#ffffff">she is contemplating getting</font>
+<font color="#ffffff">divorced, so she moves back</font>
+
+378
+00:17:09,000 --> 00:17:11,000
+<font color="#ffffff">home to her family home,</font>
+<font color="#ffffff">and she starts a relationship</font>
+
+379
+00:17:11,000 --> 00:17:13,000
+<font color="#ffffff">with a 26-year-old guy.</font>
+
+380
+00:17:13,000 --> 00:17:21,000
+<font color="#ffffff">CHEERING AND APPLAUSE</font>
+
+381
+00:17:21,000 --> 00:17:24,000
+<font color="#ffffff">Because guys</font>
+<font color="#ffffff">do all the time, so why not girls?</font>
+
+382
+00:17:24,000 --> 00:17:26,000
+<font color="#ffffff">Yeah, yes.</font>
+
+383
+00:17:26,000 --> 00:17:32,000
+<font color="#ffffff">CHEERING AND APPLAUSE</font>
+
+384
+00:17:32,000 --> 00:17:39,000
+<font color="#ffffff">And, you know, you're the star</font>
+<font color="#ffffff">of the film, so do you get,</font>
+
+385
+00:17:39,000 --> 00:17:49,000
+<font color="#ffffff">are you in on the casting</font>
+<font color="#ffffff">of your younger love interest?</font>
+
+386
+00:17:49,000 --> 00:17:52,000
+<font color="#ffffff">Yeah, I thought it was important</font>
+<font color="#ffffff">that I really got to know</font>
+
+387
+00:17:52,000 --> 00:17:54,000
+<font color="#ffffff">the actors really well</font>
+<font color="#ffffff">during the casting process.</font>
+
+388
+00:17:54,000 --> 00:17:56,000
+<font color="#ffffff">We saw a lot of guys.</font>
+
+389
+00:17:56,000 --> 00:17:59,000
+<font color="#ffffff">A lot of them came back</font>
+<font color="#ffffff">for multiple readings, but yeah,</font>
+
+390
+00:17:59,000 --> 00:18:01,000
+<font color="#ffffff">I think we got a really great cast.</font>
+
+391
+00:18:01,000 --> 00:18:02,000
+<font color="#ffffff">We've got a clip.</font>
+
+392
+00:18:02,000 --> 00:18:03,000
+<font color="#ffffff">This is you with your young admirer.</font>
+
+393
+00:18:03,000 --> 00:18:05,000
+<font color="#ffffff">This is the morning after.</font>
+
+394
+00:18:05,000 --> 00:18:06,000
+<font color="#ffffff">Hey, Alice.</font>
+
+395
+00:18:06,000 --> 00:18:07,000
+<font color="#ffffff">Yeah?</font>
+
+396
+00:18:07,000 --> 00:18:08,000
+<font color="#ffffff">Do you have a minute?</font>
+
+397
+00:18:08,000 --> 00:18:09,000
+<font color="#ffffff">Sure.</font>
+
+398
+00:18:09,000 --> 00:18:11,000
+<font color="#ffffff">Could we may be just exchange</font>
+<font color="#ffffff">phone numbers or...?</font>
+
+399
+00:18:11,000 --> 00:18:12,000
+<font color="#ffffff">Harry, I'm really...</font>
+
+400
+00:18:12,000 --> 00:18:15,000
+<font color="#ffffff">Listen, I think you woke up</font>
+<font color="#ffffff">to a completely different person</font>
+
+401
+00:18:15,000 --> 00:18:17,000
+<font color="#ffffff">than you met last night,</font>
+<font color="#ffffff">and I appreciate the gesture,</font>
+
+402
+00:18:17,000 --> 00:18:20,000
+<font color="#ffffff">I really do, but how</font>
+<font color="#ffffff">old are you, like 30?</font>
+
+403
+00:18:20,000 --> 00:18:21,000
+<font color="#ffffff">29?</font>
+
+404
+00:18:21,000 --> 00:18:22,000
+<font color="#ffffff">28?</font>
+
+405
+00:18:22,000 --> 00:18:23,000
+<font color="#ffffff">Something like that.</font>
+
+406
+00:18:23,000 --> 00:18:24,000
+<font color="#ffffff">Oh, Jesus.</font>
+
+407
+00:18:24,000 --> 00:18:26,000
+<font color="#ffffff">OK girls, come on,</font>
+<font color="#ffffff">time to get in the car.</font>
+
+408
+00:18:26,000 --> 00:18:27,000
+<font color="#ffffff">OK, OK!</font>
+
+409
+00:18:27,000 --> 00:18:28,000
+<font color="#ffffff">She's so intense.</font>
+
+410
+00:18:28,000 --> 00:18:29,000
+<font color="#ffffff">No, I'm not.</font>
+
+411
+00:18:29,000 --> 00:18:32,000
+<font color="#ffffff">Good luck with everything,</font>
+<font color="#ffffff">maybe I'll see you around.</font>
+
+412
+00:18:32,000 --> 00:18:33,000
+<font color="#ffffff">I hope so.</font>
+
+413
+00:18:33,000 --> 00:18:35,000
+<font color="#ffffff">Come on, ladies.</font>
+
+414
+00:18:35,000 --> 00:18:38,000
+<font color="#ffffff">Did you guys have a sleepover?</font>
+
+415
+00:18:38,000 --> 00:18:39,000
+<font color="#ffffff">Are you friends with his mum?</font>
+
+416
+00:18:39,000 --> 00:18:41,000
+<font color="#ffffff">With his mum, how old do I look?</font>
+
+417
+00:18:41,000 --> 00:18:45,000
+<font color="#ffffff">CHEERING AND APPLAUSE</font>
+
+418
+00:18:52,000 --> 00:18:54,000
+<font color="#ffffff">There's three generations,</font>
+<font color="#ffffff">there's your mum in it,</font>
+
+419
+00:18:54,000 --> 00:18:58,000
+<font color="#ffffff">played by the great Candice Bergen.</font>
+
+420
+00:18:58,000 --> 00:18:59,000
+<font color="#ffffff">Yeah, Candy, yeah, Candice Bergen.</font>
+
+421
+00:18:59,000 --> 00:19:00,000
+<font color="#ffffff">There she is.</font>
+
+422
+00:19:00,000 --> 00:19:02,000
+<font color="#ffffff">In her "Free Melania" sweatshirt.</font>
+
+423
+00:19:02,000 --> 00:19:08,000
+<font color="#ffffff">LAUGHTER</font>
+
+424
+00:19:08,000 --> 00:19:09,000
+<font color="#ffffff">She's rad,</font>
+<font color="#ffffff">she's really cool.</font>
+
+425
+00:19:09,000 --> 00:19:11,000
+<font color="#ffffff">I've worked with her twice now,</font>
+<font color="#ffffff">she's got great stories.</font>
+
+426
+00:19:11,000 --> 00:19:14,000
+<font color="#ffffff">She actually went on a date</font>
+<font color="#ffffff">with Donald Trump.</font>
+
+427
+00:19:14,000 --> 00:19:15,000
+<font color="#ffffff">When she was in college.</font>
+
+428
+00:19:15,000 --> 00:19:16,000
+<font color="#ffffff">It's kind of crazy.</font>
+
+429
+00:19:16,000 --> 00:19:23,000
+<font color="#ffffff">It's really cool.</font>
+
+430
+00:19:23,000 --> 00:19:25,000
+<font color="#ffffff">It's a great story!</font>
+
+431
+00:19:25,000 --> 00:19:28,000
+<font color="#ffffff">I mean, it looks like one of those</font>
+<font color="#ffffff">films that is just a pleasure</font>
+
+432
+00:19:28,000 --> 00:19:29,000
+<font color="#ffffff">to make because of her...</font>
+
+433
+00:19:29,000 --> 00:19:32,000
+<font color="#ffffff">Yeah, it was really fun,</font>
+<font color="#ffffff">we shot it about ten</font>
+
+434
+00:19:32,000 --> 00:19:33,000
+<font color="#ffffff">minutes from my house.</font>
+
+435
+00:19:33,000 --> 00:19:34,000
+<font color="#ffffff">Ten minutes from school.</font>
+
+436
+00:19:34,000 --> 00:19:37,000
+<font color="#ffffff">So I could do the drop off</font>
+<font color="#ffffff">and just go to work.</font>
+
+437
+00:19:37,000 --> 00:19:38,000
+<font color="#ffffff">But it was a great time.</font>
+
+438
+00:19:38,000 --> 00:19:41,000
+<font color="#ffffff">We made it really fast</font>
+<font color="#ffffff">and for not a lot of money.</font>
+
+439
+00:19:41,000 --> 00:19:42,000
+<font color="#ffffff">It was very much...</font>
+
+440
+00:19:42,000 --> 00:19:45,000
+<font color="#ffffff">It was a great story to actually dig</font>
+<font color="#ffffff">into, character wise.</font>
+
+441
+00:19:45,000 --> 00:19:48,000
+<font color="#ffffff">And your real mom, has</font>
+<font color="#ffffff">she seen this film?</font>
+
+442
+00:19:48,000 --> 00:19:51,000
+<font color="#ffffff">Because I know she likes</font>
+<font color="#ffffff">to review your work.</font>
+
+443
+00:19:51,000 --> 00:19:54,000
+<font color="#ffffff">Yes, she has seen this film, yeah.</font>
+
+444
+00:19:54,000 --> 00:19:56,000
+<font color="#ffffff">Good reviews?</font>
+
+445
+00:19:56,000 --> 00:20:01,000
+<font color="#ffffff">She likes it, yeah, she thought</font>
+<font color="#ffffff">it was like a feel-good movie.</font>
+
+446
+00:20:01,000 --> 00:20:04,000
+<font color="#ffffff">She writes these funny text messages</font>
+<font color="#ffffff">after she sees movies and they're</font>
+
+447
+00:20:04,000 --> 00:20:07,000
+<font color="#ffffff">really short and they will be like,</font>
+<font color="#ffffff">like the movie, three boys, hot.</font>
+
+448
+00:20:07,000 --> 00:20:08,000
+<font color="#ffffff">Love, Mom.</font>
+
+449
+00:20:08,000 --> 00:20:09,000
+<font color="#ffffff">She liked Big Little Lies.</font>
+
+450
+00:20:09,000 --> 00:20:11,000
+<font color="#ffffff">You Instagrammed some texts.</font>
+
+451
+00:20:11,000 --> 00:20:13,000
+<font color="#ffffff">Oh, yeah.</font>
+
+452
+00:20:13,000 --> 00:20:16,000
+<font color="#ffffff">I asked if she had seen Big Little</font>
+<font color="#ffffff">Lies when it first premiered.</font>
+
+453
+00:20:16,000 --> 00:20:17,000
+<font color="#ffffff">This was her text.</font>
+
+454
+00:20:24,000 --> 00:20:28,000
+<font color="#ffffff">LAUGHTER.</font>
+
+455
+00:20:28,000 --> 00:20:31,000
+<font color="#ffffff">She has reviewed some of the work</font>
+<font color="#ffffff">of some of your couch mates.</font>
+
+456
+00:20:31,000 --> 00:20:34,000
+<font color="#ffffff">Yeah.</font>
+
+457
+00:20:34,000 --> 00:20:35,000
+<font color="#ffffff">She liked La La Land a lot.</font>
+
+458
+00:20:35,000 --> 00:20:38,000
+<font color="#ffffff">Like, a lot!</font>
+
+459
+00:20:38,000 --> 00:20:46,000
+<font color="#ffffff">She was like, La La Land, singing,</font>
+<font color="#ffffff">dancing, sexy, Ryan.</font>
+
+460
+00:20:46,000 --> 00:20:49,000
+<font color="#ffffff">Does she put Mom at</font>
+<font color="#ffffff">the end of all of them?</font>
+
+461
+00:20:49,000 --> 00:20:50,000
+<font color="#ffffff">She puts heart, Mom.</font>
+
+462
+00:20:50,000 --> 00:20:51,000
+<font color="#ffffff">The reviews are in...</font>
+
+463
+00:20:51,000 --> 00:20:53,000
+<font color="#ffffff">Heart, Mom.</font>
+
+464
+00:20:53,000 --> 00:20:54,000
+<font color="#ffffff">Is she a fan of Harrison Ford?</font>
+
+465
+00:20:54,000 --> 00:20:55,000
+<font color="#ffffff">Of course!</font>
+
+466
+00:20:55,000 --> 00:20:57,000
+<font color="#ffffff">OK.</font>
+
+467
+00:20:57,000 --> 00:20:59,000
+<font color="#ffffff">I mean, he might be one</font>
+<font color="#ffffff">of her favourites of all time.</font>
+
+468
+00:20:59,000 --> 00:21:01,000
+<font color="#ffffff">Oh, I see...</font>
+
+469
+00:21:01,000 --> 00:21:06,000
+<font color="#ffffff">"Might be".</font>
+
+470
+00:21:06,000 --> 00:21:09,000
+<font color="#ffffff">We talked about the success</font>
+<font color="#ffffff">of Big Little Lies at the Emmys.</font>
+
+471
+00:21:09,000 --> 00:21:12,000
+<font color="#ffffff">It is extraordinary,</font>
+<font color="#ffffff">the producing side of your life</font>
+
+472
+00:21:12,000 --> 00:21:17,000
+<font color="#ffffff">is a really major part of your life</font>
+<font color="#ffffff">and I didn't realise that went</font>
+
+473
+00:21:17,000 --> 00:21:19,000
+<font color="#ffffff">all the way back to Legally Blonde?</font>
+
+474
+00:21:19,000 --> 00:21:23,000
+<font color="#ffffff">CHEERING AND APPLAUSE.</font>
+
+475
+00:21:23,000 --> 00:21:25,000
+<font color="#ffffff">Legally Blonde 2, then?</font>
+
+476
+00:21:25,000 --> 00:21:26,000
+<font color="#ffffff">Yes, I produced Legally Blonde 2.</font>
+
+477
+00:21:26,000 --> 00:21:28,000
+<font color="#ffffff">It's not as good as Legally Blonde!</font>
+
+478
+00:21:28,000 --> 00:21:30,000
+<font color="#ffffff">It took me a few</font>
+<font color="#ffffff">years to get better!</font>
+
+479
+00:21:30,000 --> 00:21:34,000
+<font color="#ffffff">It took me a few years to figure out</font>
+<font color="#ffffff">the producing thing.</font>
+
+480
+00:21:34,000 --> 00:21:36,000
+<font color="#ffffff">But it did take a while...</font>
+
+481
+00:21:36,000 --> 00:21:38,000
+<font color="#ffffff">You would think, Reese Witherspoon,</font>
+<font color="#ffffff">people would take you seriously,</font>
+
+482
+00:21:38,000 --> 00:21:40,000
+<font color="#ffffff">but how many studios passed</font>
+<font color="#ffffff">when you were pitching</font>
+
+483
+00:21:40,000 --> 00:21:42,000
+<font color="#ffffff">Gone Girl as a movie?</font>
+
+484
+00:21:42,000 --> 00:21:44,000
+<font color="#ffffff">Oh, yeah.</font>
+
+485
+00:21:44,000 --> 00:21:47,000
+<font color="#ffffff">I got the book of Gone Girl</font>
+<font color="#ffffff">and I took it to every studio</font>
+
+486
+00:21:47,000 --> 00:21:50,000
+<font color="#ffffff">and every studio passed,</font>
+<font color="#ffffff">except for one.</font>
+
+487
+00:21:50,000 --> 00:21:52,000
+<font color="#ffffff">They were quite happy,</font>
+<font color="#ffffff">I would imagine?</font>
+
+488
+00:21:52,000 --> 00:21:54,000
+<font color="#ffffff">They actually lost it after that.</font>
+
+489
+00:21:54,000 --> 00:21:56,000
+<font color="#ffffff">It's kind of a crazy story.</font>
+
+490
+00:21:56,000 --> 00:21:59,000
+<font color="#ffffff">Then the book hit number one</font>
+<font color="#ffffff">and another studio came in that</font>
+
+491
+00:21:59,000 --> 00:22:03,000
+<font color="#ffffff">turned it down and bought it</font>
+<font color="#ffffff">for five times the amount of money.</font>
+
+492
+00:22:03,000 --> 00:22:04,000
+<font color="#ffffff">That's good, isn't it?</font>
+
+493
+00:22:04,000 --> 00:22:07,000
+<font color="#ffffff">I guess it's good.</font>
+
+494
+00:22:07,000 --> 00:22:13,000
+<font color="#ffffff">I kind of figured out through that</font>
+<font color="#ffffff">process that nobody reads books!</font>
+
+495
+00:22:13,000 --> 00:22:15,000
+<font color="#ffffff">When you try to explain it to them.</font>
+
+496
+00:22:15,000 --> 00:22:19,000
+<font color="#ffffff">That's good for movie-making!</font>
+
+497
+00:22:19,000 --> 00:22:20,000
+<font color="#ffffff">That'll keep us in business!</font>
+
+498
+00:22:20,000 --> 00:22:23,000
+<font color="#ffffff">Margot, already you are tapping</font>
+<font color="#ffffff">into that side of the business,</font>
+
+499
+00:22:23,000 --> 00:22:26,000
+<font color="#ffffff">you are doing a lot</font>
+<font color="#ffffff">of producing already?</font>
+
+500
+00:22:26,000 --> 00:22:29,000
+<font color="#ffffff">Yeah, our first feature will be</font>
+<font color="#ffffff">out later this year.</font>
+
+501
+00:22:29,000 --> 00:22:31,000
+<font color="#ffffff">Is that your first one?</font>
+
+502
+00:22:31,000 --> 00:22:33,000
+<font color="#ffffff">Yeah, that's the first</font>
+<font color="#ffffff">one to be released.</font>
+
+503
+00:22:33,000 --> 00:22:37,000
+<font color="#ffffff">We actually have filmed two and we</font>
+<font color="#ffffff">are in preproduction for our third.</font>
+
+504
+00:22:37,000 --> 00:22:38,000
+<font color="#ffffff">Wow!</font>
+
+505
+00:22:38,000 --> 00:22:39,000
+<font color="#ffffff">Are you in them all?</font>
+
+506
+00:22:39,000 --> 00:22:40,000
+<font color="#ffffff">The first three, yes.</font>
+
+507
+00:22:40,000 --> 00:22:41,000
+<font color="#ffffff">But after this, no.</font>
+
+508
+00:22:41,000 --> 00:22:43,000
+<font color="#ffffff">OK.</font>
+
+509
+00:22:43,000 --> 00:22:45,000
+<font color="#ffffff">It seems like the business</font>
+<font color="#ffffff">part of your brain was</font>
+
+510
+00:22:45,000 --> 00:22:48,000
+<font color="#ffffff">developed quite young?</font>
+
+511
+00:22:48,000 --> 00:22:50,000
+<font color="#ffffff">You were a little girl</font>
+<font color="#ffffff">and you were quite business savvy.</font>
+
+512
+00:22:50,000 --> 00:22:52,000
+<font color="#ffffff">I was quite savvy as a kid.</font>
+
+513
+00:22:52,000 --> 00:22:55,000
+<font color="#ffffff">I would steal my brother's toys</font>
+<font color="#ffffff">and sell them on the side of</font>
+
+514
+00:22:55,000 --> 00:22:57,000
+<font color="#ffffff">the road for an extortionate price.</font>
+
+515
+00:22:57,000 --> 00:23:00,000
+<font color="#ffffff">I would make up magic tricks</font>
+<font color="#ffffff">and make my family pay to come</font>
+
+516
+00:23:00,000 --> 00:23:04,000
+<font color="#ffffff">and see my magic show and then pay</font>
+<font color="#ffffff">extra if they wanted to know</font>
+
+517
+00:23:04,000 --> 00:23:07,000
+<font color="#ffffff">how I did the trick!</font>
+
+518
+00:23:07,000 --> 00:23:11,000
+<font color="#ffffff">That's a really good idea!</font>
+
+519
+00:23:11,000 --> 00:23:14,000
+<font color="#ffffff">You would pay extra to find out</font>
+<font color="#ffffff">how they do the tricks.</font>
+
+520
+00:23:14,000 --> 00:23:16,000
+<font color="#ffffff">Once you get them in, they already</font>
+<font color="#ffffff">paid their dollar, sure!</font>
+
+521
+00:23:16,000 --> 00:23:19,000
+<font color="#ffffff">Because, Ryan, you were also a young</font>
+<font color="#ffffff">entrepreneur, weren't you?</font>
+
+522
+00:23:19,000 --> 00:23:22,000
+<font color="#ffffff">I wouldn't say that.</font>
+
+523
+00:23:22,000 --> 00:23:29,000
+<font color="#ffffff">Didn't your father, he wanted</font>
+<font color="#ffffff">you to sell, was it cellophane?</font>
+
+524
+00:23:29,000 --> 00:23:36,000
+<font color="#ffffff">My parents came upon a truck</font>
+<font color="#ffffff">of cellophane somehow.</font>
+
+525
+00:23:36,000 --> 00:23:39,000
+<font color="#ffffff">I was asked not to ask</font>
+<font color="#ffffff">too many questions.</font>
+
+526
+00:23:39,000 --> 00:23:42,000
+<font color="#ffffff">I just suddenly...</font>
+
+527
+00:23:42,000 --> 00:23:46,000
+<font color="#ffffff">There was a basement</font>
+<font color="#ffffff">filled with cellophane.</font>
+
+528
+00:23:46,000 --> 00:23:48,000
+<font color="#ffffff">And they encouraged me</font>
+<font color="#ffffff">to go to school and see</font>
+
+529
+00:23:48,000 --> 00:23:53,000
+<font color="#ffffff">if I could sell it to my teachers.</font>
+
+530
+00:23:53,000 --> 00:23:56,000
+<font color="#ffffff">I put a few in my backpack and tried</font>
+<font color="#ffffff">to hock them at recess.</font>
+
+531
+00:23:56,000 --> 00:23:59,000
+<font color="#ffffff">Convince kids that they might be</font>
+<font color="#ffffff">good stocking stuffers</font>
+
+532
+00:23:59,000 --> 00:24:02,000
+<font color="#ffffff">for their parents.</font>
+
+533
+00:24:02,000 --> 00:24:10,000
+<font color="#ffffff">What are the uses of cellophane?</font>
+
+534
+00:24:10,000 --> 00:24:12,000
+<font color="#ffffff">How did it go?</font>
+
+535
+00:24:12,000 --> 00:24:14,000
+<font color="#ffffff">What do you mean, what are</font>
+<font color="#ffffff">the uses of cellophane?</font>
+
+536
+00:24:14,000 --> 00:24:18,000
+<font color="#ffffff">I know the name but I don't</font>
+<font color="#ffffff">know what to do with it.</font>
+
+537
+00:24:18,000 --> 00:24:20,000
+<font color="#ffffff">You wrap sandwiches in it,</font>
+<font color="#ffffff">it keeps things fresh.</font>
+
+538
+00:24:20,000 --> 00:24:24,000
+<font color="#ffffff">Oh, OK.</font>
+
+539
+00:24:24,000 --> 00:24:24,000
+<font color="#ffffff">I'm sorry.</font>
+
+540
+00:24:24,000 --> 00:24:28,000
+<font color="#ffffff">No, it was an important question,</font>
+<font color="#ffffff">you needed to ask it.</font>
+
+541
+00:24:28,000 --> 00:24:31,000
+<font color="#ffffff">I'm not doing a good job</font>
+<font color="#ffffff">of selling it, obviously.</font>
+
+542
+00:24:31,000 --> 00:24:32,000
+<font color="#ffffff">Did you sell it?</font>
+
+543
+00:24:32,000 --> 00:24:35,000
+<font color="#ffffff">There's still some left,</font>
+<font color="#ffffff">if you're interested?</font>
+
+544
+00:24:35,000 --> 00:24:40,000
+<font color="#ffffff">Knowing that it keeps</font>
+<font color="#ffffff">things fresh, I want some.</font>
+
+545
+00:24:40,000 --> 00:24:44,000
+<font color="#ffffff">The dream would be someone</font>
+<font color="#ffffff">would just say, I'll take all of it!</font>
+
+546
+00:24:44,000 --> 00:24:48,000
+<font color="#ffffff">Never happened.</font>
+
+547
+00:24:48,000 --> 00:24:51,000
+<font color="#ffffff">That's a weird story.</font>
+
+548
+00:24:51,000 --> 00:24:57,000
+<font color="#ffffff">It is a bit weird, now you tell it.</font>
+
+549
+00:24:57,000 --> 00:24:59,000
+<font color="#ffffff">It seemed like a good</font>
+<font color="#ffffff">idea at the time.</font>
+
+550
+00:24:59,000 --> 00:25:03,000
+<font color="#ffffff">Harrison, famously you worked</font>
+<font color="#ffffff">as a carpenter in your early life.</font>
+
+551
+00:25:03,000 --> 00:25:08,000
+<font color="#ffffff">But you studied woodwork with your</font>
+<font color="#ffffff">father, but he wasn't that good.</font>
+
+552
+00:25:08,000 --> 00:25:15,000
+<font color="#ffffff">My dad was in advertising</font>
+<font color="#ffffff">and he liked to make things</font>
+
+553
+00:25:15,000 --> 00:25:21,000
+<font color="#ffffff">and we were down in the basement</font>
+<font color="#ffffff">working on building a table</font>
+
+554
+00:25:21,000 --> 00:25:26,000
+<font color="#ffffff">and he cut off his finger.</font>
+
+555
+00:25:26,000 --> 00:25:28,000
+<font color="#ffffff">Why are you laughing?</font>
+
+556
+00:25:28,000 --> 00:25:32,000
+<font color="#ffffff">He's laughing!</font>
+
+557
+00:25:32,000 --> 00:25:35,000
+<font color="#ffffff">It's quite funny when</font>
+<font color="#ffffff">it's told like that.</font>
+
+558
+00:25:35,000 --> 00:25:37,000
+<font color="#ffffff">It wasn't funny.</font>
+
+559
+00:25:37,000 --> 00:25:40,000
+<font color="#ffffff">At the time.</font>
+
+560
+00:25:40,000 --> 00:25:46,000
+<font color="#ffffff">I was 16 years old.</font>
+
+561
+00:25:46,000 --> 00:25:52,000
+<font color="#ffffff">I had not much experience with this</font>
+<font color="#ffffff">but I wrapped my dad's hand up</font>
+
+562
+00:25:52,000 --> 00:25:59,000
+<font color="#ffffff">and I got him upstairs and I called</font>
+<font color="#ffffff">the police and then I ran downstairs</font>
+
+563
+00:25:59,000 --> 00:26:03,000
+<font color="#ffffff">and I picked up the finger and I put</font>
+<font color="#ffffff">it in a Kleenex and this was a long</font>
+
+564
+00:26:03,000 --> 00:26:06,000
+<font color="#ffffff">time ago so when I got</font>
+<font color="#ffffff">to the emergency ward I said...</font>
+
+565
+00:26:06,000 --> 00:26:10,000
+<font color="#ffffff">Here's my dad's...</font>
+
+566
+00:26:10,000 --> 00:26:13,000
+<font color="#ffffff">And he went...</font>
+
+567
+00:26:13,000 --> 00:26:19,000
+<font color="#ffffff">And threw it in the bin,</font>
+<font color="#ffffff">in the trash bin.</font>
+
+568
+00:26:19,000 --> 00:26:22,000
+<font color="#ffffff">Because it was a while ago</font>
+<font color="#ffffff">and they didn't really think</font>
+
+569
+00:26:22,000 --> 00:26:25,000
+<font color="#ffffff">about trying to attach fingers.</font>
+
+570
+00:26:25,000 --> 00:26:27,000
+<font color="#ffffff">If only you had some cellophane.</font>
+
+571
+00:26:27,000 --> 00:26:30,000
+<font color="#ffffff">Yeah!</font>
+
+572
+00:26:30,000 --> 00:26:37,000
+<font color="#ffffff">Thank you.</font>
+
+573
+00:26:37,000 --> 00:26:38,000
+<font color="#ffffff">Who knew?</font>
+
+574
+00:26:38,000 --> 00:26:39,000
+<font color="#ffffff">Yeah.</font>
+
+575
+00:26:39,000 --> 00:26:41,000
+<font color="#ffffff">Did he just have no finger?</font>
+
+576
+00:26:41,000 --> 00:26:42,000
+<font color="#ffffff">He had no finger here.</font>
+
+577
+00:26:42,000 --> 00:26:44,000
+<font color="#ffffff">He cut off about this</font>
+<font color="#ffffff">much of this finger.</font>
+
+578
+00:26:44,000 --> 00:26:46,000
+<font color="#ffffff">Why are you pointing that at me?</font>
+
+579
+00:26:46,000 --> 00:26:48,000
+<font color="#ffffff">I'm not pointing it at you.</font>
+
+580
+00:26:48,000 --> 00:26:53,000
+<font color="#ffffff">He got about halfway</font>
+<font color="#ffffff">through this finger as well.</font>
+
+581
+00:26:53,000 --> 00:26:57,000
+<font color="#ffffff">But they were able to save that.</font>
+
+582
+00:26:57,000 --> 00:27:00,000
+<font color="#ffffff">But my father, he used</font>
+<font color="#ffffff">to admonish me sometimes</font>
+
+583
+00:27:00,000 --> 00:27:04,000
+<font color="#ffffff">and he would point at me.</font>
+
+584
+00:27:04,000 --> 00:27:09,000
+<font color="#ffffff">But he would be pointing at me</font>
+<font color="#ffffff">but his finger was going like that.</font>
+
+585
+00:27:09,000 --> 00:27:13,000
+<font color="#ffffff">So I would always look...</font>
+
+586
+00:27:13,000 --> 00:27:16,000
+<font color="#ffffff">It really made him mad.</font>
+
+587
+00:27:16,000 --> 00:27:23,000
+<font color="#ffffff">APPLAUSE.</font>
+
+588
+00:27:23,000 --> 00:27:25,000
+<font color="#ffffff">Reece, very quickly,</font>
+<font color="#ffffff">to bring you back to Legally Blonde,</font>
+
+589
+00:27:25,000 --> 00:27:28,000
+<font color="#ffffff">there was a thing last year,</font>
+<font color="#ffffff">when it hit the headlines...</font>
+
+590
+00:27:28,000 --> 00:27:32,000
+<font color="#ffffff">President Trump, he made</font>
+<font color="#ffffff">the commencement speech.</font>
+
+591
+00:27:32,000 --> 00:27:34,000
+<font color="#ffffff">Oh, yeah.</font>
+
+592
+00:27:34,000 --> 00:27:37,000
+<font color="#ffffff">And then it turned out it bore quite</font>
+<font color="#ffffff">a strong resemblance to Elle's</font>
+
+593
+00:27:37,000 --> 00:27:38,000
+<font color="#ffffff">speech in Legally Blonde.</font>
+
+594
+00:27:38,000 --> 00:27:40,000
+<font color="#ffffff">Yeah.</font>
+
+595
+00:27:40,000 --> 00:27:44,000
+<font color="#ffffff">It did!</font>
+
+596
+00:27:44,000 --> 00:27:47,000
+<font color="#ffffff">Was it Jimmy Fallon</font>
+<font color="#ffffff">who found this out?</font>
+
+597
+00:27:47,000 --> 00:27:48,000
+<font color="#ffffff">It was all over the internet.</font>
+
+598
+00:27:48,000 --> 00:27:50,000
+<font color="#ffffff">Maybe it was on Jimmy's show.</font>
+
+599
+00:27:50,000 --> 00:27:56,000
+<font color="#ffffff">If you haven't seen it,</font>
+<font color="#ffffff">it's sort of unbelievable.</font>
+
+600
+00:27:56,000 --> 00:27:57,000
+<font color="#ffffff">Show them the thing?</font>
+
+601
+00:27:57,000 --> 00:27:59,000
+<font color="#ffffff">As we take our next</font>
+<font color="#ffffff">steps into the world.</font>
+
+602
+00:27:59,000 --> 00:28:01,000
+<font color="#ffffff">We must go forth into the world.</font>
+
+603
+00:28:01,000 --> 00:28:02,000
+<font color="#ffffff">It is with passion.</font>
+
+604
+00:28:02,000 --> 00:28:03,000
+<font color="#ffffff">Passion.</font>
+
+605
+00:28:03,000 --> 00:28:04,000
+<font color="#ffffff">Courage of conviction.</font>
+
+606
+00:28:04,000 --> 00:28:05,000
+<font color="#ffffff">Courage in your convictions.</font>
+
+607
+00:28:05,000 --> 00:28:06,000
+<font color="#ffffff">And strong sense of self.</font>
+
+608
+00:28:06,000 --> 00:28:07,000
+<font color="#ffffff">Be true to yourself.</font>
+
+609
+00:28:07,000 --> 00:28:08,000
+<font color="#ffffff">We did it.</font>
+
+610
+00:28:08,000 --> 00:28:09,000
+<font color="#ffffff">I did it.</font>
+
+611
+00:28:09,000 --> 00:28:19,000
+<font color="#ffffff">APPLAUSE.</font>
+
+612
+00:28:19,000 --> 00:28:21,000
+<font color="#ffffff">Had you not seen that?</font>
+
+613
+00:28:21,000 --> 00:28:23,000
+<font color="#ffffff">No!</font>
+
+614
+00:28:23,000 --> 00:28:26,000
+<font color="#ffffff">I have never seen that and I always</font>
+<font color="#ffffff">fall down YouTube rabbit holes</font>
+
+615
+00:28:26,000 --> 00:28:27,000
+<font color="#ffffff">and I missed that completely!</font>
+
+616
+00:28:27,000 --> 00:28:30,000
+<font color="#ffffff">He is better when he</font>
+<font color="#ffffff">sticks to the script.</font>
+
+617
+00:28:30,000 --> 00:28:34,000
+<font color="#ffffff">APPLAUSE.</font>
+
+618
+00:28:34,000 --> 00:28:35,000
+<font color="#ffffff">Do you know how that happened?</font>
+
+619
+00:28:35,000 --> 00:28:37,000
+<font color="#ffffff">Is he just a fan of the film?</font>
+
+620
+00:28:37,000 --> 00:28:40,000
+<font color="#ffffff">I'm sure he's just a big fan.</font>
+
+621
+00:28:40,000 --> 00:28:42,000
+<font color="#ffffff">Very bizarre.</font>
+
+622
+00:28:42,000 --> 00:28:45,000
+<font color="#ffffff">Let's move on to Margot Robbie's</font>
+<font color="#ffffff">movie, it's a very British movie,</font>
+
+623
+00:28:45,000 --> 00:28:46,000
+<font color="#ffffff">it's called Goodbye Christopher</font>
+<font color="#ffffff">Robin.</font>
+
+624
+00:28:46,000 --> 00:28:48,000
+<font color="#ffffff">It opens tonight.</font>
+
+625
+00:28:48,000 --> 00:28:51,000
+<font color="#ffffff">And it's the real story and a much</font>
+<font color="#ffffff">darker story than you think it's</font>
+
+626
+00:28:51,000 --> 00:28:55,000
+<font color="#ffffff">going to be of AA Milne,</font>
+<font color="#ffffff">the man who created</font>
+
+627
+00:28:55,000 --> 00:28:58,000
+<font color="#ffffff">the Winnie the Pooh stories.</font>
+
+628
+00:28:58,000 --> 00:29:02,000
+<font color="#ffffff">Yeah, Winnie the Pooh was always</font>
+<font color="#ffffff">prevalent throughout my childhood</font>
+
+629
+00:29:02,000 --> 00:29:05,000
+<font color="#ffffff">but I had never wondered its origins</font>
+<font color="#ffffff">or why or when it was written.</font>
+
+630
+00:29:05,000 --> 00:29:08,000
+<font color="#ffffff">It was written right</font>
+<font color="#ffffff">between World War I and World War II</font>
+
+631
+00:29:08,000 --> 00:29:11,000
+<font color="#ffffff">and AA Milne, the author,</font>
+<font color="#ffffff">very famous author, actually</font>
+
+632
+00:29:11,000 --> 00:29:15,000
+<font color="#ffffff">fought in World War I.</font>
+
+633
+00:29:15,000 --> 00:29:20,000
+<font color="#ffffff">And part of the reason</font>
+<font color="#ffffff">it was so successful is because it</font>
+
+634
+00:29:20,000 --> 00:29:25,000
+<font color="#ffffff">came at a time when the country</font>
+<font color="#ffffff">was very damaged and the world</font>
+
+635
+00:29:25,000 --> 00:29:28,000
+<font color="#ffffff">was damaged and people kind</font>
+<font color="#ffffff">of felt they were robbed</font>
+
+636
+00:29:28,000 --> 00:29:31,000
+<font color="#ffffff">of their innocence, probably.</font>
+
+637
+00:29:31,000 --> 00:29:33,000
+<font color="#ffffff">And the books became this safe place</font>
+<font color="#ffffff">for people and became</font>
+
+638
+00:29:33,000 --> 00:29:34,000
+<font color="#ffffff">this global phenomenon.</font>
+
+639
+00:29:34,000 --> 00:29:37,000
+<font color="#ffffff">And Domhnall Gleeson plays AA Milne</font>
+<font color="#ffffff">and you play Daphne,</font>
+
+640
+00:29:37,000 --> 00:29:39,000
+<font color="#ffffff">his wife and the mother</font>
+<font color="#ffffff">of Christopher Robin.</font>
+
+641
+00:29:39,000 --> 00:29:40,000
+<font color="#ffffff">Yeah.</font>
+
+642
+00:29:40,000 --> 00:29:41,000
+<font color="#ffffff">She's a piece of work.</font>
+
+643
+00:29:41,000 --> 00:29:43,000
+<font color="#ffffff">She is complicated.</font>
+
+644
+00:29:43,000 --> 00:29:45,000
+<font color="#ffffff">Yes.</font>
+
+645
+00:29:45,000 --> 00:29:49,000
+<font color="#ffffff">She is not immediately likeable</font>
+<font color="#ffffff">and maybe she is not even that</font>
+
+646
+00:29:49,000 --> 00:29:53,000
+<font color="#ffffff">likeable by the end...</font>
+
+647
+00:29:53,000 --> 00:29:57,000
+<font color="#ffffff">I really love her.</font>
+
+648
+00:29:57,000 --> 00:29:59,000
+<font color="#ffffff">She had her own trauma,</font>
+<font color="#ffffff">he was dealing with PTSD,</font>
+
+649
+00:29:59,000 --> 00:30:02,000
+<font color="#ffffff">although it was not really coined</font>
+<font color="#ffffff">that term back then.</font>
+
+650
+00:30:02,000 --> 00:30:03,000
+<font color="#ffffff">They didn't really</font>
+<font color="#ffffff">speak about it then.</font>
+
+651
+00:30:03,000 --> 00:30:05,000
+<font color="#ffffff">And she had postnatal</font>
+<font color="#ffffff">depression and they didn't</font>
+
+652
+00:30:05,000 --> 00:30:06,000
+<font color="#ffffff">really talk about that.</font>
+
+653
+00:30:06,000 --> 00:30:10,000
+<font color="#ffffff">There was a lot of stiff upper lip,</font>
+<font color="#ffffff">not talking about your feelings.</font>
+
+654
+00:30:10,000 --> 00:30:13,000
+<font color="#ffffff">But they had this child</font>
+<font color="#ffffff">and he was brilliant and Will,</font>
+
+655
+00:30:13,000 --> 00:30:16,000
+<font color="#ffffff">who plays him, is the most gorgeous</font>
+<font color="#ffffff">kid you have ever seen -</font>
+
+656
+00:30:16,000 --> 00:30:17,000
+<font color="#ffffff">a brilliant actor.</font>
+
+657
+00:30:17,000 --> 00:30:21,000
+<font color="#ffffff">He makes everyone cry when they see</font>
+<font color="#ffffff">it, including myself,</font>
+
+658
+00:30:21,000 --> 00:30:24,000
+<font color="#ffffff">and I know what's going to happen</font>
+<font color="#ffffff">in the film but I still cry.</font>
+
+659
+00:30:24,000 --> 00:30:27,000
+<font color="#ffffff">And they love him but they kind</font>
+<font color="#ffffff">of end up ruining his childhood</font>
+
+660
+00:30:27,000 --> 00:30:29,000
+<font color="#ffffff">by him becoming so famous.</font>
+
+661
+00:30:29,000 --> 00:30:31,000
+<font color="#ffffff">Because that was the thing</font>
+<font color="#ffffff">I didn't understand.</font>
+
+662
+00:30:31,000 --> 00:30:33,000
+<font color="#ffffff">Christopher Robin became</font>
+<font color="#ffffff">a sort of Shirley Temple,</font>
+
+663
+00:30:33,000 --> 00:30:35,000
+<font color="#ffffff">Macauley Culkin figure.</font>
+
+664
+00:30:35,000 --> 00:30:38,000
+<font color="#ffffff">That's what they said, he was</font>
+<font color="#ffffff">the Macauley Culkin of his time.</font>
+
+665
+00:30:38,000 --> 00:30:40,000
+<font color="#ffffff">Yeah.</font>
+
+666
+00:30:40,000 --> 00:30:42,000
+<font color="#ffffff">There was no real distinction</font>
+<font color="#ffffff">between him in real life</font>
+
+667
+00:30:42,000 --> 00:30:44,000
+<font color="#ffffff">and him on the books.</font>
+
+668
+00:30:44,000 --> 00:30:46,000
+<font color="#ffffff">His name is Christopher Robin,</font>
+<font color="#ffffff">he was drawn, he was</font>
+
+669
+00:30:46,000 --> 00:30:47,000
+<font color="#ffffff">photographed everywhere.</font>
+
+670
+00:30:47,000 --> 00:30:50,000
+<font color="#ffffff">It was pretty traumatic for him.</font>
+
+671
+00:30:50,000 --> 00:30:53,000
+<font color="#ffffff">So there are some of</font>
+<font color="#ffffff">those sad parts to it.</font>
+
+672
+00:30:53,000 --> 00:30:55,000
+<font color="#ffffff">But there's also a lot of nice,</font>
+<font color="#ffffff">happy moments, too.</font>
+
+673
+00:30:55,000 --> 00:30:57,000
+<font color="#ffffff">This is one of the nice,</font>
+<font color="#ffffff">happy moments.</font>
+
+674
+00:30:57,000 --> 00:30:59,000
+<font color="#ffffff">This is you entertaining</font>
+<font color="#ffffff">young Christopher Robin</font>
+
+675
+00:30:59,000 --> 00:31:02,000
+<font color="#ffffff">with the original bear.</font>
+
+676
+00:31:02,000 --> 00:31:04,000
+<font color="#ffffff">Well, I say, this is</font>
+<font color="#ffffff">an unexpected pleasure.</font>
+
+677
+00:31:04,000 --> 00:31:07,000
+<font color="#ffffff">Have you come to see my woods?</font>
+
+678
+00:31:07,000 --> 00:31:08,000
+<font color="#ffffff">Are they really your woods?</font>
+
+679
+00:31:08,000 --> 00:31:10,000
+<font color="#ffffff">Oh, yes.</font>
+
+680
+00:31:10,000 --> 00:31:12,000
+<font color="#ffffff">As far as the eye can see.</font>
+
+681
+00:31:12,000 --> 00:31:14,000
+<font color="#ffffff">Well, a bear does feel more</font>
+<font color="#ffffff">at home in the woods</font>
+
+682
+00:31:14,000 --> 00:31:15,000
+<font color="#ffffff">amongst the wild animals.</font>
+
+683
+00:31:15,000 --> 00:31:17,000
+<font color="#ffffff">Are there really wild animals?</font>
+
+684
+00:31:17,000 --> 00:31:19,000
+<font color="#ffffff">I can't continue this</font>
+<font color="#ffffff">conversation until we have been</font>
+
+685
+00:31:19,000 --> 00:31:20,000
+<font color="#ffffff">properly introduced.</font>
+
+686
+00:31:20,000 --> 00:31:22,000
+<font color="#ffffff">I'm Billy Moon.</font>
+
+687
+00:31:22,000 --> 00:31:23,000
+<font color="#ffffff">And you're teddy bear.</font>
+
+688
+00:31:23,000 --> 00:31:25,000
+<font color="#ffffff">Edward Bear, if you don't mind.</font>
+
+689
+00:31:25,000 --> 00:31:26,000
+<font color="#ffffff">I don't like that name.</font>
+
+690
+00:31:26,000 --> 00:31:28,000
+<font color="#ffffff">Mummy will have to</font>
+<font color="#ffffff">think of a new one.</font>
+
+691
+00:31:28,000 --> 00:31:31,000
+<font color="#ffffff">You do know it's me</font>
+<font color="#ffffff">talking and not a bear?</font>
+
+692
+00:31:31,000 --> 00:31:32,000
+<font color="#ffffff">I was just playing.</font>
+
+693
+00:31:32,000 --> 00:31:35,000
+<font color="#ffffff">Yes, I was just joining in.</font>
+
+694
+00:31:35,000 --> 00:31:38,000
+<font color="#ffffff">APPLAUSE.</font>
+
+695
+00:31:38,000 --> 00:31:40,000
+<font color="#ffffff">He's so sweet.</font>
+
+696
+00:31:40,000 --> 00:31:43,000
+<font color="#ffffff">And a very good English accent.</font>
+
+697
+00:31:43,000 --> 00:31:44,000
+<font color="#ffffff">Great!</font>
+
+698
+00:31:44,000 --> 00:31:45,000
+<font color="#ffffff">Thank you.</font>
+
+699
+00:31:45,000 --> 00:31:46,000
+<font color="#ffffff">A very specific English accent?</font>
+
+700
+00:31:46,000 --> 00:31:50,000
+<font color="#ffffff">Yes, it's like a 1930s one.</font>
+
+701
+00:31:50,000 --> 00:31:52,000
+<font color="#ffffff">And an aristocratic Englishwoman,</font>
+<font color="#ffffff">it's very specific, not just</font>
+
+702
+00:31:52,000 --> 00:31:54,000
+<font color="#ffffff">a traditional RP accent.</font>
+
+703
+00:31:54,000 --> 00:31:57,000
+<font color="#ffffff">I hear you had a mental trick</font>
+<font color="#ffffff">for getting yourself into it?</font>
+
+704
+00:31:57,000 --> 00:32:01,000
+<font color="#ffffff">Yeah, when I'm doing accents I need</font>
+<font color="#ffffff">a phrase to get into it.</font>
+
+705
+00:32:01,000 --> 00:32:04,000
+<font color="#ffffff">When I did Wolf of Wall Street,</font>
+<font color="#ffffff">I had a phrase and when</font>
+
+706
+00:32:04,000 --> 00:32:05,000
+<font color="#ffffff">I did this one I...</font>
+
+707
+00:32:05,000 --> 00:32:08,000
+<font color="#ffffff">So in Wolf of Wall Street</font>
+<font color="#ffffff">I would be like...</font>
+
+708
+00:32:08,000 --> 00:32:11,000
+<font color="#ffffff">NEW YORK ACCENT: I'm not talking</font>
+<font color="#ffffff">to you, I'm talking to her.</font>
+
+709
+00:32:11,000 --> 00:32:12,000
+<font color="#ffffff">OK, I'm ready to do it.</font>
+
+710
+00:32:12,000 --> 00:32:13,000
+<font color="#ffffff">On this one, it was...</font>
+
+711
+00:32:13,000 --> 00:32:16,000
+<font color="#ffffff">POSH ACCENT: I'm so happy, no,</font>
+<font color="#ffffff">I simply couldn't do that.</font>
+
+712
+00:32:16,000 --> 00:32:19,000
+<font color="#ffffff">It's not a line in the script</font>
+<font color="#ffffff">or anything and it doesn't</font>
+
+713
+00:32:19,000 --> 00:32:20,000
+<font color="#ffffff">make sense as a line.</font>
+
+714
+00:32:20,000 --> 00:32:21,000
+<font color="#ffffff">It was like, I don't know...</font>
+
+715
+00:32:21,000 --> 00:32:24,000
+<font color="#ffffff">The thing I would say,</font>
+<font color="#ffffff">and it helped me.</font>
+
+716
+00:32:24,000 --> 00:32:26,000
+<font color="#ffffff">You are kind of an honorary</font>
+<font color="#ffffff">Brit because you have</font>
+
+717
+00:32:26,000 --> 00:32:27,000
+<font color="#ffffff">spent a lot of time here.</font>
+
+718
+00:32:27,000 --> 00:32:29,000
+<font color="#ffffff">How long did you live here for?</font>
+
+719
+00:32:29,000 --> 00:32:30,000
+<font color="#ffffff">I just begrudgingly moved...</font>
+
+720
+00:32:30,000 --> 00:32:32,000
+<font color="#ffffff">We have a production office in LA.</font>
+
+721
+00:32:32,000 --> 00:32:34,000
+<font color="#ffffff">But I was living here</font>
+<font color="#ffffff">for the last three years.</font>
+
+722
+00:32:34,000 --> 00:32:35,000
+<font color="#ffffff">OK.</font>
+
+723
+00:32:35,000 --> 00:32:37,000
+<font color="#ffffff">And I don't know why</font>
+<font color="#ffffff">I would be surprised</font>
+
+724
+00:32:37,000 --> 00:32:41,000
+<font color="#ffffff">because you are Margot Robbie living</font>
+<font color="#ffffff">in London, so of course you did...</font>
+
+725
+00:32:41,000 --> 00:32:42,000
+<font color="#ffffff">But you did mix in some</font>
+<font color="#ffffff">highfalutin circles?</font>
+
+726
+00:32:42,000 --> 00:32:43,000
+<font color="#ffffff">Yes, oh yes.</font>
+
+727
+00:32:43,000 --> 00:32:45,000
+<font color="#ffffff">I don't know where this</font>
+<font color="#ffffff">picture came from...</font>
+
+728
+00:32:45,000 --> 00:32:46,000
+<font color="#ffffff">That's obviously you.</font>
+
+729
+00:32:46,000 --> 00:32:47,000
+<font color="#ffffff">Is that Sienna Miller?</font>
+
+730
+00:32:47,000 --> 00:32:49,000
+<font color="#ffffff">Yeah, I think so.</font>
+
+731
+00:32:49,000 --> 00:32:50,000
+<font color="#ffffff">And that's a princess.</font>
+
+732
+00:32:50,000 --> 00:32:54,000
+<font color="#ffffff">Is that a Beatrice</font>
+<font color="#ffffff">one or a Eugenie one?</font>
+
+733
+00:32:54,000 --> 00:32:55,000
+<font color="#ffffff">I can't tell by the picture.</font>
+
+734
+00:32:55,000 --> 00:32:58,000
+<font color="#ffffff">It kind of looks weird.</font>
+
+735
+00:32:58,000 --> 00:33:00,000
+<font color="#ffffff">You are picking everyone</font>
+<font color="#ffffff">better than I can.</font>
+
+736
+00:33:00,000 --> 00:33:01,000
+<font color="#ffffff">I think it's one of them.</font>
+
+737
+00:33:01,000 --> 00:33:03,000
+<font color="#ffffff">Tell us who this is.</font>
+
+738
+00:33:03,000 --> 00:33:04,000
+<font color="#ffffff">You know who that is.</font>
+
+739
+00:33:04,000 --> 00:33:06,000
+<font color="#ffffff">I know, but tell us.</font>
+
+740
+00:33:06,000 --> 00:33:08,000
+<font color="#ffffff">It's Prince Harry.</font>
+
+741
+00:33:08,000 --> 00:33:11,000
+<font color="#ffffff">I don't normally go to parties</font>
+<font color="#ffffff">where those people are there.</font>
+
+742
+00:33:11,000 --> 00:33:12,000
+<font color="#ffffff">That was a one-off.</font>
+
+743
+00:33:12,000 --> 00:33:14,000
+<font color="#ffffff">That doesn't normally happen.</font>
+
+744
+00:33:14,000 --> 00:33:17,000
+<font color="#ffffff">My friends aren't Royals!</font>
+
+745
+00:33:17,000 --> 00:33:20,000
+<font color="#ffffff">There, of course, is Cara Delvingne.</font>
+
+746
+00:33:20,000 --> 00:33:21,000
+<font color="#ffffff">She is a good friend of mine.</font>
+
+747
+00:33:21,000 --> 00:33:23,000
+<font color="#ffffff">You were in Suicide Squad together.</font>
+
+748
+00:33:23,000 --> 00:33:24,000
+<font color="#ffffff">Yes.</font>
+
+749
+00:33:24,000 --> 00:33:25,000
+<font color="#ffffff">She was awesome.</font>
+
+750
+00:33:25,000 --> 00:33:28,000
+<font color="#ffffff">In Suicide Squad, you tattooed</font>
+<font color="#ffffff">the cast members, is this right?</font>
+
+751
+00:33:28,000 --> 00:33:29,000
+<font color="#ffffff">Yes.</font>
+
+752
+00:33:29,000 --> 00:33:35,000
+<font color="#ffffff">Because you were trained...</font>
+
+753
+00:33:35,000 --> 00:33:37,000
+<font color="#ffffff">These are the tattoos you do.</font>
+
+754
+00:33:37,000 --> 00:33:38,000
+<font color="#ffffff">Yeah, we called them Toemojis.</font>
+
+755
+00:33:38,000 --> 00:33:39,000
+<font color="#ffffff">Oh?</font>
+
+756
+00:33:39,000 --> 00:33:40,000
+<font color="#ffffff">OK.</font>
+
+757
+00:33:40,000 --> 00:33:42,000
+<font color="#ffffff">And did you do all the cast?</font>
+
+758
+00:33:42,000 --> 00:33:44,000
+<font color="#ffffff">No, funnily enough, no</font>
+<font color="#ffffff">one else wanted them!</font>
+
+759
+00:33:44,000 --> 00:33:46,000
+<font color="#ffffff">So, just the two of</font>
+<font color="#ffffff">us got the Toemojis.</font>
+
+760
+00:33:46,000 --> 00:33:49,000
+<font color="#ffffff">But everyone else got squad written</font>
+<font color="#ffffff">on them and other people would come</font>
+
+761
+00:33:49,000 --> 00:33:52,000
+<font color="#ffffff">by the trailer and get anything.</font>
+
+762
+00:33:52,000 --> 00:33:54,000
+<font color="#ffffff">Yes, we did all sorts of things.</font>
+
+763
+00:33:54,000 --> 00:33:55,000
+<font color="#ffffff">So you can still tattoo people?</font>
+
+764
+00:33:55,000 --> 00:33:57,000
+<font color="#ffffff">Yet, I reckon I have done...</font>
+
+765
+00:33:57,000 --> 00:33:58,000
+<font color="#ffffff">Yeah, getting close to 100.</font>
+
+766
+00:33:58,000 --> 00:33:59,000
+<font color="#ffffff">Little ones.</font>
+
+767
+00:33:59,000 --> 00:34:02,000
+<font color="#ffffff">And honestly, they are probably</font>
+<font color="#ffffff">getting worse as they go along.</font>
+
+768
+00:34:02,000 --> 00:34:04,000
+<font color="#ffffff">Because we have a tattoo gun here.</font>
+
+769
+00:34:04,000 --> 00:34:07,000
+<font color="#ffffff">If anyone...</font>
+
+770
+00:34:07,000 --> 00:34:11,000
+<font color="#ffffff">If any of your coach</font>
+<font color="#ffffff">mates want a tattoo?</font>
+
+771
+00:34:11,000 --> 00:34:14,000
+<font color="#ffffff">To commemorate this lovely evening?</font>
+
+772
+00:34:14,000 --> 00:34:20,000
+<font color="#ffffff">LAUGHTER.</font>
+
+773
+00:34:20,000 --> 00:34:21,000
+<font color="#ffffff">You pierced your ear.</font>
+
+774
+00:34:21,000 --> 00:34:23,000
+<font color="#ffffff">I what?</font>
+
+775
+00:34:23,000 --> 00:34:24,000
+<font color="#ffffff">You pierced your ear.</font>
+
+776
+00:34:24,000 --> 00:34:28,000
+<font color="#ffffff">Yeah, not myself.</font>
+
+777
+00:34:28,000 --> 00:34:30,000
+<font color="#ffffff">It would be so funny.</font>
+
+778
+00:34:30,000 --> 00:34:36,000
+<font color="#ffffff">Please?</font>
+
+779
+00:34:36,000 --> 00:34:39,000
+<font color="#ffffff">Bless you for thinking it might...</font>
+
+780
+00:34:39,000 --> 00:34:40,000
+<font color="#ffffff">I have seen you actually</font>
+<font color="#ffffff">are prepared...</font>
+
+781
+00:34:40,000 --> 00:34:41,000
+<font color="#ffffff">Yes.</font>
+
+782
+00:34:41,000 --> 00:34:43,000
+<font color="#ffffff">She can tattoo at will.</font>
+
+783
+00:34:43,000 --> 00:34:47,000
+<font color="#ffffff">This is not actually my gun</font>
+<font color="#ffffff">but I can make do with it, for sure.</font>
+
+784
+00:34:47,000 --> 00:34:49,000
+<font color="#ffffff">You're genuinely</font>
+<font color="#ffffff">thinking about this?</font>
+
+785
+00:34:49,000 --> 00:34:51,000
+<font color="#ffffff">No!</font>
+
+786
+00:34:51,000 --> 00:34:53,000
+<font color="#ffffff">I didn't think you were.</font>
+
+787
+00:34:53,000 --> 00:34:54,000
+<font color="#ffffff">I thought you were!</font>
+
+788
+00:34:54,000 --> 00:34:57,000
+<font color="#ffffff">That's acting!</font>
+
+789
+00:34:57,000 --> 00:35:07,000
+<font color="#ffffff">APPLAUSE.</font>
+
+790
+00:35:08,000 --> 00:35:10,000
+<font color="#ffffff">Ryan isn't looking so shocked</font>
+<font color="#ffffff">because you have already tattooed</font>
+
+791
+00:35:10,000 --> 00:35:11,000
+<font color="#ffffff">yourself, haven't you?</font>
+
+792
+00:35:11,000 --> 00:35:12,000
+<font color="#ffffff">Yeah.</font>
+
+793
+00:35:12,000 --> 00:35:14,000
+<font color="#ffffff">How did that go for you?</font>
+
+794
+00:35:14,000 --> 00:35:15,000
+<font color="#ffffff">Not great.</font>
+
+795
+00:35:15,000 --> 00:35:16,000
+<font color="#ffffff">What did you do?</font>
+
+796
+00:35:16,000 --> 00:35:19,000
+<font color="#ffffff">It was, you know, it was supposed</font>
+<font color="#ffffff">to be a monster hand</font>
+
+797
+00:35:19,000 --> 00:35:24,000
+<font color="#ffffff">dropping a bloody heart.</font>
+
+798
+00:35:24,000 --> 00:35:26,000
+<font color="#ffffff">But it looks more like a chicken...</font>
+
+799
+00:35:26,000 --> 00:35:32,000
+<font color="#ffffff">Making love with a</font>
+<font color="#ffffff">cactus or something.</font>
+
+800
+00:35:32,000 --> 00:35:33,000
+<font color="#ffffff">I don't know what happened.</font>
+
+801
+00:35:33,000 --> 00:35:36,000
+<font color="#ffffff">My friend had one at his</font>
+<font color="#ffffff">house, I like to doodle,</font>
+
+802
+00:35:36,000 --> 00:35:40,000
+<font color="#ffffff">it's a bad combination.</font>
+
+803
+00:35:40,000 --> 00:35:42,000
+<font color="#ffffff">Do you have a tattoo?</font>
+
+804
+00:35:42,000 --> 00:35:43,000
+<font color="#ffffff">Oh, God.</font>
+
+805
+00:35:43,000 --> 00:35:44,000
+<font color="#ffffff">I knew you were going to ask that.</font>
+
+806
+00:35:44,000 --> 00:35:46,000
+<font color="#ffffff">Do you?</font>
+
+807
+00:35:46,000 --> 00:35:47,000
+<font color="#ffffff">Yeah, I do.</font>
+
+808
+00:35:47,000 --> 00:35:48,000
+<font color="#ffffff">Where is it?</font>
+
+809
+00:35:48,000 --> 00:35:49,000
+<font color="#ffffff">I went to college in the '90s.</font>
+
+810
+00:35:49,000 --> 00:35:51,000
+<font color="#ffffff">Can we just leave it there.</font>
+
+811
+00:35:51,000 --> 00:35:52,000
+<font color="#ffffff">Is it a tramp stamp?</font>
+
+812
+00:35:52,000 --> 00:35:53,000
+<font color="#ffffff">No!</font>
+
+813
+00:35:53,000 --> 00:35:54,000
+<font color="#ffffff">Oh, God, no!</font>
+
+814
+00:35:54,000 --> 00:35:55,000
+<font color="#ffffff">Is it a dolphin?</font>
+
+815
+00:35:55,000 --> 00:35:56,000
+<font color="#ffffff">No, no, no.</font>
+
+816
+00:35:56,000 --> 00:35:57,000
+<font color="#ffffff">Is it a...?</font>
+
+817
+00:35:57,000 --> 00:36:01,000
+<font color="#ffffff">I'm not getting it.</font>
+
+818
+00:36:01,000 --> 00:36:04,000
+<font color="#ffffff">The thing is, there is someone</font>
+<font color="#ffffff">who works on our team and they are</font>
+
+819
+00:36:04,000 --> 00:36:08,000
+<font color="#ffffff">a big Margot Robbie fan.</font>
+
+820
+00:36:08,000 --> 00:36:12,000
+<font color="#ffffff">And when I say they are willing to</font>
+<font color="#ffffff">do this, I mean they are very keen.</font>
+
+821
+00:36:12,000 --> 00:36:19,000
+<font color="#ffffff">He has washed his feet, talced them.</font>
+
+822
+00:36:19,000 --> 00:36:25,000
+<font color="#ffffff">Is it difficult to do</font>
+<font color="#ffffff">this Toemoji thing?</font>
+
+823
+00:36:25,000 --> 00:36:26,000
+<font color="#ffffff">No.</font>
+
+824
+00:36:26,000 --> 00:36:33,000
+<font color="#ffffff">Adam, your moment is here,</font>
+<font color="#ffffff">this is happening.</font>
+
+825
+00:36:33,000 --> 00:36:39,000
+<font color="#ffffff">So, sit down beside Margot, there.</font>
+
+826
+00:36:39,000 --> 00:36:41,000
+<font color="#ffffff">I don't mean to criticise</font>
+<font color="#ffffff">my own production team</font>
+
+827
+00:36:41,000 --> 00:36:44,000
+<font color="#ffffff">but you could have taken your shoes</font>
+<font color="#ffffff">and socks off first.</font>
+
+828
+00:36:44,000 --> 00:36:45,000
+<font color="#ffffff">It would have saved a little time.</font>
+
+829
+00:36:45,000 --> 00:36:47,000
+<font color="#ffffff">You knew this moment was coming.</font>
+
+830
+00:36:47,000 --> 00:36:48,000
+<font color="#ffffff">I wanted to make it more real.</font>
+
+831
+00:36:48,000 --> 00:36:49,000
+<font color="#ffffff">OK, here we go.</font>
+
+832
+00:36:49,000 --> 00:36:52,000
+<font color="#ffffff">You don't have to do this</font>
+<font color="#ffffff">if you don't want to.</font>
+
+833
+00:36:52,000 --> 00:36:54,000
+<font color="#ffffff">Honestly, he kept saying</font>
+<font color="#ffffff">he wants to do this.</font>
+
+834
+00:36:54,000 --> 00:36:57,000
+<font color="#ffffff">Are you sure?</font>
+
+835
+00:36:57,000 --> 00:37:00,000
+<font color="#ffffff">OK.</font>
+
+836
+00:37:00,000 --> 00:37:02,000
+<font color="#ffffff">Oh, my God.</font>
+
+837
+00:37:02,000 --> 00:37:03,000
+<font color="#ffffff">There is something I have to say...</font>
+
+838
+00:37:03,000 --> 00:37:07,000
+<font color="#ffffff">Don't try this at home!</font>
+
+839
+00:37:07,000 --> 00:37:10,000
+<font color="#ffffff">Really don't!</font>
+
+840
+00:37:10,000 --> 00:37:12,000
+<font color="#ffffff">I will sit on this side of you.</font>
+
+841
+00:37:12,000 --> 00:37:13,000
+<font color="#ffffff">OK, perfect.</font>
+
+842
+00:37:13,000 --> 00:37:14,000
+<font color="#ffffff">OK, here we go.</font>
+
+843
+00:37:14,000 --> 00:37:15,000
+<font color="#ffffff">In your own time.</font>
+
+844
+00:37:15,000 --> 00:37:17,000
+<font color="#ffffff">It is not that easy to do!</font>
+
+845
+00:37:17,000 --> 00:37:18,000
+<font color="#ffffff">Here we go.</font>
+
+846
+00:37:18,000 --> 00:37:23,000
+<font color="#ffffff">I haven't actually</font>
+<font color="#ffffff">done one for a while.</font>
+
+847
+00:37:23,000 --> 00:37:25,000
+<font color="#ffffff">I'm probably more</font>
+<font color="#ffffff">nervous than you are.</font>
+
+848
+00:37:25,000 --> 00:37:26,000
+<font color="#ffffff">Sorry, that's not comforting!</font>
+
+849
+00:37:26,000 --> 00:37:31,000
+<font color="#ffffff">That wasn't very professional.</font>
+
+850
+00:37:31,000 --> 00:37:32,000
+<font color="#ffffff">I'm so scared!</font>
+
+851
+00:37:32,000 --> 00:37:35,000
+<font color="#ffffff">I was going to say my hands</font>
+<font color="#ffffff">are shaking but you don't</font>
+
+852
+00:37:35,000 --> 00:37:36,000
+<font color="#ffffff">want to hear that.</font>
+
+853
+00:37:36,000 --> 00:37:39,000
+<font color="#ffffff">TATTOO GUN BUZZES.</font>
+
+854
+00:37:39,000 --> 00:37:43,000
+<font color="#ffffff">This is nuts!</font>
+
+855
+00:37:43,000 --> 00:37:51,000
+<font color="#ffffff">APPLAUSE.</font>
+
+856
+00:37:51,000 --> 00:37:53,000
+<font color="#ffffff">OK.</font>
+
+857
+00:37:53,000 --> 00:37:55,000
+<font color="#ffffff">Sorry!</font>
+
+858
+00:37:55,000 --> 00:38:02,000
+<font color="#ffffff">TATTOO GUN BUZZES.</font>
+
+859
+00:38:02,000 --> 00:38:03,000
+<font color="#ffffff">Does it hurt?</font>
+
+860
+00:38:03,000 --> 00:38:06,000
+<font color="#ffffff">It's a little funny.</font>
+
+861
+00:38:06,000 --> 00:38:10,000
+<font color="#ffffff">Don't worry about your finest work.</font>
+
+862
+00:38:10,000 --> 00:38:16,000
+<font color="#ffffff">You do seem happy in your work,</font>
+<font color="#ffffff">I'll give you that.</font>
+
+863
+00:38:16,000 --> 00:38:18,000
+<font color="#ffffff">I really do.</font>
+
+864
+00:38:18,000 --> 00:38:20,000
+<font color="#ffffff">I'm not particularly good</font>
+<font color="#ffffff">but I like doing it.</font>
+
+865
+00:38:20,000 --> 00:38:30,000
+<font color="#ffffff">APPLAUSE.</font>
+
+866
+00:38:34,000 --> 00:38:36,000
+<font color="#ffffff">Good poker face, Adam, very good.</font>
+
+867
+00:38:36,000 --> 00:38:40,000
+<font color="#ffffff">Sorry, is that all right?</font>
+
+868
+00:38:40,000 --> 00:38:44,000
+<font color="#ffffff">It's good.</font>
+
+869
+00:38:44,000 --> 00:38:48,000
+<font color="#ffffff">I can neaten it up</font>
+<font color="#ffffff">when we are backstage.</font>
+
+870
+00:38:48,000 --> 00:38:50,000
+<font color="#ffffff">CHEERING AND APPLAUSE.</font>
+
+871
+00:38:50,000 --> 00:38:53,000
+<font color="#ffffff">Show it to that camera.</font>
+
+872
+00:38:53,000 --> 00:38:55,000
+<font color="#ffffff">There it is!</font>
+
+873
+00:38:55,000 --> 00:38:57,000
+<font color="#ffffff">That's not bad!</font>
+
+874
+00:38:57,000 --> 00:39:02,000
+<font color="#ffffff">It's not bad!</font>
+
+875
+00:39:02,000 --> 00:39:05,000
+<font color="#ffffff">Obviously, trained medics</font>
+<font color="#ffffff">are coming to the studio.</font>
+
+876
+00:39:05,000 --> 00:39:08,000
+<font color="#ffffff">In the meantime,</font>
+<font color="#ffffff">it's time for music.</font>
+
+877
+00:39:08,000 --> 00:39:11,000
+<font color="#ffffff">These pop pioneers have sold over</font>
+<font color="#ffffff">40 million records and are one</font>
+
+878
+00:39:11,000 --> 00:39:14,000
+<font color="#ffffff">of the greatest girl bands</font>
+<font color="#ffffff">of all time.</font>
+
+879
+00:39:14,000 --> 00:39:17,000
+<font color="#ffffff">Now the original line-up</font>
+<font color="#ffffff">is back - hurrah!</font>
+
+880
+00:39:17,000 --> 00:39:19,000
+<font color="#ffffff">Performing Cruel Summer,</font>
+<font color="#ffffff">please welcome Bananarama!</font>
+
+881
+00:39:19,000 --> 00:39:29,000
+<font color="#ffffff">CHEERING AND APPLAUSE.</font>
+
+882
+00:39:45,000 --> 00:39:49,000
+<font color="#ffffff"># Hot summer streets.</font>
+
+883
+00:39:49,000 --> 00:39:50,000
+<font color="#ffffff"># And the pavements are burning.</font>
+
+884
+00:39:50,000 --> 00:39:53,000
+<font color="#ffffff"># I sit around.</font>
+
+885
+00:39:53,000 --> 00:39:57,000
+<font color="#ffffff"># Trying to smile.</font>
+
+886
+00:39:57,000 --> 00:40:03,000
+<font color="#ffffff"># But the air is so heavy and dry.</font>
+
+887
+00:40:03,000 --> 00:40:06,000
+<font color="#ffffff"># Strange voices are saying.</font>
+
+888
+00:40:06,000 --> 00:40:08,000
+<font color="#ffffff"># What did they say.</font>
+
+889
+00:40:08,000 --> 00:40:14,000
+<font color="#ffffff"># Things I can't understand.</font>
+
+890
+00:40:14,000 --> 00:40:16,000
+<font color="#ffffff"># It's too close for comfort.</font>
+
+891
+00:40:16,000 --> 00:40:17,000
+<font color="#ffffff"># This heat has got.</font>
+
+892
+00:40:17,000 --> 00:40:19,000
+<font color="#ffffff"># Right out of hand.</font>
+
+893
+00:40:19,000 --> 00:40:25,000
+<font color="#ffffff"># It's a cruel, cruel summer.</font>
+
+894
+00:40:25,000 --> 00:40:30,000
+<font color="#ffffff"># Leaving me here on my own.</font>
+
+895
+00:40:30,000 --> 00:40:32,000
+<font color="#ffffff"># It's a cruel, cruel summer.</font>
+
+896
+00:40:32,000 --> 00:40:37,000
+<font color="#ffffff"># Now you're gone.</font>
+
+897
+00:40:47,000 --> 00:40:48,000
+<font color="#ffffff"># The city is crowded.</font>
+
+898
+00:40:48,000 --> 00:40:49,000
+<font color="#ffffff"># My friends are away.</font>
+
+899
+00:40:49,000 --> 00:40:56,000
+<font color="#ffffff"># And I'm on my own.</font>
+
+900
+00:40:56,000 --> 00:40:57,000
+<font color="#ffffff"># It's too hot to handle.</font>
+
+901
+00:40:57,000 --> 00:41:02,000
+<font color="#ffffff"># So I got to get up and go.</font>
+
+902
+00:41:02,000 --> 00:41:10,000
+<font color="#ffffff"># It's a cruel, cruel summer.</font>
+
+903
+00:41:10,000 --> 00:41:13,000
+<font color="#ffffff"># Leaving me here on my own</font>
+
+904
+00:41:13,000 --> 00:41:15,000
+<font color="#ffffff"># It's a cruel, cruel summer.</font>
+
+905
+00:41:15,000 --> 00:41:22,000
+<font color="#ffffff"># Now you're gone.</font>
+
+906
+00:41:22,000 --> 00:41:25,000
+<font color="#ffffff"># It's a cruel, cruel summer.</font>
+
+907
+00:41:25,000 --> 00:41:26,000
+<font color="#ffffff"># Leaving me.</font>
+
+908
+00:41:26,000 --> 00:41:32,000
+<font color="#ffffff"># Leaving me here on my own.</font>
+
+909
+00:41:32,000 --> 00:41:33,000
+<font color="#ffffff"># It's a cruel, cruel summer.</font>
+
+910
+00:41:33,000 --> 00:41:38,000
+<font color="#ffffff"># Now you're gone.</font>
+
+911
+00:41:55,000 --> 00:42:01,000
+<font color="#ffffff"># It's a cruel, cruel summer.</font>
+
+912
+00:42:01,000 --> 00:42:07,000
+<font color="#ffffff"># Leaving me here on my own.</font>
+
+913
+00:42:07,000 --> 00:42:08,000
+<font color="#ffffff"># It's a cruel, cruel summer.</font>
+
+914
+00:42:08,000 --> 00:42:12,000
+<font color="#ffffff"># Now you're gone.</font>
+
+915
+00:42:12,000 --> 00:42:18,000
+<font color="#ffffff"># It's a cruel, cruel summer.</font>
+
+916
+00:42:18,000 --> 00:42:20,000
+<font color="#ffffff"># Leaving me here on my own.</font>
+
+917
+00:42:20,000 --> 00:42:23,000
+<font color="#ffffff"># It's a cruel, cruel summer.</font>
+
+918
+00:42:23,000 --> 00:42:29,000
+<font color="#ffffff"># Now you're gone.</font>
+
+919
+00:42:29,000 --> 00:42:36,000
+<font color="#ffffff"># It's a cruel, cruel summer.</font>
+
+920
+00:42:36,000 --> 00:42:39,000
+<font color="#ffffff"># Now you've gone.</font>
+
+921
+00:42:39,000 --> 00:42:45,000
+<font color="#ffffff">CHEERING AND APPLAUSE.</font>
+
+922
+00:42:45,000 --> 00:42:49,000
+<font color="#ffffff">Oh, Bananarama, everybody!</font>
+
+923
+00:42:49,000 --> 00:42:50,000
+<font color="#ffffff">So, so good.</font>
+
+924
+00:42:50,000 --> 00:42:51,000
+<font color="#ffffff">Come on over, ladies.</font>
+
+925
+00:42:51,000 --> 00:42:52,000
+<font color="#ffffff">Here they are!</font>
+
+926
+00:42:52,000 --> 00:42:54,000
+<font color="#ffffff">CHEERING AND APPLAUSE</font>
+
+927
+00:42:54,000 --> 00:42:56,000
+<font color="#ffffff">Very lovely to see you,</font>
+<font color="#ffffff">hello, my darling.</font>
+
+928
+00:42:56,000 --> 00:42:59,000
+<font color="#ffffff">Hello.</font>
+
+929
+00:42:59,000 --> 00:43:01,000
+<font color="#ffffff">Hello!</font>
+
+930
+00:43:01,000 --> 00:43:04,000
+<font color="#ffffff">Come and sit down.</font>
+
+931
+00:43:04,000 --> 00:43:06,000
+<font color="#ffffff">I think, I think you'll all fit on.</font>
+
+932
+00:43:06,000 --> 00:43:08,000
+<font color="#ffffff">Will we all fit on?</font>
+
+933
+00:43:08,000 --> 00:43:09,000
+<font color="#ffffff">Hi.</font>
+
+934
+00:43:09,000 --> 00:43:11,000
+<font color="#ffffff">I think we'll all fit in.</font>
+
+935
+00:43:11,000 --> 00:43:12,000
+<font color="#ffffff">There we go.</font>
+
+936
+00:43:12,000 --> 00:43:14,000
+<font color="#ffffff">Bananarama back in the world.</font>
+
+937
+00:43:14,000 --> 00:43:19,000
+<font color="#ffffff">We're all squeeze on, yes.</font>
+
+938
+00:43:19,000 --> 00:43:21,000
+<font color="#ffffff">We're good, we're good,</font>
+<font color="#ffffff">we won't be here for long.</font>
+
+939
+00:43:21,000 --> 00:43:23,000
+<font color="#ffffff">So, Bananarama, honestly,</font>
+<font color="#ffffff">a great night for the 80s.</font>
+
+940
+00:43:23,000 --> 00:43:25,000
+<font color="#ffffff">Blade Runner back, now Bananarama.</font>
+
+941
+00:43:25,000 --> 00:43:26,000
+<font color="#ffffff">CHEERING</font>
+
+942
+00:43:26,000 --> 00:43:28,000
+<font color="#ffffff">Obviously Britain really</font>
+<font color="#ffffff">excited that Bananarama are back,</font>
+
+943
+00:43:28,000 --> 00:43:30,000
+<font color="#ffffff">but we forget it's a global thing.</font>
+
+944
+00:43:30,000 --> 00:43:31,000
+<font color="#ffffff">Yeah.</font>
+
+945
+00:43:31,000 --> 00:43:34,000
+<font color="#ffffff">Cruel Summer, that was a top ten hit</font>
+<font color="#ffffff">in America, wasn't it?</font>
+
+946
+00:43:34,000 --> 00:43:35,000
+<font color="#ffffff">Yes.</font>
+
+947
+00:43:35,000 --> 00:43:36,000
+<font color="#ffffff">It's still remembered fondly.</font>
+
+948
+00:43:36,000 --> 00:43:38,000
+<font color="#ffffff">I often hear it in the supermarket.</font>
+
+949
+00:43:38,000 --> 00:43:39,000
+<font color="#ffffff">LAUGHTER</font>
+
+950
+00:43:39,000 --> 00:43:40,000
+<font color="#ffffff">And it's in Blue Crush.</font>
+
+951
+00:43:40,000 --> 00:43:47,000
+<font color="#ffffff">That's right.</font>
+
+952
+00:43:47,000 --> 00:43:50,000
+<font color="#ffffff">The first time we thought we'd</font>
+<font color="#ffffff">actually maybe made it was in LA,</font>
+
+953
+00:43:50,000 --> 00:43:52,000
+<font color="#ffffff">because we were coming back</font>
+<font color="#ffffff">from breakfast, about to go</font>
+
+954
+00:43:52,000 --> 00:43:55,000
+<font color="#ffffff">to the beach, on the bus,</font>
+<font color="#ffffff">in Santa Monica, on the bus.</font>
+
+955
+00:43:55,000 --> 00:43:58,000
+<font color="#ffffff">And we saw Mike Tyson sitting</font>
+<font color="#ffffff">on the front of his limo</font>
+
+956
+00:43:58,000 --> 00:44:01,000
+<font color="#ffffff">and he started singing Cruel Summer</font>
+<font color="#ffffff">at us, and we were like wow.</font>
+
+957
+00:44:01,000 --> 00:44:02,000
+<font color="#ffffff">LAUGHTER</font>
+
+958
+00:44:02,000 --> 00:44:03,000
+<font color="#ffffff">We made it!</font>
+
+959
+00:44:03,000 --> 00:44:04,000
+<font color="#ffffff">With our beach bags.</font>
+
+960
+00:44:04,000 --> 00:44:07,000
+<font color="#ffffff">And this is a tour,</font>
+<font color="#ffffff">you're back for a tour.</font>
+
+961
+00:44:07,000 --> 00:44:08,000
+<font color="#ffffff">Yes.</font>
+
+962
+00:44:08,000 --> 00:44:11,000
+<font color="#ffffff">We've got we've got Siobhan back</font>
+<font color="#ffffff">in the fold for a tour.</font>
+
+963
+00:44:11,000 --> 00:44:12,000
+<font color="#ffffff">We've never actually</font>
+<font color="#ffffff">toured together.</font>
+
+964
+00:44:12,000 --> 00:44:14,000
+<font color="#ffffff">We went on a world tour</font>
+<font color="#ffffff">just after Siobhan left.</font>
+
+965
+00:44:14,000 --> 00:44:15,000
+<font color="#ffffff">Just after I left.</font>
+
+966
+00:44:15,000 --> 00:44:16,000
+<font color="#ffffff">LAUGHTER</font>
+
+967
+00:44:16,000 --> 00:44:17,000
+<font color="#ffffff">Bye!</font>
+
+968
+00:44:17,000 --> 00:44:18,000
+<font color="#ffffff">And it was great.</font>
+
+969
+00:44:18,000 --> 00:44:22,000
+<font color="#ffffff">But we've never actually</font>
+<font color="#ffffff">done anything together.</font>
+
+970
+00:44:22,000 --> 00:44:24,000
+<font color="#ffffff">The tickets sold out, because</font>
+<font color="#ffffff">the response was so fantastic.</font>
+
+971
+00:44:24,000 --> 00:44:26,000
+<font color="#ffffff">We had to add another</font>
+<font color="#ffffff">ten dates, which was...</font>
+
+972
+00:44:26,000 --> 00:44:30,000
+<font color="#ffffff">I'm not sure how we're</font>
+<font color="#ffffff">going to manage it, to be honest.</font>
+
+973
+00:44:30,000 --> 00:44:32,000
+<font color="#ffffff">We've got 23 dates now</font>
+<font color="#ffffff">between November than 9th and</font>
+
+974
+00:44:32,000 --> 00:44:34,000
+<font color="#ffffff">December the 9th.</font>
+
+975
+00:44:34,000 --> 00:44:34,000
+<font color="#ffffff">OK.</font>
+
+976
+00:44:34,000 --> 00:44:36,000
+<font color="#ffffff">At our age!</font>
+
+977
+00:44:36,000 --> 00:44:39,000
+<font color="#ffffff">LAUGHTER</font>
+
+978
+00:44:39,000 --> 00:44:41,000
+<font color="#ffffff">It is so great to have</font>
+<font color="#ffffff">Bananarama back in our world.</font>
+
+979
+00:44:41,000 --> 00:44:42,000
+<font color="#ffffff">Ladies and gentlemen, Bananarama!</font>
+
+980
+00:44:42,000 --> 00:44:44,000
+<font color="#ffffff">CHEERING AND APPLAUSE</font>
+
+981
+00:44:44,000 --> 00:44:46,000
+<font color="#ffffff">Bananarama!</font>
+
+982
+00:44:47,000 --> 00:44:49,000
+<font color="#ffffff">OK, that is nearly it.</font>
+
+983
+00:44:49,000 --> 00:44:52,000
+<font color="#ffffff">But before we go, let's make our</font>
+<font color="#ffffff">first visit of the new series</font>
+
+984
+00:44:52,000 --> 00:44:53,000
+<font color="#ffffff">to the Big Red Chair.</font>
+
+985
+00:44:53,000 --> 00:44:54,000
+<font color="#ffffff">Who's there?</font>
+
+986
+00:44:54,000 --> 00:44:55,000
+<font color="#ffffff">Hello.</font>
+
+987
+00:44:55,000 --> 00:44:57,000
+<font color="#ffffff">Hello.</font>
+
+988
+00:44:57,000 --> 00:44:57,000
+<font color="#ffffff">Hi, what's your name?</font>
+
+989
+00:44:57,000 --> 00:44:59,000
+<font color="#ffffff">Justine.</font>
+
+990
+00:44:59,000 --> 00:45:00,000
+<font color="#ffffff">Justine, and what do</font>
+<font color="#ffffff">you do, Justine?</font>
+
+991
+00:45:00,000 --> 00:45:01,000
+<font color="#ffffff">I'm a barrister.</font>
+
+992
+00:45:01,000 --> 00:45:02,000
+<font color="#ffffff">And actual barrister?</font>
+
+993
+00:45:02,000 --> 00:45:03,000
+<font color="#ffffff">Yes.</font>
+
+994
+00:45:03,000 --> 00:45:04,000
+<font color="#ffffff">Like a working one?</font>
+
+995
+00:45:04,000 --> 00:45:05,000
+<font color="#ffffff">Yes.</font>
+
+996
+00:45:05,000 --> 00:45:08,000
+<font color="#ffffff">Like people might see you in courts</font>
+<font color="#ffffff">over the coming weeks?</font>
+
+997
+00:45:08,000 --> 00:45:09,000
+<font color="#ffffff">Yes, yes.</font>
+
+998
+00:45:09,000 --> 00:45:11,000
+<font color="#ffffff">And you've chosen to do this, OK!</font>
+
+999
+00:45:11,000 --> 00:45:12,000
+<font color="#ffffff">LAUGHTER</font>
+
+1000
+00:45:12,000 --> 00:45:13,000
+<font color="#ffffff">Off you go with your story.</font>
+
+1001
+00:45:13,000 --> 00:45:21,000
+<font color="#ffffff">My mother's a very conservative</font>
+<font color="#ffffff">Irish lady, and she is naturally</font>
+
+1002
+00:45:21,000 --> 00:45:24,000
+<font color="#ffffff">protective of me and of my</font>
+<font color="#ffffff">daughters, her grandchildren,</font>
+
+1003
+00:45:24,000 --> 00:45:27,000
+<font color="#ffffff">and she's always going on about all</font>
+<font color="#ffffff">the weirdos there are in the world</font>
+
+1004
+00:45:27,000 --> 00:45:29,000
+<font color="#ffffff">that the girls have got to avoid.</font>
+
+1005
+00:45:29,000 --> 00:45:31,000
+<font color="#ffffff">And one particular day my eldest</font>
+<font color="#ffffff">daughter, who was then 14,</font>
+
+1006
+00:45:31,000 --> 00:45:34,000
+<font color="#ffffff">wanted to go to the zoo</font>
+<font color="#ffffff">with a girlfriend of hers,</font>
+
+1007
+00:45:34,000 --> 00:45:37,000
+<font color="#ffffff">a little friend, but no adults, and,</font>
+<font color="#ffffff">of course, my mother thought this</font>
+
+1008
+00:45:37,000 --> 00:45:38,000
+<font color="#ffffff">was an appalling idea.</font>
+
+1009
+00:45:38,000 --> 00:45:40,000
+<font color="#ffffff">How could that possibly</font>
+<font color="#ffffff">happen, there's weirdos</font>
+
+1010
+00:45:40,000 --> 00:45:41,000
+<font color="#ffffff">everywhere at the zoo.</font>
+
+1011
+00:45:41,000 --> 00:45:44,000
+<font color="#ffffff">The 14-year-old, in the sort</font>
+<font color="#ffffff">of attempt to placate granny said,</font>
+
+1012
+00:45:44,000 --> 00:45:46,000
+<font color="#ffffff">well, you know, perhaps the Anaconda</font>
+<font color="#ffffff">keeper's a bit weird,</font>
+
+1013
+00:45:46,000 --> 00:45:48,000
+<font color="#ffffff">to which my mother, not realising</font>
+<font color="#ffffff">what she said,</font>
+
+1014
+00:45:48,000 --> 00:45:50,000
+<font color="#ffffff">grandma just turned</font>
+<font color="#ffffff">around and said...</font>
+
+1015
+00:45:50,000 --> 00:45:52,000
+<font color="#ffffff">"You make sure that if anyone asks</font>
+<font color="#ffffff">you to come and look</font>
+
+1016
+00:45:52,000 --> 00:45:56,000
+<font color="#ffffff">at his Anaconda, you say no."</font>
+
+1017
+00:45:56,000 --> 00:45:56,000
+<font color="#ffffff">LAUGHTER</font>
+
+1018
+00:45:56,000 --> 00:45:59,000
+<font color="#ffffff">That's a great story,</font>
+<font color="#ffffff">you can walk, you can walk.</font>
+
+1019
+00:45:59,000 --> 00:46:00,000
+<font color="#ffffff">No, flip me!</font>
+
+1020
+00:46:00,000 --> 00:46:01,000
+<font color="#ffffff">Oh you want to be flipped.</font>
+
+1021
+00:46:01,000 --> 00:46:02,000
+<font color="#ffffff">OK, there you go!</font>
+
+1022
+00:46:02,000 --> 00:46:03,000
+<font color="#ffffff">Well done.</font>
+
+1023
+00:46:03,000 --> 00:46:05,000
+<font color="#ffffff">CHEERING AND APPLAUSE</font>
+
+1024
+00:46:05,000 --> 00:46:09,000
+<font color="#ffffff">If you'd like to join us on the show</font>
+<font color="#ffffff">and have a go in the big red chair,</font>
+
+1025
+00:46:09,000 --> 00:46:12,000
+<font color="#ffffff">you can contact us via our website</font>
+<font color="#ffffff">at this very address.</font>
+
+1026
+00:46:12,000 --> 00:46:15,000
+<font color="#ffffff">That's it for tonight -</font>
+<font color="#ffffff">please say thank you to my</font>
+
+1027
+00:46:15,000 --> 00:46:16,000
+<font color="#ffffff">guests, Bananarama...</font>
+
+1028
+00:46:16,000 --> 00:46:17,000
+<font color="#ffffff">CHEERING AND APPLAUSE</font>
+
+1029
+00:46:17,000 --> 00:46:18,000
+<font color="#ffffff">Margot Robbie...</font>
+
+1030
+00:46:18,000 --> 00:46:19,000
+<font color="#ffffff">CHEERING AND APPLAUSE</font>
+
+1031
+00:46:19,000 --> 00:46:20,000
+<font color="#ffffff">Reese Witherspoon...</font>
+
+1032
+00:46:20,000 --> 00:46:21,000
+<font color="#ffffff">CHEERING AND APPLAUSE</font>
+
+1033
+00:46:21,000 --> 00:46:22,000
+<font color="#ffffff">Ryan Gosling...</font>
+
+1034
+00:46:22,000 --> 00:46:23,000
+<font color="#ffffff">CHEERING AND APPLAUSE</font>
+
+1035
+00:46:23,000 --> 00:46:24,000
+<font color="#ffffff">And, Mr Harrison Ford!</font>
+
+1036
+00:46:24,000 --> 00:46:26,000
+<font color="#ffffff">CHEERING AND APPLAUSE</font>
+
+1037
+00:46:26,000 --> 00:46:29,000
+<font color="#ffffff">Join me next week with rock</font>
+<font color="#ffffff">star Liam Gallagher,</font>
+
+1038
+00:46:29,000 --> 00:46:31,000
+<font color="#ffffff">legendary stand-up Chris Rock,</font>
+<font color="#ffffff">actor Idris Elba and</font>
+
+1039
+00:46:31,000 --> 00:46:33,000
+<font color="#ffffff">Oscar-winner Kate Winslet.</font>
+
+1040
+00:46:33,000 --> 00:46:34,000
+<font color="#ffffff">I'll see you then!</font>
+
+1041
+00:46:34,000 --> 00:46:37,000
+<font color="#ffffff">Goodnight everybody, goodbye!</font>
+
+1042
+00:47:06,000 --> 00:47:08,000
+<font color="#ffffff">I am a fine-tuned</font>
+<font color="#ffffff">moneymaking machine.</font>
+
