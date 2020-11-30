@@ -1,0 +1,1457 @@
+U,L
+Everyone get close to everyone so you can touch someone.,give.statement
+This is very serious. It's more serious than you can imagine.,give.opinion
+Let's pray.,give.statement
+"Father, we thank you for...",give.statement
+"just being our God, and for all that you do.",give.statement
+"We thank you for this day, and...",give.statement
+"we thank you for the chill in this air, Father.",give.statement
+"Because we thank you for the sunshine,",give.statement
+because you create the chill and you create the sunshine.,give.statement
+"And you know these are tough times, Father.",give.statement
+We're asking this morning for your guidance.,give.statement
+#NAME?,x
+"We stand here today, with a plant that's closing,",give.statement
+"with a... a deep, rich history, and,",give.statement
+"it's sad for me and, I'm sure,",give.opinion
+"everybody else in there to see it go,",give.opinion
+but I will say this:,give.statement
+I'm extremely proud of the people that work in this plant here.,give.opinion
+There's none better.,give.opinion
+They know how to get the job done.,give.opinion
+#NAME?,x
+No way. America was founded only 200 years ago.,give.statement
+Oh.,give.statement
+#NAME?,x
+#NAME?,x
+But this is really beautiful.,give.opinion
+"Yeah, gorgeous.",respond.agree
+"See, America's airspace is really busy.",give.opinion
+There's one.,give.statement
+And there.,give.statement
+"When you take a look at an automobile,",give.statement
+you see glass all around it.,give.statement
+That's what we do.,give.statement
+We have about 70% of the market.,give.statement
+Okay? Which is pretty extensive.,give.opinion
+"We have facilities around the world,",give.statement
+"throughout China, United States now, with our plant here.",give.statement
+What we're doing is we're melding two cultures together:,give.statement
+the Chinese culture and the US culture.,give.statement
+So we are truly a global organisation.,give.opinion
+"So, we do have three different shifts",give.statement
+right now that we are working with.,give.statement
+"A first, second, and a third. Pretty traditional.",give.statement
+You'll also have a 30-minute unpaid lunch.,give.statement
+"Plus, there's two 15-minute paid breaks.",give.statement
+"Plenty of opportunities, ladies and gentlemen.",give.opinion
+Plenty of opportunities.,give.opinion
+Is this a union shop?,closed.question
+We are not.,respond.deny
+It is our desire to not be.,give.statement
+"But we recognise that, one, we need",give.opinion
+to do things right by employees.,give.opinion
+Okay? We recognise that.,give.statement
+"I have, actually, 28 years experience.",give.statement
+Very good.,respond.agree
+"Payroll, human resources, operations, things like that.",give.statement
+"I have a master's in mechanical engineering too, so...",give.statement
+"Okay, good. Super.",respond.agree
+Sounds like you got a lot of good skills.,give.opinion
+"Well, I... Actually, I've worked",respond.agree
+in all kinds of different levels of...,respond.agree
+"Yeah? Okay, good.",give.statement
+What we'll do is we'll take a look at your résumé. All right?,use.social.convention
+Where you sit today used to be a General Motors plant.,give.statement
+"This plant closed,",recall
+"leaving 2,000 families unemployed.",recall
+"And now, there are over 1,000 employees working here,",give.statement
+with still more to be hired.,give.statement
+It was a little over two years ago that this facility was a very dark,recall
+and very stark reminder of the greatest economic downturn,recall
+in American history since the Great Depression.,recall
+"And with that, you understand the...",give.statement
+"the personal impact that that has,",give.statement
+individually and for the families of all those involved.,give.statement
+It's been a very fast process from the very beginning.,give.opinion
+"When I hired in, there was nothing in the plant.",give.statement
+"And since that time, you can see, in the last six months,",give.statement
+the amount of people and equipment that have come in.,give.statement
+"And it's, exciting.",give.opinion
+"The commitment everybody's put in, hard work.",give.statement
+We're looking forward to starting production.,give.statement
+"Since you've arrived in America,",give.statement
+I believe you've found many things different,give.opinion
+from life in China.,give.opinion
+We need to get to know Americans.,give.statement
+America is a place to let your personality run free.,give.opinion
+"As long as you're not doing anything illegal,",give.statement
+you're free to follow your heart.,give.statement
+You can even joke about the president.,give.statement
+Nobody will do anything to you.,give.statement
+"Americans' cars are big and huge, very comfortable.",give.opinion
+This represents the American sense of casualness.,give.opinion
+They don't place a heavy importance on outfits and attire.,give.opinion
+"If you travel in Europe in the summertime,",give.statement
+"and you see someone walking in front of you,",give.statement
+"if he's wearing shorts, vests, and sports shoes,",give.statement
+they must be an American.,give.opinion
+Americans say what they are thinking directly.,give.opinion
+They don't hide anything.,give.opinion
+They are very obvious.,give.opinion
+Everything is practical and realistic.,give.opinion
+They dislike abstractions and theory in their daily lives.,give.opinion
+"Time is limited today, so I won't keep going.",give.statement
+The list here is really long.,give.statement
+"Wow, thank you.",use.social.convention
+"As required by Chairman,",use.social.convention
+we will have an opening celebration on October 7th.,give.statement
+"From now on,",give.statement
+I ask you to keep October 7th in mind,give.statement
+and work hard towards this grand celebration.,give.statement
+"Welcome, Chairman. Good to see you.",use.social.convention
+This one is the Chevrolet S-10.,give.statement
+It was made in 1982.,give.statement
+That's the first one they made.,give.statement
+The first car from the GM plant.,give.statement
+"Wow, Dayton was very well developed back then?",closed.question
+Exactly. A very well developed area.,respond.agree
+"""I have a secret to share, and from the bottom of my heart,",recall
+"I love Ohio, and I love the place",recall
+"where I invest significantly, here in Dayton.""",recall
+"This is a historic project that is gonna help grow this community,",give.opinion
+"give people jobs, and give a future to your kids and my kids",give.opinion
+that did for those trucks back there when our parents,give.opinion
+and grandparents worked on refrigerators and cars.,give.opinion
+"And the future is bright, folks. The future is bright.",give.opinion
+Please join me in acknowledging the newly-named Fuyao Avenue.,use.social.convention
+"""Good morning, everyone. And we meet again today.""",recall
+"Every time I visit this plant, I see a lot of changes.",give.statement
+"""Every time when I visit, I see great progress.""",recall
+You see there's still empty space for more equipment.,give.statement
+It will all be installed within a year.,give.statement
+"""If we can follow through with our plan and become successful here,",recall
+this will be a great example,recall
+"of the US successfully attracting foreign investment.""",recall
+Thank you very much.,use.social.convention
+"""Thank you very much.""",recall
+"He says that a lot of people lost their jobs in this area,",give.statement
+and he thanks you for the opportunity.,give.statement
+"And tell him, one time, he has to come down here",give.statement
+and eat some barbecue with us.,give.statement
+#NAME?,x
+So the clients are satisfied?,closed.question
+"Yes, very satisfied. Especially Chrysler.",respond.agree
+I am pairing an American with a Chinese.,give.statement
+"The American is the main operator, with",give.statement
+a Chinese supervisor by their side.,give.statement
+They're pretty slow.,give.opinion
+They have fat fingers.,give.opinion
+We keep training them over and over.,give.statement
+How you doing?,closed.question
+The chairman has said from the,recall
+beginning this is an American company.,recall
+"It's Fuyao Glass America. It needs to be an American company,",recall
+"we need to treat it like an American company,",recall
+but we need to be successful just like,recall
+all our plants throughout the world.,recall
+"So, basically, this line, that's the stage.",give.statement
+"So from there back to the stage,",give.statement
+#NAME?,x
+"- Yeah. - We're talking, like,",give.statement
+a concert stage without cover,give.statement
+and potentially a overhang for weather.,give.statement
+We're gonna have to plan for that.,give.statement
+"You know what I mean? Like, a concert...",closed.question
+"Chairman thinks we're okay with October weather,",respond.agree
+so you don't need any hang.,give.statement
+#NAME?,x
+It won't.,give.opinion
+It won't.,recall
+"In October, the weather will be like it is today.",give.opinion
+"Chairman thinks, in October, the weather will be similar",recall
+#NAME?,x
+"Also, Chairman says that door can't face this way.",recall
+What door?,closed.question
+"Face... You know, the opening right there.",respond.agree
+"Well, we just signed a contract, so...",give.statement
+- What? - That's a big...,give.statement
+You got to talk to Jimmy about... I don't know.,give.statement
+I think it's...,give.statement
+"Jimmy, do you understand what he means?",closed.question
+We just did a purchase order and ordered a garage door and stuff.,give.statement
+"So, you got to face some other direction, I think.",give.statement
+#NAME?,x
+So we're gonna have to change it. Is that okay?,closed.question
+#NAME?,x
+"Yeah, Z, just change it.",respond.agree
+"That's gonna cost us $35,000.",give.statement
+"I have an idea, but I am not sure it's a good one.",give.opinion
+We hang two artworks here.,give.statement
+"One is something iconic of China,",give.opinion
+like the Great Wall.,give.opinion
+#NAME?,x
+Only American ones.,respond.deny
+"When in Rome, do as the Romans do.",give.statement
+Don't upset them.,give.statement
+"American, just...",give.statement
+They haven't done good decorative work here.,give.opinion
+This can't be here. It should be moved to the side.,give.opinion
+There are... It's required by law,respond.deny
+"to have one in here, and it has to be that height.",give.statement
+They're just saying,recall
+that it should be moved to the side.,recall
+#NAME?,x
+David says that is the required height.,recall
+We can't place it down there. It has to be that high.,give.statement
+We can move it to that corner.,give.opinion
+Then up there.,give.opinion
+It's a legal requirement. I'll ask him.,give.statement
+He has to ask and see. He knows this is the right height.,give.statement
+"But sometimes, you have to think, before you do,",recall
+"so then we don't have to redo the work,",recall
+because it costs money.,recall
+"Yeah, I've... That was done...",respond.agree
+"I wouldn't have necessarily moved, but",give.statement
+that was done way before I got here.,give.statement
+Catch another big fish.,relax.atmosphere
+Did you all set the bait this way?,closed.question
+#NAME?,x
+You got the Fuyao employees down here doing it.,give.statement
+#NAME?,x
+#NAME?,x
+Fiyao? Is that how it's pronounced?,closed.question
+Fuyao. F-U-Y-A-O.,respond.deny
+#NAME?,x
+#NAME?,x
+Automotive glass. They make the glass...,give.statement
+"Yes, make glass.",respond.agree
+#NAME?,x
+#NAME?,x
+"Ooh, that's a big one right there.",give.opinion
+#NAME?,x
+#NAME?,x
+#NAME?,x
+C-A-R-P. Carp.,give.statement
+- C-A-R-P. Carp. Carp. - Yep. Those are carp.,respond.agree
+"Now, the carp that you're catching",give.statement
+#NAME?,x
+Have you heard of Wheaties cereal?,closed.question
+- I don't know. Wheaty... - Never heard of Wheaties?,respond.deny
+- Wheaties? I don't know. - Wheaties.,respond.deny
+#NAME?,x
+"Yeah, buddy. You'd be surprised how good Wheaties works.",give.opinion
+Wheaties? W-E-D-S?,closed.question
+W-E-E-T-E-S.,respond.deny
+"- No. I don't know that. - Okay. Yup, it does the best.",give.opinion
+"Looks like they're getting ready to go, huh?",closed.question
+"We're going home to gut the fish, and we'll come back.",respond.agree
+"All right, Leon. I'mma go home and get me something to eat.",give.statement
+"- I'll be back down. - Okay, okay.",give.statement
+- I'll be back down. - Nice to meet you.,use.social.convention
+"All right, Leon.",use.social.convention
+#NAME?,x
+- I'm getting ready to leave. - Okay.,give.statement
+#NAME?,x
+"For a year and a half, I didn't have anything.",give.statement
+"When I started at Fuyao,",recall
+"I was thankful, I was blessed, I was...",recall
+"just on my knees, thanking God that I had something.",recall
+"- Hey, what's up, man? - Hey, what's going on?",use.social.convention
+Going good.,use.social.convention
+#NAME?,x
+This is the best game in town right now.,give.opinion
+"Going back in there for the first time,",give.statement
+I kind of welled up because...,recall
+I could see the post locations...,recall
+"you know, on the columns, you know?",recall
+Which actually tells you where you are in the plant.,recall
+"People still get lost. I said, ""I don't get lost.""",recall
+"At General Motors, I was making $29",recall
+and some change an hour.,recall
+"At Fuyao, I make 12.84.",give.statement
+"Back then, if my kids wanted a pair of new gym shoes,",recall
+I could just go get them. I can't just do that now.,give.statement
+"We lost our home, we lost a vehicle.",recall
+#NAME?,x
+"When GM closed, I foreclosed on my house.",recall
+"Ever since then,",recall
+I have struggled to try to get back to middle class again.,give.opinion
+I've been living in my sister's basement.,give.statement
+I am fortunate enough to have a bedroom.,give.opinion
+And the only thing in here is my end tables and my TV.,give.statement
+The bed isn't mine. The bed is theirs.,give.statement
+"You know? So, yeah.",give.statement
+"We've been down about... I don't know, 45 minutes or so.",give.statement
+"Water spots, I guess.",give.statement
+Thank you.,use.social.convention
+They've drained the washer. They're slowing it down.,give.opinion
+They get upset when we're all trying to figure something out.,give.opinion
+"Everybody gets upset, and then everybody's upset",give.statement
+"in their own language,",give.statement
+"and then everybody just walks their own way, and...",give.statement
+meet back here in five minutes.,give.statement
+Set the water temperature to 60°.,give.statement
+Because it has high alkalinity.,give.statement
+"Okay. Later on, we're going to try to lower the...",respond.agree
+Okay.,respond.agree
+Be careful.,give.statement
+Beautiful. Beautiful.,relax.atmosphere
+Down a little.,give.statement
+Down a little bit.,give.statement
+This damn thing...,relax.atmosphere
+#NAME?,x
+Allen wrench.,give.statement
+#NAME?,x
+My first impression of Ohio was how flat it is.,give.opinion
+My family's in China.,give.statement
+Two lovely children,give.opinion
+and a beautiful wife.,give.opinion
+Fuyao offered me my first job at 18.,recall
+I've worked in the furnace for more than 20 years.,recall
+"It's a hard job, but I love it.",give.opinion
+"Because of the language barrier and cultural differences,",give.statement
+it's hard to quickly integrate everyone's ideas.,give.opinion
+I don't have much time to eat every day.,give.statement
+"So every week, I bring a box of Twinkies.",give.statement
+This is my lunch.,give.statement
+I eat two at a time.,give.statement
+Look at the red sticks. This one is broken.,give.statement
+We have to pull it out by ourselves.,give.statement
+Look at the scars on my arm.,give.statement
+These are all scalds.,give.statement
+I got burned.,give.statement
+Air.,give.statement
+Wong and I have spent a lot of time together,give.statement
+with him teaching me everything...,give.statement
+"Mother's Day, we spent the whole weekend working together",give.statement
+"with our little translators, talking back and forth.",give.statement
+"That's when they told me that they had to be here two years,",recall
+"away from their family, no extra pay.",recall
+That really made me start thinking,give.statement
+and appreciating what they're doing for us more and more.,give.statement
+"I've ate at their house, they've ate at my home.",give.statement
+We've just bonded.,give.statement
+And we've tried to learn each other's culture.,give.statement
+"I got the big idea, Thanksgiving, to...",give.statement
+"invite my close friends,",give.statement
+which should have been about four or five of them.,give.statement
+"It ended up being, I think, 13.",recall
+"Bought a 25-pound turkey, the biggest",recall
+"honey-baked ham I could get,",recall
+and all of the traditional trimmings.,give.statement
+I know that in China they're not allowed to have guns.,give.statement
+"We had my 12-gauge shotgun out there, pistols.",recall
+Couple of the very brave ones wanted,recall
+to go up and down the road with me,recall
+on my Harley.,recall
+They talked about it forever.,give.statement
+That made me happy.,give.statement
+"That's the front page of The Washington Post, fellas.",give.statement
+That's big-time.,give.opinion
+The only negative thing that I can see from this article,give.statement
+"is that, out of our 2,000 people,",give.statement
+they picked the number one UAW...,give.statement
+organiser and sympathiser to talk to.,give.statement
+Number one.,give.statement
+"- Anyway, it's a big deal. - That's a big deal.",give.opinion
+With all of this scrutiny,give.statement
+and with all of this visibility comes,give.statement
+even more responsibility on us,give.statement
+to do things right.,give.statement
+Now the whole world is watching.,give.statement
+Now the whole world is watching us.,recall
+"It should say have ""to be the world.""",give.statement
+"Yeah, they said they had an S.",respond.agree
+Good afternoon.,use.social.convention
+#NAME?,x
+Good afternoon.,use.social.convention
+Thank you guys very much.,use.social.convention
+You don't know how important this is to Fuyao,use.social.convention
+and to the chairman.,use.social.convention
+The plant looks great.,give.opinion
+These people are coming here,give.statement
+to see something that they never in,give.statement
+their lifetime thought would happen.,give.opinion
+You have given hope and you have given life to a community,give.opinion
+that was desolate.,give.opinion
+This is one of the greatest projects,give.opinion
+in the history of the United States.,give.opinion
+"So, be proud, and most importantly,",give.opinion
+have fun.,give.opinion
+"Two lands,",give.opinion
+the bridge is what brings us together.,give.opinion
+Yeah.,give.opinion
+And the... How do you say in English?,closed.question
+#NAME?,x
+"Yes, bond.",respond.agree
+Welcome.,use.social.convention
+Welcome to the US.,use.social.convention
+Today the chairman's vision has been fulfilled.,recall
+Fuyao has invested close to 500 million.,recall
+Ni hao.,use.social.convention
+Really good seeing you guys. Thank you.,use.social.convention
+Thanks for having us out here. We really appreciate it.,use.social.convention
+- It's a big deal. - Absolutely.,give.opinion
+This is big. A lot of people.,respond.agree
+#NAME?,x
+Chairman ordered the weather.,give.statement
+"Oh, I mean, it couldn't be better.",respond.agree
+#NAME?,x
+#NAME?,x
+"Yeah, all right.",use.social.convention
+"""My dear guests and friends, good morning.""",recall
+"Today, we hold the opening ceremony",give.statement
+of Fuyao Glass America.,give.statement
+We've heard both candidates for president,give.statement
+refer to Ohio as the Rust Belt.,give.statement
+"And, you know, you look at... look at this today,",give.statement
+and we reject that term.,give.statement
+"With Chairman Cao, we know how to make everything in this state.",give.statement
+"And, this is a terrific example.",give.opinion
+One last point: I know many workers,give.statement
+here are trying to form a union,give.statement
+to strengthen their voice in this great company.,give.statement
+"Ohio has a rich... a rich, rich history",give.statement
+of unions and management working together.,give.statement
+"I support those in this community, in this plant, in this crowd",give.statement
+that want to vote on whether or not to join a union.,give.statement
+I hope Fuyao looks at it the same way. Thank you all so much.,use.social.convention
+Who the fuck does he think he is?,closed.question
+"Out of place, totally out of place.",give.opinion
+Fuck him.,give.statement
+"Three, two, one.",give.statement
+Our glass is totally made in USA.,give.statement
+"Ladies, you're doing a beautiful job.",give.opinion
+Create good glass and transfer good glass.,give.opinion
+The senator mentioned the workers union in his speech.,give.statement
+Does Fuyao have any good strategies,closed.question
+for avoiding these risks?,closed.question
+"Hey, Charles. How you doing, man?",use.social.convention
+"Dave, there's one thing I got to talk to you about.",give.statement
+Regarding Sherrod Brown's comments...,give.statement
+Yes.,respond.agree
+"You know, that's obviously not beneficial to us.",give.opinion
+Absolutely right.,respond.agree
+Don't wanna talk about certain topics.,give.statement
+Correct.,respond.agree
+"So I think, at this point, Chairman, you know,",give.statement
+will definitely ask about,give.statement
+- what we're gonna do about it. - It's okay. Yeah. Yeah.,respond.agree
+I'm gonna have to kill a senator.,relax.atmosphere
+I'm gonna take those big scissors and,relax.atmosphere
+cut the... Senator Brown's head.,relax.atmosphere
+He...,relax.atmosphere
+It's big.,relax.atmosphere
+He didn't tell us he was gonna do that.,relax.atmosphere
+"He did that on purpose, so they're cut off.",give.statement
+They'll never be allowed in the plant again.,give.statement
+You all know our stand on this.,give.statement
+We don't want to see the union developing here.,give.statement
+"""First, you all know our stand on this,",recall
+"that we want to avoid unions.""",recall
+"If we have a union, it will impact our efficiency,",give.opinion
+thus hurting our company.,give.opinion
+It will create loss for us.,give.opinion
+"If a union comes in, I'm shutting down.",give.statement
+They keep interfering with my production.,give.statement
+Slowly bleeding money is even worse than a union.,give.opinion
+"""Right now,",recall
+"if they're creating extreme inefficiency in my production,",recall
+"I'm just bleeding money.""",recall
+"John, if you want to continue to be president,",give.opinion
+you have to listen to my advice.,give.opinion
+Every piece of glass counts.,give.opinion
+Every piece that goes down that line and,give.statement
+"goes... gets on that customer truck,",give.statement
+it matters.,give.opinion
+Our customers are counting on us.,give.opinion
+"General Motors, Chrysler, Toyota, Honda.",give.statement
+"Whether it's coming from China or whether it's coming from Dayton,",give.statement
+it's the same... it's the same thing.,give.opinion
+We have to be able to provide them glass,give.statement
+"at the same level of efficiency,",give.statement
+the same level of cost and quality.,give.statement
+It's audit day.,give.statement
+We don't have glass to show them.,give.statement
+We should have some ready,give.opinion
+for the customers to check.,give.opinion
+"The glass is gonna run through the furnace,",give.statement
+basically the same as the other furnace over here.,give.statement
+This one's just a little bit faster.,give.statement
+"So it comes down the line, it comes in here.",give.statement
+Down in here is another one of those free-liners,give.statement
+that puts the glass into position.,give.statement
+This is an automatic...,give.statement
+Keep it or throw it out?,closed.question
+#NAME?,x
+There must be some flaws if the glass exploded.,give.opinion
+"The overall quality of the glass is not good enough,",give.opinion
+but there's no way to improve it now.,give.statement
+We still want to achieve our targets.,give.statement
+One is output. The second is speed.,give.statement
+We need one more person.,give.statement
+Transfer someone from China here.,give.statement
+"You have the Chinese, who want numbers on this side.",give.statement
+"You have Quality, who wants",give.statement
+customer satisfaction on this side.,give.statement
+And we're in the middle.,give.statement
+"Today was a shitshow, totally a shitshow.",give.opinion
+Any little microscopic chip can cause a breakage.,give.statement
+"As soon as it hits the press, it begins to cool.",give.statement
+If there's a...,give.statement
+Got it?,closed.question
+Four hundred-and-something degrees.,give.statement
+And they're six feet away from it?,closed.question
+"We need to find some solutions,",give.statement
+whether it's them stepping into a colder room,give.statement
+as soon as they leave there...,give.statement
+We've got to get them some relief.,give.statement
+How much time do you spend in there?,closed.question
+About ten minutes or so.,respond.agree
+"Ten minutes an hour, a day, a...?",closed.question
+Sometimes every hour.,respond.deny
+"So every hour? So you go in there, it's about 200 degrees,",give.statement
+and you clean up in there for about two hours... All right.,give.statement
+The conditions...,give.opinion
+are not favourable.,give.opinion
+Doing the same thing over and over again.,give.opinion
+That wears on you.,give.opinion
+"Body, mind...",give.opinion
+You're so... It's...,give.opinion
+Sometimes you think...,give.opinion
+"""Why am I doing this?""",recall
+You think about whether you have the stamina,give.statement
+and the will to do this type of job.,give.statement
+Anything they're not happy about?,closed.question
+It gets really hot in here.,respond.agree
+Our American colleagues are very afraid of heat.,give.opinion
+"We try to give them the environment they want,",give.statement
+as long as it's within a reasonable budget.,give.statement
+The spaces between the production lines are pretty narrow.,give.opinion
+The Occupational Safety & Health Administration,give.statement
+thinks it's too dense.,give.statement
+"""A tall tree catches the wind.""",give.statement
+"Yes, it's a huge tree.",respond.agree
+Let's welcome Chairman.,use.social.convention
+"Dear staff,",use.social.convention
+good morning.,use.social.convention
+We haven't reached our goals.,give.statement
+This is a very tough challenge for us.,give.opinion
+We are all Chinese.,give.statement
+We were born,give.statement
+of Chinese mothers.,give.statement
+No matter where you die or are,give.statement
+"buried, you will always be Chinese.",give.statement
+The motherland is like a mother.,give.statement
+This is eternal.,give.statement
+"Today, Chinese come to the US to operate factories.",give.statement
+"The most important thing is not how much money we earn,",give.statement
+but how this will change Americans' views of the Chinese,give.statement
+and towards China.,give.statement
+Every Chinese person should do things,give.statement
+for our country and our people.,give.statement
+It's down to every one of you here.,give.statement
+"American workers are not efficient, and output is low.",give.opinion
+I can't manage them.,give.statement
+"When we try to manage them, they",give.statement
+threaten to get help from the union.,give.statement
+How can we make Americans understand,closed.question
+that the Chinese can open factories in America?,closed.question
+This is a big problem.,give.opinion
+#NAME?,x
+#NAME?,x
+#NAME?,x
+♪ Noble sentiments ♪,misc
+♪ Are transparent ♪,misc
+♪ For the sake of transparency ♪,misc
+♪ We've gone through difficulties ♪,misc
+♪ For the sake of transparency ♪,misc
+♪ We've struggled every bit ♪,misc
+♪ Fuyao holds up ♪,misc
+♪ A transparent world ♪,misc
+♪ China is filled with spring ♪,misc
+♪ And happiness is everywhere ♪,misc
+♪ All the blessings from Fuyao ♪,misc
+♪ Are transparent ♪,misc
+Ni hao.,use.social.convention
+#NAME?,x
+Ni hao. Good morning. Pleasure to meet you.,use.social.convention
+#NAME?,x
+#NAME?,x
+#NAME?,x
+Nice to meet you.,use.social.convention
+#NAME?,x
+Ni hao.,use.social.convention
+"Good morning, my name is John Withrow.",use.social.convention
+I'm supervisor in Lamination.,give.statement
+Good morning. I'm Austin Cole.,use.social.convention
+I'm a tempering backlight production supervisor.,give.statement
+"Jon Helton, the continuous improvement supervisor.",use.social.convention
+"Good morning, Darren Noble. Lead",use.social.convention
+"supervisor, ARG packaging assembly.",give.statement
+"Welcome, everybody.",use.social.convention
+Welcome home.,use.social.convention
+The whole world is looking at FGA and you guys are the top guns.,give.opinion
+We are investing in the US.,give.statement
+"We love the country, and we want to be part of the country",give.opinion
+and provide benefits to the country.,give.opinion
+And we hope that FGA will be profitable soon,give.opinion
+and to let our customers know that we are a strong company.,give.opinion
+This is a very valuable time and also a special time.,give.opinion
+"Tonight we'll have you join our year-end group party,",give.statement
+"and, we also hope you can, get some time to taste local cuisines.",give.statement
+Thank you for putting us up in a nice hotel.,use.social.convention
+Yes.,respond.agree
+I think that we are also anxious to see how your process runs,give.opinion
+and look forward to taking back new ideas,give.opinion
+and implementations to help us run better as well.,give.opinion
+I can't breathe in that.,relax.atmosphere
+Non-stop.,give.statement
+#NAME?,x
+"This is the line they'll run 7,000 on?",closed.question
+We hope someday to get this good.,give.statement
+Attention.,give.statement
+Dress right.,give.statement
+Keep an eye on the distance,give.statement
+between yourself and others.,give.statement
+Eyes front.,give.statement
+Straddle.,give.statement
+"Hello, everyone.",use.social.convention
+Good. We are good.,use.social.convention
+Number off.,give.statement
+#NAME?,x
+#NAME?,x
+#NAME?,x
+#NAME?,x
+#NAME?,x
+Eleven.,give.statement
+#NAME?,x
+#NAME?,x
+#NAME?,x
+Eighteen.,give.statement
+Nineteen. Report.,give.statement
+"There should be 19 people in this team, and all 19 people are here.",give.statement
+Over.,give.statement
+Good afternoon.,use.social.convention
+Good afternoon.,use.social.convention
+#NAME?,x
+#NAME?,x
+#NAME?,x
+Attention.,give.statement
+#NAME?,x
+Our slogan is?,closed.question
+To stand still is to move back.,respond.agree
+Attention.,give.statement
+The preparation meeting is over.,give.statement
+Dismissed.,give.statement
+I heard things are not going too well over there.,closed.question
+Right. That's true. That's why we're doing training here.,respond.agree
+You guys have eight days off every month.,give.statement
+You have all the weekends.,give.statement
+Only eight hours a day. That's an easy life.,give.opinion
+Yes.,respond.agree
+These workers only have one or two days off per month.,give.statement
+They're not too happy about that.,give.opinion
+That's why I told you American workers are too lazy.,give.opinion
+It's just your nature. But you're not bad.,respond.deny
+Every person can be changed.,give.opinion
+We have some extremely diligent workers.,give.opinion
+"Very motivated, very ambitious.",give.opinion
+They're great.,give.opinion
+"But most workers are there just to make money,",give.opinion
+not to make glass.,give.opinion
+How many hours a day do they work?,closed.question
+Eight hours per shift.,respond.agree
+Eight hours. So about 100 dollars a day.,give.statement
+Here we say you have to be worthy of your salary.,give.statement
+"You need to prove you deserve it. You understand, right?",closed.question
+"Yes, I understand.",respond.agree
+I heard that your workers like to joke around and talk a lot.,give.opinion
+The best tool we can use is duct tape.,relax.atmosphere
+Put it over their mouths. They will perform better.,relax.atmosphere
+#NAME?,x
+Can you do that there?,closed.question
+"No, we can't. But if we could do",respond.deny
+"that, we'd have improved production.",give.opinion
+Because they're too chatty now.,relax.atmosphere
+"Well, the most important thing",give.opinion
+is that you all should be united and concentrate your efforts.,give.opinion
+It's not bad working here.,give.opinion
+I'm married.,give.statement
+My child is in my home town.,give.statement
+"We don't have many holidays, so I",give.statement
+don't have much time to go back home.,give.statement
+"Only during the Spring Festival, once a year.",give.statement
+We work 12 hours a shift.,give.statement
+"I'm tired, but I have no choice.",give.statement
+We work whenever we're asked by our leader.,give.statement
+I have two kids now.,give.statement
+"One is six months old, the other is four years old.",give.statement
+They're pretty young.,give.opinion
+"If we're too busy, we may not be able to take days off.",give.statement
+I only go home once or twice a year.,give.statement
+"My older kid is 11, and the younger one is eight.",give.statement
+I work long hours and I spend very little time with them.,give.statement
+Holy shit.,relax.atmosphere
+"They don't have any safety glasses on, nothing. Unbelievable.",give.statement
+Those aren't even cut-resistant gloves.,give.statement
+"Man, that is nuts.",relax.atmosphere
+You got to be kidding me.,relax.atmosphere
+The glass in our factory...,give.statement
+Different glass colours have different values for recycling.,give.statement
+So they have to sort the colours.,give.statement
+These people sit there all day long doing that.,give.statement
+That's fucking crazy. Picking through fucking glass like that.,give.opinion
+We are energetic at Fuyao.,give.opinion
+All of us are energetic and happy to work here.,give.opinion
+All of our workers are members of the workers union.,give.statement
+"Mao Zedong,",give.statement
+"and this is Deng Xiaoping,",give.statement
+"Jiang Zemin,",give.statement
+"Hu Jintao,",give.statement
+Xi Jinping.,give.statement
+These are the five leaders since China was established.,recall
+"Without backing from the government,",give.statement
+the company wouldn't get too far.,give.opinion
+Our workers union and the company,give.statement
+are closely related to each other.,give.opinion
+They are like two gears rotating together.,give.opinion
+We need our workers to fight for Fuyao's success.,give.opinion
+We are all in the same boat.,give.opinion
+Keeping the boat safe means everyone is safe.,give.opinion
+"If the boat sinks, everyone loses their jobs.",give.opinion
+It's quite simple.,give.opinion
+"Chairman Cao, here is a hada for you.",give.statement
+Next on the red carpet will be workers from two teams.,give.statement
+They have won the Excellent Team award.,use.social.convention
+Year 2017...,use.social.convention
+"""Soaring ambitions.""",give.statement
+"""The spirit of craftsmanship is all over China.""",give.statement
+Let's welcome Chairman Cao with our warmest applause.,use.social.convention
+"Dear Chairman,",use.social.convention
+"dear colleagues,",use.social.convention
+tonight is a gathering time for our Fuyao family.,use.social.convention
+Everybody performing tonight works here at Fuyao.,give.statement
+♪ We've cooked A joyful New Year's Eve dinner ♪,misc
+♪ The family is cheerful the family is joyful ♪,misc
+♪ We wish you radiant joy ♪,misc
+♪ Happy New Year we wish you an auspicious New Year ♪,misc
+♪ We wish you a safe year we wish your family a fortunate New Year ♪,misc
+♪ May you be happy and prosperous ♪,misc
+"♪ May the best come, may the worst leave ♪",misc
+♪ Always be courteous and polite ♪,misc
+♪ May you be happy and prosperous ♪,misc
+Come on. Two words have become really popular recently.,give.opinion
+What are the words?,closed.question
+Intelligence. Lean.,respond.agree
+♪ Intelligent and lean manufacturing ♪,misc
+♪ All industries should adopt them ♪,misc
+"♪ Finance, service, manufacturing ♪",misc
+♪ Intelligent and lean manufacturing ♪,misc
+♪ Technology is developing rapidly ♪,misc
+♪ The information age has already arrived ♪,misc
+♪ Employee relations system is amazing ♪,misc
+♪ Great at resource integration and market response ♪,misc
+♪ Waste eliminated and revenues generated ♪,misc
+"♪ Transition, upgrade promotion, integration ♪",misc
+♪ A corporation with lean manufacturing ♪,misc
+♪ Fuyao is creating a new future ♪,misc
+"We're very impressed,",give.opinion
+"everybody from the United States, with China's operations.",give.opinion
+Very harmonious people.,give.opinion
+You see it and you feel it.,give.opinion
+♪ Young man there's no need to feel down ♪,misc
+"♪ I said, young man pick yourself off the ground ♪",misc
+"♪ I said, young man because you're in a new town ♪",misc
+♪ There's no need to be unhappy ♪,misc
+♪ It's fun to stay at the YMCA ♪,misc
+♪ It's fun to stay at the YMCA ♪,misc
+♪ They have everything for the men to enjoy ♪,misc
+♪ You can hang out with all the boys ♪,misc
+♪ It's fun to stay at the YMCA ♪,misc
+Please hold the hand of your bride.,give.statement
+"From this moment on,",give.statement
+"no matter poor or rich,",give.statement
+"you will always care for her,",give.statement
+"cherish her, and protect her,",give.statement
+until forever.,give.statement
+Will you?,closed.question
+#NAME?,x
+We're one...,give.opinion
+big planet.,give.opinion
+A world...,give.opinion
+somewhat divided.,give.opinion
+But we're one.,give.opinion
+And tonight is an example.,give.opinion
+#NAME?,x
+Happy tears.,give.statement
+I'm very happy to share in your culture.,give.statement
+#NAME?,x
+We are one.,give.statement
+#NAME?,x
+"Yes. One tongue, one company.",respond.agree
+Yes.,respond.agree
+Thank you.,use.social.convention
+- Aren't watermelons sweet? - Sweet.,use.social.convention
+Choose the best picture to put on the cover,give.statement
+of the next edition of Fuyao People.,give.statement
+"This is my community,",give.statement
+"and to see this building come back to life,",give.opinion
+it meant a lot to me.,give.opinion
+"Fuyao is the leader, Fuyao is changing the industry,",give.opinion
+and I see us becoming number one in the world next year,give.opinion
+and number one in the world every year.,give.opinion
+"Yes, sir. How are you doing?",use.social.convention
+I have a really good idea for you.,give.opinion
+Why don't you film,give.opinion
+those three microwave ovens that have been out for two weeks,give.opinion
+- that haven't been replaced? - Okay.,give.opinion
+- Why don't you film that? - We will.,give.opinion
+And tell me why this area is now gonna be used for production,closed.question
+and no longer a lunchroom.,closed.question
+There's signs all over that say that.,give.statement
+Where's the lunchroom gonna be?,closed.question
+I have no clue. You're telling me...,respond.deny
+That's typical.,give.statement
+You're telling me... telling me something new.,give.statement
+I just got back from vacation.,give.statement
+They're gonna take all the tables and all the chairs out,give.statement
+and make this a production space. Like everywhere else.,give.statement
+I hope they make your office a production space.,give.statement
+They manage to have these things on all the time. This is America.,give.statement
+We don't need Chinese children singing and praying.,give.opinion
+"Coming back from the China trip,",give.statement
+some of the things I started implementing...,give.statement
+"Well, the first thing I implemented was...",give.statement
+"At our pre-shift meeting,",give.statement
+we used to just kind of sit at the tables and talk and...,give.statement
+"watching the Chinese shift meeting,",give.statement
+where he had them all lined up...,give.statement
+I've found that that's worked out really well for me back here.,give.statement
+"Good morning, everybody.",use.social.convention
+"Greg, I need you to stand on two, starting off.",give.statement
+"Chuck, I need you standing on three.",give.statement
+I think that's everybody.,give.statement
+It's an experiment.,give.statement
+"So, the lines are running okay today?",closed.question
+Everybody got your glasses and boots?,closed.question
+We're good?,closed.question
+Any questions?,closed.question
+"Okay, let's have a good day.",use.social.convention
+They're gonna do surgery for your hand?,closed.question
+They're gonna tell me tomorrow.,deflection
+They'll tell you tomorrow what your recovery's gonna be.,give.statement
+"Yeah, they'll probably start at four weeks,",give.statement
+"determine what... you know, how it's gonna be,",give.statement
+"and then, from there, go to the eight weeks.",give.statement
+I'm worried about my points.,give.statement
+#NAME?,x
+Don't worry about any of that.,give.statement
+Don't have to worry about your points for missing time.,give.statement
+I don't wanna lose my job.,give.statement
+"No, you're not gonna lose your job.",respond.deny
+- What's that? - My pay?,closed.question
+- Yes. - It's covered?,respond.agree
+"Yes. I don't know how all of that works,",give.statement
+but it is.,give.statement
+Yeah.,give.statement
+Everybody at every level will say we,give.statement
+"really, really, really want to be safe.",give.statement
+But safe doesn't pay the bills.,give.statement
+"The room that we work in, there's only one way in,",give.statement
+no doors on the opposite side.,give.statement
+"If a fire breaks out,",give.statement
+that's like being trapped.,give.statement
+They're wanting us to pull one of,give.statement
+those big sheets off and inspect it.,give.statement
+Some of this float glass is so big,give.statement
+"that I'm gonna have people exposing their face,",give.statement
+and I don't... I don't need to do that.,give.opinion
+"A couple days ago, I had to tell the Chinese fellow",give.statement
+that I absolutely refuse to pick up,give.statement
+two loads with a stand-up forklift.,give.statement
+It's not strong enough.,give.statement
+"I said, ""If you want to do it, that's",recall
+"fine, you do it. I'm not doing it.",recall
+"I'm not... I'm not risking somebody's life.""",recall
+"Out of all my working life,",give.statement
+"I have never ever had a workplace injury, ever.",give.statement
+"I mean, 15 years at General Motors,",give.statement
+"you know, never a workplace injury.",give.statement
+And then my new job at Fuyao...,give.statement
+what happens?,closed.question
+I get a workplace injury.,give.statement
+"Right now, I'm outside the Moraine plant here,",give.statement
+off Kettering Boulevard.,give.statement
+There have been 11 safety complaints filed against Fuyao.,give.statement
+Some workers claim unsafe working conditions,give.statement
+and unfair treatment.,give.statement
+"I say ""people,"" you say ""power.""",relax.atmosphere
+#NAME?,x
+#NAME?,x
+"I say ""people,"" you say ""union.""",relax.atmosphere
+#NAME?,x
+#NAME?,x
+All right. Whoo.,relax.atmosphere
+"Meeting after work, don't forget, next week.",give.statement
+We'll see you there. Bring your co-workers.,give.statement
+There's a lot of information that you're seeing on TV about Fuyao.,give.statement
+"""Safety concerns,""",recall
+"other things that are... are being reported,",give.statement
+much of which we do not believe are true.,give.opinion
+Because if you bring in a union...,give.statement
+this becomes illegal.,give.statement
+You cannot do it any more.,give.statement
+"Instead, if I'm an employee,",give.statement
+I have to take my concerns to the union rep.,give.statement
+"When we had this training in private,",give.statement
+I was horrified by this picture.,give.opinion
+"If this becomes a reality,",give.opinion
+we wouldn't be able to communicate directly,give.opinion
+with our American co-workers.,give.opinion
+Isn't that terrible?,closed.question
+"If we are able to improve our management capabilities,",give.opinion
+it will help quell the union rebellion.,give.opinion
+"""And if we are able to improve our management capabilities,",recall
+"it will help with our campaign against union organisations...""",recall
+We hired Americans to work as our managers and supervisors.,give.statement
+"Our expectation was that we could trust them,",give.opinion
+"pay them a high salary, and they would serve the company.",give.opinion
+Why didn't they?,closed.question
+I think they are hostile to Chinese.,give.opinion
+The loss from January to October,give.statement
+is about 40 million US dollars.,give.statement
+We have to reverse the tide as soon as possible.,give.opinion
+"With the new restructuring,",give.statement
+I believe we will see this plant in profit very soon.,give.opinion
+We've invited Jeff Liu to be our new president.,give.statement
+"Good morning, everyone.",use.social.convention
+"I was born in 1963, in the Year of the Rabbit.",give.statement
+I've spent 27 years in the US and 26 years in China.,give.statement
+"People always guess I am in my 40s, but I'm actually 53.",give.statement
+Why is that? Because I have passion.,give.opinion
+I have determination to do things well.,give.opinion
+"""A major shake-up of the company's senior management team,",recall
+with company President John Gauthier,recall
+"and Vice President Dave Burrows leaving.""",recall
+Actually...,give.statement
+terminated.,give.statement
+♪ We wish you a Merry Christmas ♪,misc
+♪ We wish you a Merry Christmas ♪,misc
+♪ And a Happy New Year ♪,misc
+♪ We wish you a Merry Christmas ♪,misc
+#NAME?,x
+"Need a hat, Jim?",closed.question
+- Right here. I'll take it. - All right.,respond.agree
+"- That's good, brother. - Merry Christmas to you.",use.social.convention
+Merry Christmas to you. Thanks for your work.,use.social.convention
+"Hello, everybody.",use.social.convention
+I would like to use this opportunity,give.statement
+to thank each of you for the hard work.,give.statement
+"And also, we need to work as a team",give.statement
+"under one roof, one culture,",give.statement
+and make a great year for 2017.,give.statement
+We can turn the company around.,give.statement
+"We make more money, and everybody gonna share the piece of pie.",give.statement
+How's that?,closed.question
+Not bad.,respond.agree
+"You want a hat, Chairman?",closed.question
+He asked if you want a hat.,recall
+Of course.,respond.agree
+"Here you go, boss.",give.statement
+Let me wear a hat.,give.statement
+Hi.,use.social.convention
+#NAME?,x
+#NAME?,x
+Ni hao.,use.social.convention
+Someone from work was kind enough to tell me,give.statement
+that there were these apartments.,give.statement
+Four hundred and eighty dollars a month.,give.statement
+I fell in love with it.,give.opinion
+I can afford to live here,give.statement
+and have my own place and feel independent again.,give.statement
+Smells good.,give.opinion
+This is the most enjoyable moment in a day.,give.opinion
+"After I finish the cigarette, my mind just calms down.",give.statement
+We workers lay down tracks,give.opinion
+so the train can run smoothly.,give.opinion
+The only thing we have in mind is to do our best.,give.opinion
+That's true for everyone here.,give.opinion
+My wife.,give.statement
+My toothache has gone.,give.statement
+I've fully recovered.,give.statement
+"The last time I cried, I was a teenager.",recall
+But I cried once after coming here.,recall
+I don't dare mention that to other people.,give.statement
+"But when all is quiet in the dead of night,",give.statement
+I miss my family.,give.statement
+I've learnt most of what I learnt from Leon and Wong.,give.opinion
+None of us knew glass when we came there.,give.statement
+"When you get to be my age, not too many people wanna hire you.",give.opinion
+They don't wanna take a chance.,give.statement
+"My brother, he's my Chinese brother.",give.statement
+"I would have his back, just like I'd have one of my own brothers'.",give.opinion
+I just... I think the world of him.,give.opinion
+Are you okay?,closed.question
+My supervisor started yelling at me.,give.statement
+When... You work at the table right there.,give.statement
+I was working right here just fine.,give.statement
+Now he wanna change it right over here.,give.statement
+"We know, the table over there.",give.statement
+"Now, instead of here, they want you to do it here? Okay.",give.statement
+He said he expects us to do eight boxes at a time.,give.statement
+I just want to make sure you're not gonna get hurt.,give.statement
+He said he want us to push them in here.,give.statement
+"Well, now, you... It's probably too heavy for you to push it.",give.statement
+So you need to let him know that.,give.statement
+I don't understand.,give.statement
+"Sometimes, why she don't know to tell that?",closed.question
+Make sure you're communicating to them that you need help.,give.statement
+I have.,give.statement
+He knows.,give.statement
+"Rather than trying to find resolution,",give.opinion
+they try to find out who's wrong.,give.opinion
+"And, in this case, they're both wrong.",give.opinion
+You need some skills to handle Americans.,give.opinion
+How can we take advantage of American characteristics,closed.question
+to make them work for Fuyao?,closed.question
+There's a culture in the US,give.opinion
+where children are showered with encouragement.,give.opinion
+So everyone who grows up in the US is overconfident.,give.opinion
+They are super confident.,give.opinion
+Americans love being flattered to death.,give.opinion
+You will get into trouble if you fight with them.,give.opinion
+"""Donkeys like being touched in the direction their hair grows.""",recall
+Right?,closed.question
+You should touch donkeys in the direction their hair grows.,give.opinion
+"Otherwise, they'll kick you.",give.statement
+Do you understand what I'm saying? You do? Okay.,closed.question
+We need to use our wisdom to guide them and help them.,give.opinion
+Because we are better than them.,give.opinion
+"They refer to us as ""the foreigners.""",recall
+People just want... They wanna feel,give.statement
+"like they're in America working,",give.statement
+"not like, when they walk in the door,",give.statement
+that they've left America and they're now in China.,give.statement
+They work non-stop. They're in there all the time.,give.statement
+"Around the clock, 24 hours a day. They're in there on Sundays.",give.statement
+"There's been some days, they don't want us to take a break for lunch,",give.statement
+because they need X amount of glass out.,give.statement
+The Chinese really don't help us out at all.,give.opinion
+They just walk around and tell the Americans what to do.,give.opinion
+"""Just do this."" And you're like, ""Why?""",recall
+"They don't tell you why at all, and they walk away.",give.statement
+"I know it's a growing company, I know it's new.",give.statement
+"But with the workload that comes with it,",give.statement
+"you know, you wanna keep your employees around,",give.statement
+especially your good workers.,give.statement
+"A simple pay raise, even if it's just a dollar.",give.opinion
+Just show your appreciation for them and their hard work.,give.opinion
+"Optimism, hope. That was what we were all going in with.",give.opinion
+The future looked bright.,give.opinion
+"Now, it's just... It's a 180.",give.opinion
+"To me, it's like they don't respect you.",give.opinion
+"At least 3,000 people have come and gone, either fired or quit.",give.statement
+"Whenever you have a frustrating day, you can go outside and...",give.statement
+throw your bin over.,give.statement
+Every one of our bosses were demoted.,give.statement
+#NAME?,x
+Have the Chinese changed their mind?,closed.question
+Are they not gonna turn this over to us?,closed.question
+Because that was one of the...,give.statement
+definitely that was one of the things,give.statement
+that intrigued me about coming here.,give.statement
+I love the fact that they came in here. I love this business.,give.opinion
+I worked at Appleton for over 20 years,give.statement
+and I was one of the guys that got laid off in 2012.,give.statement
+I've been looking for something for four years.,give.statement
+I like working with the people on the floor.,give.opinion
+They are working their tails off.,give.statement
+"And they're not getting anything for it,",give.opinion
+and I'm not talking about compensation.,give.statement
+They're not getting patted on the back.,give.opinion
+I've seen the Chinese pouring chemicals down the drain,give.statement
+out the back of our dock.,give.statement
+Chemicals.,give.statement
+There was a trail of yellow paint going right to the sewer.,give.statement
+- Right out our back door. - You couldn't miss it.,give.statement
+It's like they don't even know what the rules are.,give.statement
+It's...,give.statement
+"And I'm thinking, ""This is all going into the sewer",recall
+"and going into drinking water somewhere.""",recall
+I don't wanna waste your time and I don't wanna to waste my time.,give.statement
+"With what we say at this table,",give.statement
+will it make a difference?,closed.question
+I've asked security to come escort,give.statement
+you out if you're going to do that.,give.statement
+Okay.,give.statement
+"Man, they treat these people like shit in there.",give.opinion
+"Sometimes, you got to be Sally Field.",give.statement
+If there are things your boss can't,give.statement
+"fix for you, come talk to me.",give.statement
+Especially how to manage American workers.,give.statement
+Can we force them to work overtime?,closed.question
+#NAME?,x
+"From HR's perspective,",give.statement
+we can't force them to work overtime.,respond.deny
+We can't say anything like that.,give.statement
+"But in China, it's mandatory.",give.statement
+The Americans... I don't give a shit what they think.,give.opinion
+"Go ahead and sue me,",give.statement
+but they should come the hell in on Saturdays.,give.opinion
+That's how I would do it.,give.opinion
+I think the most important thing is mutual understanding.,give.opinion
+We're under enormous pressure here.,give.opinion
+A lot more pressure than in China.,give.opinion
+There was a guy who couldn't fall asleep for a couple of days.,give.statement
+I really admire Americans.,give.opinion
+They can work two jobs.,give.statement
+They can have another job besides working here.,give.statement
+I always thought Americans lived a comfortable and superior life.,give.opinion
+I thought they didn't have to make any sacrifices.,give.opinion
+"Good afternoon, everyone.",use.social.convention
+Good afternoon.,use.social.convention
+All the stories that you've heard about Fuyao is true.,give.statement
+"Just to give you an idea how things are,",give.statement
+my daughter does nails for a living.,give.statement
+"Last year, she made $13,000 more than I did.",give.statement
+"Now, think about that.",give.statement
+"She cleared $40,000. I made 27.",give.statement
+Something's wrong with that.,give.opinion
+A co-worker of mine was fired,give.statement
+for being hospitalised for a week and not calling off.,give.statement
+That could've been me. What if I got sick?,give.statement
+Would they fire me?,closed.question
+"The man I was working with,",give.statement
+the cardboard he was sitting on caught on fire.,give.statement
+And they just kept right on working.,give.statement
+Dayton taxpayers and the state of Ohio have committed,give.statement
+"tens of millions of dollars to Fuyao,",give.statement
+and yet Fuyao management has failed,give.opinion
+to provide the good and the safe jobs,give.opinion
+that this community deserves.,give.opinion
+Labour.,give.statement
+Working people and the labour movement built America.,give.statement
+It is what made America great the first time.,give.statement
+The working people at Fuyao right now who don't have a...,give.statement
+You have a birthright that's paid for,give.opinion
+by the sweat and blood of people in this room,give.opinion
+"and people who have gone before people in this room,",give.opinion
+"so that you had a right to fair life,",give.statement
+to a workplace that was safe.,give.statement
+We fought these battles 70 years ago.,give.statement
+We rejected 70 years ago,give.statement
+that management and companies and rich people,give.statement
+get to pick and choose,give.statement
+what happens to you or what you get or what you don't get.,give.statement
+Nothing in America has changed,give.opinion
+in terms of working people working hard.,give.opinion
+That's not what changed in America.,give.opinion
+What changed in America was people at the top,give.opinion
+deciding they wanted to rewrite the rules,give.opinion
+to take advantage of people.,give.opinion
+To make it in their favour at your expense.,give.opinion
+"And you have a right and an obligation to say no to that,",give.statement
+and that's what unionising at Fuyao is all about.,give.statement
+"And over the course of fighting for this all these years,",give.statement
+we found a way for companies to make,give.opinion
+"money and still be fair to employees,",give.opinion
+"and still pay employees a decent wage,",give.opinion
+and still make sure that they were safe.,give.opinion
+These two things can exist together.,give.opinion
+"As you fight this fight at Fuyao,",give.statement
+"as UAW stands by you and fights that fight with you,",give.statement
+as we show Fuyao that we do things a,give.statement
+"little bit different in Dayton, Ohio,",give.statement
+"I will be there every step of the way fighting with you,",give.statement
+"on the side of UAW, on the side of workers,",give.statement
+and we will win this fight. Thank you.,use.social.convention
+#NAME?,x
+Next Monday...,give.statement
+"everybody already employed in this room,",give.statement
+"whatever you're paid today, two dollars more.",give.statement
+Thank you.,use.social.convention
+"Everybody, whatever you make today,",give.statement
+two dollars more next Monday.,give.statement
+Yeah.,give.statement
+Great?,closed.question
+"And the people say, ""Why are you doing that? We're losing money.""",recall
+The good efficiency generate from the good employee.,give.opinion
+How do we keep a good employee? Better pay.,give.opinion
+We want to be the best employer in this town. But in return...,give.statement
+"work hard, work longer.",give.statement
+"Our team here, we can do the same job as China.",give.opinion
+"Raise the bar, and I believe the future will belong to everybody.",give.opinion
+Thanks again.,use.social.convention
+Victory. Whoo.,relax.atmosphere
+#NAME?,x
+#NAME?,x
+They don't want to have to abide by the rules and regulations,give.opinion
+of the United States.,give.opinion
+"They're in America, and we want to make sure",give.statement
+that they abide by the laws in America.,give.statement
+♪ We can bring to birth a new world from the ashes of the old ♪,misc
+♪ For the union makes us strong ♪,misc
+♪ Solidarity forever ♪,misc
+♪ Solidarity forever ♪,misc
+♪ Solidarity forever ♪,misc
+♪ Because the union makes us strong ♪,misc
+♪ Solidarity forever ♪,misc
+We have a better chance of having things done fair,give.opinion
+if we have it written out in a contract.,give.opinion
+That's why we need a union.,give.opinion
+Management would listen to us because they had to.,give.opinion
+"Every job I've ever worked on, being a black woman,",give.statement
+that's the only way that we have a chance.,give.opinion
+"I understand that, at times, there's",give.statement
+"gonna be a need for a union,",give.statement
+"but right now, I got a man that's given me a good job,",give.opinion
+"given me a good wage, and allowed me to come to work every day.",give.opinion
+I don't have any need for somebody else,give.statement
+to come in and get in the middle of this.,give.statement
+The only thing the union's gonna do is keep the bad workers.,give.opinion
+"And the good workers, it's just gonna go along like it is for us.",give.opinion
+How's that work for me?,closed.question
+I know there are some union activists here.,give.statement
+I know because I have people,give.statement
+who spy for me.,give.statement
+I have many different ways to deal with them.,give.statement
+Here is one. He is pro-union.,give.statement
+This is him. This person here.,give.statement
+"Look, we get along pretty well.",give.opinion
+You won't see him here in two weeks' time.,give.statement
+Good afternoon.,use.social.convention
+I want to thank you so much for coming.,use.social.convention
+I know you didn't have a choice.,give.statement
+The union will go out of their way,give.statement
+to try to convince you that it's a good thing for you,give.statement
+and that it is in your best interest.,give.statement
+"The contract that you get,",give.statement
+"if you get one,",give.statement
+might include better wages and benefits.,give.statement
+That contract might include the same,give.statement
+wages and benefits you have today.,give.statement
+And that contract finally might,give.statement
+include less wages and less benefits.,give.statement
+"And the threat of a strike is no longer scary to employers,",give.statement
+"because today if you go on strike, while you can't get fired,",give.statement
+the employer has the right to permanently replace you.,give.statement
+I'll let that sink in.,relax.atmosphere
+"You can't get fired for going on strike,",give.statement
+but you can get permanently replaced.,give.statement
+So are you telling us not to vote for the union?,closed.question
+I'm here to tell you to do what you want.,deflection
+I got a question. Who do you work for?,closed.question
+I work for a company called Labour Relations Institute.,respond.agree
+We're a labour consulting firm.,give.statement
+#NAME?,xx
+Didn't I say that? I usually say that in every meeting.,give.statement
+"- No. - No, you didn't say that yet.",respond.deny
+"Well, the reality is, they pay me to consult with you here...",give.statement
+They pay you to talk to us?,closed.question
+They pay me. They don't pay me enough,give.statement
+to stand up here and lie to you.,give.statement
+Okay?,closed.question
+"He says that he was being impartial, but he wasn't.",give.opinion
+The UAW is free to use everywhere else in the world.,give.statement
+If they want to pay our... pay our workforce,give.statement
+"to sit through a presentation, to listen to the pitch,",give.statement
+that's their right.,give.statement
+"But while they're on our clock, it's our message.",give.statement
+They spent a lot of money to bring these people in here,give.statement
+to make sure that every employee,give.statement
+"goes through this session,",give.statement
+"not once, but twice, maybe three times.",give.statement
+They have people walking around there with patches and stickers on,give.statement
+"that's saying: ""Vote no.",recall
+"You still have a voice.""",recall
+"Now, my question to them people are:",give.statement
+What voice do you have?,closed.question
+When have you ever had a voice?,closed.question
+"Ever since they started this job, it's been a two-man job.",give.opinion
+"When they put me out here on it,",give.statement
+they decided they wanted it to be a one-person job.,give.statement
+"When I went to talk to HR, I told them they were targeting me.",recall
+Put me on a job to set me up to write me up for performance issues,recall
+and fire me.,recall
+I got the phone call from Fuyao,recall
+that they had fired me.,recall
+I really truly feel like... that they targeted me.,give.opinion
+"I was on the news, I was at the city council meetings.",give.statement
+It's been a pretty sad...,give.opinion
+few days.,give.opinion
+This sinking feeling of...,give.statement
+"""I don't have a job.""",recall
+"I mean, I'm a good worker.",give.opinion
+Workers union.,give.statement
+Should I have gotten so involved?,closed.question
+Put my whole life into it?,closed.question
+Here's old Fuyao.,give.statement
+Can't spell Fuyao without F-U.,relax.atmosphere
+"When I was at Fuyao, I didn't think we needed a union.",recall
+"Move forward to today, you have no voice, you have...",give.opinion
+"Truly, you...",give.opinion
+"From what I'm told, there really isn't an American with authority",give.opinion
+that they can talk to.,give.opinion
+"You know, I...",give.opinion
+I think these employees need something.,give.opinion
+"I think I need to make only two more trips this year,",give.opinion
+if you achieve what you planned.,give.statement
+Why do I need to come here? It's not convenient for me. Right?,closed.question
+You think I like to come to America every month?,closed.question
+It's tiring.,give.opinion
+Is the union making any noise?,closed.question
+"No, not too much.",respond.deny
+Better than it was before.,give.opinion
+"Recently, we fired a lot of union supporters.",give.statement
+We have tried different ways. It's worked out.,give.opinion
+A lot of active ones left...,give.statement
+Then you guys should hire more excellent people.,give.opinion
+Young people.,give.statement
+This is the culture I want for our company.,give.statement
+Then we will have a good atmosphere here.,give.opinion
+A lot of things here in the US are different from China.,give.opinion
+"Well, we've invested here already. It's just not working that well.",give.opinion
+Ah?,relax.atmosphere
+"Morning, you all.",use.social.convention
+#NAME?,x
+#NAME?,x
+#NAME?,x
+#NAME?,x
+"Fired up, ready to win.",relax.atmosphere
+"These are actually people from the United Auto Workers Union,",give.statement
+"and they're out here demonstrating,",give.statement
+trying to encourage Fuyao employees,give.statement
+"to vote ""yes.""",give.statement
+Fuyao released a statement earlier,give.statement
+saying that they believe the United Workers Union is corrupted,give.statement
+"and they hope that the workers vote ""no.""",give.statement
+"More than 1,500 workers are expected...",give.statement
+We all have a psychological shadow.,give.opinion
+Fuyao doesn't want to be controlled by the union.,give.opinion
+"As the Chinese saying goes,",give.statement
+"""One mountain cannot hold two tigers.""",recall
+Voting just ended an hour ago.,give.statement
+Now the National Labour Relations Board,give.statement
+is counting those votes inside the plant,give.statement
+with both Fuyao and UAW watching...,give.statement
+Yes.,give.statement
+We won by a landslide.,give.statement
+We won 60%?,closed.question
+Right.,respond.agree
+We're awesome.,give.opinion
+"868 noes, 444 yes.",give.statement
+Yeah.,relax.atmosphere
+Yeah.,relax.atmosphere
+I wasn't shocked...,give.statement
+because I know the... the young people got scared.,give.opinion
+"Them LRI people scared the shit out of them, that's all.",give.opinion
+"Before we started having those trainings,",give.statement
+"I felt like there was a big ""yes"" vote.",give.opinion
+"They spoke a lot about a strike,",give.statement
+"and like, not being able to be paid, unless we... You know.",give.statement
+"So, I feel like people, you know, are worried about their income.",give.opinion
+"Because I definitely was, you know? So...",give.opinion
+There you have it. Overwhelming no.,give.statement
+"Good morning, everyone.",use.social.convention
+Morning.,use.social.convention
+Last night I couldn't sleep,give.statement
+because I feel...,give.statement
+even more heavier burden on my shoulder.,give.statement
+You guys gave me a chance,give.statement
+to make FGA better.,give.statement
+My goal is gonna work with the team to make sure,give.statement
+"every single issue I cannot resolve overnight,",give.statement
+but give me some time.,give.statement
+Can we do this?,closed.question
+Yeah?,closed.question
+"All right, one more thing: life is short.",give.statement
+We're gonna select the best ten employees go to China.,give.statement
+There's some pictures.,give.statement
+This is Shanghai.,give.statement
+Shanghai is the most modern city in China.,give.statement
+"Look like Manhattan, right?",closed.question
+It's like a Manhattan too.,give.opinion
+"Yeah, this is a Hyatt Hotel. Hyatt Hotel.",give.statement
+"They have a sky pool, 55 floor.",give.statement
+You swim in the sky.,give.statement
+And I'm gonna share the good news for you.,give.statement
+"One of you lucky guys,",give.statement
+you're gonna see that city.,give.statement
+"We're one Fuyao, one family.",give.statement
+We create the miracle.,give.opinion
+We need to create success forever.,give.opinion
+Let's make American great again.,relax.atmosphere
+The smooth operation of our US project,give.statement
+has laid a solid foundation for our global strategy.,give.statement
+We've achieved double-digit growth in operation management.,give.statement
+Both our earnings and profits have reached new digits.,give.statement
+The China of my youth was poor,give.statement
+and undeveloped.,give.statement
+I feel I was happier then.,give.statement
+Now I live in a new era,give.statement
+"of prosperity and modernity,",give.statement
+but I have a sense of loss.,give.statement
+I miss the croaking frogs and chirping bugs of my childhood.,give.statement
+The wild flowers blooming in the field.,give.statement
+"In the past few decades, I have built so many factories.",give.statement
+Have I taken the peace away and destroyed the environment?,closed.question
+I don't know if I am a contributor or a sinner.,give.statement
+But...,give.statement
+I only think that way when I'm unhappy.,give.statement
+The point of living is to work.,give.statement
+Don't you think so?,closed.question
+"Last Friday, I was terminated from Fuyao",give.statement
+after two and a half years.,give.statement
+The excuse given was I was too slow,give.statement
+pulling up something on the computer.,give.statement
+Took me about two or three minutes.,give.statement
+It wasn't quick enough.,give.statement
+I wouldn't take away the last two and a half years.,give.statement
+I met a lot of good friends,give.opinion
+and I learnt a lot from the Chinese.,give.statement
+I don't have any food for you.,give.statement
+I have some watermelon in my apartment.,give.statement
+I don't think he can eat fruit.,relax.atmosphere
+He can eat grass.,relax.atmosphere
+#NAME?,x
+#NAME?,x
+"In the old days, all Chinese people wanted in life",give.statement
+was to have enough food and to raise their kids.,give.statement
+That's all they wanted.,give.statement
+"When it comes to my generation, we want it all.",give.opinion
+We travel wherever we want and buy whatever we like.,give.opinion
+GM afforded me a great life...,give.statement
+that was cut off,give.statement
+when they closed the doors.,give.statement
+We will never ever make that type of money again.,give.opinion
+Those days are over.,give.opinion
+There you go.,relax.atmosphere
+All right.,relax.atmosphere
+#NAME?,x
+"Well, I didn't even know.",give.statement
+You never give up on the American dream.,give.statement
+"To me, that would be un-American.",give.opinion
+I can have that white fence.,give.opinion
+I can have that nice home.,give.opinion
+Send my children to college if that's what they want to do.,give.opinion
+Get treated with common decency.,give.opinion
+You have to be able to believe in it.,give.opinion
+We used to have one person here.,give.statement
+Now we don't have anyone.,give.statement
+"Next, I'm going to get rid of four workers here.",give.statement
+Two for each line.,give.statement
+Automation means standardisation.,give.statement
+"After we finish this,",give.statement
+we will have two fewer workers,give.statement
+uploading on the encapsulation line.,give.statement
+The mechanical arms do that instead.,give.statement
+You have already finished that?,closed.question
+Yes. These are all automatic.,respond.agree
+And you're replacing the rest with mechanical arms too?,closed.question
+Yes. I will replace the ones on side-window tempering.,respond.agree
+This one is being tested now.,give.statement
+We're hoping to cancel four workers in July or August.,give.statement
+I'll change that into machine work.,give.statement
+We can't get the work done now. They are too slow.,give.opinion

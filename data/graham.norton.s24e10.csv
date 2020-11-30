@@ -1,0 +1,985 @@
+U,L
+"Good evening, everybody.",use.social.convetion
+This is Matthew McConaughey saying welcome to the Graham Norton Show.,use.social.convetion
+CHEERING AND APPLAUSE,use.social.convetion
+CHEERING AND APPLAUSE,use.social.convetion
+Oh!,relax.atmosphere
+Wow!,relax.atmosphere
+I jumped!,relax.atmosphere
+"Oh, I'm keen! I'm very keen! Hello!",use.social.convetion
+CHEERING,use.social.convetion
+Good evening!,use.social.convetion
+"Yes, yes.",use.social.convetion
+Thank you.,use.social.convetion
+You're all very welcome to the show.,use.social.convetion
+"Oh, so many great guests for you tonight.",use.social.convetion
+My sofa's going to be like Theresa May in Parliament this week.,relax.atmosphere
+Totally stuffed!,relax.atmosphere
+"God love her. On Tuesday, the Prime Minister managed to lose",give.statement
+three House of Commons votes in the space of an hour.,give.statement
+An hour!,relax.atmosphere
+"In one of the debates, things were so bad,",give.opinion
+she actually received fewer votes than Noel Edmonds. Yeah!,relax.atmosphere
+At least he had the good grace to leave.,relax.atmosphere
+"By the way, did you know this? I only found out this week that",give.statement
+"I'm A Celebrity, after they make them eat those disgusting things,",give.statement
+they have a way of getting the celebrities to vomit.,relax.atmosphere
+LAUGHTER,use.social.convetion
+"That would work, wouldn't it?",closed.question
+HE MAKES A RETCHING NOISE,misc
+I do feel a bit…,relax.atmosphere
+The government was also found to be in contempt of Parliament,give.statement
+over access to legal advice on the Brexit deal.,give.statement
+This is the man who gave the advice.,give.statement
+There he is. Mm!,relax.atmosphere
+"That's the Attorney General, Geoffrey Cox.",give.statement
+"Apparently, it's quite unusual to see ""Cox"" addressing Parliament.",give.statement
+LAUGHTER,relax.atmosphere
+Well…,relax.atmosphere
+LAUGHTER AND APPLAUSE,use.social.convetion
+Let's get some guests on!,use.social.convetion
+CHEERING,use.social.convetion
+"Later, we'll have an amazing performance of the new hit single",give.statement
+by Mark Ronson featuring Miley Cyrus.,give.statement
+CHEERING,use.social.convetion
+I know!,relax.atmosphere
+And they'll be chatting as well.,give.statement
+"But first, he's one of our most-loved chefs and restaurateurs",use.social.convetion
+who's published 20 bestselling cook books.,use.social.convetion
+"Here to tell us about his latest, Jamie Cooks Italy,",use.social.convetion
+please welcome Jamie Oliver!,use.social.convetion
+CHEERING AND APPLAUSE,use.social.convetion
+Woo!,use.social.convetion
+#NAME?,x
+"Have a seat, do.",use.social.convetion
+It is that time! It is that time!,use.social.convetion
+"She's an Oscar-nominated actress, pop sensation",use.social.convetion
+and one of Hollywood's hottest rising stars.,use.social.convetion
+Now she's saving the world in the new action movie Bumblebee.,use.social.convetion
+It's Hailee Steinfeld!,use.social.convetion
+CHEERING AND APPLAUSE,use.social.convetion
+Woo!,use.social.convetion
+Sparkling!,use.social.convetion
+#NAME?,x
+#NAME?,x
+"Starring alongside Hailee, he's a 16-time World Wrestling champion",use.social.convetion
+and WWE Superstar who's now kicking ass on the big screen.,use.social.convetion
+It's John Cena!,use.social.convetion
+CHEERING AND APPLAUSE,use.social.convetion
+Woo!,use.social.convetion
+That's him!,use.social.convetion
+"- How are you? - Thanks so much. - John Cena, everybody!",use.social.convetion
+CHEERING,use.social.convetion
+And he's gone from king of romcom to Oscar-winning Hollywood icon.,use.social.convetion
+Now he's back on our screens in White Boy Rick.,use.social.convetion
+Please welcome back the great Matthew McConaughey!,use.social.convetion
+CHEERING AND APPLAUSE,use.social.convetion
+Woo!,use.social.convetion
+Lovely to see you.,use.social.convetion
+Hey.,use.social.convetion
+"Sit, sit, sit on the seats!",use.social.convetion
+"Welcome, everybody. Hello, how are you doing?",use.social.convetion
+#NAME?,x
+"You all look well. You look happy. Yeah, it's all good.",use.social.convetion
+You were saying backstage I'm the only one who didn't get,use.social.convetion
+#NAME?,x
+"I don't know about that, if it is in the McConaughey household.",relax.atmosphere
+Everyone else made an effort!,relax.atmosphere
+LAUGHTER,use.social.convetion
+"Now, listen, we are very lucky on the show.",give.opinion
+"We often have very esteemed, acclaimed couches.",give.opinion
+But I think this is the most varied couch of achievement.,give.opinion
+Lots of different achievements on this couch.,give.opinion
+"Hailee Steinfeld, Oscar-nominated. Well done, you. Congratulations!",use.social.convetion
+APPLAUSE,use.social.convetion
+So that's already very impressive.,give.opinion
+This is impressive/annoying.,give.opinion
+How old were you when you got nominated for an Oscar?,closed.question
+- I was 14. - Wowsers!,respond.agree
+I know!,relax.atmosphere
+Nothing. You've done nothing with your lives!,relax.atmosphere
+"- That was, of course, for True Grit. - Yes.",give.statement
+"There you go. Look at her there! Oh, the baby!",relax.atmosphere
+"And we have to say, welcome to John Cena!",use.social.convetion
+#NAME?,x
+- This is my first time. - It's the first time.,use.social.convetion
+"And normally, it's fine, everybody walks on to the theme music.",give.statement
+But I felt bad making you do it to ours,give.opinion
+because you are probably our first guest ever,give.statement
+who has their own theme music.,give.statement
+- Yeah! - Yeah. - It comes with the territory.,respond.agree
+"So, if we play it, would you like to come on to your own theme music?",closed.question
+"Well, there's a trick. It's kind of an audience participation thing.",respond.agree
+They'll love that! They will.,relax.atmosphere
+CHEERING,use.social.convetion
+They will love it. It's a catchy tune. Lots of brass.,give.opinion
+And the trumpets go somewhat like…,give.statement
+♪ Da-da-da-daaa! Da-da-da-daaa. ♪,misc
+And the WWE audience is very excited and very dedicated,give.opinion
+and they sing along with the brass.,give.statement
+And…the chorus is…,misc
+♪ John Cena sucks,misc
+♪ John Cena sucks… ♪,misc
+It's their way of showing they like me!?,relax.atmosphere
+"- So are we going to do this? - Yeah, let's do it. - One, two, three.",give.statement
+AUDIENCE: ♪ John Cena sucks,misc
+♪ John Cena sucks! ♪,misc
+"Thank you, I think we're warmed up.",relax.atmosphere
+"OK, let's do this. OK.",relax.atmosphere
+- OK. - Wow! - OK. Here we go. Here we go.,relax.atmosphere
+"MICROPHONE ECHOES: Ladies and gentlemen,",use.social.convetion
+"please welcome WWE superstar,",use.social.convetion
+John Cena!,use.social.convetion
+CHEERING,use.social.convetion
+DRAMATIC MUSIC,misc
+- AUDIENCE: - ♪ John Cena!,misc
+"Here we go, here we go!",relax.atmosphere
+- AUDIENCE: - ♪ John Cena sucks!,misc
+♪ John Cena sucks,misc
+♪ John Cena sucks! ♪,misc
+Hurray!,relax.atmosphere
+That's my life in about 20 seconds!,give.statement
+That's your intro song? Into the ring?,closed.question
+"Oh, yeah.",respond.agree
+And tens of thousands of people will say,give.statement
+♪ John Cena sucks! ♪,misc
+"So, every night I go out with a smile on my face, get told I suck.",give.statement
+"The more you put your hand there, the louder they get.",give.statement
+"- Oh, man, yes! - Yeah. - Oh, man.",respond.agree
+"Even in the reverse, too. If you act like it doesn't get you,",give.statement
+they know they're getting at you.,give.statement
+There's no way around it.,give.statement
+"And talking of music, this is such a bizarre thing.",give.opinion
+"Matthew, one of your standout performances",give.statement
+in The Wolf Of Wall Street…,give.statement
+CHEERING AND APPLAUSE,use.social.convetion
+You were amazing in it.,give.opinion
+"Now, you've talked about this before.",give.statement
+"What would you call the beating, the humming beating thing?",closed.question
+- HE HUMS: - Mm-hm-mm.,misc
+I'd call it awesome.,give.opinion
+#NAME?,x
+It's been sampled quite a few times. I hear it a lot.,respond.agree
+It's been sampled on this dance track.,give.statement
+So this is your Wolf Of Wall Street thing in a song.,give.statement
+DANCE MUSIC FEATURING MATTHEW'S HUMMING,misc
+♪ Where are my residuals?,misc
+- Isn't this great? - ♪ Give me the mailbox money!,misc
+I think that's the name of the song!,relax.atmosphere
+APPLAUSE,use.social.convetion
+"Now, here's the weird thing. So, you kind of think, oh, right,",give.opinion
+someone on the couch got sampled in a song.,give.statement
+He's not the only one on the couch who's been sampled in a song.,give.statement
+Jamie Oliver is also in a song.,give.statement
+LAUGHTER,use.social.convetion
+This is the Jamie Oliver Pukka Techno Remix.,give.statement
+"Oh, for God's sake!",relax.atmosphere
+DANCE MUSIC,misc
+"♪ Pukka, pukka, pukka",misc
+"♪ Pukka, pukka, pukka…",misc
+Which part are you doing?,closed.question
+"♪ Garlic and lemon, oh, yeah! Garlic and lemon, oh, yeah!",misc
+"♪ Garlic and lemon, oh, yeah! Garlic and lemon, oh, yeah! ♪",misc
+- It's good! - Garlic and lemon! Pukka.,relax.atmosphere
+"Oh, yeah. Oh, yeah.",relax.atmosphere
+APPLAUSE,use.social.convetion
+"- Christmas, your house! - Well, yeah.",relax.atmosphere
+Pukka!,relax.atmosphere
+"Oh, dear! Is that real?",closed.question
+"That song? Oh, we didn't make it. No, that's real.",respond.agree
+- Who does that stuff? - I don't know!,closed.question
+I rather enjoyed it!,relax.atmosphere
+Do people club to that?,closed.question
+Maybe they did. I don't think they do now.,relax.atmosphere
+The moment may have passed.,relax.atmosphere
+"Now, we're going to start tonight with Bumblebee.",give.statement
+This stars Hailee Steinfeld and John Cena.,give.statement
+It's previewing next weekend,give.statement
+and then it opens everywhere on Christmas Eve.,give.statement
+"And even with the poster, you can tell this is a Transformers movie.",give.statement
+#NAME?,x
+"It does, yes. It takes place in the '80s.",give.statement
+It precedes all the Transformers films that we've seen and love.,give.statement
+And it's the origin story of Bumblebee,give.statement
+so we get to really see where he comes from,give.statement
+and how he becomes what we know him to be.,give.statement
+And you're a young woman who kind of bonds with Bumblebee?,closed.question
+"Yes, so I play a character named Charlie Watson, she's turning 18,",respond.agree
+she's working a dead-end job to save for a car,give.statement
+"because a car, in her mind, and in most people's,",give.statement
+represents independence and freedom.,give.statement
+And she is struggling with…,give.statement
+"I mean, the struggles of growing up as a teenager,",give.statement
+"trying to figure out who you are and what you're good at,",give.statement
+what your voice is.,give.statement
+And she's suffering from a loss. She lost her father.,give.statement
+And so she's trying to feel understood by somebody,give.statement
+"because that was her person, that was her best friend",give.statement
+and that was the person she felt really saw her and heard her.,give.statement
+"And she loses that,",give.statement
+only to hope to find something that fills that gap.,give.statement
+"And on her way to finding her freedom and independence and a car,",give.statement
+she discovers that the one she ends up with isn't just a car.,give.statement
+No.,relax.atmosphere
+"And John, your character is quite ambiguous.",give.opinion
+"In wrestling terms, are you more of a babyface or more of a heel?",closed.question
+"You have done your homework, sir!",relax.atmosphere
+Look at you!,relax.atmosphere
+- Google works here! - My goodness!,relax.atmosphere
+"OK, for those not playing inside baseball,",give.statement
+"a babyface is a good guy, a heel is a bad guy.",give.statement
+And in this movie I am both a heel and a babyface.,give.statement
+"- Ooh, that is true, that is true! We see all sides, yes. - Indeed.",respond.agree
+This is a clip. This is the two of you and Bumblebee in action.,give.statement
+Get out and move away from the vehicle!,give.statement
+"Stay cool, Bee.",relax.atmosphere
+What's going on?,closed.question
+Hey!,relax.atmosphere
+"- Come on, come on! - Stop it!",give.statement
+Let go of me!,give.statement
+Take it down!,give.statement
+"- Run! - No, don't run! Do not run!",give.statement
+She ran.,give.statement
+CHEERING AND APPLAUSE,use.social.convetion
+Good!,relax.atmosphere
+That thing looks so real.,give.opinion
+"The Bumblebee, you really forget,",give.opinion
+it seems crazy that that thing isn't there.,give.opinion
+"Not at all, it is not there at all!",respond.agree
+"Not even in the slightest, unfortunately.",respond.agree
+The cost of a Transformer minus CGI is about 7.,relax.atmosphere
+LAUGHTER,use.social.convetion
+It is a long piece of PVC pipe and a tennis ball.,give.statement
+"But they've done an amazing job with that, they really have. Fantastic.",give.opinion
+And this is set in 1987.,give.statement
+"So, Hailee, what were you doing in 1987?",closed.question
+Well…,relax.atmosphere
+LAUGHTER,use.social.convetion
+Um…,relax.atmosphere
+No. I wasn't born yet.,give.statement
+"So, yeah, this little dive back into the '80s,",give.statement
+I had some interesting conversations with my parents,give.statement
+about their experiences in the '80s.,give.statement
+"Er, John, I've heard quite a bit from you…about the '80s.",relax.atmosphere
+"You were only ten, in fairness.",relax.atmosphere
+"'87 was a tough year, dude!",relax.atmosphere
+I was a young boy growing up in New England. '87 was a tough year.,relax.atmosphere
+The Red Sox just got whupped in the World Series by the New York Mets.,recall
+The New England Patriots got their keisters kicked in,recall
+by the Chicago Bears.,recall
+That was a whole year of me walking with my head down.,give.statement
+These were dark days!,relax.atmosphere
+"And you want to bring it up, like, ""You were only ten""?",recall
+"'87, man. '87.",relax.atmosphere
+"But I like that Hailee, in this film, you were using props that,",give.statement
+"to my mind, were just like, oh, yeah, that's out there.",give.statement
+But you were dealing with things you'd never really seen before?,closed.question
+"Yes, I had to be shown how to use a Walkman.",respond.agree
+LAUGHTER,use.social.convetion
+And there were other items that I came across,give.statement
+that I tried for a moment to act as if I knew what it was,give.statement
+but I didn't get away with it for long without asking.,give.statement
+"But I do have to say our director, Travis Knight,",give.statement
+"as a child of the '80s and a fan of the toys and of the movies,",give.statement
+he really not only brought to life,give.statement
+"this incredible world of the '80s that feels really authentic,",give.opinion
+he created a space for me.,give.opinion
+And I never felt entirely out of place in any way.,give.opinion
+It was really made so I could step right in and feel right at home.,give.opinion
+"But John Cena, this is a weird kind of almost a link to Bumblebee",give.opinion
+"because when you were starting off in wrestling,",give.statement
+"you had a persona that, am I right, was sort of half-man, half-machine?",closed.question
+"- Was that the idea? - Yes, that's correct.",respond.agree
+#NAME?,x
+LAUGHTER,use.social.convetion
+"Yes, you want to try to find a persona or,",give.statement
+"here's some more inside baseball for you, a gimmick…",give.statement
+- Oh! - …where it describes you as a character,relax.atmosphere
+"so, when you walk out, people notice you",give.statement
+and you can describe your character.,give.statement
+"But these are not gimmicks, this is real?",closed.question
+"Well. I mean, if they work…",respond.agree
+- Yes. - It's…,respond.agree
+It's a trial and error process with a lot of errors.,give.statement
+"And my first try was The Prototype, which was half-man and half-machine.",give.statement
+And 100% crap!,relax.atmosphere
+LAUGHTER,use.social.convetion
+"But given that you're not half a machine,",give.statement
+how did you demonstrate you were a machine?,closed.question
+"Well, I used this ability to talk",respond.agree
+"rather monotone,",give.statement
+"and would say things authoritative, and just,",give.statement
+"""When I said, I would kick your ass at the fairgrounds on Sunday,""",recall
+I would rewind it and say it again for you…,recall
+IMITATES SPEECH ON REWIND,misc
+"""…I would kick your ass at the fairground.""",recall
+Yes. And it didn't work?,relax.atmosphere
+You… No!,respond.deny
+"- No, it didn't! - That's a good one!",give.opinion
+- It worked on one. I have one. - I'm in!,relax.atmosphere
+You found huge success as John Cena.,give.statement
+Imagine that! I figure I need to come up with some sort of name.,relax.atmosphere
+"Doesn't every… Every wrestler has a name, though?",closed.question
+"Yes, and people think that, like, hey, man,",respond.agree
+how do you make up the name John Cena?,recall
+"It's like, no, dude, I'd have made up Dick Hammerbush",relax.atmosphere
+or something cool like that.,relax.atmosphere
+"- No, not Dick Hammerbush. - Or something, I don't know.",relax.atmosphere
+That's a start!,relax.atmosphere
+"No-one's letting you go out with that, no.",relax.atmosphere
+But they actually think that John Cena is a gimmick name,give.statement
+"but, no, that's actually…",give.statement
+"Through all the presentation that is WWE, I'm stuck with John Cena.",give.statement
+"Are you a wrestling fan, Jamie?",closed.question
+I used to love wrestling.,respond.agree
+"When we were much younger, about the same time as Transformers,",recall
+"back in the day, we had Big Daddy.",recall
+CHEERING,use.social.convetion
+The Giant Haystack.,give.statement
+CHEERING,use.social.convetion
+GRAHAM CHORTLES,relax.atmosphere
+"No, I used to love it. I thought it was just fantastic.",give.statement
+"By the way, I'm John Cena.",relax.atmosphere
+"All these awesome names… You know, the Ultimate Drooler or, like…",relax.atmosphere
+#NAME?,x
+- Yes. - And one of yours is the You Can't See Me. - That's correct.,give.statement
+Is that true that came out of your family somehow?,closed.question
+"Yeah, I was dared to do it, so I was actually making the music",respond.agree
+for my own theme song that you just heard,give.statement
+and so finely serenaded to me… thank you very much…,use.social.convetion
+and we played it for my brother.,give.statement
+The first time he heard it… 50 Cent's crew had a really popular,recall
+"song called In Da Club… and he heard it the first time and,",recall
+"instead of dancing, he was our litmus test to see",recall
+"what songs were good and what songs were bad, he did this.",recall
+"Oh, my gosh!",relax.atmosphere
+"I'm like, ""Dude, what are you doing?""",recall
+"He's like, ""No, everybody does this, man!""",recall
+And I guess this was from 50 Cent's video.,give.statement
+"He's like, ""You won't do it on TV."" What the hell have I got to lose?",recall
+"What are they going to do, fire me? Of course I'll do it on TV.",recall
+"But, instead of doing this, I did this.",recall
+"And, now, for 15 years…",recall
+LAUGHTER,use.social.convetion
+…because of a dare…,recall
+…I've been doing this.,recall
+And I'll do you one better… people actually think I'm invisible.,relax.atmosphere
+"There will be people who look at this couch and be like,",give.statement
+"""Why is there nobody next to McConaughey?""",recall
+"They said John Cena would be there, but we can't see him.",relax.atmosphere
+"So, you never know.",relax.atmosphere
+You remember Hacksaw Jim Duggan and King Kong Bundy,recall
+"and Skandor Akba and Kerry Von Erich, who carried the Claw.",recall
+I got kicked out of… We're talking Texas wrestling.,recall
+I got kicked out of Hirsch Coliseum in Shreveport for pelting,recall
+Skandor Akba with a bag of tomatoes.,recall
+Skandor Akba was a man dressed as a sheikh that used to throw fire.,recall
+"Yes, and he managed King Kong Bundy, who was 484lb",recall
+"and one of the missing links, parts unknown…",recall
+"He had a green face, spit green mist.",recall
+- They sound really good! - Good stuff.,relax.atmosphere
+Entertaining!,relax.atmosphere
+And I'm John Cena.,relax.atmosphere
+And he's got this!,relax.atmosphere
+APPLAUSE DROWNS SPEECH,use.social.convetion
+"Listen, we'd like to move on to Matthew's film.",give.statement
+The film is called White Boy Rick.,give.statement
+It opens tonight.,give.statement
+This is a tough tale.,give.opinion
+- Yes. - And it's based on a true story.,respond.agree
+#NAME?,x
+"This is a story about Rick Junior, the young man who plays my son,",give.statement
+Richie Merritt. True story…,give.statement
+this was the youngest informant in American history.,give.statement
+He… This is in Cleveland in the '80s.,give.statement
+And the FBI came to him to be an informant and help him try,recall
+and bring down these dealers and track where the money,recall
+and how far up the political ladder it went in Detroit at this time.,recall
+"Well, if you're going to be a good informant, trying",recall
+"to bring down dealers, you need to be dealing yourself. So he was 15.",recall
+He gets busted by the state.,recall
+"And, at that time, it was the 600g law,",recall
+"which means, if you get busted with over 600g,",recall
+"you go to prison for life, even at that age.",recall
+"And, obviously, he and his dad go to the Feds, who had him",recall
+"as an informant, and said, ""Do you have our back?""",recall
+"And they could neither confirm nor deny that he was an informant,",recall
+and he was in jail for just over 27 years and he got out,recall
+#NAME?,x
+And this father… I've heard you in interviews say that this,give.staet
+is the character that's furthest away from you.,give.statement
+"Yeah, well, in the fact that this guy… I mean, this role is",respond.agree
+my sad country song. I've never…,give.statement
+"What I mean by that is, you know, ""Mamma got run over by a train",recall
+"""the day I got let out of jail.""",recall
+It's like bad luck on top of bad luck. This guy is a loo-ser.,give.opinion
+He loses continually.,give.statement
+"He's a guy whose heart's in the right place,",give.statement
+"he has all the want-to, but he's really a bad dad.",give.statement
+He doesn't have anything of the follow-through. One of those,give.statement
+"fathers… One of the first things that gave me a track on the guy,",give.statement
+and we all know those fathers that want to be best friends,give.statement
+"with their children at all times, and it's usually not the best recipe",give.statement
+"for raising a child that's ready to go out into the world,",give.statement
+and this was one of those fathers who couldn't lay down,give.statement
+"consequences for his children, and there was a lot",give.statement
+"that he and his family had to pay for that. Listen, we've got a clip.",give.statement
+"This is you as the father having a disagreement with your daughter,",give.statement
+who is played by our own Bel Powley.,give.statement
+- She's wonderful in this. - You might know her.,give.opinion
+#NAME?,x
+"- Dad, don't go! - Get back. - Get off of me!",give.statement
+"Get back in the house, Dawn. Go in the house and get dressed.",give.statement
+Stop! Dad!,give.statement
+"Stop, no.",give.statement
+No!,give.statement
+Dad!,give.statement
+"Oh, Christ. Keep going!",give.statement
+"I've got it under control. You don't need to stop the car, Pop.",give.statement
+Everything's fine. Don't get out of the car.,give.statement
+Everything is not fine!,give.statement
+"A man just ran out of your house,",give.statement
+almost dents my Imperial.,give.statement
+You don't have a goddamn thing under control! I hate you!,give.statement
+You're going to let her talk to you like that?,closed.question
+"Go in the goddamn house! I've got this under control, all right?",give.statement
+"- It ain't under control. - Ray, stay out of it.",give.statement
+Looks like Richard's having a bad day.,give.opinion
+"No, Ma, I'm not having a bad day.",respond.deny
+My son and I walked into the lion's den this morning and walked out,give.statement
+"- with the golden fleece. Ain't that right, Ricky? - That's right.",closed.question
+- That's right. - You are pathetic! Both of you!,give.statement
+"And put some clothes on, will you?",closed.question
+We're going for custard.,give.statement
+APPLAUSE,use.social.convetion
+"So, yeah, it's a little romantic comedy.",relax.atmosphere
+"Now, obviously, somebody played your mother there,",give.statement
+"but your own mother, I know she likes to visit you on set,",give.statement
+"- so did she visit you on this set? - Yes, she did. - Oh, there's your mum.",closed.question
+"A lot of families like to visit sets, because they get to take",respond.agree
+"pictures with people and it's fun, but your mum's, like, hustling",give.statement
+- when she gets there. - Absolutely. My mother…,give.statement
+"Yes, she says she wants to come to see me.",give.statement
+We already had that discussion.,give.statement
+"Mum, if I was an accountant in Chicago, you wouldn't",give.statement
+want to come and see me all the time.,give.statement
+"""No, I wouldn't, because what do I want to do, son?",recall
+"""I want to get in that movie.""",recall
+"And she's been to all my sets, and she's persistent,",give.statement
+and she has a pitch that she's not got tired of and she continues.,give.statement
+"She's 86 now, and she comes to me and says, ""Who's the person on set",recall
+"""that can make it happen?",recall
+"""Who's the one with the money?"" And I'll go, like, ""That guy.""",recall
+And I've learned to send her to the wrong people.,relax.atmosphere
+"Even then, her pitch is this.",give.statement
+OK.,give.statement
+"""Remake The Graduate.",recall
+"""What, what's so funny? No, it's a great idea.",recall
+"""Look, I'm the Anne Bancroft character.",recall
+"""Matthew is the Dustin Hoffman character.""",recall
+And what does everyone right away say?,recall
+"""Wait a minute, that's pretty bent.""",recall
+"She's immediately like, ""Oh, knock it off. I've seen it before.",recall
+"""It's not that big of a deal.""",recall
+She wants to do a remake of The Graduate.,give.statement
+"She started off just wanting to do Golden Girls,",give.statement
+but that didn't happen. Now she wants to do a remake of The Graduate,give.statement
+and she wants me to be the Dustin Hoffman part.,give.statement
+"Yeah, there's Freudian stuff in there. Right?",relax.atmosphere
+Has anybody said they'll think about it?,closed.question
+"You know what, I… No.",respond.deny
+"I mean, it could kind of work, but I don't know.",relax.atmosphere
+But she was kind of responsible on setting you towards,give.statement
+your path of stardom. Didn't she enter you in a competition,give.statement
+when you were quite young?,closed.question
+"Yes, she entered me in a lot of competitions.",respond.agree
+It's kind of part and parcel to the same moment,give.statement
+I just explained to you.,give.statement
+"There was one competition which was a poetry competition,",give.statement
+"and one of those poetry competitions,",recall
+there was Little Mr Texas. Let me just tell a Little Mr Texas one.,recall
+This is the same woman. You'll know exactly what I mean.,give.statement
+We've got a picture of you as Little Mr Texas.,give.statement
+"So, this picture there, right. Little Mr Texas, right?",closed.question
+"She tells me at eight years old in 1977,",recall
+"""You won Little Mr Texas,"" so I was Little Mr Texas.",recall
+"Until about 26 years old… how many years is that,",recall
+"18 years later? One day, I've got the picture, and I decide I'm just",recall
+going to zoom in on that trophy. Can you zoom in on that trophy?,closed.question
+"- No, we can't, I don't think. - Well, anyway, it says runner-up.",give.statement
+LAUGHTER,use.social.convetion
+It says runner-up!,give.statement
+APPLAUSE,use.social.convetion
+Same lady. I enter a poetry contest and I write a nice poem,give.statement
+and I think I showed you.,give.statement
+"She goes, ""Yeah, that's not bad, go try it again.""",recall
+"She says, ""That's not bad either, but have a look at this poem.""",recall
+"And I look at it and she says, ""Isn't that a good one?""",recall
+"It says, ""If all that I would want to do is meet to sit",recall
+"""and talk to you, would you listen?""",recall
+"And it was EE Cummings. And I was like, ""Yeah, that's a good one.""",recall
+"She goes, ""Do you like it?"" I go, ""yeah, I like it."" She goes,",recall
+"""Then it's yours."" I go, ""What do you mean?"" She goes,",recall
+"""Well, you understand it. It means something to you.",recall
+"""Therefore it's yours."" I go, ""What are you saying?""",recall
+"She goes, ""Write that."" And I go, ""And sign EE Cummings?""",recall
+"She goes, ""No, you can sign it because you understand it.""",recall
+I won the contest.,give.statement
+"Yeah, she's a bit of an outlaw.",relax.atmosphere
+Don't try this at home.,relax.atmosphere
+"Now, Jamie, you were born into this. You were like Jesus.",give.statement
+You were born in an inn.,give.statement
+"I was born in an inn, yes.",respond.agree
+"Because your parents, they ran a pub.",give.statement
+"They still do, 43 beautiful years later.",respond.agree
+#NAME?,x
+SCATTERED CHEERING,use.social.convetion
+"And, yeah, it's…",relax.atmosphere
+"That was my whole life, growing up in the pub.",give.statement
+"Locals… I still think the pub is the most democratic,",give.statement
+brilliant place on earth. Everyone's welcome.,give.opinion
+"I learnt a lot about people. That was my real school, I think.",give.statement
+"And it kind of runs in the family, because one of your grannies",give.statement
+#NAME?,x
+"And then your other granny, was it Granny Betty? Yes.",closed.question
+"- Is Granny Betty still around? - No, sadly, she left…",closed.question
+"Well, both have sadly left us now.",respond.deny
+"But Betty used to be part of the big family Christmas, didn't she?",closed.question
+- Massively. - Why did you pick…?,respond.agree
+It seemed like you picked on Granny Betty. Not really.,give.statement
+She loved a bit of attention.,respond.deny
+We've obviously done Christmas specials for the last 20 years,give.statement
+"and she's, ""Oh, I love this, this is great!""",recall
+And she used to come and do a bit of filming with us.,recall
+"She's very cuddly, very gorgeous, and I think",give.opinion
+Christmas is about family.,give.statement
+"But she used to come and stay with us at Christmas as well,",recall
+and this is a brilliant thing to do.,give.opinion
+"Do you have Christmas crackers in America? We don't,",closed.question
+#NAME?,x
+"- It's not a euphemism? - Well, that depends.",relax.atmosphere
+OK. You can make them yourself…,relax.atmosphere
+The type that you hang on to and yank. Yes.,give.statement
+And something fun comes out.,give.statement
+LAUGHTER AND APPLAUSE,use.social.convetion
+#NAME?,x
+- Hailee's mind is going crazy now. - I'm really trying to follow here.,relax.atmosphere
+"A Christmas cracker, you put on the place setting",give.statement
+"of what you would call the Thanksgiving dinner,",give.statement
+"which we call Christmas dinner. And you have the cracker,",give.statement
+it's basically just an empty toilet roll with another,give.statement
+empty toilet roll… it's really weird when you think about it…,relax.atmosphere
+"cut in half, and then you wrap it up and tie a little thing",give.statement
+#NAME?,x
+"And then they thought, to make it a bit more fun",give.statement
+"in the '60s, they put a cap, you know, from a cap gun so,",give.statement
+"when you pull it, it goes pssssh… OK. And then you put a joke in there",give.statement
+and a present in there and a hat in there.,give.statement
+"- It's normal, right? - Yeah.",closed.question
+You put it inside the toilet roll?,closed.question
+Yeah. I'll show you later.,respond.agree
+"It's not a big gift, Matthew. It's not…",relax.atmosphere
+"All of the crackers, even the posh ones, have rubbish gifts,",give.statement
+"and I personally think the jokes are rubbish as well,",give.opinion
+"so I have this thing called hack the cracker,",give.statement
+"which is brilliant, cos you can kind of strategically look around",give.opinion
+the table at all the characters and then you hack,give.statement
+"into one side of the cracker. You pull out the joke,",give.statement
+"you pull out the rubbish toy, and then you can procure toys",give.statement
+"that make people feel good or bad about themselves, right?",closed.question
+"So, in the case of my nan, she just got a new boyfriend",give.statement
+"after losing my poor grandad, many years later, though,",recall
+"and I went into Boots and I got an empty packet, I said,",recall
+"""Can I have an empty packet of Viagra, please?""",recall
+"And they went, ""What do you want?"" ""Yes, please."" So I got a pack.",recall
+They were very helpful.,relax.atmosphere
+"And then I got some Smarties and filled them up,",recall
+"put them in there, bang them in there, wrapped it up.",recall
+"Christmas Day, put the name on the cracker, she opens it,",recall
+"present comes out, Viagra, boyfriend next to her…",recall
+Her face was like…,recall
+"""I went, no, Nan, don't worry, it's only Smarties.""",recall
+"And she went, ""Oh.""",recall
+APPLAUSE,use.social.convetion
+"Now, oddly, grandmothers play a huge part in your new book.",give.statement
+- They do. - This is Jamie Cooks Italy and it's out now.,respond.agree
+"So, this is you… It took a long time, this book.",give.statement
+#NAME?,x
+"It was a big job. And I really had to do it,",respond.agree
+because I believed it was the last generation of nonnas,give.statement
+"that grew up without gas,",give.statement
+"electric, all the mod cons, like the real cooks,",give.statement
+and we needed to catch them before they passed on.,give.opinion
+"So, we had to pull our finger out.",relax.atmosphere
+"But… How did you find them, the nonnas? Well, we have researchers.",closed.question
+#NAME?,x
+"Like there's one, Nonna Miriam.",give.statement
+"It sounds really romantic but, actually, technically,",give.statement
+"filming and documenting cooking with nonnas sounds great,",give.statement
+but it takes hours. It's slow production.,give.statement
+"So, we were like a year and a half over budget, over time,",give.statement
+"but we did get to document the most incredible recipes,",give.opinion
+techniques and all the things that they were brilliant at.,give.opinion
+"Basically, it's like going…",give.statement
+"You know in Star Wars, when Luke goes to see Yoda?",closed.question
+I basically went to see 50 Yodas.,give.statement
+"And they were, like, the sort of Zen,",give.statement
+"ninja warrior masters of cooking,",give.opinion
+and they were teaching me how to use the Force and uncook.,give.statement
+"And what that means is we're trained to cook proficiently,",give.statement
+"and they are like, ""No, no. This is how we do it.",recall
+"""We crack it, we rip it, we tear it, we get amongst it.""",recall
+"And actually, the nonnas were answering a lot of the questions",give.statement
+that we talk about in the press today…,give.statement
+"waste, nutrition, taking a little a long way,",give.statement
+"you know, cooking on a small budget. They were brilliant.",give.opinion
+"It strikes me, you know, there's some really ambitious things",give.opinion
+"in here, but there's more basic things like pizza, say.",give.statement
+"Did they teach you, kind of, new techniques,",give.statement
+new ideas about some things like that?,closed.question
+"Yeah, because a lot of it is about simplicity,",respond.agree
+"so there's stuff that you can put together in ten minutes,",give.statement
+"but you slow cook it over the day, like six, seven hours,",give.statement
+and it's tender and delicious. There's versions of what,give.statement
+we would call the bolognese in different shapes and forms,give.statement
+that will just blow your mind.,give.opinion
+"Then we're in the north, and we're meeting the people",give.statement
+"who are now 85 that used to pick the rice for the risotto,",give.statement
+"and we learn all about the risotto, and then quick salads,",give.statement
+"quick pastas and, of course, you've got the pizzas in there,",give.statement
+"but really I think I learned a lot about soul and what not to put in,",give.statement
+"you know, about restraint. The most important ingredient",give.statement
+"is restraint, and I'm sure it's the same in acting.",give.statement
+It's sort of maybe what you don't say more than what you do.,give.opinion
+I don't know. It's about being confident and working,give.opinion
+with what you've got.,give.opinion
+"John, I know you were a big fan of pizza.",give.statement
+Is it called Zeppe's?,closed.question
+"Zeppe's. Zeppe's kept me alive, man.",respond.agree
+#NAME?,x
+You were working in a bar.,give.statement
+I was doing any job I could,give.statement
+to make any money I could and I was bouncing at a bar next door.,give.statement
+This is a strip of stores on a beach in Southern California.,give.statement
+And I was trying to just get by,recall
+because the cost of living out there is atrocious.,give.opinion
+And the place next door was a deep-dish pizza place,recall
+called Zeppe's. And they ran a promotion.,recall
+"If you could eat a 12-slice deep dish pizza in one sitting,",recall
+you get it free and you get a coupon for another pizza…,recall
+After a week I put them sons of bitches out of business!,relax.atmosphere
+LAUGHTER,use.social.convetion
+They stopped the promotion halfway through the week and literally,recall
+closed down shortly thereafter.,recall
+- You closed them down? - Yeah!,closed.question
+For about a week and a half,respond.agree
+"I was Zeppe's pizza eating champion, thank you very much!",relax.atmosphere
+CHEERING AND APPLAUSE,use.social.convetion
+"Yes, you're damn right!",relax.atmosphere
+"I have to ask you, you're still wrestling,",give.statement
+"- you're still in tiptop condition? - Yeah, my next match is December 26,",closed.question
+"- Madison Square Garden. - Oh, my God! - Wow!",respond.agree
+"For the holidays I'm going to see Bumblebee like 200 times,",give.statement
+just like everybody here!,give.statement
+"And, then, right after that, I'm going to WWE. Wow!",give.statement
+"I've seen you do a thing, I know you're in a suit but can you do",give.statement
+#NAME?,x
+"- Space… Come here… - No, no!",respond.agree
+"- It's easy! - Oh, no, no!",give.statement
+CHEERING AND APPLAUSE,use.social.convetion
+It's totally easy!,give.statement
+CHEERING AND APPLAUSE,use.social.convetion
+- Don't now slam me on my back! - Yes!,relax.atmosphere
+So the take-off's easy. But the landing… My goodness!,give.opinion
+"So we're going to set you down gently! Thank you, thank you!",give.statement
+I'm an elderly gentleman!,relax.atmosphere
+And a good sport. And a very good sport.,relax.atmosphere
+CHEERING AND APPLAUSE,use.social.convetion
+But let me tell you something…,relax.atmosphere
+…December 26th in the Madison Square Garden won't be so gentle!,relax.atmosphere
+CHEERING AND APPLAUSE,use.social.convetion
+You can't see me!,relax.atmosphere
+You found that so… And that was ridiculous…,relax.atmosphere
+"Yeah, that was weird!",relax.atmosphere
+That was like a machine!,relax.atmosphere
+Amazing!,relax.atmosphere
+"Right, it's time to meet my next guests.",give.statement
+One is a five-time Grammy-winning record producer,use.social.convetion
+and the other is one of the world's biggest pop stars.,use.social.convetion
+Please welcome Mark Ronson and Miley Cyrus!,use.social.convetion
+CHEERING AND APPLAUSE,use.social.convetion
+There they are!,use.social.convetion
+- MILEY: - Hi!,use.social.convetion
+Very good to see you.,use.social.convetion
+#NAME?,x
+All move down so that we can all sit in. Slide down.,use.social.convetion
+There goes Mark and Miley.,use.social.convetion
+"Welcome, hello, hello, hello!",use.social.convetion
+Thank you for having us!,use.social.convetion
+"God, no, thrilled you're here, thank you very much!",use.social.convetion
+"Before we say another thing, we should congratulate Mark Ronson",use.social.convetion
+on a Golden Globe nomination!,use.social.convetion
+CHEERING AND APPLAUSE,use.social.convetion
+"- Yeah! - Very exciting, yeah.",use.social.convetion
+This was for A Star Is Born?,closed.question
+This is for the song Shallow that I co-wrote on A Star Is Born,respond.agree
+and it's super exciting.,give.opinion
+"Yeah, Oscars to follow! Nice!",relax.atmosphere
+"By the way, do you all know each other? Miley, who do you know?",closed.question
+"Hi, everybody. I think we've worked together a couple of times.",use.social.convetion
+We did the VMAs together.,give.statement
+We almost worked together.,give.statement
+When? Now?,closed.question
+And then on Magnum? Magnum? Did you even get…?,closed.question
+"No, but I was supposed to! Afterwards we're going to hang out.",respond.deny
+I told them I was going to take them to GAY but not tonight.,recall
+Do you guys want to switch places?,closed.question
+"No, we're OK.",respond.deny
+I met Mark here just recently in Sicily. In a steam room.,give.statement
+"Yes, together.",respond.agree
+"I walked into a steam room and I was like,",recall
+"""Oh, this is interesting.""",recall
+You don't mind me saying I'm a big fan of your work and you seem,recall
+really cool so I sit down for a bit.,recall
+"And he started talking to me and he was like,",recall
+"""We're going to jump in this ice bucket bath as well.""",recall
+"So I didn't want to look a hunk, so I was, like,",recall
+"""OK, I've never done that but that sounds cool.""",recall
+And I get in and it's the most freezing thing,recall
+I've ever felt in my entire life.,recall
+But I'm next to Matthew McConaughey in this tiny tub,recall
+and I want to look tough.,recall
+"And he just looks at me and he's like, ""Breathe."" So…",recall
+LAUGHTER,use.social.convetion
+"So now I take this cold shower every single morning, an ice cold shower.",recall
+And I think of you every morning!,give.statement
+I'm not joking.,relax.atmosphere
+Som thank you for letting us have this. That's nice.,use.social.convetion
+We're having a little mini-reunion here! That's very nice.,relax.atmosphere
+"So, listen. Mark and Miley, here you are together.",give.statement
+So how did this collaboration come about?,closed.question
+Was it kind of Team Miley calling Team Mark Ronson?,closed.question
+Or how did this happen?,closed.question
+This is Mark Ronson stalking Miley Cyrus for four years!,respond.agree
+He has a story that I don't remember exactly this way.,give.statement
+Do you want to tell your story that you made up?,closed.question
+Yeah!,respond.agree
+I saw Miley on television singing on the Saturday Night Live,recall
+40th anniversary and I knew she could sing and everything,recall
+"but I saw her singing Paul Simon, 50 Ways To Leave Your lover,",recall
+in a way that just… I was just transfixed.,recall
+"So, I got her number, I don't know if it was legal or not.",relax.atmosphere
+"And I starting texting and I just said,",recall
+"""Hey, if you ever want to make some music…""",recall
+"And then four days went by, nothing.",recall
+This is the part I don't remember.,give.statement
+I feel like I must have sent an emoji at least!,recall
+The broken heart emoji is great to have cos when people text us,give.opinion
+that they love the song you just put the broken heart emojis.,give.opinion
+I think you would text me back after a few weeks,recall
+"and write, ""What's up?""",recall
+"Probably at, like, four in the morning, maybe? Yeah.",recall
+And that went on for four years?,closed.question
+"What we believe, I believe.",give.statement
+"My family, we've always talked about timing and trusting",give.statement
+the universe and always trusting the timing and that everything,give.statement
+"always works out when it should, and I think… We've said it",give.statement
+multiple times to each other in the studio that,give.statement
+at any time before this would have not been right,give.statement
+and any time after this would have been too far away.,give.statement
+I think it's perfect timing with this song at the time that,give.opinion
+it's out in the world. That's why we made the video that we made,give.statement
+and the visuals that we've created.,give.statement
+It's just a timely song for me and my personal life and what's,give.statement
+"going on in the world, so I wouldn't have it",give.statement
+"any other way than sitting with you right now, right here.",give.statement
+"This song only came because of where we were and how we met, and I agree.",give.opinion
+Cosmic.,give.statement
+"Everyone's talking about this extraordinary video,",give.statement
+"and am I right in thinking that the whole car chase,",give.statement
+"the concept, was this down to you, Miley?",closed.question
+"Well, he was very trusting.",give.opinion
+I had this idea originally…,give.statement
+"We've worked with each other on multiple songs on my next record,",give.statement
+"and we worked on this song for Mark's new album, but we didn't",give.statement
+"know what was going to come first. Oh, we're going to watch it?",closed.question
+"- Well, little bits, yeah. - There's some old ladies",respond.agree
+kissing in the hot tub. It's all crazy.,give.opinion
+"But the budget on this thing… I mean, this is like a movie.",give.statement
+That's what we wanted.,respond.agree
+"I had this idea of, for the music that we're working on,",give.statement
+having this idea of putting a car in places that it shouldn't be,give.statement
+"and putting it inside a living room, inside a club, and, then,",give.statement
+when me and Mark decided this was the song I was going to use,give.statement
+"coming out of my blackout, and for his new record,",give.statement
+"his first single, and we thought, what is actually heartbreaking to us",give.statement
+in society every single day?,recall
+I think it's waking up to new devastating news of violence,give.opinion
+"and judgment and hypocrisy, so to make a video that's very",give.opinion
+"timely, and it's about a deeper heartbreak than just losing love",give.statement
+"in a romance or a relationship, but what really breaks us",give.statement
+apart every single day.,give.statement
+"Listen, your car awaits. We might have to pay waiting",relax.atmosphere
+"if you don't hurry up. So, if you'd like to make your way over.",relax.atmosphere
+"- Yes, please. - Let's do this. OK.",respond.agree
+CHEERING,use.social.convetion
+There they go. APPLAUSE,use.social.convetion
+"So, performing Nothing Breaks Like A Heart",use.social.convetion
+it is Mark Ronson featuring Miley Cyrus!,use.social.convetion
+CHEERING AND APPLAUSE,use.social.convetion
+♪ This world can hurt you,misc
+♪ It cuts you deep and leaves a scar,misc
+♪ Things fall apart,misc
+♪ But nothing breaks like a heart,misc
+"♪ Ya, nothing breaks like a heart",misc
+♪ I heard you on the phone last night,misc
+"♪ We live and die by pretty lies, you know it",misc
+♪ We both know it,misc
+♪ These silver bullet cigarettes,misc
+♪ This burnin' house There's nothing left,misc
+"♪ It's smokin', we both know it",misc
+♪ We got all night to fall in love,misc
+♪ But just like that we fall apart,misc
+♪ We're broken,misc
+♪ We're broken,misc
+"♪ And nothing, nothing, nothing going to save us now",misc
+"♪ Well, there's broken silence like thunder crashing in the dark",misc
+♪ Crash in the dark,misc
+♪ And there's broken records spin endless circles in the bar,misc
+♪ Spin round in the bar,misc
+♪ This world can hurt you,misc
+♪ It cuts you deep and leaves a scar,misc
+♪ Things fall apart But nothing breaks like a heart,misc
+"♪ Ya, nothing breaks like a heart",misc
+♪ We'll leave each other cold as ice and high and dry,misc
+♪ The desert wind is blowing It's blowing,misc
+♪ Remember what you said to me,misc
+♪ We were drunk in love in Tennessee and I hold it,misc
+♪ We both know it,misc
+"♪ That nothing, nothing, nothing going to save us now",misc
+"♪ Nothing, nothing, nothing going to save us now",misc
+"♪ Well, there's broken silence by thunder crashing in the dark",misc
+♪ Crash in the dark,misc
+♪ And there's broken records spin endless circles in the bar,misc
+♪ Spin round in the bar,misc
+♪ This world can hurt you,misc
+♪ It cuts you deep and leaves a scar,misc
+♪ Things fall apart,misc
+♪ But nothing breaks like a heart,misc
+"♪ Ya, nothing breaks like a heart",misc
+♪ Nothing breaks like a heart,misc
+"♪ Ya, nothing breaks like a heart",misc
+"♪ That nothing, nothing, nothing going to save us now",misc
+"♪ Nothing, nothing, nothing going to save us now",misc
+"♪ Well, there's broken silence by thunder crashing in the dark",misc
+♪ Crash in the dark,misc
+♪ And there's broken records spin endless circles in the bar,misc
+♪ Spin round in the bar,misc
+♪ This world can hurt you,misc
+♪ It cuts you deep and leaves a scar,misc
+♪ Things fall apart,misc
+♪ But nothing breaks like a heart,misc
+"♪ Ya, nothing breaks like a heart",misc
+"♪ Ya, nothing breaks like a heart",misc
+"♪ Ya, nothing breaks like a heart. ♪",misc
+CHEERING AND APPLAUSE,use.social.convetion
+"Mark Ronson and Miley Cyrus! Come on back. Come on back, you!",give.statement
+"It's such a great track, it's really, really lovely.",give.opinion
+Thank you so much.,use.social.convetion
+"Hello. Hi. Welcome back, thank you very much.",use.social.convetion
+Have a seat there.,use.social.convetion
+Perch yourselves there.,use.social.convetion
+Really terrific track.,use.social.convetion
+- I love that. And that's the first single off your new album? - It is.,closed.question
+And the first time we've ever performed it together.,respond.agree
+"The first time, yeah.",give.statement
+CHEERING,use.social.convetion
+"Well, I feel it was a good start. It was a very good start.",give.opinion
+#NAME?,x
+"And when's the album out, Mark?",closed.question
+I think it's probably going to be out in March.,respond.agree
+- March 2019. And what's it called? - It's called Late Night Feelings.,closed.question
+#NAME?,x
+That I feel things late at night?,relax.atmosphere
+LAUGHTER,use.social.convetion
+"Yeah, I think it is. I think I called it this thing,",respond.agree
+"basically, sad bangers, like,",give.statement
+"songs that make you dance but they have a bit of emotion,",give.statement
+"like, melancholy, so late night feelings is just",give.statement
+things that you think of at night. That made no sense.,give.opinion
+"It will do. Well, we look forward to hearing it all.",give.statement
+"Mark Ronson and Miley Cyrus, everybody!",use.social.convetion
+CHEERING AND APPLAUSE,use.social.convetion
+"Right, that's nearly it. Before we go, just time for a visit",give.statement
+to the Big Red Chair. Who's there?,closed.question
+"- Hello! - Hi. - Are you all right? - Yeah, I'm good.",respond.agree
+- What's your name? - Leanne. - Leanne.,closed.question
+"- Are you OK, Leanne? - Yeah, I'm cool. - All right, Leanne.",respond.agree
+Shall I just let you get on with your story? Go for it.,give.statement
+"OK, Leanne. Off you go. Tell me your life.",give.statement
+"I'm on my first-ever girls' holiday, 18-30s.",recall
+"We're in Tenerife, we're having a party at the end of the night,",recall
+so we've got everyone over.,recall
+We notice that there's people filming across from us,recall
+"and we're, like, what are they up to?",recall
+"So my friends and I decided to pull a moonie… so flash our bums,",recall
+for those who maybe don't know what a moonie is.,recall
+"So, a few weeks later, I'm sitting there and I've got a new partner,",recall
+so I'm meeting his parents and we're sitting and watching,recall
+"a television programme and, the next minute, the hotel",recall
+"that I stayed in appeared on the television, so I was, like, oh.",recall
+- So then… - Oh.,recall
+"The next minute, my bum appears, along with my friend's.",recall
+"The holiday show is called Holiday Packages From Hell,",recall
+"and that was my last time of seeing any of those,",recall
+and a John Cena moment happened.,recall
+You walk! You walk.,give.statement
+CHEERING AND APPLAUSE No wonder she seems depressed.,use.social.convetion
+Bless her.,relax.atmosphere
+"The horror of seeing the hotel and going, ""I wonder what happened.""",relax.atmosphere
+"OK, who's up next? Hello.",closed.question
+"- Hello. - Hi, what's your name? - My name's Mark. - Mark.",respond.agree
+"- You're from Ireland, right? - I'm from County Cork in Ireland, your way.",closed.question
+"Oh, right. Am I in your story?",closed.question
+#NAME?,x
+"Off you go with your story, Mark.",give.statement
+"So, I injured my foot in the summer and it was really",recall
+"badly damaged, and said I'd just leave it and leave it but it never",recall
+"healed, so I was like bite the bullet and go the physio.",recall
+The funny thing is I really fancy my physio.,recall
+She's really good looking.,recall
+"Unfortunately, I've got really hairy feet, so I didn't want to go",recall
+"into the physio with my Hobbit feet, so I decided at the last minute",recall
+to whip off the hair on my damaged foot.,recall
+"So I went in anyway, put the bad foot up, she was checking it",recall
+"and checking it, and she couldn't really see what the problem was.",recall
+"So she was like, can you pop your other foot up there just so I can…",recall
+LAUGHTER DROWNS SPEECH,use.social.convetion
+"So, anyway, I lump the other foot up and she kind of",recall
+"has a smart grin on her face, and she's examining again.",recall
+"She just goes, ""Don't worry, Mark, you'd be surprised how many people",recall
+"""come in here like that.""",recall
+You can walk.,give.statement
+You can walk right out.,give.statement
+"That's all we've got time for, I'm afraid.",give.statement
+If you'd like to have a go in the chair yourself,give.statement
+"and tell your story, you can contact us via",give.statement
+our website at this address.,give.statement
+Please say thank you to all of my guests tonight… Mark Ronson…,use.social.convetion
+CHEERING AND APPLAUSE,use.social.convetion
+…Miley Cyrus…,use.social.convetion
+CHEERING AND APPLAUSE,use.social.convetion
+…Jamie Oliver…,use.social.convetion
+CHEERING AND APPLAUSE,use.social.convetion
+…Hailee Steinfeld…,use.social.convetion
+CHEERING AND APPLAUSE,use.social.convetion
+…John Cena…,use.social.convetion
+CHEERING AND APPLAUSE,use.social.convetion
+LAUGHTER,use.social.convetion
+…and Matthew McConaughey!,use.social.convetion
+CHEERING AND APPLAUSE,use.social.convetion
+"Join me next week with super girl band Little Mix,",use.social.convetion
+"top comic Bill Bailey, Strictly judge Dame Darcey Bussell",use.social.convetion
+"and Aquaman himself, Jason Momoa.",use.social.convetion
+"I'll see you, then! Goodnight, everybody, bye-bye!",use.social.convetion
+CHEERING AND APPLAUSE,use.social.convetion

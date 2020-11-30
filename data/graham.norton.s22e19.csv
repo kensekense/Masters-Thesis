@@ -1,0 +1,956 @@
+U,L
+"Hi, everyone, I'm Margot Robbie. And I'm Allison Janney.",use.social.convention
+BOTH: Welcome to the Graham Norton show!,use.social.convention
+Hello! Hello.,use.social.convention
+Hey!,use.social.convention
+"Oh, thank you very much.",use.social.convention
+"Thank you so much. Hello, hello, hello.",use.social.convention
+And welcome to you all.,use.social.convention
+"Now, I hope you all had a happy Valentine's Day, did you?",closed.question
+CHEERING,use.social.convention
+Oh! I did. Thanks for asking. Yes.,use.social.convention
+"I was woken up in the morning by my loved one, holding a red rose,",recall
+desperate to hump me.,relax.atmosphere
+LAUGHTER,use.social.convention
+True story. Hasn't it been chilly? I say it's been chilly.,closed.question
+"It's been cold, hasn't it? Cold! Yes.",closed.question
+Colder than a Sex In The City reunion.,relax.atmosphere
+And that's chilly!,relax.atmosphere
+But perfect weather for the Winter Olympics.,give.opinion
+Have you all been watching?,closed.question
+ALL: Yes.,respond.agree
+Mm. Me neither.,relax.atmosphere
+Erm...,relax.atmosphere
+Ooh! Pyeongchang!,relax.atmosphere
+LAUGHTER,use.social.convention
+I didn't know there were six Olympic rings.,give.statement
+Now...,give.statement
+there have been dangerously high winds at this year's Olympics,give.statement
+"and as we learnt recently, even the lightest of winds",give.statement
+can cause devastation.,relax.atmosphere
+Yes.,give.statement
+Let's get some guests on!,use.social.convention
+CHEERING,use.social.convention
+"Later, will have Latin pop sensation Camila Cabello!",use.social.convention
+CHEERING,use.social.convention
+"But first, he's Oscar-nominated",use.social.convention
+"for his role in the critically acclaimed Get Out,",use.social.convention
+and now he's starring in Marvel's latest megahit Black Panther.,use.social.convention
+Please welcome Daniel Kaluuya!,use.social.convention
+Yay!,use.social.convention
+"Hello, sir. You're very welcome.",use.social.convention
+Really good to see you.,use.social.convention
+Daniel Kaluuya!,use.social.convention
+This Swedish actress won an Oscar,use.social.convention
+for her role in The Danish Girl,use.social.convention
+and now she's kicking ass as Lara Croft in the brand-new,use.social.convention
+"Tomb Raider, it's Alicia Vikander!",use.social.convention
+Oh!,use.social.convention
+"Hello, lovely woman. Hi.",use.social.convention
+"Come in, come in, sit down, Alicia.",use.social.convention
+"She shot to fame as CJ in The West Wing,",use.social.convention
+now she's earned her first Oscar nomination for her standout,use.social.convention
+"performance in I, Tonya, it's a pleasure to welcome Allison Janney!",use.social.convention
+CHEERING,use.social.convention
+"You're like a gift, like an African gift!",use.social.convention
+Come in and sit down.,give.statement
+"Also Oscar-nominated for her starring role in I, Tonya, this",use.social.convention
+Aussie actress is about to become one of the biggest players,use.social.convention
+in Hollywood. It's Margot Robbie!,use.social.convention
+CHEERING,use.social.convention
+Whoo!,use.social.convention
+"Hi! Ah, so good to see you. Mwah, mwah.",use.social.convention
+"Come in, sit down.",use.social.convention
+"Hello, everybody. I tell you, this is a weekend and a half.",use.social.convention
+"It's BAFTAs of course, this weekend.",give.statement
+Are you all going to the BAFTAs? I am. Yeah. Yeah.,closed.question
+I'm not.,respond.deny
+"Oh, God!",relax.atmosphere
+That's awkward(!),relax.atmosphere
+"But we've got to celebrate this sofa, because it is extraordinary.",give.opinion
+"So Margot and Allison, both BAFTA and Oscar-nominated for I, Tonya.",give.statement
+"SOMEONE WHOOPS A round of applause, yes!",use.social.convention
+"And Margot, you're kind of wearing two hats,",give.opinion
+because you produce this movie as well.,give.statement
+"Yes. Which is a big deal. It's a lot of work, yeah!",respond.agree
+"And obviously, it's a skating movie. There's a lot of ice skating in it.",give.statement
+"So do you do... I mean, how much of it...? I was so impressed.",closed.question
+All of it. All of it.,respond.agree
+"You did all of it? I mean, you must have...",closed.question
+I am competing at the Winter Olympics this season.,relax.atmosphere
+"No, anything really impressive was not me. Everything else was me.",give.opinion
+But you must have done it since you were...,give.statement
+"No, I grew up in Australia, there's no ice on the Gold Coast!",respond.deny
+"And Allison, there you are,",give.statement
+you got armfuls of Emmys,give.statement
+when you played CJ in the West Wing.,give.statement
+Yeah. Because everyone loves the West Wing.,give.opinion
+"But this is weird, I didn't know that people somehow got confused.",give.statement
+They thought that CJ was real.,give.statement
+They wanted so much of that show to be real.,respond.agree
+"I mean, we would go on trips from LA to do exteriors in Washington,",give.statement
+we'd go through the airport and people would refer to,give.statement
+"Martin Sheen as Mr President and he was happy to, you know, do this.",recall
+"He loved being called Mr President, I think people...",recall
+"CJ was such a great, such an iconic female role on television,",give.opinion
+"this incredibly smart woman operating, you know, at her",give.opinion
+best in a male dominated arena,give.opinion
+"and, um, I got offers for jobs in Washington...",give.statement
+Really?,closed.question
+"..a news station and somewhere as a political pundit,",give.statement
+"I was like, ""Are you aware that I'm an actress and this is just...",recall
+"""I play CJ on TV, but I cannot...""",recall
+"You know, ""I'm not going to run for office, I can't be a pundit.""",recall
+But it was extraordinary to me and it also made me,give.opinion
+"very shy about meeting people, because I'm so not CJ.",give.opinion
+"Of all the characters I've ever played,",give.statement
+I would most like to be like CJ.,give.opinion
+"Well, good luck this weekend with the BAFTAs. Thank you.",give.statement
+And the Oscars. Thank you.,use.social.convention
+"Now, Alicia Vikander, there's a sort of smug glow around Alicia,",give.statement
+cos she's WON an Oscar.,relax.atmosphere
+The others are just hopefuls thus far. Alicia's got one.,give.statement
+"I still don't believe it, really.",give.statement
+"For The Danish Girl,",give.statement
+but have you actually been united with the Oscar yet?,closed.question
+"This has been a question that has been returning, but I haven't.",respond.deny
+I only had one night with Oscar and then...,give.statement
+"I had to go back to work, I left LA",give.statement
+"and I said to my friend, ""I think it's too heavy,",recall
+"""I can't carry it in hand luggage"",",recall
+so her daughter...,recall
+Can I just say...,relax.atmosphere
+I want a bigger level of gratitude than that.,relax.atmosphere
+"""It's too heavy, I'm not taking it home.""",recall
+"No, it's just because I've been on the move for quite a few years...",relax.atmosphere
+I have a lot of shoes in my bag....,relax.atmosphere
+So where is it? Just at a friend's house?,closed.question
+"I get updates from my friend's daughter, because she has Oscar",respond.agree
+"in her room, so sometimes I get a little photo of what Oscar is up to.",give.statement
+"Not a lot, I imagine.",relax.atmosphere
+"Daniel Kaluuya, what an amazing year you've had.",give.opinion
+"Cos this time last year, you know,",give.statement
+this was not going to be the year that was coming.,give.statement
+"This is amazing. No, I was just chilling out.",relax.atmosphere
+I was chilling...,relax.atmosphere
+"And then this film came out, I was like,",give.statement
+I was doing this indie horror and...,give.statement
+"No, it's been life-changing. Yeah!",respond.agree
+And a lot's happened!,give.statement
+"So, Oscar-nominated for best actor, but also the BAFTAs this weekend.",give.statement
+"Come on, you've got to get something - you're nominated for Best Actor",give.opinion
+and Rising Star. That would be too cruel to give you nothing.,give.opinion
+"I mean, it happened to Craig David at the Brits.",give.statement
+Do you remember when Craig David...?,closed.question
+He was nominated for six Brits and it didn't come home with nothing!,give.statement
+If he can go away with... He had six!,relax.atmosphere
+"This is two, innit?",relax.atmosphere
+That's a good attitude to have.,give.opinion
+But David came back. He came back.,give.statement
+"It took about 20 years, but he came back!",relax.atmosphere
+"So that's the plan, man. 20 years later, I'll go,",relax.atmosphere
+"""Yo, you've got to give me something, man.""",recall
+"You've had some practice now with the big celebrity,",give.statement
+because of obviously the Golden Globes... Yeah.,give.statement
+So who did you meet at the Golden Globes?,closed.question
+"Er, how long have you got, man? Just like, so many.",closed.question
+Did you meet these guys at the Golden Globes? Nah.,closed.question
+"I met... I met her before at these awards, Governors Awards, and she",respond.deny
+"was really cool and we just spoke about stuff, it was really nice,",give.opinion
+"and then, erm...",give.statement
+Then I met... I met Oprah. Good story!,give.statement
+You were really nice. She was a nice person. It was cool. It was nice!,relax.atmosphere
+"I couldn't believe he was English, because his accent was",give.statement
+"so flawless in Get Out and I was like, ""Oh, my God.""",give.statement
+"And any time I meet anyone who's English,",give.statement
+"I'm just immediately like, ""I love London, I miss it! Do you live there?""",recall
+Ah! I do! So you talked about London. We talked about London.,give.statement
+"No, I met...",recall
+"This is what happened, yes? I met Denzel...",recall
+Ooh! I met Denzel and Oprah at the same time.,recall
+"It was like a segue, just...",give.statement
+"I don't know, this African American excellent segue of Black exc...",give.statement
+I don't know what happened.,give.statement
+"Denzel came up to me with an English accent, like,",recall
+"""Cheers, mate"" and I'm like, ""What's happening?",recall
+"""How do you know who I am?""",recall
+"And then he went to his wife, like, ""He thinks I don't know who he is!""",recall
+"And then he goes, ""Come and meet Oprah!"" And I was like...",recall
+Let's meet O!,relax.atmosphere
+Then I just hugged her. I hugged her so tightly.,recall
+"She felt so good, man.",give.opinion
+LAUGHTER,use.social.convention
+"It's not even a joke, she felt good. Apparently, she smells...",give.opinion
+"She has an amazing smell. She smells amazing, Graham. I swear...",give.opinion
+Oprah is just premium. Premium. Can the rest of the couch...?,closed.question
+"You must have all met Oprah, does she smell amazing?",closed.question
+"I've never met Oprah, but when I do,",deflection
+I'm going to hug her for sure. I didn't smell her.,give.statement
+"I met her at the Golden Globes, but she was too far away.",give.statement
+You've got to inhale deeply. Inhale deeply.,relax.atmosphere
+"We're all going to be following her around, sniffing...",relax.atmosphere
+Now I know why there was suddenly such a nice smell in the room.,relax.atmosphere
+"Yeah, she was really cool. It was really surreal.",give.opinion
+"Now, the film about Tonya Harding, I, Tonya.",give.statement
+It opens here next Friday.,give.statement
+"Margot, you're the best person to tell us the story in a way,",give.opinion
+"because when you read the script, you didn't know it was a true story.",give.statement
+"No, I didn't.",respond.agree
+I think probably anyone born after 1990 might not know who,give.opinion
+"any of these people are,",give.opinion
+because I didn't and I got the whole way through the script,give.statement
+"thinking, ""This is obviously not REALLY based on true events,",recall
+"""because it is so absurd.""",recall
+"And then I went on the internet and was like,",give.statement
+"""Oh, my God, this all happened",recall
+"""in precise detail"" that our writer captured, right down to the",recall
+"moments, like Allison's character",recall
+wearing a fur coat with a bird on her shoulder,recall
+"doing an interview - like, that actually happened,",recall
+you can look it up on YouTube.,give.statement
+"There was a lot to go off, thankfully, for us.",give.opinion
+And the central story is about her and this...,give.statement
+"Her rival, Nancy Kerrigan.",give.statement
+"Well, that's the story the world kind of new,",give.statement
+but the film explores what her life really was like and the main,give.statement
+relationships in her life were with her husband Jeff Gillooly,give.statement
+"and with her mum, LaVona",give.statement
+and the other ones we focus on.,give.statement
+"Of course, the Nancy Kerrigan incident comes into the film",give.statement
+"later in the film, but you really start off and see how",give.statement
+she grew up and what those really messed up relationships,give.statement
+were like and how it affected the person she became.,give.statement
+"And I guess there's lots of footage of Tonya,",give.statement
+"both on the ice and off the ice,",give.statement
+she was an ice skater.,give.statement
+"But not so much of the mum, so how do you go about that?",closed.question
+"Do you care about accuracy if you don't have to? Well, exactly.",closed.question
+It was kind of liberating...,respond.agree
+I would have felt a little intimidated,give.opinion
+if I'd had to have met the real woman and I was kind of freed,give.opinion
+"of that responsibility, so I looked at all the existing footage.",give.statement
+"There were a couple of documentaries,",give.statement
+and I just watched them over and over and over again,give.statement
+and listened to the incredible stories that Tonya...,give.statement
+"My friend Steven Rogers who wrote it,",give.statement
+"he interviewed both Tonya and Jeff Gillooly,",give.statement
+her husband and they disagreed,give.statement
+on absolutely everything except,give.statement
+"for LaVona, who she was and how she acted and how she treated Tonya.",give.statement
+So I had those stories,give.statement
+and then I got to make her up myself. I got to create her.,give.statement
+"You know, you see this in the film and kind of think that can't be",give.statement
+"what she looked like, but then you see the footage at the end...",give.statement
+"Yeah, when I read the script,",respond.agree
+"I said ""Steven, how the hell...?",recall
+"""This wig and the fur coat and the bird and the alcohol -",recall
+"""how did you think of this, you know, specific look?""",recall
+"And he said, ""Wait, let me just send you a little documentary"",",recall
+"then I looked and that's what this lady wore, that's what she chose.",recall
+"Cos in this country, we do think Deirdre Barlow. Anyone else?",closed.question
+I'll tell you something. The thing...,relax.atmosphere
+"The breathing tube, that was my idea at the last minute,",give.statement
+"because the bird handler said, ""You can't smoke around the bird""",recall
+and my character smoked in every scene in this movie,recall
+and then we had to shoot this direct address that I do,recall
+"and the bird handler said no,",recall
+"and Craig Gillespie, our director, said, ""Well, she has to smoke,",recall
+"""she smokes in every scene"", and I asked the prop department",recall
+if they had one of those...,recall
+"I thought, ""Well, she must have",recall
+"""emphysema if she smoked her whole life"", so they did,",recall
+they had the breathing tube,recall
+and the can of oxygen you see is on the couch next to me,recall
+during that scene.,recall
+And then the bird became fascinated with the breathing tube,recall
+"and kept pecking at it, the entire time I was doing the scene.",recall
+I tried to just not let it bother me,recall
+because we only had two hours to shoot that scene and,give.statement
+I was not going to let that bird stop me from telling my story.,give.statement
+It was... Amazing.,relax.atmosphere
+"Listen, we've got a clip from I, Tonya.",give.statement
+"This is Tonya on... I think it's her first date,",give.statement
+or an early date,give.statement
+"with her husband-to-be,",give.statement
+but they're not alone.,give.statement
+"Are you a gardener or a flower, John?",closed.question
+It's Jeff.,respond.agree
+"In a relationship, there's a flower and gardener.",give.statement
+Um...,give.statement
+"You don't need to... I don't know, I mean, I...",give.statement
+I just thought...,give.statement
+"I'm a gardener who wants to be a flower, how fucked am I? Mum! What?",closed.question
+You two fuck yet?,closed.question
+LAUGHTER AND APPLAUSE,use.social.convention
+That was actually...,recall
+We were doing coverage of Margot and Sebastian and I was off-camera,recall
+"and sometimes, when I'm off-camera,",give.statement
+I like to give the people on camera something different to get them...,give.statement
+"a reaction, and that was not LeVona's line,",give.statement
+but I was trying to shock them... Not in the script at all.,give.statement
+"It wasn't in the script and I just was like, ""You two f... yet?""",recall
+"To get this reaction out of them, so then Craig was like,",give.statement
+"""We've got to turn around, we've got to get you again.""",recall
+"I was like, ""Oh, no.""",recall
+Did you even know that we were meant to have our first sex scene,closed.question
+later that night?,closed.question
+When you said that? No.,closed.question
+"Oh. OK, because it was very evident",respond.deny
+"in my mind, ""Oh, it's the first one,",recall
+"""I hope it's not weird or anything like that"", so you saying that...",recall
+was like...,recall
+caught me so by surprise and my face went so red,recall
+and Sebastian choked on his drink and I was like...,recall
+"It was so good, it got such a good reaction. But this mother,",give.opinion
+"I mean, she is a monster,",give.opinion
+but it SORT of comes from a good place or a...,give.opinion
+"Um, well...!",respond.agree
+"Yeah. In her mind, yeah.",respond.agree
+Brings the results. Yeah.,give.statement
+"The ends justify the means - in her mind,",give.statement
+she wants her daughter to have this opportunity to be this incredible,give.statement
+"skater, she knows her daughter has undeniable talent",give.statement
+and she wants her to succeed and have the things in life that,give.statement
+"come along with the talent that she has and in every way,",give.statement
+"she was crossed by either the figure skating community not embracing her,",give.statement
+saying she needed a fur coat and they didn't have money to buy,give.statement
+"a fur coat, they didn't have money to...",give.statement
+So she was very frustrated,give.statement
+and knew that her daughter was motivated by being shamed or,give.statement
+"needled by saying, ""You can't do it, you suck, you're terrible.""",recall
+"It would motivate her to go out and skate better, so yeah,",recall
+"she's not going to win mother of the year, but I think her...",give.opinion
+Her heart was in the right place.,give.opinion
+Um...,give.statement
+LAUGHTER,use.social.convention
+"Cos Daniel, your mum's quite into the tough love, isn't she?",closed.question
+"She's a beast, man.",respond.agree
+"Amazing love and care, but she don't care. She's...",give.statement
+It's the reason why...,give.opinion
+"I remember, there was a time...",recall
+"I did my first play at the Royal Court and then like,",recall
+"it was press night, so I was like, ""Mum, this is the casting director,",recall
+"""this is the woman who... The reason I got in the room"",",recall
+"this, that and the other,",recall
+"and she was like, ""When are you going to give him another job?""",recall
+LAUGHTER,use.social.convention
+"I'm thinking, ""This woman's going to ruin my career right now.""",recall
+INDISTINCT,misc
+"She was just like, yeah... The casting director was like...",recall
+"""When are you going to give him another job? He's not going uni.""",recall
+"""He's not going uni.",recall
+"""He's ruining his life. You have to give him a job.""",recall
+"""You've made him not go uni... You have to give him another one. When?""",recall
+"She was like, ""Oh, there's some stuff coming up.""",recall
+"She was answering, as well.",recall
+"And then like, I took her to the Get Out Premiere",recall
+"and was in the car, chilling,",recall
+"everyone was, ""Good film, yeah...""",recall
+"And then like, I was like, ""Mum,",recall
+"""what do you think about my American accent?""",recall
+"She was like, ""Nearly there.""",recall
+LAUGHTER,use.social.convention
+Oof! She's raw.,relax.atmosphere
+But this is the woman you're bringing to the Oscars with you?,closed.question
+"Yeah, I have to, man.",respond.agree
+"That could go horribly wrong, I feel!",relax.atmosphere
+That's the fun bit!,respond.agree
+I want her to meet random people.,relax.atmosphere
+"She met Snoop Dogg the other day, it was amazing.",recall
+"She told me off all my life for playing Snoop Dogg out loud,",recall
+"and when she met him, she started giggling. I was like, ""Look at you!""",recall
+"""Look at you."" I took a picture. It was amazing.",recall
+"I want to meet your mum, it'd be awesome. I'm going to come say hi.",give.opinion
+It's so funny you're all going to be there. We can all hang out again.,give.statement
+Yeah. You'll be at home watching.,relax.atmosphere
+"Now, here's the thing - Alicia, your mother was an actress. Yeah, she is.",closed.question
+"Is. But she was not a pushy mother, she was sort of the opposite.",closed.question
+"Yeah, I think anyone who's been in the industry knows how",respond.agree
+"tough it is, so she was more like, ""Are you really,",recall
+"""like, really, really, really sure?""",recall
+"You know, when I started out.",recall
+I danced for many years and I think she had seen me,give.statement
+"being on that route for quite a long time, but, you know,",give.statement
+"it's her biggest passion,",give.statement
+so I just saw her do what she did...,give.statement
+Didn't she tried to stop you going to auditions?,closed.question
+"Yeah, I mean, when I was...",respond.agree
+"My first audition, I was probably six or seven",recall
+and had been in the theatre where they had this poster up that they,recall
+were auditioning for young kids for this musical.,recall
+"I wanted to go and she was like, ""No."" That was it.",recall
+Then I had to have a fit and scream and lock myself into my room,recall
+"for some time and then finally,",recall
+she agreed for me to begin my career!,recall
+And did you get the part? I did. Oooh!,closed.question
+GOOD screaming child.,respond.agree
+"Talking of difficult children,",give.statement
+"Margot, I don't know if you",give.statement
+"were a terrible child, but do you know the story I'm talking about?",closed.question
+Like you do not win any awards for being a good daughter.,give.statement
+There are many stories where I don't win awards.,give.statement
+I was not a great daughter.,give.opinion
+I am forever in my mum's debt because I was...,give.opinion
+such a brat and I feel really bad about it.,give.opinion
+Tell us the story about when you were on your computer,open.question
+"and she wanted your help. Oh, yes. Yes, OK. I...",respond.agree
+"I was on MSN, obviously, the most important thing at the time...",recall
+God is in the details!,relax.atmosphere
+"And we moved out, like, out in the sticks",recall
+and often snakes would get into the house,recall
+"and you know, it wasn't a big deal,",recall
+but you'd have to chase them around,recall
+"and get it out, it was time-consuming and annoying.",recall
+"My mum yelled out and said, ""Can you come help me?",recall
+"""This snake's really big, I can't get it on my own. Can you come help me?""",recall
+"and I was like, ""I'm so busy, Mum. No, I can't.""",recall
+"Just being a brat, and she was like, ""Oh, I just...",recall
+"""Are you sure? Please?""",recall
+"And I was like, ""Be gone.""",recall
+"And, um...",recall
+"And then she WAS gone, like,",recall
+"for like, ten minutes, and I was like, ""Oh,",recall
+"""she's been gone for ages.""",recall
+"Then I got up from the computer, I could hear this, ""Mm! Mm!""",recall
+"And I was like, ""Oh, God, what's happening?"" and I see Mum,",recall
+"she's made it halfway down the stairs and the snake,",recall
+she'd tried to pick this big python up,recall
+"with a broom and a stick, but it had",recall
+wound its way up around her arm,recall
+and was going around her neck...,recall
+trying to choke her.,recall
+"I love Australia, but I would never be able to live there!",give.opinion
+"No, I'm painting a bad picture, it's really not bad, but...!",give.opinion
+"Anyway, it wasn't a poisonous snake.",relax.atmosphere
+But they do... They do strangle you!,relax.atmosphere
+I felt so bad. How did you get it off her?,closed.question
+"You've just got to give it something else to climb on,",respond.agree
+"so get a stick or something, it starts weaving its way around that",give.statement
+and you can transfer its weight... Good to know. That is a top tip.,give.statement
+Or you just grab it behind its head... They hate that.,give.statement
+Well... You just don't want it to bite you!,give.statement
+"Was your mother OK? Yeah, she was fine.",closed.question
+I felt bad and I tried not to be such a brat.,respond.agree
+"When Mum asked for help in future, I kind of did it. A lesson learned.",give.statement
+A lesson learned. Very good.,relax.atmosphere
+"Right, let's move on to Alicia's film tonight. Tomb Raider.",give.statement
+"It opens Thursday, March 15, and you are the new Lara Croft.",give.statement
+"Obviously, not like Tonya Harding, you're not a real person,",give.statement
+but people have such a clear vision of who this woman is.,give.opinion
+Mm-hm. You must feel a kind of similar pressure.,give.opinion
+"Yeah, my breasts are not as pointy as the first version.",relax.atmosphere
+"No, I mean, yeah, she's been with us for like, what is it? 20, 22 years.",closed.question
+"And, I... Yeah... I actually...",respond.agree
+"I'm, like, a HUGE fan of Tomb Raider. Great!",relax.atmosphere
+"I am so excited to see this. I was, you know,",relax.atmosphere
+we grew up with MSN... Yeah! I also grew up in that time where there was,give.statement
+none of my girlfriends who played video games and I kind of kept it...,give.statement
+I was kind of ashamed of doing it.,give.statement
+But I was at my parents' friends' house,recall
+and their kids had a PlayStation and I went there and remember,recall
+I walked into the room and saw,recall
+"it was a female protagonist in a video game,",recall
+and I had never seen that,recall
+"and, er, yeah. I was a bit too scared to play the whole game",recall
+"when I was about ten, so I mostly spent time doing the tricks",recall
+"and her learning her moves in the Manor,",recall
+"but no, I was a big fan when I was a kid.",recall
+"Daniel, are you a big gamer? Do you play a lot of games?",closed.question
+"No, cos it ruins my life.",respond.deny
+It just ruins me. It's time consuming.,relax.atmosphere
+"I've got things to do, man. I just...",relax.atmosphere
+"That's a good answer. I kind of realise that now,",give.statement
+"when I did it, because I did play the games before I did the film",give.statement
+"and I was like, ""Wow, I had way too much time when I was a child.""",recall
+"Listen, we've got a clip.",give.statement
+This is you as Lara Croft,give.statement
+and I believe in this clip you've just raided a tomb.,give.statement
+HE GRUNTS,misc
+"Ooh! Don't worry, he didn't die.",give.statement
+Was he OK? He's fine!,closed.question
+How long did you have to train for that? So I...,closed.question
+"Um, I did about four months",respond.agree
+before I started to shoot when I got into...,give.statement
+"Your arms are, like, ripped. Yeah, so that's the thing.",give.statement
+It takes four months for me.,recall
+I had never lifted a thing with my arms. I did ballet.,recall
+Not even an Oscar.,relax.atmosphere
+Two hands! That's why you need two hands.,respond.agree
+"""I can't bring that home.""",recall
+So it takes about four months to...,give.statement
+"I remember my trainer told me,",recall
+"""They're really underdeveloped.""",recall
+"I was like, ""Oh, really? OK.""",recall
+"But then four months later,",recall
+"you know, he managed.",recall
+"I told him, ""I don't believe you."" But, yeah...",recall
+"You have to do it, because it is non-stop, this movie.",give.statement
+So then it takes three weeks for you to lose it all.,give.statement
+That is the sad bit.,give.opinion
+Three weeks to lose?,closed.question
+Three weeks to just go out of shape? Yeah!,closed.question
+I thought I was going to stay like this! That's not fair.,give.opinion
+To get muscle and then to lose it. Crazy. So unfair. That's not fair.,relax.atmosphere
+LAUGHTER,use.social.convention
+"Terrible. And now, because you're Swedish, how does that work?",closed.question
+"Obviously, you're married to an Irishman now, so...?",closed.question
+Are you learning Irish phrases?,closed.question
+Irish is actually quite close.,respond.agree
+"A lot of people think I'm Irish because in Sweden, I guess",give.statement
+we have the same Rs.,give.statement
+Yeah.,respond.agree
+"Bit of a connection, there. And is he learning Swedish phrases?",closed.question
+I wish it was...better.,give.opinion
+"Yeah. Actually, one thing he likes is...",give.statement
+He came to Sweden and learned that it's a lot of Swedish sayings,give.statement
+"that are very commonly used and it's one of those things,",give.statement
+"when it's my own language,",give.statement
+"I didn't really think about how weird they are, but",give.statement
+"he learned about them and was like, ""I'm just now going to use those.""",recall
+"It's like saying in Swedish,",give.statement
+"""Well, now you're taking a poop in the blue cabinet.""",recall
+What?!,relax.atmosphere
+Yeah. That's like a very common thing.,give.opinion
+"Or, ""Yeah, you can't just expect to walk in,",recall
+"""sliding in on a shrimp sandwich.""",recall
+I actually saw politicians when I was back home in Sweden,recall
+use that in a debate. In Swedish.,recall
+"I was like, yeah, that's how...",respond.agree
+You can't come in here and slide on a shrimp sandwich?,closed.question
+"Yeah, because shrimp is very, like, flashy",respond.agree
+"in a socialist country, having a shrimp sandwich is very fancy.",give.statement
+"So you can't just have your privileges and walk in,",give.statement
+slide in here on a shrimp sandwich.,give.statement
+"We have an Australian one - ""We're not here to fuck spiders.""",recall
+LAUGHTER,use.social.convention
+What does that MEAN?! Let's get on with it!,closed.question
+It would be difficult to try and fuck a spider...,respond.agree
+"In Australia, you COULD find a spider to fuck!",relax.atmosphere
+LAUGHTER,use.social.convention
+"Now, I feel bad that we're talking about this,",give.opinion
+"because of what we're about to show, which is so sweet.",give.opinion
+"I mean, diabetics shouldn't watch this. Ah.",relax.atmosphere
+This must be your first appearance on television?,closed.question
+"Yeah. It's so funny, because I've been watching your show",respond.agree
+"since I moved here and I thought, ""If I ever get on the show...""",recall
+"I was like, ""What is he going to find?""",recall
+From my... Because you're all about finding those clips.,give.statement
+So how old are you here? I'm seven or eight.,closed.question
+"It's funny, because I hadn't seen this clip until...",respond.agree
+There was actually somebody working at a TV channel,give.statement
+I guess in Sweden during the Oscars who had gone down,give.statement
+"and found a VHS of this tape,",give.statement
+because I only have my vague memory,give.statement
+of this as a child and I have never seen it until two years ago.,give.statement
+"Well, this is amazing.",give.opinion
+This is Alicia on...,give.statement
+Presumably it's Junior Stars In Your Eyes? Mm-hm.,closed.question
+So this is Alicia on Junior Stars In Their Eyes.,respond.agree
+"When she comes out of the smoke, you won't know who she is.",give.statement
+"APPLAUSE Hey, how are you?",use.social.convention
+AUDIENCE: Aw!,use.social.convention
+SHE SINGS IN SWEDISH,misc
+CHEERING,use.social.convention
+APPLAUSE She won!,use.social.convention
+You're very proud. Actually...,give.opinion
+"Little thing about the job that I locked myself in the room,",give.statement
+"that I begged to go to the audition to,",recall
+"that was the musical, that was not my part,",recall
+"but that was the woman playing my mother in that musical,",recall
+so I mimed her song. Looked up to her a lot.,recall
+But she's a famous Swedish...? She's a very famous singer.,closed.question
+"Swedish person. Now, Daniel's film is the latest hit from Marvel,",respond.agree
+Black Panther. It's out now.,give.statement
+"And, I mean, this film is doing such amazing business.",give.statement
+"It's sort of beating everything before it, isn't it?",closed.question
+"Yeah, but I have a theory. I have a theory.",respond.agree
+"It's that I think there's some artist that said, ""Don't pirate it.""",recall
+"They always said, ""Don't pirate it,"" so loads of people are just",recall
+"not pirating it, and they're going to the cinema to watch it.",give.statement
+"And also, it's an experience. Yeah.",give.statement
+It's something to watch with people.,give.statement
+"Because it's quite wild. And, but also, without doubt,",give.opinion
+it's the best reviewed Marvel film of all time.,give.opinion
+"I mean, these reviews are crazy. Yeah, it's nice. It's very nice.",give.statement
+"Yeah! OK, so tell us about the story and who you play in the story?",respond.agree
+"Erm, the story is about T'Challa, who's the Black Panther,",give.statement
+"whose dad dies in a previous Marvel film,",give.statement
+"and he has to take over the throne,",give.statement
+because the dad was the King of Wakanda.,give.statement
+He's taken over the throne and he has to be the king,give.statement
+"with these powers and has the responsibility,",give.statement
+but there's new enemies coming in.,give.statement
+"But Wakanda is this place, and I play W'Kabi,",give.statement
+who's the leader of the Border Tribe that protects the border.,give.statement
+"Because nobody is allowed to be in Wakanda,",give.statement
+so that it keeps its resources within Africa.,give.statement
+"So this is a fictional African country that keeps its resources,",give.statement
+so it's like one of the richest countries in the world.,give.statement
+"But in order to do that, it needs to be protected and no-one knows",give.statement
+"about it outside of Wakanda, and we have to keep that secret.",give.statement
+"Listen, we've got a clip.",give.statement
+This is you and some of the other tribal leaders discussing a problem.,give.statement
+Ulysses Klaue plans to sell the Vibranium to an American buyer,give.statement
+in South Korea tomorrow night.,give.statement
+Klaue has escaped our pursuits for almost 30 years.,give.statement
+Not capturing him is perhaps my father's greatest regret.,give.opinion
+I wish to bring Klaue back here to stand trial.,give.statement
+Wakanda does not need a warrior right now. We need a king.,give.statement
+My parents were killed when he attacked.,recall
+Not a day goes by when I do not think about what Klaue took from us.,give.statement
+From me. It's too great an opportunity to pass.,give.opinion
+"Take me with you. We'll take him down together, side-by-side.",give.statement
+"I need you here, protecting the border.",give.statement
+"Then I ask, you kill him where he stands, or you bring him back to us.",give.statement
+You have my word.,give.statement
+I will bring him back.,give.statement
+CHEERING,use.social.convention
+And...,give.statement
+"But, of course, it is a superhero movie. Yeah.",give.statement
+"And with superhero movies come those costumes,",respond.agree
+you get the superhero costumes.,give.statement
+"So you must have been very excited to think, ""What's my costume?""",recall
+"Yeah, and then I had to wear it.",relax.atmosphere
+"I had all this armour. I looked like an African Jedi,",give.opinion
+so I had all this armour and stuff. And then I had to have a blanket.,give.statement
+It's flippin' Blanket Man.,relax.atmosphere
+"Like, because we shot it in Atlanta,",give.statement
+and it was so hot! It was just so hot.,give.opinion
+"But I had to act really cool, because I'm in a superhero movie.",give.statement
+"So we were like, ""Yeah, yeah."" But, like, just sweat...",recall
+My make-up was going all over my eyes and I was blinking like this.,recall
+"It wasn't a sexy moment for me, I tell you that.",give.opinion
+"Now, a lot of the reviews are talking about how this film",give.statement
+is kind of a game changer.,give.statement
+"I mean, was there a sense amongst the cast and the crew that you were",closed.question
+doing something kind of important when you were making this film?,closed.question
+"Yeah, because it's an African superhero movie!",respond.agree
+I've never seen that in my life.,give.statement
+I felt that on set. We had this waterfall scene,give.statement
+"and it's basically Chad, T'Challa's getting the coronation.",recall
+"And then everyone starts singing, like...",recall
+Hundreds of extras start singing and drumming. I just got chills.,recall
+"I was just like, ""I've never...""",recall
+"My inner child was like, ""Oh, my God, if I saw this as a kid,",recall
+"""I wouldn't feel such a weirdo.""",recall
+You feel weird when you grow up,give.opinion
+because there's nothing that looks like you on TV.,give.statement
+"And this is, like, 90% of the cast have an African accent,",give.statement
+including Andy Serkis.,give.statement
+"It's like, everyone's like, you know...",give.statement
+"It's just this kind of... When I first watched it,",give.statement
+my inner child was so happy that this exists.,give.opinion
+"Yeah, I think the reaction from people is going to be amazing.",give.opinion
+"I mean, this movie will have such a life. Yeah, congratulations.",give.opinion
+"Thank you. Yeah, seriously.",use.social.convention
+CHEERING,use.social.convention
+"Now, talking of game-changing things, Daniel,",give.statement
+"we must mention your last movie, for which you are Oscar-nominated,",give.statement
+Get Out. AUDIENCE: Whoo!,use.social.convention
+"Yes, look at you clapping!",use.social.convention
+How many times have you seen this film? I've seen it three times.,closed.question
+You've seen it three times? Two times. I love it so much.,closed.question
+"One of my West Wing, Brad... Bradley!",respond.agree
+"Yeah, I just saw him in the picture. I was going to say.",give.statement
+"I love that guy, man.",give.statement
+Him and Catherine Keener are all... And Jordan Peele.,give.statement
+I love all... They're all amazing. It's a great movie.,give.statement
+"I have to say, I avoided watching it,",give.statement
+because I thought it was going to be a proper horror.,give.statement
+Because the poster made me think it was like Saw or something.,give.statement
+"But it's so funny and great frights, it's brilliant.",give.opinion
+"But because you were filming Black Panther,",give.statement
+were you aware of how big the movie was getting?,closed.question
+I kind of ignore things. I kind of pretend things are not happening.,respond.deny
+But it came out on my birthday. It came out on my birthday,give.statement
+"and I was out. My girl was there, who's in Atlanta.",give.statement
+"And I was like, ""We've got to watch it, innit?""",recall
+"And we went to the hood, in Atlanta.",recall
+"Like, we wanted to go right to the heart of it.",give.statement
+"Because Jordan really had people,",give.statement
+"African-American black audiences, in mind when he wrote this.",give.statement
+And we were just sitting there. I snuck in.,give.statement
+"With my hat low, snuck in. And I was sitting there at the back,",recall
+and then the reactions were just crazy.,recall
+There's a bit when I'm trying to get out of the house,give.statement
+"and this woman goes, ""Get the girlfriend, get the girlfriend!",recall
+"""Get the girlfriend, man!"" Or they'd be like, ""He's stupid!""",recall
+"It's funny, man. It was funny. It was good times, man.",give.opinion
+"But, yeah, I was so...",relax.atmosphere
+"Then I just went back to set, so I just ignored.",give.statement
+I didn't know it was a thing until I came back here.,give.statement
+"Yeah, but I like the story.",give.opinion
+"Allison Williams, your co-star, she gave you a bit of a complex on set.",give.statement
+She didn't. It was the make-up woman. Oh?,respond.deny
+"She's cool, but... You're talking about the kissing, innit? Yes.",closed.question
+"Yeah, so I was...",respond.agree
+I was doing the kissing scene. I don't know if you guys...,give.statement
+"No-one in England does this, yeah?",closed.question
+"Doing a kissing scene and just before it, they would give me...",give.statement
+A mint. A mint. Yeah.,give.statement
+"I was like, ""Cool. Why are you giving me...?"" I didn't know.",recall
+"I had my co-actor, suddenly before a scene like that,",recall
+"they came up and gave a mint,",recall
+"and I didn't know if I was going to take it as a, like, a nice thing",give.statement
+"to do or is it just like,",give.statement
+"""Oh, my God, he thinks my breath is horrendous.""",recall
+Yeah! Have to have a little rinse!,relax.atmosphere
+"I took it. I took it. I was like, ""Oh, yeah, cool.""",recall
+"And we did another take, she gave me another mint. I was like...",recall
+"""I fixed it!""",recall
+"The first time, I fixed it. You're giving me it again,",relax.atmosphere
+"have I got a problem? Like, have I got a chronic problem!",relax.atmosphere
+"Every time she gave me it, I was like, ""What?""",relax.atmosphere
+Then she didn't talk to me for the rest of the day,recall
+"because I was like, ""Why are you giving me mints?"" But, you know...",relax.atmosphere
+"So, in England, we don't do that? No. Really? It's just method.",closed.question
+"It is what it is. Australia? Mints, no mints?",closed.question
+"No, it was a thing that I discovered in America.",respond.deny
+"I was like, ""Wow, everyone's considerate about...""",recall
+I tell you what's worse than mints is someone...,give.opinion
+"I'm not going to name names, because...",relax.atmosphere
+But someone I had to kiss insisted that before we kiss...,recall
+..either he or I had to put Neosporin on our lips.,recall
+What's that? Really?,closed.question
+We're in England!,relax.atmosphere
+"Neosporin, like... Well, it's kind of... Is it like Vaseline?",closed.question
+"..an ointment, an antibacterial ointment, to heal.",give.statement
+It's something you put on. People put it around their noses,give.statement
+"when they fly, so they don't get sick. It's like Vaseline, right?",closed.question
+It's not Vaseline. It's got...? Is that Vicks? Vicks?,respond.deny
+"Oh, is it like hand sanitiser? No!",respond.deny
+Just Google it! Look it up. It's called Neosporin.,give.statement
+And you have to put it...,give.statement
+"On the lips, so you don't pass any germs or anything.",give.statement
+It was really... Everyone's so germophobic in America.,give.statement
+..creepy. I guess it's an American thing.,give.statement
+"ALICIA: So, definitely no tongue, then? Yes.",relax.atmosphere
+I didn't know that one time.,relax.atmosphere
+Apparently it's bad etiquette to put your tongue in. I didn't know that.,relax.atmosphere
+"Someone told me, yeah?",relax.atmosphere
+"I was just doing it, because I thought, ""We're keeping it real.""",recall
+Suddenly... They were like...,recall
+"Someone was saying, apparently if you fancy them,",recall
+"you put your tongue in. Yeah. That's what someone told me,",recall
+"and I was like, ""Oh, shit, I've been sticking my tongue in.""",recall
+"I think someone told me early on, thankfully.",respond.agree
+"""Don't stress about it, but no tongue."" And I was like,",recall
+"""Oh, got it."" I always say to other people.",recall
+"""It's all cool, but no tongue.""",recall
+But why wouldn't someone tell you that? Why wouldn't?,closed.question
+"Well, someone should have told you that before you put the tongue in.",relax.atmosphere
+"No, but this is, like, years later.",relax.atmosphere
+I found this out after a random conversation.,give.statement
+Someone said you're not supposed to put your tongue in.,recall
+"I was like, ""What?""",recall
+My life's a lie.,relax.atmosphere
+"Actually, I have to say,",give.statement
+and I think it's probably very good advice for actors.,give.opinion
+"Because you got kissing tips from a great, Allison?",closed.question
+"One of the greatest. Yes. One of the greatest,",respond.agree
+"Meryl Streep, I had to kiss in a movie called The Hours.",give.statement
+"And she was not happy with the way a certain scene was being lit,",recall
+"and we had to kiss and she said, ""I'm going to do you a favour.",recall
+"""You're going to thank me for it later.""",recall
+Can I demonstrate on you? On me?,recall
+"Yeah. Of course you can. Yes, please. No tongues!",relax.atmosphere
+"Do you want a mint? Oh, yeah, I need a mint.",relax.atmosphere
+"Or a pineapple. OK. All right, where's the best camera angle?",closed.question
+"There's loads of them, loads of cameras. That one's probably...",relax.atmosphere
+There we are. That's our camera? That's our camera right there.,closed.question
+"OK, so, you know,",relax.atmosphere
+"I have these nasal labial folds, they call them, these here.",give.statement
+"And they look better when they're pulled back,",give.statement
+"so she came in to kiss me, and she went like this.",recall
+Hmm! AUDIENCE YELP,use.social.convention
+I look fabulous!,relax.atmosphere
+I look 15.,relax.atmosphere
+Thank you so much. Oh!,use.social.convention
+So that's what she did for me.,give.statement
+"And it did, she pulled my face back and kissed me.",recall
+You can go watch the movie. It's very funny to see that.,give.opinion
+"I'll watch it again, and now I really want you to win the Oscar,",give.statement
+because I kissed you!,give.statement
+"Right, it's time for music.",give.statement
+"And since leaving girl group Fifth Harmony,",use.social.convention
+this woman's solo career has gone from strength to strength.,use.social.convention
+"Here, performing one of the most popular songs of the year,",use.social.convention
+"Havana, it's Camila Cabello!",use.social.convention
+CHEERING,use.social.convention
+# Havana Ooh na-na,misc
+# Half of my heart is in Havana Ooh-na-na,misc
+# He took me back to East Atlanta Na-na-na,misc
+# Oh but my heart is in Havana,misc
+# There's somethin' 'bout his manners,misc
+# He didn't walk up with that how you doin',misc
+# When he came in the room,misc
+# He said there's a lot of girls I can do with,misc
+# But I can't without you,misc
+# I knew him forever in a minute,misc
+# That summer night in June,misc
+# And papa says he's got malo in him,misc
+# He got me feelin' like,misc
+# Ooh-ooh-ooh I knew it when I met him,misc
+# I loved him when I left him,misc
+# Got me feelin' like Ooh-ooh-ooh,misc
+# And then I had to tell him,misc
+# I had to go Oh na-na-na-na-na,misc
+# Havana Ooh na-na,misc
+# Half of my heart is in Havana Ooh-na-na,misc
+# He took me back to East Atlanta Na-na-na,misc
+# Oh but my heart is in Havana,misc
+# My heart is in Havana,misc
+# Havana Ooh na-na,misc
+# I know I was there when I read the signs,misc
+# Welcome to La Yuma,misc
+# I know it was him when he hugged from behind,misc
+# He gets me every time,misc
+# He's put in work But it's in the streets,misc
+# He said girl can you ride?,misc
+# And this is the part that my daddy told me,misc
+# He got me feelin' like,misc
+# Ooh-ooh-ooh I knew it when I met him,misc
+# I loved him when I left him,misc
+# Got me feelin' like,misc
+# Ooh-ooh-ooh And then I had to tell him,misc
+# I had to go Oh na-na-na-na-na,misc
+# Havana Ooh na-na,misc
+# Half of my heart is in Havana Ooh-na-na,misc
+# He took me back to East Atlanta Na-na-na,misc
+# Oh no!,misc
+# But my heart is in Havana My heart is in Havana,misc
+# Take me back to my Havana Ooh na-na,misc
+# Half of my heart is in Havana Ooh-na-na yeah,misc
+# He took me back to East Atlanta Na-na-na,misc
+# Oh but my heart is in Havana,misc
+# My heart is in Havana,misc
+# Havana Ooh na-na,misc
+# Oh na-na-na Hey-ee!,misc
+# Oh na-na-na Na-na-na-na,misc
+# Oh na-na-na,misc
+# Hey-ee-ee # Oh na-na-na,misc
+# Havana Ooh na-na. #,misc
+APPLAUSE,use.social.convention
+Camila Cabello! Fantastic job!,use.social.convention
+How are you? How great was that? Thank you! Congratulations.,use.social.convention
+"That was so great. Come and say hello to everybody. Hi, everybody!",use.social.convention
+"This is Daniel, Alicia, Allison, Margot.",use.social.convention
+Thank you so much. So wonderful. Thank you so much. That was so good.,use.social.convention
+Thank you. I love you.,use.social.convention
+"Everyone loves that song. Oh, thank you.",use.social.convention
+"We were very excited on the couch. Oh, wow! Oh, thanks, guys.",use.social.convention
+It's hard not to stare at you. You don't need that now.,use.social.convention
+"OK, got it. I'm so used to it. Do a mic drop, a mic drop.",use.social.convention
+There you go! Was it good?,use.social.convention
+Thank you. Killed it. So that's from the album Camila.,use.social.convention
+"Whoo, thank you! You say my name right. Is that right?",give.statement
+A lot of British people tend to say it another way. OK.,give.statement
+"Camilla, but it's not. No, but it's Camila.",give.statement
+I don't know why I had that example.,relax.atmosphere
+"So, the album's called Camila, which is out now.",give.statement
+"So, here's the thing, I hear that you are a fan of British television,",give.statement
+which seems very unlikely. But you come here and you like...,give.opinion
+You love it. Why are you booing?,relax.atmosphere
+"All right, we all have to watch it, I understand that!",relax.atmosphere
+"The woman likes it. Let her. No, I really like how they do the...",relax.atmosphere
+"Erm, like ITV2 when they do the,",give.opinion
+"ENGLISH ACCENT: ""Coming up next on ITV2!""",recall
+I love that they're very excited about what's coming up next.,give.statement
+"You just watch that bit? Yeah. Not the shows, just the thing.",closed.question
+"No, just that, and I go to the next channel,",respond.agree
+and I wait for it to come around again.,relax.atmosphere
+"Yeah, but that's my favourite thing about British television, I think.",give.opinion
+"Well, thank you for that ringing endorsement.",relax.atmosphere
+"""That was The Graham Norton Show."" I loved that bit!",relax.atmosphere
+"No! So, tell me this.",relax.atmosphere
+"You're doing your first solo tour, which is a big, big deal. Yeah!",give.opinion
+AUDIENCE WHOOP Yay!,use.social.convention
+"No, I'm really excited.",respond.agree
+Are you paying them? I know! My mom. Do they follow you?,closed.question
+"Yeah, I'm really excited.",respond.agree
+"It's my first time doing a tour by myself,",give.statement
+and I feel like that's the best manifestation of songs.,give.statement
+Where are you going on your tour?,closed.question
+"I'm coming here in June, which is really exciting.",respond.agree
+"You're kicking off in Glasgow, I believe? Yeah.",closed.question
+"In at the deep end, OK. I know!",respond.agree
+I'm excited.,relax.atmosphere
+And I feel like by the end of it... Tough crowd!,give.statement
+"..I'll have a good British accent, I think.",give.opinion
+"Well, your ""coming up on ITV2"" is very good. It's good, right?",recall
+"Yeah, that's excellent. It wants to hear it again?",closed.question
+"Go on, then. AUDIENCE: No, no! OK.",respond.agree
+"""Will Camila do the ITV2 accent again?",recall
+"""We'll find out, coming up next on ITV2.""",recall
+Very good. Thanks! Excellent.,relax.atmosphere
+"Listen, thank you so much for that great performance",use.social.convention
+"and good luck with the tour. Thank you. Camila, Camila?",use.social.convention
+"Yes! I don't want to get it wrong now, after being so good.",give.statement
+"No, you're killing it. Camila Cabello.",give.statement
+Thank you so much for having me. Nice to meet you guys.,use.social.convention
+That is nearly it for tonight.,use.social.convention
+"Before we go, we've got time for a quick visit to the big red chair.",give.statement
+"Who's there? Hello, sir! What's your name? I'm Steve.",use.social.convention
+"Steve, lovely, and where are you from, Steve? From Surrey.",respond.agree
+"What do you do in Surrey? I own a cafe. You own a cafe, lovely.",closed.question
+Do you want to tell us what it's called? Ockham Bites in Cobham.,respond.agree
+"OK, see, that's marketing right there!",closed.question
+"We'll cut that out, but it was a nice thing for me to do, wasn't it?",respond.agree
+"For a minute there, he thought it was going to be on BBC One,",relax.atmosphere
+but it's not.,relax.atmosphere
+"OK, off you go with your story, sir.",give.statement
+"OK, many years ago, my father emigrated to the south of France",recall
+"with his family and his pet parrot, Jasper.",recall
+They stayed for about five years and then decided to come back to the UK.,recall
+"My dad couldn't be bothered with all the pet passport things,",recall
+"so he smuggled Jasper back in his car, in the boot of his car.",recall
+"About five months down the line, the parrot got very ill,",recall
+my dad had to take him to the vet and one of the questions of the vet,recall
+"had was, ""Has Jasper ever been out of the UK?""",recall
+"And my dad said, ""No, not at all.""",recall
+"Anyway, the parrot had to stay overnight and in the morning,",recall
+"my dad got a phone call saying everything's fine,",recall
+you can come and collect Jasper.,recall
+"My dad went to collect the parrot and after he paid her everything,",recall
+"the vet said, ""Are you sure Jasper's never been out of the UK?""",recall
+"My dad said, ""Yes, why?""",recall
+"""Because I came down this morning and he said, 'Bonjour.'""",recall
+That's not true. That's not true.,relax.atmosphere
+That didn't happen. That didn't happen.,relax.atmosphere
+"Can we squeeze in another one? OK, squeeze in one more. Here we go.",give.statement
+"Hello! Hi. Hi. Who are you? I'm Laura. Laura, lovely.",use.social.convention
+"And where are you from, Laura?",closed.question
+"I'm from North Wales but I live in London. All right, what do you do?",respond.agree
+"I'm an outreach worker. An outreach worker, OK.",respond.agree
+Off you go with your story.,give.statement
+"When I was a young, I used to sweat a lot, just under my arms.",recall
+"So I used to wear panty liners to cover it up, which I think is",recall
+a great idea. I should have gone on Dragons Den with it. Very smart.,recall
+"But as I was walking to this bar one night,",recall
+"I saw an ex across the room who I had dumped,",recall
+"and he was there with a new girlfriend, and I walked up",recall
+"to him, thinking, ""I best be polite, be the bigger person.""",recall
+"So I went up, was chatting away, but I started to get really nervous,",recall
+using my arms a lot and was flapping around.,recall
+"And as I lifted my arms up and put them back down,",recall
+"the panty liners flew out of my arms,",recall
+swung around in the middle and landed right in front of us.,recall
+"With the two of them just looking at them, and looking at me.",recall
+"And looking at them, and I just had to walk off.",recall
+"Oh, shall we let her walk? That's a yes! You can walk!",give.statement
+I really wanted to be flipped.,relax.atmosphere
+"Oh, you want to be flipped? OK, here we go.",relax.atmosphere
+There you go.,relax.atmosphere
+"Well done, everyone. If you'd like to join us on the show",use.social.convention
+"and have a go on that red chair,",use.social.convention
+you can contact us via our website at this very address.,use.social.convention
+"That, sadly, is it for tonight.",use.social.convention
+Please say thank you to all my guests. Camila Cabello!,use.social.convention
+Daniel Kaluuya!,use.social.convention
+Alicia Vikander!,use.social.convention
+Allison Janney.,use.social.convention
+And Margot Robbie!,use.social.convention
+"We are taking a short break, but we'll be back on your TVs in April.",use.social.convention
+Do join me next week for a look back at some of the highlights,use.social.convention
+from this series.,use.social.convention
+"I'll see you then. Goodnight, everybody. Bye-bye!",use.social.convention

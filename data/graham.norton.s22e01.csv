@@ -1,0 +1,1043 @@
+U,L
+"Good evening, I'm Harrison Ford.",use.social.convention
+And I'm Ryan Gosling.,use.social.convention
+BOTH: Welcome to the Graham Norton Show.,use.social.convention
+CHEERING AND APPLAUSE,use.social.convention
+"Oh, oh, oh, oh!",use.social.convention
+CHEERING AND APPLAUSE,use.social.convention
+"Oh, hello, what a lovely welcome back!",use.social.convention
+Thank you very much everybody.,use.social.convention
+"Hello, and welcome!",use.social.convention
+Did you all have a nice summer?,closed.question
+AUDIENCE: Yes!,respond.agree
+I know some people are still on holiday.,give.statement
+"They hadn't planned it that way, it's just they had",relax.atmosphere
+tickets with Ryanair.,relax.atmosphere
+LAUGHTER,use.social.convention
+"18,000 further cancellations announced this week.",relax.atmosphere
+"I mean, the whole thing could cost Ryanair ?17",relax.atmosphere
+million in compensation.,relax.atmosphere
+"I mean, they're hoping to make that back by",relax.atmosphere
+"selling two packets of Pringles on their next flight, but, still...",relax.atmosphere
+LAUGHTER,use.social.convention
+"The good news, though is that Ryanair customer services have been",relax.atmosphere
+very sympathetic to passengers.,relax.atmosphere
+"You know, advising them to use the exits here, here and here.",relax.atmosphere
+LAUGHTER AND APPLAUSE,use.social.convention
+"You'll all be aware of the big news, of course.",relax.atmosphere
+Twitter are trialling a plan for a new 280 character limit.,relax.atmosphere
+280 characters!,relax.atmosphere
+It's more than you get in Game of Thrones.,relax.atmosphere
+LAUGHTER,use.social.convention
+People will now be able to tweet their followers twice as many of,relax.atmosphere
+their thoughts...,relax.atmosphere
+LAUGHTER,use.social.convention
+Uh-oh...,relax.atmosphere
+"Hey, it might keep him busy so he won't have time",relax.atmosphere
+to start World War three!,relax.atmosphere
+Tensions with North Korea continue.,relax.atmosphere
+This week leader Kim Jong-un said Donald Trump was,relax.atmosphere
+"""Mentally deranged"".",recall
+"Hello, kettle?",relax.atmosphere
+LAUGHTER,use.social.convention
+I mean...,relax.atmosphere
+That's like Trump accusing Kim Jong-un of having weird hair!,relax.atmosphere
+Let's get some guests on!,use.social.convention
+Later we'll have music from pop icons Bananarama!,use.social.convention
+CHEERING,use.social.convention
+Yes!,use.social.convention
+"They're back, Bananarama, and they'll be performing",use.social.convention
+Cruel Summer.,use.social.convention
+"But first, this Aussie star went from Neighbours' Ramsay Street",use.social.convention
+to The Wolf of Wall Street and is now one of the most in-demand,use.social.convention
+"actors in Hollywood - it's Margot Robbie, everybody!",use.social.convention
+CHEERING,use.social.convention
+It is Margot Robbie.,use.social.convention
+Hello!,use.social.convention
+I was looking at the curtain...,relax.atmosphere
+"Is she, is she?",closed.question
+"She's here, Margot Robbie!",use.social.convention
+CHEERING AND APPLAUSE,use.social.convention
+This Oscar winning star and producer has given us hits,use.social.convention
+"like Legally Blonde, Walk the Line and Big Little Lies -",use.social.convention
+it's a warm welcome back to Reese Witherspoon.,use.social.convention
+CHEERING AND APPLAUSE,use.social.convention
+Oh!,use.social.convention
+Hello!,use.social.convention
+Reese Witherspoon!,use.social.convention
+And we've waited 35 years for a sequel to Blade Runner -,use.social.convention
+at last it's here.,use.social.convention
+Please welcome the stars of Blade Runner 2049 -,use.social.convention
+Ryan Gosling and Harrison Ford.,use.social.convention
+CHEERING AND APPLAUSE,use.social.convention
+"Hello, sir!",use.social.convention
+Very nice to see you again.,use.social.convention
+"All right, that's all right, please, please, have a seat.",use.social.convention
+They seem pleased!,use.social.convention
+They seem pleased with their line-up.,use.social.convention
+Lovely to see you all.,use.social.convention
+"Reece and Harrison, do you know each other out of show business land?",closed.question
+A little bit.,respond.agree
+I've seen her in the parking lot at school!,relax.atmosphere
+LAUGHTER,use.social.convention
+At school!,relax.atmosphere
+"At school, yeah.",relax.atmosphere
+Picking up and dropping off.,give.statement
+"So do you do the school run, Harrison?",closed.question
+My son is now of driving age.,respond.agree
+Oh.,relax.atmosphere
+Yes.,relax.atmosphere
+LAUGHTER,use.social.convention
+"My daughter can drive, too.",give.statement
+So she drives her little brother.,give.statement
+"It's a different world, isn't it?",closed.question
+"Here, no one drives to school.",give.statement
+Really?,closed.question
+"Unless they're a bus driver, they don't drive to school.",relax.atmosphere
+LAUGHTER,use.social.convention
+That's a good thing.,give.opinion
+"Reese Witherspoon, how hot are you right now?",closed.question
+"The Emmys, how many...?",closed.question
+Thank you.,use.social.convention
+We won eight Emmy awards.,respond.agree
+APPLAUSE,use.social.convention
+"Yes, a round of applause.",use.social.convention
+What a brilliant night it must have been.,give.opinion
+"I was nervous, though, because there were so many people",respond.agree
+"nominated in our team, and instead of just, you know...",give.statement
+I was just worried every single time that they talked about somebody,give.statement
+"that they weren't going to win, I was just nervous.",give.statement
+"So by the time we won, I went backstage and I burst into tears.",recall
+Ahh.,use.social.convention
+"Yeah, nervous.",respond.agree
+"Ryan, the last time you were here was to celebrate La La Land.",give.statement
+And of course that went on to win all sorts,give.statement
+of accolades and win things.,give.statement
+APPLAUSE,use.social.convention
+Yes.,use.social.convention
+Do,relax.atmosphere
+Do you,relax.atmosphere
+Do you want,relax.atmosphere
+Do you want my,relax.atmosphere
+Do you want my drink?,relax.atmosphere
+"I want to clap, too.",relax.atmosphere
+At the end of the Oscars...,give.statement
+I don't know what you're talking about!,relax.atmosphere
+Well...,give.statement
+"At the end of the Oscars when La La Land didn't win, but had won.",give.statement
+There's a picture of you...,give.statement
+This is right when I think you find out that La La Land hadn't won.,give.statement
+Yeah...,give.statement
+What emotion is this?,closed.question
+LAUGHTER,use.social.convention
+It was so good!,relax.atmosphere
+Did you see what the crowd looked like?,closed.question
+"Oh, we've got a picture of that, the crowd were amazing.",respond.agree
+Matt Damon looks like he's swallowed his own teeth!,relax.atmosphere
+LAUGHTER,use.social.convention
+"With shock, look at him!",relax.atmosphere
+"I mean, it was like they were watching their childhood",relax.atmosphere
+homes catch fire.,relax.atmosphere
+LAUGHTER,use.social.convention
+The Rock has never cared about anything more.,relax.atmosphere
+LAUGHTER,use.social.convention
+"Were you there, you guys?",closed.question
+"I wasn't, I was shooting in Atlanta at the time.",respond.deny
+"I was watching on TV, though.",recall
+"I had a similar expression to that, yeah.",recall
+"That must have been a bonkers moment, when that all went down?",closed.question
+"Well, it was...",respond.agree
+"You know, interesting.",give.statement
+"But it was, you know, unexpected.",give.statement
+"But I thought someone had been hurt, you know?",recall
+"The way everyone was talking amongst themselves, it felt like someone had",recall
+a heart attack or worse and it felt like someone was in danger.,recall
+And then I found out that they just read the wrong name.,relax.atmosphere
+LAUGHTER,use.social.convention
+"Now, here's the thing, I would have thought Harrison Ford,",give.statement
+"that you wouldn't like these sorts of award bashes,",give.opinion
+"that you'd never go, but you do go, don't you?",closed.question
+On the rare occasions that I've got anything to do with it.,respond.agree
+Yeah.,use.social.convention
+Which is usually presenting an award.,relax.atmosphere
+LAUGHTER,use.social.convention
+That's an honour.,give.statement
+Is it?,relax.atmosphere
+Then I've won.,relax.atmosphere
+LAUGHTER,use.social.convention
+"Because Margot, she is an enormous Harrison Ford fan.",give.statement
+"It's true, isn't it?",closed.question
+"Yeah, I am.",respond.agree
+This is really weird.,relax.atmosphere
+That's why we separated you.,relax.atmosphere
+It's going to stay that way.,relax.atmosphere
+This is your intervention.,relax.atmosphere
+LAUGHTER,use.social.convention
+"I mean, to be honest...",relax.atmosphere
+Disabuse you of that notion.,relax.atmosphere
+"And you'll help, won't you?",closed.question
+Don't you worry.,relax.atmosphere
+I can count on him!,relax.atmosphere
+"I have to admit something, Harrison.",give.statement
+"Though Indiana Jones is one of the most iconic characters ever,",give.opinion
+my favourite movie that you're in is actually Six,give.statement
+"Days, Seven Nights.",give.statement
+Oooh...,use.social.convention
+"APPLAUSE A very good movie, if you haven't seen it.",use.social.convention
+I guess it's still available.,relax.atmosphere
+LAUGHTER,use.social.convention
+I hope so.,relax.atmosphere
+"I should stay on this side of the couch, shouldn't I?",relax.atmosphere
+I'm getting too excited.,relax.atmosphere
+"I have a bunch of DVDs in the back of my car,",relax.atmosphere
+I'll meet you out in the street.,relax.atmosphere
+LAUGHTER,use.social.convention
+SOMEONE BLOWING THEIR NOSE,misc
+LAUGHTER,use.social.convention
+"Oh, you saw it.",relax.atmosphere
+LAUGHTER AND APPLAUSE,use.social.convention
+"Now let's start tonight with Harrison and Ryan's movie,",give.statement
+it's the much awaited Blade Runner 2049.,give.statement
+"It opens on the 5th of October, and I mean the expectation,",give.statement
+the hopes that this film are high.,give.statement
+"Ridley Scott is involved, Harrison, you're involved.",give.statement
+But presumably this isn't the first time...,give.statement
+I'm not just involved.,relax.atmosphere
+"You're in it, you're in it.",relax.atmosphere
+You are on the poster!,relax.atmosphere
+APPLAUSE,use.social.convention
+"But, OK, my question is this.",give.statement
+There must have been mentions of a sequel between...,give.statement
+"It was 1982, wasn't it, when it came out?",closed.question
+"So between then and now, so why now, why not before?",open.question
+I guess because Ryan wasn't available.,relax.atmosphere
+LAUGHTER,use.social.convention
+For many years he was unavailable?,closed.question
+"Yes, well not for 30 years.",respond.agree
+But they were waiting for me to grow up.,relax.atmosphere
+But they decided they'd have to go ahead anyway.,relax.atmosphere
+They finally came up with a story.,give.statement
+"I read it and I thought it was awesome, I thought it was great.",give.opinion
+"And as I read it, I read about the character that Ryan...",recall
+Ryan?,closed.question
+It's Ryan.,respond.agree
+LAUGHTER,use.social.convention
+"That Ryan came to play and I said, with great enthusiasm,",recall
+"I called up the producers and I said, this is great,",recall
+"can't wait, blah, blah, blah, and what a great part...",recall
+Why don't we see if we can get...,recall
+Ryan.,respond.agree
+Ryan Gosling.,recall
+"And they said, oh, I don't...",recall
+Did you say Rosling?,closed.question
+Ryan Gosling.,respond.deny
+"Good, right.",relax.atmosphere
+"You got that on tape, Ryan Gosling?",relax.atmosphere
+"And I said, it's a great part for Ryan Gosling.",give.statement
+LAUGHTER AND APPLAUSE,use.social.convention
+And they said we've been talking to him for months.,recall
+"Now wait a second, they'd only been speaking to me for weeks.",recall
+LAUGHTER,use.social.convention
+So they probably would have gone ahead without me.,relax.atmosphere
+No!,relax.atmosphere
+No?,closed.question
+No.,respond.agree
+"That's what I said, no.",relax.atmosphere
+"Because the fact is, Ryan, when the movie",give.statement
+"came out, you were two?",closed.question
+"Yeah, that's right.",respond.agree
+Sorry about that!,relax.atmosphere
+LAUGHTER,use.social.convention
+So when did you first become aware of this film?,open.question
+"I was about 12, and Harrison likes to say where was your mother and why",respond.agree
+was she letting you watch it at 12?,relax.atmosphere
+Well...,relax.atmosphere
+That's another story.,relax.atmosphere
+LAUGHTER,use.social.convention
+"Let's keep this nice, OK?",relax.atmosphere
+I didn't know what I was getting into.,give.statement
+"I thought I was just about to watch, you know,",recall
+"a regular science fiction film, I guess.",recall
+Yeah.,use.social.convention
+But it's a little more than that.,give.opinion
+"So you are Deckard again, so who are you, Ryan?",closed.question
+I play...,deflection
+You want to field that one?,closed.question
+Can't tell you anything about it.,respond.deny
+LAUGHTER,use.social.convention
+Shall we watch a clip?,closed.question
+I can tell you anything!,relax.atmosphere
+So the questions we were left with at the end of the first,closed.question
+"Blade Runner, are they all answered in this one?",closed.question
+No.,respond.deny
+OK.,use.social.convention
+"We'll watch a clip, this is, I believe, in the story, Ryan's",give.statement
+character is looking for you.,give.statement
+He finds you but he's not alone.,give.statement
+They know you're here.,give.statement
+I came alone.,give.statement
+DRAMATIC MUSIC,misc
+EXPLOSION,misc
+CHEERING AND APPLAUSE,use.social.convention
+"Now we saw there some action and things do take preparation,",give.statement
+like fights take preparation.,give.opinion
+They take a lot of preparation.,respond.agree
+"Yes, now Ryan...",give.statement
+Harrison feels...,give.statement
+Here we go.,relax.atmosphere
+"Harrison feels, Ryan, you were underprepared for one fight.",give.statement
+No...,respond.deny
+I know what you're referring to.,respond.agree
+Yes.,respond.agree
+Just say it.,relax.atmosphere
+Use your words.,relax.atmosphere
+Stop beating around the bush.,relax.atmosphere
+He punched you.,give.statement
+"Yeah, that's right.",respond.agree
+"""Well, he punched you"".",recall
+LAUGHTER,use.social.convention
+"Yeah, of course I punched him.",relax.atmosphere
+But you weren't meant to punch him.,give.statement
+Right?,closed.question
+"Oh, I misread the script.",respond.agree
+LAUGHTER,use.social.convention
+"He stepped on my foot, for Christ's sake.",relax.atmosphere
+"We were doing a scene in lights, in flashing strobe lights.",recall
+"He was walking backward, I was walking forward,",recall
+the camera was hand-held.,recall
+"You know, you have to make the punch look like it's intended.",recall
+Yes.,respond.agree
+But I hit him.,respond.agree
+LAUGHTER,use.social.convention
+One out of 100 times I hit him.,give.staet
+"Right, right, I should be lucky I didn't get hit more.",relax.atmosphere
+Is the theme of this.,relax.atmosphere
+I apologised...,give.statement
+"It's not just a punch, though, I think it's",relax.atmosphere
+like a Harrison Ford punch is a different animal altogether.,relax.atmosphere
+"It was not, it was not a good punch.",give.opinion
+I just...,give.opinion
+I will be the judge of that.,relax.atmosphere
+LAUGHTER,use.social.convention
+I tried to apologise.,recall
+"I went to his dressing room, his palatial motorhome.",recall
+With a bottle of Scotch in hand.,recall
+Lovely gesture.,give.statement
+"Cracked the top, poured him a drink, gave him a drink...",recall
+"He said, I'm kind of busy now.",recall
+LAUGHTER,use.social.convention
+"And I went back to my trailer, with the rest of the bottle.",recall
+LAUGHTER,use.social.convention
+I had the intention to leave it but...nah!,recall
+My hand hurts.,relax.atmosphere
+I needed some medicine.,relax.atmosphere
+"Actually we do have, there's a still, I think.",give.statement
+This is the actual moment when you punched Ryan for real.,give.statement
+LAUGHTER,use.social.convention
+Look at his face!,give.statement
+LAUGHTER,use.social.convention
+"Is that the face of regret or is that just,",relax.atmosphere
+I really hurt my hand?,relax.atmosphere
+"No, that's the face of oh, shit, I'm in deep doo-doo.",respond.deny
+"LAUGHTER Harrison Ford, here you are, Blade Runner.",use.social.convention
+"But Indiana Jones, is it five, is coming next?",closed.question
+Yeah.,respond.agree
+APPLAUSE,use.social.convention
+"Five, yes.",respond.agree
+Yeah.,respond.agree
+"That's all, that's definitely happening now?",closed.question
+"Yes, it is.",respond.agree
+"OK, just asking.",give.statement
+We have a release date.,give.statement
+We're working on a script.,give.statement
+It will be great.,give.opinion
+"I'm looking forward to working with Steven again,",give.statement
+revisiting the character.,give.statement
+I think that can be a good thing to do.,give.opinion
+I've heard you talk about how Indiana Jones is one of those things,give.statement
+"where you might as well do it because you cannot escape it,",give.statement
+especially the music is a constant thing in your life.,give.statement
+CHUCKLES,use.social.convention
+I did a tribute for John Williams and they played,recall
+"me on with the theme from Indiana Jones, and I said,",recall
+I cannot escape this god dam music.,recall
+"I said, and this is true, I hear it in the elevator,",recall
+the last time I was lightly sedated and rolled in for a colonoscopy they,recall
+were playing it on the speakers.,recall
+LAUGHTER,use.social.convention
+INDIANA JONES THEME TUNE PALYS,misc
+#NAME?,x
+CHEERING AND APPLAUSE,use.social.convention
+A special treat.,relax.atmosphere
+"Right, Reese Witherspoon's new movie is Home Again,",give.statement
+which opens tonight.,give.statement
+"Now, you look at the poster and you think, OK, it's a rom-com,",give.statement
+"and it is a rom-com, but in fact it is different,",give.statement
+it's kind of got an edgy twist.,give.opinion
+"Yeah, my character's recently separated, she's a single mum,",respond.agree
+"she is contemplating getting divorced, so she moves back",give.statement
+"home to her family home, and she starts a relationship",give.statement
+with a 26-year-old guy.,give.statement
+CHEERING AND APPLAUSE,use.social.convention
+"Because guys do all the time, so why not girls?",open.question
+"Yeah, yes.",respond.agree
+CHEERING AND APPLAUSE,use.social.convention
+"And, you know, you're the star of the film, so do you get,",closed.question
+are you in on the casting of your younger love interest?,closed.question
+"Yeah, I thought it was important that I really got to know",respond.agree
+the actors really well during the casting process.,relax.atmosphere
+We saw a lot of guys.,relax.atmosphere
+"A lot of them came back for multiple readings, but yeah,",relax.atmosphere
+I think we got a really great cast.,relax.atmosphere
+We've got a clip.,give.statement
+This is you with your young admirer.,give.statement
+This is the morning after.,give.statement
+"Hey, Alice.",use.social.convention
+Yeah?,use.social.convention
+Do you have a minute?,closed.question
+Sure.,respond.agree
+Could we may be just exchange phone numbers or...?,open.question
+"Harry, I'm really...",respond.deny
+"Listen, I think you woke up to a completely different person",give.opinion
+"than you met last night, and I appreciate the gesture,",give.statement
+"I really do, but how old are you, like 30?",closed.question
+29?,closed.question
+28?,closed.question
+Something like that.,deflection
+"Oh, Jesus.",relax.atmosphere
+"OK girls, come on, time to get in the car.",give.statement
+"OK, OK!",relax.atmosphere
+She's so intense.,relax.atmosphere
+"No, I'm not.",respond.deny
+"Good luck with everything, maybe I'll see you around.",use.social.convention
+I hope so.,use.social.convention
+"Come on, ladies.",relax.atmosphere
+Did you guys have a sleepover?,closed.question
+Are you friends with his mum?,closed.question
+"With his mum, how old do I look?",closed.question
+CHEERING AND APPLAUSE,use.social.convention
+"There's three generations, there's your mum in it,",give.statement
+played by the great Candice Bergen.,give.statement
+"Yeah, Candy, yeah, Candice Bergen.",respond.agree
+There she is.,give.statement
+"In her ""Free Melania"" sweatshirt.",relax.atmosphere
+LAUGHTER,use.social.convention
+"She's rad, she's really cool.",give.opinion
+"I've worked with her twice now, she's got great stories.",give.opinion
+She actually went on a date with Donald Trump.,give.statement
+When she was in college.,give.statement
+It's kind of crazy.,give.opinion
+It's really cool.,give.opinion
+It's a great story!,give.opinion
+"I mean, it looks like one of those films that is just a pleasure",give.opinion
+to make because of her...,give.opinion
+"Yeah, it was really fun, we shot it about ten",respond.agree
+minutes from my house.,give.statement
+Ten minutes from school.,give.statement
+So I could do the drop off and just go to work.,relax.atmosphere
+But it was a great time.,give.opinion
+We made it really fast and for not a lot of money.,give.statement
+It was very much...,give.statement
+"It was a great story to actually dig into, character wise.",give.opinion
+"And your real mom, has she seen this film?",closed.question
+Because I know she likes to review your work.,give.statement
+"Yes, she has seen this film, yeah.",respond.agree
+Good reviews?,closed.question
+"She likes it, yeah, she thought it was like a feel-good movie.",respond.agree
+She writes these funny text messages after she sees movies and they're,give.statement
+"really short and they will be like, like the movie, three boys, hot.",recall
+"Love, Mom.",recall
+She liked Big Little Lies.,give.statement
+You Instagrammed some texts.,give.statement
+"Oh, yeah.",respond.agree
+I asked if she had seen Big Little Lies when it first premiered.,recall
+This was her text.,give.statement
+LAUGHTER.,use.social.convention
+She has reviewed some of the work of some of your couch mates.,give.statement
+Yeah.,respond.agree
+She liked La La Land a lot.,give.statement
+"Like, a lot!",give.statement
+"She was like, La La Land, singing, dancing, sexy, Ryan.",recall
+Does she put Mom at the end of all of them?,closed.question
+"She puts heart, Mom.",respond.agree
+The reviews are in...,relax.atmosphere
+"Heart, Mom.",relax.atmosphere
+Is she a fan of Harrison Ford?,closed.question
+Of course!,respond.agree
+OK.,give.statement
+"I mean, he might be one of her favourites of all time.",give.opinion
+"Oh, I see...",use.social.convention
+"""Might be"".",relax.atmosphere
+We talked about the success of Big Little Lies at the Emmys.,give.statement
+"It is extraordinary, the producing side of your life",give.opinion
+is a really major part of your life and I didn't realise that went,give.statement
+all the way back to Legally Blonde?,open.question
+CHEERING AND APPLAUSE.,use.social.convention
+"Legally Blonde 2, then?",closed.question
+"Yes, I produced Legally Blonde 2.",respond.agree
+It's not as good as Legally Blonde!,give.opinion
+It took me a few years to get better!,give.opinion
+It took me a few years to figure out the producing thing.,give.opinion
+But it did take a while...,give.statement
+"You would think, Reese Witherspoon, people would take you seriously,",give.statement
+but how many studios passed when you were pitching,give.statement
+Gone Girl as a movie?,closed.question
+"Oh, yeah.",respond.agree
+I got the book of Gone Girl and I took it to every studio,recall
+"and every studio passed, except for one.",recall
+"They were quite happy, I would imagine?",closed.question
+They actually lost it after that.,respond.deny
+It's kind of a crazy story.,give.opinion
+Then the book hit number one and another studio came in that,recall
+turned it down and bought it for five times the amount of money.,recall
+"That's good, isn't it?",closed.question
+I guess it's good.,respond.agree
+I kind of figured out through that process that nobody reads books!,give.statement
+When you try to explain it to them.,give.statement
+That's good for movie-making!,relax.atmosphere
+That'll keep us in business!,relax.atmosphere
+"Margot, already you are tapping into that side of the business,",give.statement
+you are doing a lot of producing already?,closed.question
+"Yeah, our first feature will be out later this year.",respond.agree
+Is that your first one?,closed.question
+"Yeah, that's the first one to be released.",respond.agree
+We actually have filmed two and we are in preproduction for our third.,give.statement
+Wow!,relax.atmosphere
+Are you in them all?,closed.question
+"The first three, yes.",respond.agree
+"But after this, no.",give.statement
+OK.,use.social.convention
+It seems like the business part of your brain was,give.statement
+developed quite young?,closed.question
+You were a little girl and you were quite business savvy.,give.statement
+I was quite savvy as a kid.,respond.agree
+I would steal my brother's toys and sell them on the side of,recall
+the road for an extortionate price.,recall
+I would make up magic tricks and make my family pay to come,recall
+and see my magic show and then pay extra if they wanted to know,recall
+how I did the trick!,recall
+That's a really good idea!,relax.atmosphere
+You would pay extra to find out how they do the tricks.,relax.atmosphere
+"Once you get them in, they already paid their dollar, sure!",relax.atmosphere
+"Because, Ryan, you were also a young entrepreneur, weren't you?",closed.question
+I wouldn't say that.,respond.deny
+"Didn't your father, he wanted you to sell, was it cellophane?",closed.question
+My parents came upon a truck of cellophane somehow.,recall
+I was asked not to ask too many questions.,recall
+I just suddenly...,recall
+There was a basement filled with cellophane.,recall
+And they encouraged me to go to school and see,recall
+if I could sell it to my teachers.,recall
+I put a few in my backpack and tried to hock them at recess.,recall
+Convince kids that they might be good stocking stuffers,recall
+for their parents.,recall
+What are the uses of cellophane?,closed.question
+How did it go?,closed.question
+"What do you mean, what are the uses of cellophane?",closed.question
+I know the name but I don't know what to do with it.,give.statement
+"You wrap sandwiches in it, it keeps things fresh.",give.statement
+"Oh, OK.",give.statement
+I'm sorry.,give.statement
+"No, it was an important question, you needed to ask it.",relax.atmosphere
+"I'm not doing a good job of selling it, obviously.",relax.atmosphere
+Did you sell it?,closed.question
+"There's still some left, if you're interested?",relax.atmosphere
+"Knowing that it keeps things fresh, I want some.",relax.atmosphere
+"The dream would be someone would just say, I'll take all of it!",give.statement
+Never happened.,relax.atmosphere
+That's a weird story.,relax.atmosphere
+"It is a bit weird, now you tell it.",respond.agree
+It seemed like a good idea at the time.,relax.atmosphere
+"Harrison, famously you worked as a carpenter in your early life.",give.statement
+"But you studied woodwork with your father, but he wasn't that good.",give.opinion
+My dad was in advertising and he liked to make things,respond.agree
+and we were down in the basement working on building a table,recall
+and he cut off his finger.,recall
+Why are you laughing?,closed.question
+He's laughing!,relax.atmosphere
+It's quite funny when it's told like that.,relax.atmosphere
+It wasn't funny.,respond.deny
+At the time.,recall
+I was 16 years old.,recall
+I had not much experience with this but I wrapped my dad's hand up,recall
+and I got him upstairs and I called the police and then I ran downstairs,recall
+and I picked up the finger and I put it in a Kleenex and this was a long,recall
+time ago so when I got to the emergency ward I said...,recall
+Here's my dad's...,recall
+And he went...,recall
+"And threw it in the bin, in the trash bin.",recall
+Because it was a while ago and they didn't really think,recall
+about trying to attach fingers.,recall
+If only you had some cellophane.,relax.atmosphere
+Yeah!,relax.atmosphere
+Thank you.,relax.atmosphere
+Who knew?,relax.atmosphere
+Yeah.,relax.atmosphere
+Did he just have no finger?,closed.question
+He had no finger here.,respond.agree
+He cut off about this much of this finger.,give.statement
+Why are you pointing that at me?,closed.question
+I'm not pointing it at you.,respond.deny
+He got about halfway through this finger as well.,recall
+But they were able to save that.,recall
+"But my father, he used to admonish me sometimes",recall
+and he would point at me.,recall
+But he would be pointing at me but his finger was going like that.,recall
+So I would always look...,relax.atmosphere
+It really made him mad.,recall
+APPLAUSE.,use.social.convention
+"Reece, very quickly, to bring you back to Legally Blonde,",give.statement
+"there was a thing last year, when it hit the headlines...",give.statement
+"President Trump, he made the commencement speech.",give.statement
+"Oh, yeah.",respond.agree
+And then it turned out it bore quite a strong resemblance to Elle's,give.statement
+speech in Legally Blonde.,give.statement
+Yeah.,respond.agree
+It did!,respond.agree
+Was it Jimmy Fallon who found this out?,closed.question
+It was all over the internet.,give.statement
+Maybe it was on Jimmy's show.,respond.agree
+"If you haven't seen it, it's sort of unbelievable.",give.opinion
+Show them the thing?,closed.question
+As we take our next steps into the world.,misc
+We must go forth into the world.,misc
+It is with passion.,misc
+Passion.,misc
+Courage of conviction.,misc
+Courage in your convictions.,misc
+And strong sense of self.,misc
+Be true to yourself.,misc
+We did it.,misc
+I did it.,misc
+APPLAUSE.,use.social.convention
+Had you not seen that?,closed.question
+No!,respond.deny
+I have never seen that and I always fall down YouTube rabbit holes,give.statement
+and I missed that completely!,give.statement
+He is better when he sticks to the script.,relax.atmosphere
+APPLAUSE.,use.social.convention
+Do you know how that happened?,closed.question
+Is he just a fan of the film?,closed.question
+I'm sure he's just a big fan.,relax.atmosphere
+Very bizarre.,relax.atmosphere
+"Let's move on to Margot Robbie's movie, it's a very British movie,",give.statement
+it's called Goodbye Christopher Robin.,give.statement
+It opens tonight.,give.statement
+And it's the real story and a much darker story than you think it's,give.opinion
+"going to be of AA Milne, the man who created",give.opinion
+the Winnie the Pooh stories.,give.statement
+"Yeah, Winnie the Pooh was always prevalent throughout my childhood",respond.agree
+but I had never wondered its origins or why or when it was written.,give.statement
+It was written right between World War I and World War II,give.statement
+"and AA Milne, the author, very famous author, actually",give.statement
+fought in World War I.,give.statement
+And part of the reason it was so successful is because it,give.opinion
+came at a time when the country was very damaged and the world,give.statement
+was damaged and people kind of felt they were robbed,give.statement
+"of their innocence, probably.",give.opinion
+And the books became this safe place for people and became,give.opinion
+this global phenomenon.,give.statement
+"And Domhnall Gleeson plays AA Milne and you play Daphne,",give.statement
+his wife and the mother of Christopher Robin.,give.statement
+Yeah.,respond.agree
+She's a piece of work.,give.statement
+She is complicated.,respond.agree
+Yes.,respond.agree
+She is not immediately likeable and maybe she is not even that,give.opinion
+likeable by the end...,give.opinion
+I really love her.,give.opinion
+"She had her own trauma, he was dealing with PTSD,",give.statement
+although it was not really coined that term back then.,give.statement
+They didn't really speak about it then.,give.statement
+And she had postnatal depression and they didn't,give.statement
+really talk about that.,give.statement
+"There was a lot of stiff upper lip, not talking about your feelings.",give.statement
+"But they had this child and he was brilliant and Will,",give.statement
+"who plays him, is the most gorgeous kid you have ever seen -",give.statement
+a brilliant actor.,give.opinion
+"He makes everyone cry when they see it, including myself,",give.statement
+and I know what's going to happen in the film but I still cry.,give.statement
+And they love him but they kind of end up ruining his childhood,give.opinion
+by him becoming so famous.,give.opinion
+Because that was the thing I didn't understand.,give.statement
+"Christopher Robin became a sort of Shirley Temple,",give.opinion
+Macauley Culkin figure.,give.opinion
+"That's what they said, he was the Macauley Culkin of his time.",respond.agree
+Yeah.,respond.agree
+There was no real distinction between him in real life,give.statement
+and him on the books.,give.statement
+"His name is Christopher Robin, he was drawn, he was",give.statement
+photographed everywhere.,give.statement
+It was pretty traumatic for him.,give.opinion
+So there are some of those sad parts to it.,give.opinion
+"But there's also a lot of nice, happy moments, too.",give.opinion
+"This is one of the nice, happy moments.",give.opinion
+This is you entertaining young Christopher Robin,give.statement
+with the original bear.,give.statement
+"Well, I say, this is an unexpected pleasure.",use.social.convention
+Have you come to see my woods?,closed.question
+Are they really your woods?,closed.question
+"Oh, yes.",respond.agree
+As far as the eye can see.,respond.agree
+"Well, a bear does feel more at home in the woods",give.opinion
+amongst the wild animals.,give.opinion
+Are there really wild animals?,closed.question
+I can't continue this conversation until we have been,deflection
+properly introduced.,deflection
+I'm Billy Moon.,use.social.convention
+And you're teddy bear.,use.social.convention
+"Edward Bear, if you don't mind.",use.social.convention
+I don't like that name.,respond.deny
+Mummy will have to think of a new one.,give.opinion
+You do know it's me talking and not a bear?,closed.question
+I was just playing.,give.statement
+"Yes, I was just joining in.",respond.agree
+APPLAUSE.,use.social.convention
+He's so sweet.,give.opinion
+And a very good English accent.,give.opinion
+Great!,respond.agree
+Thank you.,use.social.convention
+A very specific English accent?,closed.question
+"Yes, it's like a 1930s one.",respond.agree
+"And an aristocratic Englishwoman, it's very specific, not just",give.statement
+a traditional RP accent.,give.statement
+I hear you had a mental trick for getting yourself into it?,closed.question
+"Yeah, when I'm doing accents I need a phrase to get into it.",respond.agree
+"When I did Wolf of Wall Street, I had a phrase and when",recall
+I did this one I...,recall
+So in Wolf of Wall Street I would be like...,recall
+"NEW YORK ACCENT: I'm not talking to you, I'm talking to her.",recall
+"OK, I'm ready to do it.",recall
+"On this one, it was...",recall
+"POSH ACCENT: I'm so happy, no, I simply couldn't do that.",recall
+It's not a line in the script or anything and it doesn't,give.statement
+make sense as a line.,give.opinion
+"It was like, I don't know...",give.statement
+"The thing I would say, and it helped me.",give.statement
+You are kind of an honorary Brit because you have,give.opinion
+spent a lot of time here.,give.opinion
+How long did you live here for?,closed.question
+I just begrudgingly moved...,respond.agree
+We have a production office in LA.,give.statement
+But I was living here for the last three years.,give.statement
+OK.,use.social.convention
+And I don't know why I would be surprised,give.statement
+"because you are Margot Robbie living in London, so of course you did...",give.statement
+But you did mix in some highfalutin circles?,closed.question
+"Yes, oh yes.",respond.agree
+I don't know where this picture came from...,relax.atmosphere
+That's obviously you.,give.opinion
+Is that Sienna Miller?,closed.question
+"Yeah, I think so.",respond.agree
+And that's a princess.,give.statement
+Is that a Beatrice one or a Eugenie one?,closed.question
+I can't tell by the picture.,deflection
+It kind of looks weird.,give.opinion
+You are picking everyone better than I can.,relax.atmosphere
+I think it's one of them.,give.opinion
+Tell us who this is.,give.statement
+You know who that is.,deflection
+"I know, but tell us.",respond.agree
+It's Prince Harry.,give.statement
+I don't normally go to parties where those people are there.,give.statement
+That was a one-off.,give.statement
+That doesn't normally happen.,give.statement
+My friends aren't Royals!,give.statement
+"There, of course, is Cara Delvingne.",give.statement
+She is a good friend of mine.,respond.agree
+You were in Suicide Squad together.,closed.question
+Yes.,respond.agree
+She was awesome.,give.opinion
+"In Suicide Squad, you tattooed the cast members, is this right?",closed.question
+Yes.,respond.agree
+Because you were trained...,give.statement
+These are the tattoos you do.,give.statement
+"Yeah, we called them Toemojis.",respond.agree
+Oh?,use.social.convention
+OK.,use.social.convention
+And did you do all the cast?,closed.question
+"No, funnily enough, no one else wanted them!",respond.deny
+"So, just the two of us got the Toemojis.",give.statement
+But everyone else got squad written on them and other people would come,recall
+by the trailer and get anything.,recall
+"Yes, we did all sorts of things.",respond.agree
+So you can still tattoo people?,closed.question
+"Yet, I reckon I have done...",respond.agree
+"Yeah, getting close to 100.",respond.agree
+Little ones.,give.statement
+"And honestly, they are probably getting worse as they go along.",give.opinion
+Because we have a tattoo gun here.,give.statement
+If anyone...,give.statement
+If any of your coach mates want a tattoo?,open.question
+To commemorate this lovely evening?,open.question
+LAUGHTER.,use.social.convention
+You pierced your ear.,give.statement
+I what?,open.question
+You pierced your ear.,give.statement
+"Yeah, not myself.",relax.atmosphere
+It would be so funny.,relax.atmosphere
+Please?,closed.question
+Bless you for thinking it might...,relax.atmosphere
+I have seen you actually are prepared...,give.statement
+Yes.,respond.agree
+She can tattoo at will.,give.statement
+"This is not actually my gun but I can make do with it, for sure.",give.statement
+You're genuinely thinking about this?,closed.question
+No!,respond.deny
+I didn't think you were.,respond.agree
+I thought you were!,give.statement
+That's acting!,relax.atmosphere
+APPLAUSE.,use.social.convention
+Ryan isn't looking so shocked because you have already tattooed,give.statement
+"yourself, haven't you?",closed.question
+Yeah.,respond.agree
+How did that go for you?,open.question
+Not great.,respond.agree
+What did you do?,open.question
+"It was, you know, it was supposed to be a monster hand",give.statement
+dropping a bloody heart.,give.statement
+But it looks more like a chicken...,give.opinion
+Making love with a cactus or something.,give.opinion
+I don't know what happened.,give.statement
+"My friend had one at his house, I like to doodle,",give.statement
+it's a bad combination.,relax.atmosphere
+Do you have a tattoo?,closed.question
+"Oh, God.",relax.atmosphere
+I knew you were going to ask that.,relax.atmosphere
+Do you?,closed.question
+"Yeah, I do.",respond.agree
+Where is it?,open.question
+I went to college in the '90s.,give.statement
+Can we just leave it there.,give.statement
+Is it a tramp stamp?,closed.question
+No!,respond.deny
+"Oh, God, no!",relax.atmosphere
+Is it a dolphin?,closed.question
+"No, no, no.",respond.deny
+Is it a...?,closed.question
+I'm not getting it.,deflection
+"The thing is, there is someone who works on our team and they are",give.statement
+a big Margot Robbie fan.,give.statement
+"And when I say they are willing to do this, I mean they are very keen.",give.statement
+"He has washed his feet, talced them.",give.statement
+Is it difficult to do this Toemoji thing?,closed.question
+No.,respond.deny
+"Adam, your moment is here, this is happening.",use.social.convention
+"So, sit down beside Margot, there.",use.social.convention
+I don't mean to criticise my own production team,relax.atmosphere
+but you could have taken your shoes and socks off first.,relax.atmosphere
+It would have saved a little time.,relax.atmosphere
+You knew this moment was coming.,give.statement
+I wanted to make it more real.,relax.atmosphere
+"OK, here we go.",relax.atmosphere
+You don't have to do this if you don't want to.,relax.atmosphere
+"Honestly, he kept saying he wants to do this.",give.statement
+Are you sure?,closed.question
+OK.,respond.agree
+"Oh, my God.",relax.atmosphere
+There is something I have to say...,use.social.convention
+Don't try this at home!,use.social.convention
+Really don't!,use.social.convention
+I will sit on this side of you.,give.statement
+"OK, perfect.",give.statement
+"OK, here we go.",give.statement
+In your own time.,relax.atmosphere
+It is not that easy to do!,give.opinion
+Here we go.,relax.atmosphere
+I haven't actually done one for a while.,give.statement
+I'm probably more nervous than you are.,give.statement
+"Sorry, that's not comforting!",relax.atmosphere
+That wasn't very professional.,give.statement
+I'm so scared!,relax.atmosphere
+I was going to say my hands are shaking but you don't,relax.atmosphere
+want to hear that.,relax.atmosphere
+TATTOO GUN BUZZES.,misc
+This is nuts!,give.opinion
+APPLAUSE.,use.social.convention
+OK.,relax.atmosphere
+Sorry!,relax.atmosphere
+TATTOO GUN BUZZES.,misc
+Does it hurt?,closed.question
+It's a little funny.,respond.agree
+Don't worry about your finest work.,relax.atmosphere
+"You do seem happy in your work, I'll give you that.",give.opinion
+I really do.,respond.agree
+I'm not particularly good but I like doing it.,give.statement
+APPLAUSE.,use.social.convention
+"Good poker face, Adam, very good.",relax.atmosphere
+"Sorry, is that all right?",closed.question
+It's good.,respond.agree
+I can neaten it up when we are backstage.,give.statement
+CHEERING AND APPLAUSE.,use.social.convention
+Show it to that camera.,give.statement
+There it is!,give.statement
+That's not bad!,give.opinion
+It's not bad!,respond.agree
+"Obviously, trained medics are coming to the studio.",relax.atmosphere
+"In the meantime, it's time for music.",give.statement
+These pop pioneers have sold over 40 million records and are one,give.statement
+of the greatest girl bands of all time.,give.statement
+Now the original line-up is back - hurrah!,give.statement
+"Performing Cruel Summer, please welcome Bananarama!",give.statement
+CHEERING AND APPLAUSE.,use.social.convention
+# Hot summer streets.,misc
+# And the pavements are burning.,misc
+# I sit around.,misc
+# Trying to smile.,misc
+# But the air is so heavy and dry.,misc
+# Strange voices are saying.,misc
+# What did they say.,misc
+# Things I can't understand.,misc
+# It's too close for comfort.,misc
+# This heat has got.,misc
+# Right out of hand.,misc
+"# It's a cruel, cruel summer.",misc
+# Leaving me here on my own.,misc
+"# It's a cruel, cruel summer.",misc
+# Now you're gone.,misc
+# The city is crowded.,misc
+# My friends are away.,misc
+# And I'm on my own.,misc
+# It's too hot to handle.,misc
+# So I got to get up and go.,misc
+"# It's a cruel, cruel summer.",misc
+# Leaving me here on my own,misc
+"# It's a cruel, cruel summer.",misc
+# Now you're gone.,misc
+"# It's a cruel, cruel summer.",misc
+# Leaving me.,misc
+# Leaving me here on my own.,misc
+"# It's a cruel, cruel summer.",misc
+# Now you're gone.,misc
+"# It's a cruel, cruel summer.",misc
+# Leaving me here on my own.,misc
+"# It's a cruel, cruel summer.",misc
+# Now you're gone.,misc
+"# It's a cruel, cruel summer.",misc
+# Leaving me here on my own.,misc
+"# It's a cruel, cruel summer.",misc
+# Now you're gone.,misc
+"# It's a cruel, cruel summer.",misc
+# Now you've gone.,misc
+CHEERING AND APPLAUSE.,use.social.convention
+"Oh, Bananarama, everybody!",use.social.convention
+"So, so good.",give.opinion
+"Come on over, ladies.",give.statement
+Here they are!,use.social.convention
+CHEERING AND APPLAUSE,use.social.convention
+"Very lovely to see you, hello, my darling.",use.social.convention
+Hello.,use.social.convention
+Hello!,use.social.convention
+Come and sit down.,give.statement
+"I think, I think you'll all fit on.",use.social.convention
+Will we all fit on?,closed.question
+Hi.,use.social.convention
+I think we'll all fit in.,respond.agree
+There we go.,relax.atmosphere
+Bananarama back in the world.,give.statement
+"We're all squeeze on, yes.",respond.agree
+"We're good, we're good, we won't be here for long.",give.statement
+"So, Bananarama, honestly, a great night for the 80s.",give.opinion
+"Blade Runner back, now Bananarama.",give.statement
+CHEERING,use.social.convention
+"Obviously Britain really excited that Bananarama are back,",give.opinion
+but we forget it's a global thing.,give.opinion
+Yeah.,respond.agree
+"Cruel Summer, that was a top ten hit in America, wasn't it?",closed.question
+Yes.,respond.agree
+It's still remembered fondly.,give.statement
+I often hear it in the supermarket.,relax.atmosphere
+LAUGHTER,use.social.convention
+And it's in Blue Crush.,give.statement
+That's right.,respond.agree
+"The first time we thought we'd actually maybe made it was in LA,",recall
+"because we were coming back from breakfast, about to go",recall
+"to the beach, on the bus, in Santa Monica, on the bus.",recall
+And we saw Mike Tyson sitting on the front of his limo,recall
+"and he started singing Cruel Summer at us, and we were like wow.",recall
+LAUGHTER,use.social.convention
+We made it!,relax.atmosphere
+With our beach bags.,recall
+"And this is a tour, you're back for a tour.",give.statement
+Yes.,respond.agree
+We've got we've got Siobhan back in the fold for a tour.,give.statement
+We've never actually toured together.,give.statement
+We went on a world tour just after Siobhan left.,give.statement
+Just after I left.,relax.atmosphere
+LAUGHTER,use.social.convention
+Bye!,relax.atmosphere
+And it was great.,give.opinion
+But we've never actually done anything together.,give.statement
+"The tickets sold out, because the response was so fantastic.",give.statement
+"We had to add another ten dates, which was...",give.statement
+"I'm not sure how we're going to manage it, to be honest.",give.statement
+We've got 23 dates now between November than 9th and,give.statement
+December the 9th.,give.statement
+OK.,use.social.convention
+At our age!,relax.atmosphere
+LAUGHTER,use.social.convention
+It is so great to have Bananarama back in our world.,give.opinion
+"Ladies and gentlemen, Bananarama!",give.statement
+CHEERING AND APPLAUSE,use.social.convention
+Bananarama!,relax.atmosphere
+"OK, that is nearly it.",give.statement
+"But before we go, let's make our first visit of the new series",give.statement
+to the Big Red Chair.,give.statement
+Who's there?,closed.question
+Hello.,use.social.convention
+Hello.,use.social.convention
+"Hi, what's your name?",use.social.convention
+Justine.,use.social.convention
+"Justine, and what do you do, Justine?",closed.question
+I'm a barrister.,respond.agree
+And actual barrister?,closed.question
+Yes.,respond.agree
+Like a working one?,closed.question
+Yes.,respond.agree
+Like people might see you in courts over the coming weeks?,closed.question
+"Yes, yes.",respond.agree
+"And you've chosen to do this, OK!",relax.atmosphere
+LAUGHTER,use.social.convention
+Off you go with your story.,give.statement
+"My mother's a very conservative Irish lady, and she is naturally",recall
+"protective of me and of my daughters, her grandchildren,",recall
+and she's always going on about all the weirdos there are in the world,recall
+that the girls have got to avoid.,recall
+"And one particular day my eldest daughter, who was then 14,",recall
+"wanted to go to the zoo with a girlfriend of hers,",recall
+"a little friend, but no adults, and, of course, my mother thought this",recall
+was an appalling idea.,recall
+"How could that possibly happen, there's weirdos",recall
+everywhere at the zoo.,recall
+"The 14-year-old, in the sort of attempt to placate granny said,",recall
+"well, you know, perhaps the Anaconda keeper's a bit weird,",recall
+"to which my mother, not realising what she said,",recall
+grandma just turned around and said...,recall
+"""You make sure that if anyone asks you to come and look",recall
+"at his Anaconda, you say no.""",recall
+LAUGHTER,use.social.convention
+"That's a great story, you can walk, you can walk.",give.opinion
+"No, flip me!",respond.deny
+Oh you want to be flipped.,give.statement
+"OK, there you go!",give.statement
+Well done.,give.statement
+CHEERING AND APPLAUSE,use.social.convention
+"If you'd like to join us on the show and have a go in the big red chair,",give.statement
+you can contact us via our website at this very address.,give.statement
+That's it for tonight - please say thank you to my,give.statement
+"guests, Bananarama...",give.statement
+CHEERING AND APPLAUSE,use.social.convention
+Margot Robbie...,use.social.convention
+CHEERING AND APPLAUSE,use.social.convention
+Reese Witherspoon...,use.social.convention
+CHEERING AND APPLAUSE,use.social.convention
+Ryan Gosling...,use.social.convention
+CHEERING AND APPLAUSE,use.social.convention
+"And, Mr Harrison Ford!",use.social.convention
+CHEERING AND APPLAUSE,use.social.convention
+"Join me next week with rock star Liam Gallagher,",use.social.convention
+"legendary stand-up Chris Rock, actor Idris Elba and",use.social.convention
+Oscar-winner Kate Winslet.,use.social.convention
+I'll see you then!,use.social.convention
+"Goodnight everybody, goodbye!",use.social.convention
+I am a fine-tuned moneymaking machine.,use.social.convention
