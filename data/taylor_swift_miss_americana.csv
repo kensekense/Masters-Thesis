@@ -368,7 +368,7 @@ but... I just wondered...,recall
 #NAME?,x
 - Some people don't. - Who doesn't eat burritos?,closed.question
 "Um, I didn't ever eat burritos until, like, two years ago.",recall
-"Oh, wow...",relax
+"Oh, wow...",relax.atmosphere
 I had never tri... I just had never tried one.,recall
 - That's the weirdest niche thing. - Yeah.,give.opinion
 Mm-mm.,respond.agree
@@ -699,7 +699,7 @@ and I'm gonna make a record I'm proud of.,recall
 Time to do vocals. What are you doing?,open.question
 - I'm turning on my party shoes for vocals. - Good.,respond.agree
 "We've never really gotten a good take without them, have we?",closed.question
-No.,repsond.agree
+No.,respond.agree
 ♪ We were jet-set ♪,misc
 "♪ Bonnie and Clyde, oh, oh ♪",misc
 ♪ Till I switched to the other side... ♪,misc
@@ -1087,7 +1087,7 @@ Why would you?,closed.question
 and these aren't your dad's Republicans.,give.statement
 "Imagine if we came to you and said, ""Hey, we've got this idea",recall
 "that we could halve the number of people that come to your next tour.""",recall
-"The other thing, just from a security standpoint,",give.staet
+"The other thing, just from a security standpoint,",give.statement
 """Taylor Swift comes out against Trump.""",recall
 I don't care if they write that!,relax.atmosphere
 "I'm sad that I didn't two years ago, but I can't change that.",give.statement

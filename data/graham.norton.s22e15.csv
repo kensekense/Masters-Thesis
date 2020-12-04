@@ -172,7 +172,7 @@ and then pull myself over.,relax.atmosphere
 That wasn't the mistake.,give.statement
 So you were always meant to not land on the roof.,closed.question
 "Yes, always.",respond.agree
-"OK, so what you've done, you've brought us some footage.",give.staet
+"OK, so what you've done, you've brought us some footage.",give.statement
 I think this is so cool to see this from a different angle.,give.opinion
 I can't watch this!,relax.atmosphere
 I haven't watched it yet.,give.statement
@@ -672,7 +672,7 @@ I'm escaping.,give.statement
 "You're escaping, but you're brave.",respond.agree
 He's brave.,give.statement
 You can't look terrified.,give.statement
-"You're frightened, but you're still brave.",give.stae
+"You're frightened, but you're still brave.",give.statement
 I'm not going to go too high?,closed.question
 I'll do it for you!,give.statement
 I like that.,give.statement
@@ -957,7 +957,7 @@ This is the one that...?,closed.question
 bombing around Paris.,recall
 "And every time we finished the shot, we have to reset the shot,",recall
 drive back to the start point and do it again.,recall
-"Henry has had enough of sitting in the cramped car,",reacll
+"Henry has had enough of sitting in the cramped car,",recall
 "so he says, can I run back?",recall
 I'll run back.,recall
 He did a bit of running.,recall

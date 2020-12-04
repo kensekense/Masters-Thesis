@@ -1245,7 +1245,7 @@ I'm here to tell you to do what you want.,deflection
 I got a question. Who do you work for?,closed.question
 I work for a company called Labour Relations Institute.,respond.agree
 We're a labour consulting firm.,give.statement
-#NAME?,xx
+#NAME?,x
 Didn't I say that? I usually say that in every meeting.,give.statement
 "- No. - No, you didn't say that yet.",respond.deny
 "Well, the reality is, they pay me to consult with you here...",give.statement

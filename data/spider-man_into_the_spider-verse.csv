@@ -587,7 +587,7 @@ I was kind of perfect.,give.opinion
 It was like looking in a mirror.,relax.atmosphere
 I have a feeling that the thing,give.statement
 that brought me here,give.statement
-was the thing that got him killed.,give.staet
+was the thing that got him killed.,give.statement
 You wanna know what happened next?,closed.question
 "Me, too.",respond.agree
 Who are you?,closed.question
@@ -862,7 +862,7 @@ Dr. Olivia Octavius.,respond.agree
 Can I assume that your friends call you Doc Ock?,closed.question
 My friends actually call me Liv.,respond.deny
 My enemies call me Doc Ock.,give.statement
-I got this! Run!,give.staet
+I got this! Run!,give.statement
 Who are you talking to?,closed.question
 "I got it! Oh, you ""got it,"" Peter?",closed.question
 "I got it handled, buddy!",give.statement
@@ -1030,7 +1030,7 @@ I feel sad for this guy.,relax.atmosphere
 "Hey, Peter.",give.statement
 I think this is a cape.,relax.atmosphere
 Peter knew how dangerous the job was.,give.statement
-But he figured the only one who could stop this guy,give.staet
+But he figured the only one who could stop this guy,give.statement
 was Spider-Man.,give.statement
 Kingpin knows we're coming.,give.statement
 We're going to be outnumbered.,give.opinion
@@ -1120,7 +1120,7 @@ can you get back up?,closed.question
 'Cause when a Spider-Man is on the floor,give.opinion
 When you think you can't keep goin',give.opinion
 "Come on, Miles. Come on. You can do it.",give.opinion
-"You can do this. Guys, cool it.",give.staet
+"You can do this. Guys, cool it.",give.statement
 "Come on. You can do it! Get up, Miles.",give.opinion
 "Come on, Miles. Get up.",give.opinion
 You need to be more honest with yourself about this.,give.opinion
@@ -1161,7 +1161,7 @@ I've got the security tapes from the tunnel right here.,give.statement
 "If the kid's out there, I'll find him.",give.opinion
 "You know me, sir. I don't ever quit.",give.statement
 Personal insanity They gotta like the ally,misc
-Turn it up Against the rally,msic
+Turn it up Against the rally,misc
 You're running in While they're counting,misc
 "Even score, got the tally Knock 'em off at the finale",misc
 "Go, go! They don't want it, yeah",misc
@@ -1301,7 +1301,7 @@ I love you.,give.statement
 200 miles per hour With a blindfold on,misc
 "Mama always asking ""Where did I go wrong?""",misc
 "Took you long enough. What's up, danger?",give.opinion
-"Ah, what's up, danger?",msic
+"Ah, what's up, danger?",misc
 I see this spark in you.,recall
 It's amazing.,recall
 "Whatever you choose to do with it, you'll be great.",recall
@@ -1557,7 +1557,7 @@ And look behind you!,give.statement
 All right. Cool. Yeah.,relax.atmosphere
 "Thanks, Spider-Man. Spider-Man, a su servicio.",relax.atmosphere
 Thank you.,use.social.convention
-"Hey, man. What's up, little man?",ruse
+"Hey, man. What's up, little man?",use.social.convention
 New Spider-Man.,use.social.convention
 "Yeah. Yeah, I'm the new Spider-Man.",use.social.convention
 Check it out.,give.statement
