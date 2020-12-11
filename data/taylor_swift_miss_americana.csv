@@ -131,10 +131,10 @@ I think this is the first single.,give.opinion
 "Yeah, so good.",misc
 "♪ Baby, there's just one of me ♪",misc
 ♪ Ooh-hoo-hoo! ♪,misc
-- Damn. - Holy shit!,relax.atmosphere
+- Damn. - Holy shit!,exclamation
 "Oh, my God, did we just do, like, this whole verse and chorus?",closed.question
 Yeah.,respond.agree
-Holy shit.,relax.atmosphere
+Holy shit.,exclamation
 Everything up to that point is good.,give.opinion
 Yep.,respond.agree
 You look like you might need a rest.,give.opinion
@@ -173,7 +173,7 @@ Kind of like they're reading my diary.,give.opinion
 ♪ And take me home ♪,misc
 "♪ You're my, my, my, my ♪",misc
 ♪ Lover ♪,misc
-Okay.,misc
+Okay.,exclamation
 "This is a song I wrote yesterday,",recall
 and... it's about a girl who's just different.,recall
 And I really like it,recall
@@ -198,7 +198,7 @@ and I've written 150 songs,recall
 You were a freshman when you wrote this?,closed.question
 I actually came up with the concept for it in math class my freshman year.,respond.agree
 "You know, I've had a single out now for about a month.",recall
-Yeah!,relax.atmosphere
+Yeah!,exclamation
 There's this radio station called KZLA.,recall
 I want each and every one of you to call 'em up...,recall
 "and tell 'em you wanna hear a song called ""Tim McGraw""",recall
@@ -222,10 +222,10 @@ And the Horizon Award goes to...,use.social.convention
 Taylor Swift!,use.social.convention
 ♪ The moon Like a spotlight on the lake ♪,misc
 #NAME?,x
-and my family for moving to Nashville,recall
-so that I could do this.,recall
-And the fans...,recall
-you have changed my life!,recall
+and my family for moving to Nashville,quoted.speech
+so that I could do this.,quoted.speech
+And the fans...,quoted.speech
+you have changed my life!,quoted.speech
 Thank you so much.,use.social.convention
 ♪ I was ridin' shotgun With my hair undone ♪,misc
 ♪ In the front seat of his car ♪,misc
@@ -259,11 +259,11 @@ but I never actually thought that would happen.,give.opinion
 "Yo, Taylor...",use.social.convention
 "I-I'm really happy for you. I'mma let you finish,",give.statement
 but Beyoncé had one of the best videos of all time!,give.opinion
-One of the best videos of all time!,give.opinion
+One of the best videos of all time!,exclamation
 "I was standing onstage,",recall
 "and I was really excited because I had just won the award,",recall
 and then I was really excited because Kanye West was on the stage.,recall
-"And then I, um...",use.social.convention
+"And then I, um...",recall
 then I wasn't so excited anymore.,recall
 "Hey, Taylor, are there any hard feelings towards him?",closed.question
 "I-I don't know him, and I-I've never met him, so...",deflection
@@ -314,18 +314,18 @@ but I can control what I write.,give.statement
 ♪ We were lying on your couch ♪,misc
 ♪ I remember ♪,misc
 #NAME?,x
-"where I was like, ""I'm gonna prove myself.",recall
-"I'm gonna make sure people know I deserve to be here.""",recall
+"where I was like, ""I'm gonna prove myself.",quoted.speech
+"I'm gonna make sure people know I deserve to be here.""",quoted.speech
 ♪ Then discovered... ♪,misc
-"The New York Times said, ""By making pop",recall
-"with almost no contemporary references,",recall
-"Miss Swift is aiming somewhere even higher,",recall
-"a mode of timelessness few pop stars even bother aspiring to.""",recall
-Taylor Swift has done something only The Beatles have done:,recall
-an album at number one for six weeks,recall
-for four consecutive albums.,recall
-One magazine headline said it best:,recall
-"""Taylor Swift is the music industry.""",recall
+"The New York Times said, ""By making pop",quoted.speech
+"with almost no contemporary references,",quoted.speech
+"Miss Swift is aiming somewhere even higher,",quoted.speech
+"a mode of timelessness few pop stars even bother aspiring to.""",quoted.speech
+Taylor Swift has done something only The Beatles have done:,quoted.speech
+an album at number one for six weeks,quoted.speech
+for four consecutive albums.,quoted.speech
+One magazine headline said it best:,quoted.speech
+"""Taylor Swift is the music industry.""",quoted.speech
 "♪ In the clear yet, good ♪",misc
 ♪ Are we out of the woods? ♪,misc
 ♪ Remember When you hit the brakes too soon? ♪,misc
@@ -362,8 +362,8 @@ I-I didn't have anyone I could talk to who could relate to what I was...,recall
 what... what I... you know?,open.question
 "I had my mom,",give.statement
 but... I just wondered...,recall
-"""Shouldn't... shouldn't I...",open.question
-"shouldn't I have someone that I could call right now?""",open.question
+"""Shouldn't... shouldn't I...",quoted.speech
+"shouldn't I have someone that I could call right now?""",quoted.speech
 #NAME?,x
 #NAME?,x
 - Some people don't. - Who doesn't eat burritos?,closed.question
@@ -398,19 +398,19 @@ they'll come to me with the dates for the next tour.,give.statement
 "this date, 2020,"" or whatever year, you know?",closed.question
 "- Like, it's... - Wow. Yeah.",respond.agree
 "So, yeah.",respond.agree
-Ooh! You scared the shit out of me!,relax.atmosphere
-Here we go.,relax.atmosphere
+Ooh! You scared the shit out of me!,exclamation
+Here we go.,exclamation
 #NAME?,x
-I got it.,relax.atmosphere
-"- Whoa. Oh. - Oh, no!",relax.atmosphere
-No!,relax.atmosphere
-Not the steak!,relax.atmosphere
-"No, no, not on your forehead!",relax.atmosphere
+I got it.,exclamation
+"- Whoa. Oh. - Oh, no!",exclamation
+No!,exclamation
+Not the steak!,exclamation
+"No, no, not on your forehead!",exclamation
 "Yeah, well, I don't know. I... Either that or the lap. I don't know.",relax.atmosphere
 #NAME?,x
 "Oh, my God, it's all over me.",relax.atmosphere
 Want a bite? Want a bite?,relax.atmosphere
-"She goes, ""What is the panic?""",recall
+"She goes, ""What is the panic?""",quoted.speech
 She did a better job of bracing herself for takeoff than we did.,give.opinion
 It is like traveling with a pony.,give.opinion
 But I love her.,give.statement
@@ -439,7 +439,7 @@ this life where I used to sweat all these things.,give.statement
 "But, like, do you really care",closed.question
 if the Internet doesn't like you today,closed.question
 if your mom's sick from her chemo?,closed.question
-Cheers!,relax.atmosphere
+Cheers!,exclamation
 "- She looks like you. - Oh, she's just like you, Kitty!",relax.atmosphere
 You gotta be able to really prioritize,give.statement
 what matters to you.,give.statement
@@ -480,9 +480,9 @@ Three paps.,give.statement
 #NAME?,x
 "Three of 'em, you say?",closed.question
 "Well, good luck sellin' this picture.",relax.atmosphere
-"Oh, my God!",relax.atmosphere
-Taylor!,relax.atmosphere
-I love you!,relax.atmosphere
+"Oh, my God!",exclamation
+Taylor!,exclamation
+I love you!,exclamation
 Well...,relax.atmosphere
 "So, this is my front yard...",give.statement
 ...and...,give.statement
@@ -517,9 +517,9 @@ I'm a size six instead of a size double zero.,give.statement
 "I mean, that... that wasn't... how my body was supposed to be.",give.statement
 I just didn't really...,give.statement
 understand that a-at the time. I really don't think I knew it.,give.statement
-"I would've defended it to anyone who said, ""I'm concerned about you.""",recall
-"I was like, ""What are you talking about? Of course I eat.",recall
-"It's perfectly normal. I just exercise a lot.""",recall
+"I would've defended it to anyone who said, ""I'm concerned about you.""",quoted.speech
+"I was like, ""What are you talking about? Of course I eat.",quoted.speech
+"It's perfectly normal. I just exercise a lot.""",quoted.speech
 "And I did exercise a lot, but I wasn't eating.",recall
 And...,give.statement
 you can't...,give.statement
@@ -533,18 +533,18 @@ then you don't have that ass that everybody wants.,give.statement
 then your stomach isn't flat enough.,give.statement
 It's all just...,give.statement
 fucking impossible.,give.statement
-"You don't ever say to yourself, ""Look, I've got an eating disorder,""",recall
-"but you know you're, like, making a list of everything you put",recall
-"in your mouth that day, and you know that's probably not right,",recall
-"but then again, there's so many diet blogs that tell you that that...",recall
-that that's what you should do.,recall
-"This would cause me to go into, like, a real shame...",recall
-"like, hate spiral.",recall
-This.,recall
+"You don't ever say to yourself, ""Look, I've got an eating disorder,""",quoted.speech
+"but you know you're, like, making a list of everything you put",give.statement
+"in your mouth that day, and you know that's probably not right,",give.statement
+"but then again, there's so many diet blogs that tell you that that...",give.statement
+that that's what you should do.,give.statement
+"This would cause me to go into, like, a real shame...",give.statement
+"like, hate spiral.",give.statement
+This.,give.statement
 "And, like, I caught myself yesterday starting to do it, and I was like,",recall
 """Nope, we don't do that anymore. We do not do that anymore,",recall
-because it's better to look...,recall
-to think you look fat than to look sick.,recall
+because it's better to look...,give.opinion
+to think you look fat than to look sick.,give.opinion
 "And we don't do that anymore, and you just...",give.opinion
 "We're just... We're changing the channel in our brain,",give.opinion
 and we're not... we're not doin' that anymore.,recall
@@ -568,7 +568,7 @@ She's going through guys like a train.,give.opinion
 you're gonna walk home with more than maybe just a trophy tonight.,give.opinion
 I think lots of men.,give.statement
 I'm not gonna walk home with any men tonight.,give.statement
-"Watch... watch out, guys!",relax.atmosphere
+"Watch... watch out, guys!",exclamation
 We give you the latest can't-look-away twist,give.statement
 in one of America's favorite celebrity feuds.,use.social.convention
 Kanye West recently dissed Taylor,give.statement
@@ -595,8 +595,8 @@ and she thought everybody was gonna get on her side.,recall
 ♪ I made that bitch famous ♪,misc
 #NAME?,x
 Hold on.,relax.atmosphere
-Fuck Taylor Swift!,relax.atmosphere
-Fuck Taylor Swift! Fuck Taylor Swift! Fuck Taylor Swift! Fuck Taylor Swift!,relax.atmosphere
+Fuck Taylor Swift!,exclamation
+Fuck Taylor Swift! Fuck Taylor Swift! Fuck Taylor Swift! Fuck Taylor Swift!,exclamation
 When people decided I was...,give.statement
 wicked and evil and conniving,give.statement
 "and not... a good person,",give.statement
@@ -614,7 +614,7 @@ because we liked the sound of people clapping,give.opinion
 I'm just tired of the...,give.opinion
 ...just...,give.opinion
 ...it just feels like it's more than music now at this point.,give.opinion
-"And, just, most days, I'm like, ""Okay.""",recall
+"And, just, most days, I'm like, ""Okay.""",quoted.speech
 "But then sometimes, I'm just like...",give.opinion
 ...it just gets loud sometimes.,give.opinion
 "When people fall out of love with you,",give.opinion
@@ -735,8 +735,8 @@ Something.,relax.atmosphere
 #NAME?,x
 #NAME?,x
 - That was so fun! - So much fun. So much fun.,give.opinion
-"Oh, my God.",relax.atmosphere
-Hey.,relax.atmosphere
+"Oh, my God.",exclamation
+Hey.,exclamation
 #NAME?,x
 "- Hi, guys! - Yeah!",use.social.convention
 How's it goin'?,use.social.convention
@@ -747,9 +747,9 @@ Hi!,use.social.convention
 - Yes? - Yes!,use.social.convention
 "- Aw, so nice to meet you. - I-I can't breathe. Yeah.",use.social.convention
 You're the cutest.,use.social.convention
-"Guys! Oh, my gosh.",use.social.convention
-How cute!,use.social.convention
-And I love these.,use.social.convention
+"Guys! Oh, my gosh.",exclamation
+How cute!,exclamation
+And I love these.,give.opinion
 #NAME?,x
 "Here we go. One, two, three.",relax.atmosphere
 ♪ Big reputation ♪,misc
@@ -778,8 +778,8 @@ Whoa.,relax.atmosphere
 Yeah. Ooh.,relax.atmosphere
 #NAME?,x
 #NAME?,x
-"Oh, my God.",relax.atmosphere
-"Like, I just want little kids to be like, ""There's no one like me.""",give.opinion
+"Oh, my God.",exclamation
+"Like, I just want little kids to be like, ""There's no one like me.""",quoted.speech
 - Like... ♪ Whoo-hoo-hoo! ♪ - That's the... exactly.,give.opinion
 Do you think that you wanna stay in LA forever?,closed.question
 "- I don't know, actually. - Yeah.",respond.agree
@@ -788,9 +788,9 @@ My wife is from Detroit.,give.statement
 "And then fans found out, and I had to leave.",recall
 "Oh, would they... would they just wait outside?",closed.question
 "They would jump the gate and, like, try to open our front door.",respond.agree
-"- And I was like, ""This is not okay."" - Yeah, let's not do that. Yeah.",recall
-"There's a difference between ""I connect with your lyrics""",recall
-"- and ""I'm going to break in."" - And ""I want your blood.""",relax.atmosphere
+"- And I was like, ""This is not okay."" - Yeah, let's not do that. Yeah.",quoted.speech
+"There's a difference between ""I connect with your lyrics""",quoted.speech
+"- and ""I'm going to break in."" - And ""I want your blood.""",quoted.speech
 Yeah. Yeah.,respond.agree
 I had a crazy dude break into my apartment and sleep in my bed a couple months ago.,recall
 "- Oh, what? - Didn't like it.",relax.atmosphere
@@ -861,8 +861,8 @@ Tennessee's US senate race figures to be crucial,give.opinion
 in both parties' efforts to try to control the US Senate after this year.,give.opinion
 "Marsha Blackburn, a self-described hard-core conservative,",give.statement
 proclaims her support for President Trump often.,give.statement
-"I know the left calls me ""a wingnut"" or ""a knuckle-dragging conservative.""",recall
-"And you know what? I say, ""That's all right. Bring it on.""",recall
+"I know the left calls me ""a wingnut"" or ""a knuckle-dragging conservative.""",quoted.speech
+"And you know what? I say, ""That's all right. Bring it on.""",quoted.speech
 "One of the things that, like, outraged me so much",recall
 is that she voted against the reauthorization,recall
 "of the Violence Against Women Act,",recall
@@ -893,7 +893,7 @@ nearly 30 million records sold and even more fans,give.statement
 "Well, that racy magazine cover on the stands today",give.statement
 pretty much sums up some of the names,give.statement
 the Dixie Chicks are being called in America these days:,give.statement
-"""traitors, the Dixie Sluts, anti-American,""",recall
+"""traitors, the Dixie Sluts, anti-American,""",quoted.speech
 all because of one split-second comment,give.statement
 aimed at President Bush right before the war with Iraq.,give.statement
 Their opinion is so ignorant.,give.opinion
@@ -904,7 +904,7 @@ I think they are the Ditzy Twits.,give.opinion
 Absolutely.,respond.agree
 "Throughout my whole career,",recall
 "label executives and publishers would just say,",recall
-"""Don't be like the Dixie Chicks.""",recall
+"""Don't be like the Dixie Chicks.""",quoted.speech
 And... I loved the Dixie Chicks.,give.opinion
 But a nice girl doesn't force their opinions on people.,give.opinion
 A nice girl smiles and waves,give.opinion
@@ -916,11 +916,11 @@ but it's not my right to tell other people what to do.,give.opinion
 - Come on. Come on. Come on! - All right.,relax.atmosphere
 "I was so obsessed with not getting in trouble,",recall
 "that I was like,",recall
-"""I'm just not gonna do anything that anyone could say anything about.""",recall
+"""I'm just not gonna do anything that anyone could say anything about.""",quoted.speech
 I'm just getting... I'm just...,give.statement
 I'm getting to the point where I can't...,give.statement
-"listen to people telling me, ""No, stay out of it.",recall
-"Stay out of it.""",recall
+"listen to people telling me, ""No, stay out of it.",quoted.speech
+"Stay out of it.""",quoted.speech
 - Yeah. Is that right? C to the A minor? - Yeah.,closed.question
 Let me... just... Can you not play for one second?,closed.question
 "'Cause I'm trying to figure out this... I like what I was doing,",recall
@@ -938,11 +938,11 @@ Mm-hmm.,relax.atmosphere
 ♪ I'm so ♪,misc
 ♪ I'm so sick of runnin' ♪,misc
 #NAME?,x
-"Maybe it's like, ""I'm so sick of running as fast as I can,",recall
-"wondering if I'd get much further if I were a man.""",recall
-"Is it, ""If I was a man""? ""If I was a man.""",closed.question
+"Maybe it's like, ""I'm so sick of running as fast as I can,",quoted.speech
+"wondering if I'd get much further if I were a man.""",quoted.speech
+"Is it, ""If I was a man""? ""If I was a man.""",quoted.speech
 "- Fine. ""If I was."" - ""If I was a man."" ""If I was a man.""",respond.agree
-"""If I was a man.""",misc
+"""If I was a man.""",quoted.speech
 ♪ If I was a man ♪,misc
 "♪ Hey, then, I'd be the man ♪",misc
 ♪ I'd be the man ♪,misc
@@ -1085,10 +1085,10 @@ Why would you?,closed.question
 - What I'm saying is... - Bob Hope and Bing Crosby?,closed.question
 "First of all, these aren't your dad's celebrities,",give.statement
 and these aren't your dad's Republicans.,give.statement
-"Imagine if we came to you and said, ""Hey, we've got this idea",recall
-"that we could halve the number of people that come to your next tour.""",recall
+"Imagine if we came to you and said, ""Hey, we've got this idea",quoted.speech
+"that we could halve the number of people that come to your next tour.""",quoted.speech
 "The other thing, just from a security standpoint,",give.statement
-"""Taylor Swift comes out against Trump.""",recall
+"""Taylor Swift comes out against Trump.""",quoted.speech
 I don't care if they write that!,relax.atmosphere
 "I'm sad that I didn't two years ago, but I can't change that.",give.statement
 I'm saying right now,give.statement
@@ -1130,7 +1130,7 @@ I always have to bring up everything that could go sideways...,give.statement
 #NAME?,x
 "- One: the president could come after you. - Fuck that, I don't care.",give.statement
 "If I get bad press for saying,",give.statement
-"""Don't put a homophobic racist in office,"" then I get bad press for that.",recall
+"""Don't put a homophobic racist in office,"" then I get bad press for that.",quoted.speech
 "- I really don't care. - I would stand behind that 1,000 times.",respond.agree
 #NAME?,x
 I think that it is so frilly and spineless of me,give.opinion
@@ -1222,8 +1222,8 @@ Um...,respond.deny
 I think you might be more sensitive than me to that.,give.opinion
 "Yeah, I have a really slappable face.",give.statement
 "- Slappable? Ouch! - Yeah, you just want to be like...",relax.atmosphere
-"""What are you plotting?",recall
-"What's she planning?"" I'm not meaning to look like that.",recall
+"""What are you plotting?",quoted.speech
+"What's she planning?"" I'm not meaning to look like that.",quoted.speech
 You looked confident and strong. It's the chorus.,give.opinion
 "You got it. All right, we'll...",respond.agree
 I'm gonna try to be more likable on the next one.,give.statement
@@ -1231,7 +1231,7 @@ I'm gonna try to be more likable on the next one.,give.statement
 "One, two, three, four, five, six, seven, eight. One...",misc
 I wish I didn't feel like there's a better version of me out there.,give.opinion
 I feel that way all the time.,give.statement
-"You know what we call this? This is ""last rhino of the stampede,""",recall
+"You know what we call this? This is ""last rhino of the stampede,""",quoted.speech
 "up here, just...",give.opinion
 Everybody else is runnin'. Limping.,give.opinion
 First to get eaten.,give.opinion
@@ -1291,8 +1291,8 @@ and then she still gets beat...,give.opinion
 "you know, we have, what?",give.opinion
 Three to four million people turning 18 in the next two years before the next one?,give.opinion
 "So, it's like...",give.opinion
-"it's basically saying, like, ""Don't lose hope. Don't get...""",recall
-"Yeah, your time will come if you just hang in there.",recall
+"it's basically saying, like, ""Don't lose hope. Don't get...""",quoted.speech
+"Yeah, your time will come if you just hang in there.",quoted.speech
 #NAME?,x
 ♪ Only the young ♪,misc
 ♪ Only the young ♪,misc
@@ -1309,7 +1309,7 @@ Play it again.,give.statement
 ♪ Only the young ♪,misc
 ♪ Can run ♪,misc
 #NAME?,x
-"That's basically saying, like, ""Resist.""",give.statement
+"That's basically saying, like, ""Resist.""",quoted.speech
 "If you can just shift the power in your direction by being bold enough,",give.statement
 then it won't be like this forever.,give.statement
 #NAME?,x
@@ -1367,7 +1367,7 @@ to pass the Equality Act.,give.statement
 "Literally, just call me for anything,",give.statement
 'cause you do so many good things for people.,give.opinion
 "All right, here we go. And... roll camera.",relax.atmosphere
-- Rolling! - And playback!,relax.atmosphere
+- Rolling! - And playback!,exclamation
 I want to love glitter,give.statement
 and also stand up for the double standards,give.statement
 that exist in our society.,give.statement
@@ -1388,7 +1388,7 @@ I will.,respond.agree
 #NAME?,x
 #NAME?,x
 And the VMA goes to...,give.statement
-"Taylor Swift, ""You Need to Calm Down.""",give.statement
+"Taylor Swift, ""You Need to Calm Down.""",quoted.speech
 "At the end of this video, there was a petition,",give.statement
 and there still is a petition...,give.statement
 Whoo!,relax.atmosphere
@@ -1421,9 +1421,9 @@ We don't want to be condemned for being multifaceted.,give.statement
 "- You're just... - No, it's...",relax.atmosphere
 because we're trained to say sorry.,respond.agree
 "Yeah, we legitimately are. We're, like...",respond.agree
-"""Sorry, was I loud... in my own house that I bought",recall
-with the songs that I wrote...,recall
-"about my own life?""",recall
+"""Sorry, was I loud... in my own house that I bought",quoted.speech
+with the songs that I wrote...,quoted.speech
+"about my own life?""",quoted.speech
 ♪ Combat ♪,misc
 ♪ I'm ready for combat ♪,misc
 ♪ I say I don't want that ♪,misc

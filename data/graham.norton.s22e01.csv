@@ -56,13 +56,13 @@ It is Margot Robbie.,use.social.convention
 Hello!,use.social.convention
 I was looking at the curtain...,relax.atmosphere
 "Is she, is she?",closed.question
-"She's here, Margot Robbie!",use.social.convention
+"She's here, Margot Robbie!",exclamation
 CHEERING AND APPLAUSE,use.social.convention
 This Oscar winning star and producer has given us hits,use.social.convention
 "like Legally Blonde, Walk the Line and Big Little Lies -",use.social.convention
 it's a warm welcome back to Reese Witherspoon.,use.social.convention
 CHEERING AND APPLAUSE,use.social.convention
-Oh!,use.social.convention
+Oh!,exclamation
 Hello!,use.social.convention
 Reese Witherspoon!,use.social.convention
 And we've waited 35 years for a sequel to Blade Runner -,use.social.convention
@@ -73,14 +73,14 @@ CHEERING AND APPLAUSE,use.social.convention
 "Hello, sir!",use.social.convention
 Very nice to see you again.,use.social.convention
 "All right, that's all right, please, please, have a seat.",use.social.convention
-They seem pleased!,use.social.convention
+They seem pleased!,exclamation
 They seem pleased with their line-up.,use.social.convention
 Lovely to see you all.,use.social.convention
 "Reece and Harrison, do you know each other out of show business land?",closed.question
 A little bit.,respond.agree
 I've seen her in the parking lot at school!,relax.atmosphere
 LAUGHTER,use.social.convention
-At school!,relax.atmosphere
+At school!,exclamation
 "At school, yeah.",relax.atmosphere
 Picking up and dropping off.,give.statement
 "So do you do the school run, Harrison?",closed.question
@@ -135,7 +135,7 @@ Did you see what the crowd looked like?,closed.question
 "Oh, we've got a picture of that, the crowd were amazing.",respond.agree
 Matt Damon looks like he's swallowed his own teeth!,relax.atmosphere
 LAUGHTER,use.social.convention
-"With shock, look at him!",relax.atmosphere
+"With shock, look at him!",exclamation
 "I mean, it was like they were watching their childhood",relax.atmosphere
 homes catch fire.,relax.atmosphere
 LAUGHTER,use.social.convention
@@ -428,7 +428,7 @@ She actually went on a date with Donald Trump.,give.statement
 When she was in college.,give.statement
 It's kind of crazy.,give.opinion
 It's really cool.,give.opinion
-It's a great story!,give.opinion
+It's a great story!,exclamation
 "I mean, it looks like one of those films that is just a pleasure",give.opinion
 to make because of her...,give.opinion
 "Yeah, it was really fun, we shot it about ten",respond.agree
@@ -516,7 +516,7 @@ the road for an extortionate price.,recall
 I would make up magic tricks and make my family pay to come,recall
 and see my magic show and then pay extra if they wanted to know,recall
 how I did the trick!,recall
-That's a really good idea!,relax.atmosphere
+That's a really good idea!,exclamation
 You would pay extra to find out how they do the tricks.,relax.atmosphere
 "Once you get them in, they already paid their dollar, sure!",relax.atmosphere
 "Because, Ryan, you were also a young entrepreneur, weren't you?",closed.question
@@ -554,7 +554,7 @@ My dad was in advertising and he liked to make things,respond.agree
 and we were down in the basement working on building a table,recall
 and he cut off his finger.,recall
 Why are you laughing?,closed.question
-He's laughing!,relax.atmosphere
+He's laughing!,exclamation
 It's quite funny when it's told like that.,relax.atmosphere
 It wasn't funny.,respond.deny
 At the time.,recall
@@ -569,7 +569,7 @@ And he went...,recall
 Because it was a while ago and they didn't really think,recall
 about trying to attach fingers.,recall
 If only you had some cellophane.,relax.atmosphere
-Yeah!,relax.atmosphere
+Yeah!,exclamation
 Thank you.,relax.atmosphere
 Who knew?,relax.atmosphere
 Yeah.,relax.atmosphere
@@ -785,7 +785,7 @@ She can tattoo at will.,give.statement
 You're genuinely thinking about this?,closed.question
 No!,respond.deny
 I didn't think you were.,respond.agree
-I thought you were!,give.statement
+I thought you were!,exclamation
 That's acting!,relax.atmosphere
 APPLAUSE.,use.social.convention
 Ryan isn't looking so shocked because you have already tattooed,give.statement
@@ -811,7 +811,7 @@ I went to college in the '90s.,give.statement
 Can we just leave it there.,give.statement
 Is it a tramp stamp?,closed.question
 No!,respond.deny
-"Oh, God, no!",relax.atmosphere
+"Oh, God, no!",exclamation
 Is it a dolphin?,closed.question
 "No, no, no.",respond.deny
 Is it a...?,closed.question
@@ -834,28 +834,28 @@ You don't have to do this if you don't want to.,relax.atmosphere
 "Honestly, he kept saying he wants to do this.",give.statement
 Are you sure?,closed.question
 OK.,respond.agree
-"Oh, my God.",relax.atmosphere
+"Oh, my God.",exclamation
 There is something I have to say...,use.social.convention
-Don't try this at home!,use.social.convention
-Really don't!,use.social.convention
+Don't try this at home!,exclamation
+Really don't!,exclamation
 I will sit on this side of you.,give.statement
 "OK, perfect.",give.statement
 "OK, here we go.",give.statement
 In your own time.,relax.atmosphere
-It is not that easy to do!,give.opinion
+It is not that easy to do!,exclamation
 Here we go.,relax.atmosphere
 I haven't actually done one for a while.,give.statement
 I'm probably more nervous than you are.,give.statement
-"Sorry, that's not comforting!",relax.atmosphere
+"Sorry, that's not comforting!",exclamation
 That wasn't very professional.,give.statement
-I'm so scared!,relax.atmosphere
+I'm so scared!,exclamation
 I was going to say my hands are shaking but you don't,relax.atmosphere
 want to hear that.,relax.atmosphere
 TATTOO GUN BUZZES.,misc
-This is nuts!,give.opinion
+This is nuts!,exclamation
 APPLAUSE.,use.social.convention
 OK.,relax.atmosphere
-Sorry!,relax.atmosphere
+Sorry!,exclamation
 TATTOO GUN BUZZES.,misc
 Does it hurt?,closed.question
 It's a little funny.,respond.agree
@@ -870,7 +870,7 @@ It's good.,respond.agree
 I can neaten it up when we are backstage.,give.statement
 CHEERING AND APPLAUSE.,use.social.convention
 Show it to that camera.,give.statement
-There it is!,give.statement
+There it is!,exclamation
 That's not bad!,give.opinion
 It's not bad!,respond.agree
 "Obviously, trained medics are coming to the studio.",relax.atmosphere
@@ -956,7 +956,7 @@ That's right.,respond.agree
 And we saw Mike Tyson sitting on the front of his limo,recall
 "and he started singing Cruel Summer at us, and we were like wow.",recall
 LAUGHTER,use.social.convention
-We made it!,relax.atmosphere
+We made it!,exclamation
 With our beach bags.,recall
 "And this is a tour, you're back for a tour.",give.statement
 Yes.,respond.agree

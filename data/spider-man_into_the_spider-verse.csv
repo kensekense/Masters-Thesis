@@ -1,29 +1,29 @@
 U,L
-"All right, let's do this one last time.",give.statement
+"All right, let's do this one last time.",exclamation
 My name is Peter Parker.,use.social.convention
 I was bitten by a radioactive spider.,recall
 And for 10 years,recall
 I've been the one and only.,give.statement
 Spider-Man.,give.statement
 I'm pretty sure you know the rest.,give.opinion
-With great power comes great responsibility.,recall
-"I saved a bunch of people, fell in love, saved the city.",give.statement
-And then I saved the city again.,give.statement
-And again and again,give.statement
-and again.,give.statement
-"And I did, uh",give.statement
-I did this.,give.statement
+With great power comes great responsibility.,inner.dialogue
+"I saved a bunch of people, fell in love, saved the city.",inner.dialogue
+And then I saved the city again.,inner.dialogue
+And again and again,inner.dialogue
+and again.,inner.dialogue
+"And I did, uh",inner.dialogue
+I did this.,inner.dialogue
 Get on up Get yourself together,misc
 Drive that funky soul,misc
-We don't really talk about this.,give.statement
-"Look, I'm a comic book. I'm a cereal.",give.statement
-Did a Christmas album.,give.statement
-I have an excellent theme song.,give.opinion
+We don't really talk about this.,inner.dialogue
+"Look, I'm a comic book. I'm a cereal.",inner.dialogue
+Did a Christmas album.,inner.dialogue
+I have an excellent theme song.,inner.dialogue
 Spider-man Spider-man,misc
-And a so-so Popsicle.,give.opinion
-"I mean, I've looked worse.",give.opinion
-But after everything,give.statement
-I still love being Spider-Man.,give.statement
+And a so-so Popsicle.,inner.dialogue
+"I mean, I've looked worse.",inner.dialogue
+But after everything,inner.dialogue
+I still love being Spider-Man.,inner.dialogue
 "I mean, who wouldn't?",closed.question
 So no matter how many hits I take,give.statement
 I always find a way to come back.,give.statement
@@ -66,7 +66,7 @@ Speaks Spanish,misc
 What you talkin' about? I slept like a baby last night.,respond.deny
 How's that new school?,closed.question
 "So easy. We miss you, Miles.",give.statement
-You miss me? I still live here!,closed.question
+You miss me? I still live here!,exclamation
 "Wait, you miss me?",closed.question
 Man Singing in Spanish,misc
 Contra!,misc
@@ -80,7 +80,7 @@ And the two from yesterday on Clinton.,give.statement
 "So, oh, look at that. Another new coffee shop.",give.statement
 You see the mass? Totally. Yeah.,closed.question
 You see that. What's that one called? Foam Party.,closed.question
-"""Foam Party""? Come on. Mmm.",relax.atmosphere
+"""Foam Party""? Come on. Mmm.",quoted.speech
 And everyone is just linin' up. You see that mass?,closed.question
 I see it. Is that a coffee shop or a disco?,closed.question
 "Dad, you're old, man.",give.opinion
@@ -108,9 +108,9 @@ Why can't I go back to Brooklyn Middle?,closed.question
 You've given it two weeks.,respond.agree
 We're not having this conversation.,give.statement
 I just think that this new school is elitist.,give.opinion
-"""Elitist""? And I would prefer to be",recall
+"""Elitist""? And I would prefer to be",quoted.speech
 at a normal school among the people.,give.opinion
-"""The people""? These are your people.",recall
+"""The people""? These are your people.",quoted.speech
 I'm only here 'cause I won that stupid lottery.,give.statement
 No way. You passed the entry test just like everybody else. Okay.,give.opinion
 You have an opportunity here. You wanna blow that? Huh?,give.opinion
@@ -121,20 +121,20 @@ It doesn't feel like I have,give.opinion
 a choice right now. You don't!,give.statement
 "I love you, Miles.",closed.question
 "Yeah, I know, Dad. See you Friday.",give.statement
-"You gotta say ""I love you"" back. Dad, are you serious?",recall
-"I wanna hear it. ""I love you, Dad."" You wanna hear me say it?",recall
-"You're dropping me off at a school. ""I love you, Dad.""",recall
-"Look at this place. ""Dad, I love you.""",recall
+"You gotta say ""I love you"" back. Dad, are you serious?",quoted.speech
+"I wanna hear it. ""I love you, Dad."" You wanna hear me say it?",quoted.speech
+"You're dropping me off at a school. ""I love you, Dad.""",quoted.speech
+"Look at this place. ""Dad, I love you.""",quoted.speech
 "Dad, I love you.",give.statement
 That's a copy.,relax.atmosphere
 "Tie your shoes, please.",give.statement
-"""I love you, Dad.""",recall
+"""I love you, Dad.""",quoted.speech
 "Hey, good morning. How you doin'?",use.social.convention
-"Weekend was short, huh? ""That's a copy.""",recall
+"Weekend was short, huh? ""That's a copy.""",quoted.speech
 "Oh, my gosh! This is Th This is embarrassing.",give.opinion
 We wore the same jacket.,relax.atmosphere
 "Hey. Your shoe's untied. Yeah,",give.statement
-"Yeah, I'm aware. It's a choice.",give.statement
+"Yeah, I'm aware. It's a choice.",respond.agree
 Theory is that All matter is composed,give.statement
 Of at least three,give.statement
 Fundamental particles,give.statement
@@ -168,7 +168,7 @@ Maybe I'm just not right for this school.,give.opinion
 If a person wearing a blindfold picked the answers,give.statement
 "on a true-or-false quiz at random,",give.statement
 do you know what score they would get?,closed.question
-50%? That's right!,give.statement
+50%? That's right!,exclamation
 The only way to get all the answers wrong,give.statement
 is to know which answers are right.,give.statement
 You're trying to quit.,give.statement
@@ -205,14 +205,14 @@ You know about the shoulder touch?,closed.question
 'Course I do.,respond.agree
 But tell me anyway.,give.statement
 "Tomorrow, find that girl. You walk up to her and be like:",give.statement
-"""Hey.""",recall
+"""Hey.""",quoted.speech
 "You serious, Uncle Aaron?",closed.question
 "I'm tellin' you, man, it's science.",respond.agree
-"So walk up to her and be like: ""Hey.""",recall
+"So walk up to her and be like: ""Hey.""",quoted.speech
 "No, no, no, no. Like: ""Hey.""",respond.deny
-"""Hey.""",recall
+"""Hey.""",quoted.speech
 "No. ""Hey.""",respond.deny
-"""Hey.""",recall
+"""Hey.""",quoted.speech
 "You sure you my nephew, man?",closed.question
 Is that her?,closed.question
 I should probably go. Still got a paper to do tonight.,give.opinion
@@ -316,45 +316,45 @@ Why are all my thoughts so loud?!,closed.question
 "Hey! I know you snuck out last night, Morales.",give.statement
 Play dumb!,give.statement
 Who's Morales?,closed.question
-Not that dumb!,give.statement
-Hey!,give.statement
+Not that dumb!,exclamation
+Hey!,exclamation
 "Okay, okay. You're okay.",give.opinion
 You're okay.,give.opinion
 He'll never find you.,give.opinion
 No.,respond.deny
-Ow!,give.statement
+Ow!,exclamation
 "What are you doing in my office, Morales?!",closed.question
-Morales! Open up!,give.statement
+Morales! Open up!,exclamation
 "Oh, Spider-bells Goblin smells",misc
 Why is this happening?,closed.question
 Spider-buggy bleiw a tire,misc
 He's got a nice voice.,give.opinion
 "Spidey-bells, Spidey-bells",misc
-Open up!,closed.question
-Stop sticking!,give.statement
-"Keep sticking, Miles! Oh!",give.statement
+Open up!,exclamation
+Stop sticking!,exclamation
+"Keep sticking, Miles! Oh!",exclamation
 Hofstadter is suggesting,give.statement
 is that we,give.statement
 look on the,give.statement
 Okay.,give.statement
-My room!,give.statement
-"""Why is this happening?""",recall
-"""Please stop sticking.""",recall
-"""Please keep st""",recall
-"Wait, wait, wait.",give.statement
+My room!,exclamation
+"""Why is this happening?""",inner.dialogue
+"""Please stop sticking.""",inner.dialogue
+"""Please keep st""",inner.dialogue
+"Wait, wait, wait.",inner.dialogue
 How could there be two Spider-Men?,closed.question
 There can't be two Spider-Men.,give.opinion
 Can there?,closed.question
 "Come on, Uncle Aaron, pick up. Pick up!",give.statement
-"Yo, it's Aaron.",recall
-I'm outta town for a few days.,recall
-I'll hit you when I'm back. Peace. No. No-No-No-No-No.,recall
-It's not possible!,give.opinion
+"Yo, it's Aaron.",quoted.speech
+I'm outta town for a few days.,quoted.speech
+I'll hit you when I'm back. Peace. No. No-No-No-No-No.,quoted.speech
+It's not possible!,exclamation
 It's It's just puberty.,give.opinion
-It's a normal spider and I'm a normal kid!,give.statement
-All right!,give.statement
-I gotta tell someone.,give.statement
-"Okay, you're being crazy, Miles. You're being crazy.",give.opinion
+It's a normal spider and I'm a normal kid!,exclamation
+All right!,exclamation
+I gotta tell someone.,inner.dialogue
+"Okay, you're being crazy, Miles. You're being crazy.",inner.dialogue
 Find the spider.,give.statement
 You'll see.,give.statement
 It's a normal spider.,give.opinion
@@ -362,12 +362,12 @@ It's a normal spider.,give.opinion
 I'm right here.,give.statement
 Why is this happening to me?,closed.question
 Slow down! What am I doing?,closed.question
-Way over there.,misc
-You're like me.,misc
-Miles. Look out.,give.statement
-I don't wanna be a hero.,misc
-Miles.,misc
-Whoa!,give.statement
+Way over there.,inner.dialogue
+You're like me.,inner.dialogue
+Miles. Look out.,inner.dialogue
+I don't wanna be a hero.,inner.dialogue
+Miles.,inner.dialogue
+Whoa!,exclamation
 "Norman, listen to me.",give.statement
 Spider-Man?,closed.question
 I cannot let you open a portal to another dimension.,give.statement
@@ -378,8 +378,8 @@ Why won't you quit?!,closed.question
 I guess I like Brooklyn not being sucked into a black hole.,respond.agree
 I think I'm gonna go.,give.statement
 "Staten Island, maybe. Not Brooklyn.",relax.atmosphere
-No! No!,give.statement
-Whoa!,give.statement
+No! No!,exclamation
+Whoa!,exclamation
 Oh! What now?,closed.question
 What is this place?,closed.question
 Did you know your shoes are untied?,closed.question
@@ -407,7 +407,7 @@ Prowler.,give.statement
 I am so tired.,give.statement
 Are you mad at me? I feel like you're mad at me.,closed.question
 That all you got?,closed.question
-"Aw, so gross.",give.statement
+"Aw, so gross.",exclamation
 I should go up there and help him.,give.statement
 Who am I kidding? I should not do that.,closed.question
 Watch out. Here comes the Spider-Man.,misc
@@ -416,17 +416,17 @@ You like my new toy?,closed.question
 You came all this way. Watch the test.,give.statement
 It's a hell of a freaking light show.,give.opinion
 You're gonna love this.,give.opinion
-"No! No, don't do this! Stop!",give.statement
-You don't know what it can do! You'll kill us all!,give.statement
-I see multiple dimensions opening!,give.statement
+"No! No, don't do this! Stop!",exclamation
+You don't know what it can do! You'll kill us all!,exclamation
+I see multiple dimensions opening!,exclamation
 "That was three, four and five separate dimensions.",give.statement
 It's unstable! We should stop.,give.opinion
 "Norm, what's your take on head trauma?",closed.question
 "I tried to warn you, pal.",relax.atmosphere
-"Goblin, no! Get him outta there!",give.statement
-Wilson! Where are we?,recall
-Really weird.,recall
-Wilson!,recall
+"Goblin, no! Get him outta there!",exclamation
+Wilson! Where are we?,quoted.speech
+Really weird.,quoted.speech
+Wilson!,quoted.speech
 Hey! Are you okay?,closed.question
 "I'm fine, I'm fine. I'm just resting.",respond.agree
 Can't you get up? Yeah.,closed.question
@@ -451,7 +451,7 @@ It's gonna be okay.,give.opinion
 Tombstone.,give.statement
 We're done with tests.,give.statement
 Get that thing ready to go again. And soon.,give.statement
-Run faster!,give.statement
+Run faster!,exclamation
 These guys are weak.,give.opinion
 "I'd say it's nice to see you again, Spider-Man,",give.statement
 but it's not.,give.statement
@@ -469,7 +469,7 @@ They're gone.,give.statement
 Get rid of the body.,give.statement
 What was that?,closed.question
 Kill that guy.,give.statement
-Stop sticking!,give.statement
+Stop sticking!,exclamation
 "Stand clear of the closing doors, please.",misc
 "Yeah, I think it's a Banksy.",relax.atmosphere
 Police! Put your hands up!,give.statement
@@ -544,7 +544,7 @@ I'm not sure I'm the guy.,give.opinion
 I can't do this without you.,give.opinion
 "Hey, kid.",give.statement
 Whoa!,give.statement
-What did I do to him?!,closed.question
+What did I do to him?!,exclamation
 No.,give.statement
 Who are you?,closed.question
 "All right, people, let's do this one last time.",give.statement
@@ -579,7 +579,7 @@ I'm pretty sure I broke her heart.,give.opinion
 when this weird thing happened.,give.opinion
 "And I gotta say, weird things happen to me a lot.",give.opinion
 But this was real weird.,give.opinion
-Ow!,give.statement
+Ow!,exclamation
 "You see, I was in New York, but things were different.",give.opinion
 "Also, I was dead.",recall
 And blond.,recall
@@ -592,26 +592,26 @@ You wanna know what happened next?,closed.question
 "Me, too.",respond.agree
 Who are you?,closed.question
 What are you doin' over there?,closed.question
-Freeze! P.D.N.Y.,give.statement
-Stop!,give.statement
+Freeze! P.D.N.Y.,exclamation
+Stop!,exclamation
 Are you kidding me right now?,closed.question
-Stop! Stop!,give.statement
+Stop! Stop!,exclamation
 I gotcha. I gotcha.,give.statement
 "Hey, kid. Drop the body.",give.statement
-"Hey, kid. Get over here! Come on, now!",give.statement
-Whoa.,give.statement
-"See you, officers!",give.statement
-"Aw, come on.",give.statement
-"Hey, kid. Kid, come on, now!",relax.atmosphere
-"Put 'em up, son!",give.statement
+"Hey, kid. Get over here! Come on, now!",exclamation
+Whoa.,exclamation
+"See you, officers!",exclamation
+"Aw, come on.",exclamation
+"Hey, kid. Kid, come on, now!",exclamation
+"Put 'em up, son!",exclamation
 Uh adiós?,misc
-Help! Somebody stop that train!,give.statement
-"Oh, hey. What the?",relax.atmosphere
-Sorry.,relax.atmosphere
-I'm gonna die!,relax.atmosphere
+Help! Somebody stop that train!,exclamation
+"Oh, hey. What the?",exclamation
+Sorry.,exclamation
+I'm gonna die!,exclamation
 Looks like a child dressed like Spider-Man,give.statement
 dragging a homeless corpse behind a train.,give.statement
-Yes! I didn't kill you.,give.statement
+Yes! I didn't kill you.,exclamation
 Who are you? Who are you?,closed.question
 Why are you trying to kill me? I'm not.,closed.question
 I'm trying to save you.,respond.deny
@@ -640,7 +640,7 @@ And you're Spider-Man in that universe?,closed.question
 but you don't know how?,closed.question
 Wow. That was really just a guess?,closed.question
 We learned about it in physics.,respond.agree
-Quantum theory. This is amazing!,give.opinion
+Quantum theory. This is amazing!,exclamation
 You can teach me like Peter said he would.,give.statement
 "Before he died. Yeah, right. Yeah. Exactly.",relax.atmosphere
 "Look, I made a promise to him.",recall
@@ -659,9 +659,9 @@ as a Spider-Man coach.,give.statement
 I got a lot going on in my dimension.,give.statement
 """With great power comes great""",recall
 Don't you dare finish that sentence.,give.statement
-Don't do it! I'm sick of it.,give.statement
+Don't do it! I'm sick of it.,exclamation
 Want my advice? Go back to being a regular kid.,give.opinion
-I don't have a choice!,give.statement
+I don't have a choice!,exclamation
 Kingpin's got a supercollider.,give.statement
 He's trying to kill me. Wait a second.,give.statement
 What did you just say? Kingpin's tryin' to kill me.,closed.question
@@ -672,7 +672,7 @@ Goodbye. Where you going?,closed.question
 and get back to my life. You can't let them run it.,give.statement
 I'm supposed to destroy it,give.statement
 so it never runs again or everyone's gonna die.,give.statement
-"""Or everyone's gonna die."" That is what they always say.",recall
+"""Or everyone's gonna die."" That is what they always say.",quoted.speech
 But there's always a little bit of time before everybody dies,give.opinion
 and that's when I do my best work.,give.opinion
 Aren't you gonna need this?,closed.question
@@ -683,7 +683,7 @@ Aren't you gonna need this?,closed.question
 I need it to destroy the collider.,give.statement
 I need it to go home.,give.statement
 No. I'll swallow it. Don't play with me.,give.statement
-What? Hey? I said,closed.question
+What? Hey? I said,exclamation
 The collider created a portal that brought me here.,give.statement
 And I have to get,give.statement
 "Did you break this? No, it broke.",closed.question
@@ -704,7 +704,7 @@ Making you feel guilty. Is it working?,closed.question
 How could it? No. Look at me.,closed.question
 Does it look like it's working?,closed.question
 "No. No, it's not",respond.deny
-No! No! No! Do not let him win!,give.statement
+No! No! No! Do not let him win!,exclamation
 "All right, kid. You win.",give.statement
 "Come on, we don't have a second to lose.",give.statement
 Mmm. I love this burger. So delicious.,give.opinion
@@ -727,7 +727,7 @@ heavy on the joints.,give.statement
 "Anything else? Nope, that was everything.",closed.question
 I think you're gonna be a bad teacher.,give.opinion
 Uh-uh-uh? Look up where Alchemax is.,give.statement
-"""A private technological campus in Hudson Valley, New York.""",recall
+"""A private technological campus in Hudson Valley, New York.""",quoted.speech
 You can teach me,give.statement
 to swing on the way there.,give.statement
 "I'm not swinging to the Hudson Valley, Miles.",give.statement
@@ -758,17 +758,17 @@ I grab a bagel from the cafeteria and run.,give.statement
 You stay here. You're lookout. Very important.,give.statement
 "Look, man. You gotta teach me how to do Spider-Man stuff",give.statement
 or I won't be able to help.,give.statement
-"Watch and learn, kid! I'll quiz ya later!",give.statement
+"Watch and learn, kid! I'll quiz ya later!",exclamation
 Why did I get stuck with,closed.question
 "the janky, old, broke hobo Spider-Man?!",closed.question
 That's new.,relax.atmosphere
 Kingpin.,give.statement
 What am I doing? What am I doing?,closed.question
 What am I doing? What am I doing?,closed.question
-Whoa!,give.statement
-Peter!,give.statement
-Peter!,give.statement
-Peter!,give.statement
+Whoa!,exclamation
+Peter!,exclamation
+Peter!,exclamation
+Peter!,exclamation
 What are you doing here? Kingpin's here.,closed.question
 Just move over.,give.statement
 You're steppin' on my foot. Go back outside.,give.statement
@@ -778,7 +778,7 @@ I'm not doing that again.,give.statement
 What?,closed.question
 "Most people I meet in the workplace try to kill me,",give.statement
 so you're a nice change of pace.,give.opinion
-Mr. Fisk! Look at this data.,give.statement
+Mr. Fisk! Look at this data.,exclamation
 "I know you can't really understand it,",give.statement
 but these are really good numbers.,give.opinion
 And I got the password.,give.statement
@@ -789,7 +789,7 @@ This is multiple dimensions,give.statement
 beginning to crash into each other.,give.statement
 This is pretty standard Spider-Man stakes.,give.opinion
 You get used to it. Watch this.,give.statement
-"He's gonna say, ""You've got 24 hours.""",recall
+"He's gonna say, ""You've got 24 hours.""",quoted.speech
 You've got 24 hours.,give.statement
 What this means is there could be a rupture,give.statement
 in the space-time continuum.,give.statement
@@ -808,19 +808,19 @@ They're right there. They're gonna see you.,give.statement
 What do you do to relax?,closed.question
 "Relax. Okay, okay, okay.",respond.agree
 "Needless to say, I",misc
-"Oh, for crying out loud.",relax.atmosphere
+"Oh, for crying out loud.",exclamation
 "Callin' it quits Now, baby, I'm a wreck",misc
 "You're a wreck, ooh",misc
 just the worst.,give.opinion
 "Miles, where did you go? I'm right here.",closed.question
 Where? I can't see ya. I'm right in front of you.,give.statement
 Can Spider-Man turn invisible? Not in my universe.,closed.question
-Aah! You just poked me in my eye!,give.statement
+Aah! You just poked me in my eye!,exclamation
 This is incredible. Some kind of fight or flight thing.,give.statement
 What's that?,closed.question
 Remember this password. Come on.,give.statement
-D-G-F-A-M-P-E-S-A-N-D Slow down!,give.statement
-4-$-3-5-8-7-6-5-3-4-5-4-5-3-5. I need to write it down!,give.statement
+D-G-F-A-M-P-E-S-A-N-D Slow down!,exclamation
+4-$-3-5-8-7-6-5-3-4-5-4-5-3-5. I need to write it down!,exclamation
 Download the schematic.,give.statement
 How do I do that? While I turn on the charm.,closed.question
 Spider-Man?,closed.question
@@ -828,7 +828,7 @@ Spider-Man?,closed.question
 Wow.,relax.atmosphere
 "Okay, I'm kinda freaking out right now.",give.statement
 You're supposed to be dead.,give.statement
-Surprise! O-Okay. That's-That's a no-no.,give.statement
+Surprise! O-Okay. That's-That's a no-no.,exclamation
 We don't like that. This is fascinating.,give.opinion
 "Okay, that's my face.",give.statement
 An entirely different Peter Parker.,give.statement
@@ -839,7 +839,7 @@ appears to have deteriorated the,give.statement
 What was the rest?!,closed.question
 "Hey, how old are you?",closed.question
 'Cause you don't look a day over 35.,give.opinion
-They said I was crazy! They said I was crazy!,give.statement
+They said I was crazy! They said I was crazy!,exclamation
 You showed 'em you're not crazy.,give.statement
 This might pinch a little.,give.statement
 I know. I just need to get these samples.,give.statement
@@ -850,7 +850,7 @@ I've never seen anything like this.,give.statement
 What are you doing?,closed.question
 I'm just taking the whole thing.,give.statement
 And obviously you've been glitching.,give.statement
-"""Glitchin'""? No. Why would you even say that?",recall
+"""Glitchin'""? No. Why would you even say that?",quoted.speech
 "If you stay in this dimension too long,",give.statement
 your body's gonna disintegrate.,give.statement
 "Do you know how painful that would be, Peter Parker?",closed.question
@@ -862,19 +862,19 @@ Dr. Olivia Octavius.,respond.agree
 Can I assume that your friends call you Doc Ock?,closed.question
 My friends actually call me Liv.,respond.deny
 My enemies call me Doc Ock.,give.statement
-I got this! Run!,give.statement
+I got this! Run!,quoted.speech
 Who are you talking to?,closed.question
 "I got it! Oh, you ""got it,"" Peter?",closed.question
-"I got it handled, buddy!",give.statement
-Everything is fine!,relax.atmosphere
+"I got it handled, buddy!",exclamation
+Everything is fine!,exclamation
 "Okay, this is a little bit bad. You're chatty.",give.statement
 Gotta go.,give.statement
 This is the moment that I'm losin' the fight.,give.statement
 Let me tell you the good news. We don't need the monitor.,relax.atmosphere
-Peter!,give.statement
+Peter!,exclamation
 You didn't tell me you had an invisible friend!,give.statement
 "Could you give me that back, young man?",closed.question
-Peter!,give.statement
+Peter!,exclamation
 It's proprietary.,relax.atmosphere
 Oh.,give.statement
 This'd be a good time,give.opinion
@@ -884,45 +884,45 @@ Act super normal.,give.statement
 Spider-Man?,closed.question
 "You know, that's funny,",relax.atmosphere
 I get that a lot. Hey.,relax.atmosphere
-Spider-Man? Hey! Hands up!,give.statement
+Spider-Man? Hey! Hands up!,exclamation
 Now we do a switchy-switchy.,give.statement
-What? Get back here!,give.statement
+What? Get back here!,exclamation
 Where do you think you're going?,closed.question
 "He took a bagel! Time to swing,",give.statement
 just like I taught ya. When did you teach me that?,closed.question
 I didn't. It's a little joke for team-building.,relax.atmosphere
-Hey! Hey! Hey!,give.statement
+Hey! Hey! Hey!,exclamation
 "All right, you ready? Of course I'm not ready!",respond.deny
-I can't do this yet!,give.statement
+I can't do this yet!,exclamation
 Everybody knows that the best way to learn,give.opinion
 is under intense life-threatening pressure.,give.opinion
-"Oh! Come on, come on, come on.",give.statement
-Uh-oh.,give.statement
+"Oh! Come on, come on, come on.",exclamation
+Uh-oh.,exclamation
 What are you doing down there?,closed.question
 I run better than I swing.,give.opinion
 You gotta swing or they'll catch you.,give.statement
 This is what you wanted.,give.statement
-Uh-oh.,relax.atmosphere
-"Come back, little boy.",relax.atmosphere
+Uh-oh.,exclamation
+"Come back, little boy.",exclamation
 Aim with your hips! Look where you want it to hit.,give.statement
-Square your shoulders. Don't forget to follow through!,give.statement
+Square your shoulders. Don't forget to follow through!,exclamation
 Don't shoot off your back foot.,give.statement
 That's too many things! Then stop listening to me!,give.opinion
-That's the best idea you've had all day!,give.opinion
-"Nice, Miles!",give.statement
+That's the best idea you've had all day!,exclamation
+"Nice, Miles!",exclamation
 I'm doin' it. Good. You're doin' it.,give.statement
 Double tap to release and thwip it out again.,give.statement
 Okay. Thwip and release.,give.statement
 And thwip. Release. Thwip. And release.,give.statement
 You're a natural. Thwip. And release! Thwip. Release.,give.opinion
-Feel the rhythm? Thwip. And release!,closed.question
+Feel the rhythm? Thwip. And release!,exclamation
 "Good, Miles.",give.opinion
-"I gotta say, you're amazing, man.",give.statement
-We're a little team!,relax.atmosphere
+"I gotta say, you're amazing, man.",give.opinion
+We're a little team!,exclamation
 Me as the teacher who could still do it.,give.opinion
 "You as the student who can do it, just not as good.",give.statement
 I'm proud of us. Is there something you want to say to me?,closed.question
-Peter!,give.statement
+Peter!,exclamation
 What the? Who did that?,closed.question
 "Hey, guys.",use.social.convention
 Gwanda?,closed.question
@@ -930,12 +930,12 @@ Gwanda?,closed.question
 "Oh, you know her. Very cool.",give.opinion
 I'm from another dimension.,give.statement
 "I mean, another-another dimension.",give.statement
-"All right, people. Let's start at the beginning one last time.",relax.atmosphere
+"All right, people. Let's start at the beginning one last time.",inner.dialogue
 My name is Gwen Stacy.,use.social.convention
 I was bitten by a radioactive spider.,recall
 "And for the last two years,",recall
 I've been the one and only Spider-Woman.,recall
-You guys know the rest.,give.statement
+You guys know the rest.,inner.dialogue
 I joined a band.,recall
 Saved my dad.,recall
 "I couldn't save my best friend,",recall
@@ -946,14 +946,14 @@ just to avoid any distractions.,recall
 And one day this weird thing happened.,recall
 "And I mean, like, really weird.",give.opinion
 I was blown into last week.,recall
-Literally.,give.statement
-"I landed in New York, but not my New York.",give.statement
+Literally.,inner.dialogue
+"I landed in New York, but not my New York.",inner.dialogue
 "Lucky for these folks,",give.opinion
 Spider-Man was there to save the day.,give.opinion
 My Spider-sense told me to head to Visions Academy.,give.statement
 You guys are early.,give.statement
 Wasn't sure why until I met you.,give.statement
-Oh!,relax.atmosphere
+Oh!,exclamation
 I like your haircut.,relax.atmosphere
 You don't get to like my haircut.,respond.deny
 Let's go.,give.statement
@@ -961,11 +961,11 @@ How many more Spider-People are there?,closed.question
 Save it for Comic-Con.,relax.atmosphere
 What's Comic-Con? Whoa!,closed.question
 "You're dead, Spider-Man.",give.statement
-Wilson! What are you doing?,recall
-"Vanessa. Richard, come on.",recall
-Vanessa! Richard!,recall
-No!,recall
-"Don't look back, honey. It's okay. It's okay.",recall
+Wilson! What are you doing?,quoted.speech
+"Vanessa. Richard, come on.",quoted.speech
+Vanessa! Richard!,quoted.speech
+No!,quoted.speech
+"Don't look back, honey. It's okay. It's okay.",quoted.speech
 I killed Spider-Man.,give.statement
 Why did I just see two more?,closed.question
 "There's three, actually.",give.statement
@@ -1068,7 +1068,7 @@ I'm a photographer for the Daily Beagle.,recall
 "When I'm not pooching around, I'm working like a dog,",recall
 trying to sniff out the latest story.,recall
 I frolic and I dance And I do this With my pants,recall
-Okay! Enough!,give.statement
+Okay! Enough!,exclamation
 So how did you get here?,closed.question
 "Well, it's kind of a long story.",deflection
 Maybe not that long.,give.opinion
@@ -1093,7 +1093,7 @@ I can't do it on command. He can't do it on command.,give.statement
 Can't do it on command. He can't do it on command.,give.statement
 But he can do so much more. What else do you do?,closed.question
 Just those two things. Just those two things.,respond.agree
-"Aw, man.",relax.atmosphere
+"Aw, man.",exclamation
 "Look, I've seen him in action. He's got potential.",give.opinion
 I think he's gonna get us home.,give.opinion
 "Okay, little fella,",give.statement
@@ -1101,10 +1101,10 @@ Kingpin's gonna send a lot of mugs after ya.,give.statement
 "I'm talkin' hard boys, real biscuit boxers.",give.statement
 Can you fight them all off at once?,closed.question
 I haven't actually fought anyone.,respond.deny
-Surprise attack!,give.statement
+Surprise attack!,exclamation
 Can you rewire a mainframe while being shot at?,closed.question
-Can I what? Show me!,closed.question
-Surprise attack!,give.statement
+Can I what? Show me!,exclamation
+Surprise attack!,exclamation
 Can you swing and flip with the grace of a trained dancer?,closed.question
 Can you close off your feelings so you don't get crippled,closed.question
 by the moral ambiguity of your violent actions?,closed.question
@@ -1136,13 +1136,13 @@ He can turn invisible.,give.statement
 When it gets dark Outside,misc
 In you I confide,misc
 You help me face my demons I won't hide,misc
-"Miles, what is going on with you?",recall
-Nobody's heard from you. We don't know what's going on.,recall
-"If you're hidin' something from us, you need to come clean.",recall
-You call me back. Now.,recall
+"Miles, what is going on with you?",quoted.speech
+Nobody's heard from you. We don't know what's going on.,quoted.speech
+"If you're hidin' something from us, you need to come clean.",quoted.speech
+You call me back. Now.,quoted.speech
 He's not answering me either.,give.statement
-It's Aaron. I'm outta town for a few days.,recall
-I'll hit you when I'm back. Peace.,recall
+It's Aaron. I'm outta town for a few days.,quoted.speech
+I'll hit you when I'm back. Peace.,quoted.speech
 "Aaron, it's Jeff.",give.statement
 "Look, I need you to call me if you've heard from Miles.",give.statement
 He has a,give.statement
@@ -1150,12 +1150,12 @@ He has a,give.statement
 and we haven't heard from him.,give.statement
 And you know I wouldn't reach out if this wasn't important.,give.statement
 Hope you're good.,give.statement
-Dear Uncle Aaron.,give.statement
-"I gotta do something, and I don't know if I can do it.",give.statement
-"I'm scared, man.",give.opinion
-I'm just tired of lettin' everybody down.,give.statement
-You're the only one I can talk to.,give.statement
-I just wish you were here.,give.statement
+Dear Uncle Aaron.,inner.dialogue
+"I gotta do something, and I don't know if I can do it.",inner.dialogue
+"I'm scared, man.",inner.dialogue
+I'm just tired of lettin' everybody down.,inner.dialogue
+You're the only one I can talk to.,inner.dialogue
+I just wish you were here.,inner.dialogue
 "Hello, Mr. Fisk.",use.social.convention
 I've got the security tapes from the tunnel right here.,give.statement
 "If the kid's out there, I'll find him.",give.opinion
@@ -1177,7 +1177,7 @@ recharged and ready to fight.,give.opinion
 "My uncle. Hey, where have you been?",closed.question
 "My uncle Aaron, he's he's-he's the Prowler. He",give.statement
 "Slow down, Miles. Slow down. He works for Kingpin.",give.statement
-He tried to kill me!,give.statement
+He tried to kill me!,exclamation
 This is a pretty hard-core origin story.,give.opinion
 It's okay. It's okay. We're gonna figure it out.,give.statement
 "Were you followed? No, I don't think so.",closed.question
@@ -1193,10 +1193,10 @@ Would you mind taking this outside?,closed.question
 "Ooh, I think I'll be taking that.",give.statement
 "Stand, niñito, dale. Prepárate a morir.",give.statement
 "Man, stupid pillows.",give.statement
-"I said, take it outside!",give.statement
-I got it!,give.statement
-"I got this, buddy. Leave the kid alone!",give.statement
-"No, no, no! No!",respond.deny
+"I said, take it outside!",exclamation
+I got it!,exclamation
+"I got this, buddy. Leave the kid alone!",exclamation
+"No, no, no! No!",exclamation
 "You gotta go, man.",give.statement
 "All vehicles in the area, we have a disturbance",give.statement
 involving multiple Spiderpeople?,closed.question
@@ -1210,7 +1210,7 @@ Uncle Aaron.,give.statement
 "Please, Uncle Aaron.",give.statement
 Prowler.,give.statement
 What are you waitin' for? Finish it.,closed.question
-Get out of here!,give.statement
+Get out of here!,exclamation
 No.,respond.deny
 Miles.,give.statement
 Uncle Aaron.,give.statement
@@ -1224,10 +1224,10 @@ You're on your way.,give.opinion
 Just keep going.,give.statement
 Just keep going.,give.statement
 Hands up!,give.statement
-Put your arms up. Now!,give.statement
+Put your arms up. Now!,exclamation
 Turn around.,give.statement
-Hey! Hey!,give.statement
-"Aaron. Aaron, no. No!",give.statement
+Hey! Hey!,exclamation
+"Aaron. Aaron, no. No!",exclamation
 All units.,give.statement
 I want an APB on a new Spider-Man.,give.statement
 "Hey, bud.",use.social.convention
@@ -1264,10 +1264,10 @@ What about MJ?,closed.question
 "Not everything works out, kid.",give.statement
 I need the goober.,give.statement
 Please don't make me take it from you.,give.statement
-That's not fair!,give.statement
+That's not fair!,exclamation
 You gotta tell them I can do this.,give.statement
 It wasn't their decision.,give.statement
-I gotta make Kingpin pay! You have to let me make him pay!,give.statement
+I gotta make Kingpin pay! You have to let me make him pay!,exclamation
 "Miles, you're gonna get yourself killed.",give.opinion
 But I'm ready. I promise!,give.opinion
 Then venom-strike me right now.,give.statement
@@ -1350,10 +1350,10 @@ for being here this evening.,give.statement
 MJ?,closed.question
 "Pay attention. It's not your MJ, Peter, okay?",respond.deny
 "I'm sorry, I'll be right back.",give.statement
-Peter! Come here. Trust me.,give.statement
+Peter! Come here. Trust me.,exclamation
 I've been there.,give.statement
 "You gotta move on, buddy. It will take one second. Let me just",give.opinion
-Oooh!,give.statement
+Oooh!,exclamation
 "Hello. Oh, wow.",use.social.convention
 Um I just wondered,give.statement
 if we could have some more bread at table 12.,give.statement
@@ -1389,7 +1389,7 @@ I'll put the goober in and take over the beam.,give.statement
 "Good luck, guys.",use.social.convention
 They know we're here.,give.statement
 "Nice to see you again, Peter.",relax.atmosphere
-I got you covered!,give.statement
+I got you covered!,exclamation
 Oh! These guys are the pits.,give.statement
 Why is this always difficult?,closed.question
 "Where you going, Peter?",closed.question
@@ -1398,10 +1398,10 @@ Can I get a minute to think about it? You have a pen?,closed.question
 "Goodbye, Peter Parker.",give.statement
 Who did that?!,closed.question
 Miles? Spider-Man?,closed.question
-"Wow, Miles. You're doing it on command!",give.statement
+"Wow, Miles. You're doing it on command!",exclamation
 "It's about time, right?",closed.question
 Look who's here! You figured it out.,give.statement
-I love you! I am so proud of you!,give.statement
+I love you! I am so proud of you!,exclamation
 Do I want kids?,relax.atmosphere
 "Oh, yeah, I forgot about her.",relax.atmosphere
 "Well, that doesn't look promising.",give.opinion
@@ -1409,8 +1409,8 @@ Do I want kids?,relax.atmosphere
 I've got genetic matches. Hold on.,give.statement
 It's too risky.,give.statement
 Shut up and turn it up.,give.statement
-On your left! On your right!,give.statement
-I got five o'clock! Three o'clock! Two o'clock!,give.statement
+On your left! On your right!,exclamation
+I got five o'clock! Three o'clock! Two o'clock!,exclamation
 Every direction!,give.statement
 Get to a shelter. I'll be right there.,give.statement
 Speaks Spanish,give.statement
@@ -1421,14 +1421,14 @@ Looks like our dimensions are coming to us.,give.statement
 We gotta get back up there.,give.statement
 Is that all you got?,closed.question
 You gonna fight or you just bumping gums?,closed.question
-You hard-boiled turtle slapper!,give.statement
+You hard-boiled turtle slapper!,exclamation
 Speaks Spanish,give.statement
 "What are you, some kind of silly cartoon?",closed.question
 You got a problem with cartoons?,closed.question
-Blammo!,give.statement
-Aww,give.statement
+Blammo!,exclamation
+Aww,exclamation
 Did that feel like a cartoon?,closed.question
-Gwen!,give.statement
+Gwen!,exclamation
 I like your suit.,give.opinion
 Thanks. I made it myself.,give.statement
 "That was adorable, team! Now, hold on tight!",relax.atmosphere
@@ -1439,13 +1439,13 @@ Let's end this thing.,give.statement
 I'll go. I'm the one with the goo,give.statement
 "Oh, you gotta be kidding me.",give.statement
 Don't watch the mouth. Watch the hands.,relax.atmosphere
-Miles! Be careful!,give.statement
+Miles! Be careful!,exclamation
 That was crazy.,give.statement
 "We taught him that, right?",closed.question
 I didn't teach him that. And you definitely didn't.,respond.deny
 You okay?,closed.question
 Come on.,give.statement
-"Guys, I got control of the beam! Get up here!",give.statement
+"Guys, I got control of the beam! Get up here!",exclamation
 Alert! Quantum polarity has been reversed.,give.statement
 Guess this is it.,use.social.convention
 "Well, nice to know we're not alone.",give.opinion
@@ -1472,10 +1472,10 @@ Cool.,give.statement
 "See you around, Spider-Man.",use.social.convention
 Your turn.,give.statement
 "Yeah, yeah. Right.",give.statement
-You're not going anywhere!,give.statement
+You're not going anywhere!,exclamation
 I'll hold him off. You shut this down.,give.statement
-"Peter, that wasn't the deal!",give.statement
-Push the green button! Do not wait for me!,give.statement
+"Peter, that wasn't the deal!",exclamation
+Push the green button! Do not wait for me!,exclamation
 What are you doing? You gotta go home!,closed.question
 This guy could kill you! I can't let Spider-Man die.,give.statement
 Neither can I.,give.statement
@@ -1487,9 +1487,9 @@ You won't.,give.statement
 Right.,respond.agree
 It's a leap of faith.,relax.atmosphere
 "Not bad, kid.",give.opinion
-Kingpin!,give.statement
-Nope!,give.statement
-Sorry! That's cheating.,relax.atmosphere
+Kingpin!,exclamation
+Nope!,exclamation
+Sorry! That's cheating.,exclamation
 Adiós.,use.social.convention
 I gotta get to that button.,give.opinion
 "Oh, no.",give.statement
@@ -1504,22 +1504,22 @@ It's me. You know me.,give.statement
 We're leaving now.,give.statement
 Don't go.,give.statement
 Stay with me.,give.statement
-Please!,give.statement
+Please!,exclamation
 You're not stopping this. Not today.,give.statement
 I am stopping this. Right now!,respond.deny
 I need backup.,give.statement
 Come on.,give.statement
 The real Spider-Man couldn't even beat me.,give.statement
-You're nothing!,give.opinion
+You're nothing!,exclamation
 You took my family.,give.statement
 And now I'm gonna make sure you never see yours again.,give.statement
 "Get up, Spider-Man.",give.statement
-Get up! Come on!,give.statement
+Get up! Come on!,exclamation
 Come on. Come on. Come on.,give.statement
 I'll always have my family.,give.statement
 You ever hear of the shoulder touch?,closed.question
 What?,closed.question
-Hey.,use.social.convention
+Hey.,quoted.speech
 "Hey, Kingpin! Push the green button for me!",relax.atmosphere
 Miles? Miles? Miles? A-A-A-Are you okay?,closed.question
 "Yeah, I'm okay.",respond.agree
@@ -1541,7 +1541,7 @@ it wasn't just talk.,give.statement
 "And you could ""throw up"" some of your art.",give.statement
 "Man, I'm bad at this.",give.opinion
 "Okay, Miles. Miles? You there?",closed.question
-"Oh, come on, man. C-Mobile!",give.statement
+"Oh, come on, man. C-Mobile!",exclamation
 Officer. Spider-Man!,give.statement
 "Listen, down there, that was",give.statement
 "I I mean, I owe you",give.statement
@@ -1553,7 +1553,7 @@ but we're just gonna have to agree to disagree.,give.statement
 Thank you for your bravery tonight.,use.social.convention
 I love you.,give.statement
 "Wait, what?",closed.question
-And look behind you!,give.statement
+And look behind you!,exclamation
 All right. Cool. Yeah.,relax.atmosphere
 "Thanks, Spider-Man. Spider-Man, a su servicio.",relax.atmosphere
 Thank you.,use.social.convention
@@ -1561,36 +1561,36 @@ Thank you.,use.social.convention
 New Spider-Man.,use.social.convention
 "Yeah. Yeah, I'm the new Spider-Man.",use.social.convention
 Check it out.,give.statement
-Whoa!,give.statement
+Whoa!,exclamation
 That was part of the move.,give.statement
 "Okay, let's do this one last time, yeah?",closed.question
 For real this time. This is it.,give.statement
-My name is Miles Morales.,recall
+My name is Miles Morales.,use.social.convention
 I was bitten by a radioactive spider.,recall
 "And for like two days,",recall
 I've been the one and only Spider-Man.,recall
-I think you know the rest.,give.statement
+I think you know the rest.,inner.dialogue
 I finished my essay.,recall
 Saved a bunch of people.,recall
 Got hit by a drone.,recall
 I did this with my dad.,recall
 Met my roommate. Finally.,recall
 Slapped a sticker where my dad's never gonna find it.,recall
-"And when I feel alone,",give.statement
-"like no one understands what I'm going through,",give.statement
-I remember my friends who get it.,give.statement
-I never thought I'd be able to do any of this stuff.,give.opinion
-But I can.,give.statement
+"And when I feel alone,",inner.dialogue
+"like no one understands what I'm going through,",inner.dialogue
+I remember my friends who get it.,inner.dialogue
+I never thought I'd be able to do any of this stuff.,inner.dialogue
+But I can.,inner.dialogue
 Anyone can wear the mask.,give.opinion
 You could wear the mask.,give.opinion
-"If you didn't know that before, I hope you do now.",give.statement
-'Cause I'm Spider-Man.,give.statement
-And I'm not the only one.,give.statement
-Not by a long shot.,give.statement
+"If you didn't know that before, I hope you do now.",inner.dialogue
+'Cause I'm Spider-Man.,inner.dialogue
+And I'm not the only one.,inner.dialogue
+Not by a long shot.,inner.dialogue
 Needless to say I keep her in check,misc
 She was all bad-bad Nevertheless,misc
 "Callin' it quits now Baby, I'm a wreck",misc
-Miles. Miles!,give.statement
+Miles. Miles!,exclamation
 You got a minute?,closed.question
 Stepped out of my zone My zone,misc
 I had to get out all alone All alone,misc

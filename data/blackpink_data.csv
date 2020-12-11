@@ -22,7 +22,7 @@ BLACKPINK!,misc
 - I'm so hungry. - Are you?,closed.question
 #NAME?,x
 There's a dessert. It's like a croissant with injeolmi.,deflection
-Ah!,relax.atmosphere
+Ah!,exclamation
 You guys don't like injeolmi?,closed.question
 It tastes really good.,give.opinion
 Says the Thai girl in the car.,deflection
@@ -59,7 +59,7 @@ Our initial approach was more like…,recall
 we're very particular with what we put out.,give.opinion
 Hello!,use.social.convention
 "Oppa, you got some leather jackets going on there?",closed.question
-Awesome!,relax.atmosphere
+Awesome!,exclamation
 Stop acting like I overdressed today.,relax.atmosphere
 I always dress like this.,relax.atmosphere
 I should've had a nap today.,give.opinion
@@ -79,7 +79,7 @@ We worked hard before New Year's for this.,give.opinion
 ♪ Sour candy… ♪,misc
 "They're huge, and they're so successful.",give.opinion
 I don't think any of us even expected this.,give.opinion
-"Sometimes it gets to me, like, ""Oh, my God.""",recall
+"Sometimes it gets to me, like, ""Oh, my God.""",quoted.speech
 How do we live up to this hype?,open.question
 ♪ I'm hard on the outside ♪,misc
 ♪ But if you give me time ♪,misc
@@ -193,7 +193,7 @@ Lisa has diverse tastes.,give.opinion
 #NAME?,x
 It's so hard to define style.,give.opinion
 "I don't think there's any, like, boundaries within that.",give.opinion
-"We don't go, ""This is Korean, and this is Western. This is Asian.""",recall
+"We don't go, ""This is Korean, and this is Western. This is Asian.""",quoted.speech
 I think fashion is really just international.,give.opinion
 "The more that there aren't any boundaries, I think that's when you can get creative.",give.opinion
 "And since we do crazy choreography on stage,",give.opinion
@@ -229,7 +229,7 @@ Jennie's personality?,open.question
 "but once we became close,",give.opinion
 "I could tell that she's very loyal, very sweet, and a lovely friend.",give.opinion
 "I see her every day, so I'm used to her, and she's like my little sister.",give.opinion
-"But when I see her on TV, I'm like, ""Ah, Jennie is a star,”",recall
+"But when I see her on TV, I'm like, ""Ah, Jennie is a star,”",quoted.speech
 but she's really down-to-earth.,give.opinion
 You're doing so well.,give.opinion
 She's my friend. One of few that I have.,give.opinion
@@ -363,7 +363,7 @@ How many layers are you wearing?,open.question
 Why are you wearing pants on top too?,open.question
 "- What is this? - Oh, wow!",open.question
 #NAME?,x
-Wow!,relax.atmosphere
+Wow!,exclamation
 You look so cool.,give.opinion
 I'm trying so hard to be cool.,respond.agree
 After the audition ended… …I waited for the call.,recall
@@ -737,8 +737,8 @@ to showcase its first new girl group in seven years since 2NE1 debuted.,use.soci
 "Under the direction of producer Teddy,",use.social.convention
 this new group is being prepared.,use.social.convention
 Its members and debut songs have been shrouded in secrecy.,use.social.convention
-I'm shaking!,relax.atmosphere
-So shaky!,relax.atmosphere
+I'm shaking!,exclamation
+So shaky!,exclamation
 """Various… diverse colors…""",relax.atmosphere
 How does it go?,open.question
 All I wanted was people to see the potential in us.,give.opinion
@@ -761,7 +761,7 @@ Thank you!,use.social.convention
 As soon as we debuted…,give.opinion
 …I think it happened just the way I thought it would.,give.opinion
 I look intense.,give.opinion
-Let's go!,relax.atmosphere
+Let's go!,exclamation
 Hello.,use.social.convention
 I can't wait. Can you tell us who's performing next?,closed.question
 Two of their songs debuted exclusively at Inkigayo last week,give.statement
@@ -776,7 +776,7 @@ Shall we see the performance,use.social.convention
 which is the shortest time ever by a girl group to reach number one.,use.social.convention
 I remember making our debut,recall
 and winning awards.,recall
-Wow!,relax.atmosphere
+Wow!,exclamation
 "And feeling like, ""Wow! We did it.""",recall
 """Whistle"" kept going up and up, and when it hit number one,",recall
 we were just so happy and excited.,recall
@@ -822,7 +822,7 @@ Everybody look into the camera.,give.statement
 Then came the pressure for our next thing.,recall
 """What now? What do we do?""",open.question
 """Let's come up with something fresh."" I felt like we were being chased.",give.opinion
-Action!,give.statement
+Action!,exclamation
 The winner is BLACKPINK!,use.social.convention
 Thank you! I love you all!,use.social.convention
 It's a big day for BLACKPINK,use.social.convention
@@ -867,7 +867,7 @@ She got better in the last six months.,give.opinion
 Is it good? I want a taste.,closed.question
 It's warm.,deflection
 It's a bit burnt.,give.opinion
-Mm!,relax.atmosphere
+Mm!,exclamation
 Not bad.,give.opinion
 Not bad but not good.,give.opinion
 Yeah. Let's be honest. It was a fail.,give.opinion
@@ -905,7 +905,7 @@ I try the best I can to take care of the other girls.,give.opinion
 "It's okay, actually. I could eat this.",give.opinion
 Semi-success.,give.opinion
 Okay. It's just Rosé and the beat.,relax.atmosphere
-"- Oh, my God! - No words, no melody whatsoever.",relax.atmosphere
+"- Oh, my God! - No words, no melody whatsoever.",exclamation
 So here we go.,relax.atmosphere
 ♪ Can't sleep at night ♪,misc
 ♪ But would it be all right ♪,misc
@@ -930,7 +930,7 @@ We even saved this whole file in this secret folder,recall
 And she's shy about sharing that story.,give.opinion
 It's just super personal to her.,give.opinion
 It's like her diary.,give.opinion
-"Oh, my gosh!",relax.atmosphere
+"Oh, my gosh!",exclamation
 You sounded nervous in that one.,give.opinion
 "Yeah. I'm like, ""I don't know what I'm doing.""",recall
 I was thinking it'd be fun if I write something like…,give.opinion
@@ -1088,8 +1088,8 @@ I felt so empty.,give.opinion
 "I'm hungry, so I ordered something simple.",recall
 Poached eggs. Ta-da!,relax.atmosphere
 And that's when I realized I'm homesick.,give.opinion
-Delicious.,relax.atmosphere
-Yeah! Let's go!,relax.atmosphere
+Delicious.,exclamation
+Yeah! Let's go!,exclamation
 Lisa is the most constant one.,give.opinion
 She brings positive energy into the group.,give.opinion
 If someone is fed up one day…,give.opinion
@@ -1102,7 +1102,7 @@ when the mood is sour.,give.opinion
 #NAME?,x
 #NAME?,x
 I'll keep doing that.,give.opinion
-"- Keep going. - Yeah, keep going, Lisa!",relax.atmosphere
+"- Keep going. - Yeah, keep going, Lisa!",exclamation
 How we stay tight as a group,give.opinion
 "is we try to take care of ourselves individually,",give.opinion
 and then come together healthy and happy so that the whole thing works.,give.opinion
@@ -1123,7 +1123,7 @@ I couldn't believe it.,give.opinion
 Are we going to Coachella? BLACKPINK? Are you sure?,closed.question
 Is this for real?,closed.question
 Look over there!,relax.atmosphere
-I'm so excited. This is cool!,relax.atmosphere
+I'm so excited. This is cool!,exclamation
 It was really nerve-wracking.,give.opinion
 We're a group from South Korea representing our country.,give.opinion
 We were just so ready to tell the world,give.opinion
@@ -1156,10 +1156,10 @@ There are so many people.,give.opinion
 - We can do it. - We can do it. It's fine.,give.opinion
 "One, two, three! Go!",relax.atmosphere
 "Jennie and Rosé, that way.",give.statement
-"Water, water, water!",give.statement
-"Eye drops, somebody!",give.statement
+"Water, water, water!",exclamation
+"Eye drops, somebody!",exclamation
 Relax.,relax.atmosphere
-We're starting now!,give.statement
+We're starting now!,exclamation
 I was so nervous. The moment I stepped foot on the stage,give.opinion
 and saw all the crowds shouting and cheering…,give.opinion
 "…I got the feeling, ""This is it!""",give.opinion
@@ -1243,7 +1243,7 @@ Happy tears.,give.opinion
 I don't know why.,give.opinion
 - Now I'm gonna cry. I don't want to cry. - Everybody's gonna cry.,give.opinion
 "- Everyone, cry. - Everyone, cry!",give.statement
-Aw!,relax.atmosphere
+Aw!,exclamation
 "So, it's like a train. It's me and then Jennie unnie.",give.opinion
 "And if she cries, then Lisa cries, and then…",give.opinion
 I don't cry.,respond.deny
@@ -1260,10 +1260,10 @@ We grew into something that we didn't even know was possible.,give.opinion
 we are as well.,give.opinion
 "And so, it feels like a journey that they're on with us.",give.opinion
 Bye-bye!,use.social.convention
-"When somebody asks me, ""Do you have pressure about it?""",recall
-"I'm like, ""No,"" because I feel like we're doing a great job,",recall
+"When somebody asks me, ""Do you have pressure about it?""",quoted.speech
+"I'm like, ""No,"" because I feel like we're doing a great job,",quoted.speech
 and we have more to show you guys. It's just the beginning.,give.opinion
-"Meat, meat!",relax.atmosphere
+"Meat, meat!",exclamation
 Careful of the hot plate.,give.statement
 - That looks amazing! - Can I have a bite?,closed.question
 Thank you.,use.social.convention
@@ -1321,4 +1321,3 @@ We'll have to stand.,give.opinion
 ♪ Yeah we some bishes you can’t manage ♪,misc
 ♪ We pulled this off once again ♪,misc
 ♪ We’re pretty savage. We some pretty savage ♪,misc
->>>>oakislandtk www.opensubtitles.org,x

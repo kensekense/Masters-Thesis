@@ -8,7 +8,7 @@ It's me!,use.social.convention
 Hi!,use.social.convention
 Oh!,use.social.convention
 Oh!,use.social.convention
-You're so lovely!,use.social.convention
+You're so lovely!,exclamation
 Thank you.,use.social.convention
 Hello!,use.social.convention
 "Hello, good evening to you all.",use.social.convention
@@ -18,11 +18,11 @@ Not only have we got four - count 'em - four Hollywood hunks,use.social.conventi
 ladies and gentlemen.,use.social.convention
 "They're back there, they are.",use.social.convention
 "But also joining them later, the new Strictly head judge",use.social.convention
-Shirley Ballas will be here!,use.social.convention
-I know!,use.social.convention
+Shirley Ballas will be here!,exclamation
+I know!,exclamation
 Speaking and that.,use.social.convention
 Here's Shirley in action.,give.statement
-Look at that!,give.statement
+Look at that!,exclamation
 So sexy.,give.opinion
 She's even got Bruno interested.,relax.atmosphere
 Strictly has got some amazing professional dancers.,give.opinion
@@ -42,7 +42,7 @@ movie Daddy's Home 2.,give.opinion
 Our first father and son duo - one is a double,use.social.convention
 "Oscar-winning actor and director, the other is the star of Boogie",use.social.convention
 "Nights, The Departed and Ted - please welcome Mark",use.social.convention
-Wahlberg and Mel Gibson!,use.social.convention
+Wahlberg and Mel Gibson!,exclamation
 "That's them, that is!",use.social.convention
 Hello!,use.social.convention
 Very good to see you.,use.social.convention
@@ -73,7 +73,7 @@ I wouldn't call it a holiday.,respond.deny
 "But these guys are great fun, travelling as press companions.",give.opinion
 But making the movie is easy and promoting it is hard.,give.opinion
 There's no doubt about it.,give.opinion
-"Don't say that, John!",relax.atmosphere
+"Don't say that, John!",exclamation
 Don't let light in on the magic.,relax.atmosphere
 We've saved you for last.,relax.atmosphere
 "Don't think we've had any stress, really, the four of us, right?",closed.question
@@ -409,14 +409,14 @@ Other opportunities to create.,give.opinion
 We were kind of standing around between set-ups,recall
 and all the equipment is there and everything.,recall
 They're looking at the Panavision camera.,recall
-"""Woah, what is that?""",open.question
+"""Woah, what is that?""",quoted.speech
 "I said, it's a camera.",respond.agree
 "They said, that looks expensive.",recall
 "Said, yeah, it's expensive.",respond.agree
 "They said, we should steal that.",recall
 "Like, how much is that worth?",open.question
 "I'm, like, $250,000.",respond.agree
-"""Oh, we're throwing that in the trunk.""",recall
+"""Oh, we're throwing that in the trunk.""",quoted.speech
 "I'm, like, what are you going to do with it?",open.question
 Are you going to sell it to the guy in the corner store,closed.question
 "for, like, 50 bucks?",closed.question
@@ -478,7 +478,7 @@ APPLAUSE,use.social.convention
 "The Scottish accent in that, how hard was that for you?",open.question
 "It was difficult, but I was up there and immersed among people",respond.agree
 who all needed subtitles.,give.statement
-"""What did you say?""",recall
+"""What did you say?""",quoted.speech
 They'd have to repeat it.,recall
 Eventually it kind of worked its way into my lexicon.,give.statement
 Is it true that Sean Connery helped you?,closed.question
@@ -530,10 +530,10 @@ She is the queen of Latin and new head judge on Strictly.,use.social.convention
 "Dancing the cha cha chat show anecdote, please",use.social.convention
 "welcome to the floor, Shirley Ballas!",use.social.convention
 She's here!,use.social.convention
-Wow!,use.social.convention
+Wow!,exclamation
 Look at you.,use.social.convention
-Wow!,use.social.convention
-Hello!,use.social.convention
+Wow!,exclamation
+Hello!,exclamation
 That's Will.,use.social.convention
 "Much hugging, much hugging going on.",use.social.convention
 "Will, John and Mel.",use.social.convention

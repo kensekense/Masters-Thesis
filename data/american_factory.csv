@@ -125,16 +125,16 @@ that did for those trucks back there when our parents,give.opinion
 and grandparents worked on refrigerators and cars.,give.opinion
 "And the future is bright, folks. The future is bright.",give.opinion
 Please join me in acknowledging the newly-named Fuyao Avenue.,use.social.convention
-"""Good morning, everyone. And we meet again today.""",recall
+"""Good morning, everyone. And we meet again today.""",quoted.speech
 "Every time I visit this plant, I see a lot of changes.",give.statement
-"""Every time when I visit, I see great progress.""",recall
+"""Every time when I visit, I see great progress.""",quoted.speech
 You see there's still empty space for more equipment.,give.statement
 It will all be installed within a year.,give.statement
-"""If we can follow through with our plan and become successful here,",recall
-this will be a great example,recall
-"of the US successfully attracting foreign investment.""",recall
+"""If we can follow through with our plan and become successful here,",quoted.speech
+this will be a great example,quoted.speech
+"of the US successfully attracting foreign investment.""",quoted.speech
 Thank you very much.,use.social.convention
-"""Thank you very much.""",recall
+"""Thank you very much.""",quoted.speech
 "He says that a lot of people lost their jobs in this area,",give.statement
 and he thanks you for the opportunity.,give.statement
 "And tell him, one time, he has to come down here",give.statement
@@ -167,11 +167,11 @@ We're gonna have to plan for that.,give.statement
 so you don't need any hang.,give.statement
 #NAME?,x
 It won't.,give.opinion
-It won't.,recall
+It won't.,quoted.speech
 "In October, the weather will be like it is today.",give.opinion
-"Chairman thinks, in October, the weather will be similar",recall
+"Chairman thinks, in October, the weather will be similar",quoted.speech
 #NAME?,x
-"Also, Chairman says that door can't face this way.",recall
+"Also, Chairman says that door can't face this way.",quoted.speech
 What door?,closed.question
 "Face... You know, the opening right there.",respond.agree
 "Well, we just signed a contract, so...",give.statement
@@ -199,18 +199,18 @@ They haven't done good decorative work here.,give.opinion
 This can't be here. It should be moved to the side.,give.opinion
 There are... It's required by law,respond.deny
 "to have one in here, and it has to be that height.",give.statement
-They're just saying,recall
-that it should be moved to the side.,recall
+They're just saying,quoted.speech
+that it should be moved to the side.,quoted.speech
 #NAME?,x
-David says that is the required height.,recall
+David says that is the required height.,quoted.speech
 We can't place it down there. It has to be that high.,give.statement
 We can move it to that corner.,give.opinion
 Then up there.,give.opinion
 It's a legal requirement. I'll ask him.,give.statement
 He has to ask and see. He knows this is the right height.,give.statement
-"But sometimes, you have to think, before you do,",recall
-"so then we don't have to redo the work,",recall
-because it costs money.,recall
+"But sometimes, you have to think, before you do,",quoted.speech
+"so then we don't have to redo the work,",quoted.speech
+because it costs money.,quoted.speech
 "Yeah, I've... That was done...",respond.agree
 "I wouldn't have necessarily moved, but",give.statement
 that was done way before I got here.,give.statement
@@ -400,7 +400,7 @@ Chairman ordered the weather.,give.statement
 #NAME?,x
 #NAME?,x
 "Yeah, all right.",use.social.convention
-"""My dear guests and friends, good morning.""",recall
+"""My dear guests and friends, good morning.""",quoted.speech
 "Today, we hold the opening ceremony",give.statement
 of Fuyao Glass America.,give.statement
 We've heard both candidates for president,give.statement
@@ -448,17 +448,17 @@ He didn't tell us he was gonna do that.,relax.atmosphere
 They'll never be allowed in the plant again.,give.statement
 You all know our stand on this.,give.statement
 We don't want to see the union developing here.,give.statement
-"""First, you all know our stand on this,",recall
-"that we want to avoid unions.""",recall
+"""First, you all know our stand on this,",quoted.speech
+"that we want to avoid unions.""",quoted.speech
 "If we have a union, it will impact our efficiency,",give.opinion
 thus hurting our company.,give.opinion
 It will create loss for us.,give.opinion
 "If a union comes in, I'm shutting down.",give.statement
 They keep interfering with my production.,give.statement
 Slowly bleeding money is even worse than a union.,give.opinion
-"""Right now,",recall
-"if they're creating extreme inefficiency in my production,",recall
-"I'm just bleeding money.""",recall
+"""Right now,",quoted.speech
+"if they're creating extreme inefficiency in my production,",quoted.speech
+"I'm just bleeding money.""",quoted.speech
 "John, if you want to continue to be president,",give.opinion
 you have to listen to my advice.,give.opinion
 Every piece of glass counts.,give.opinion
@@ -887,17 +887,17 @@ off Kettering Boulevard.,give.statement
 There have been 11 safety complaints filed against Fuyao.,give.statement
 Some workers claim unsafe working conditions,give.statement
 and unfair treatment.,give.statement
-"I say ""people,"" you say ""power.""",relax.atmosphere
+"I say ""people,"" you say ""power.""",exclamation
 #NAME?,x
 #NAME?,x
-"I say ""people,"" you say ""union.""",relax.atmosphere
+"I say ""people,"" you say ""union.""",exclamation
 #NAME?,x
 #NAME?,x
-All right. Whoo.,relax.atmosphere
+All right. Whoo.,exclamation
 "Meeting after work, don't forget, next week.",give.statement
 We'll see you there. Bring your co-workers.,give.statement
 There's a lot of information that you're seeing on TV about Fuyao.,give.statement
-"""Safety concerns,""",recall
+"""Safety concerns,""",quoted.speech
 "other things that are... are being reported,",give.statement
 much of which we do not believe are true.,give.opinion
 Because if you bring in a union...,give.statement
@@ -913,8 +913,8 @@ with our American co-workers.,give.opinion
 Isn't that terrible?,closed.question
 "If we are able to improve our management capabilities,",give.opinion
 it will help quell the union rebellion.,give.opinion
-"""And if we are able to improve our management capabilities,",recall
-"it will help with our campaign against union organisations...""",recall
+"""And if we are able to improve our management capabilities,",quoted.speech
+"it will help with our campaign against union organisations...""",quoted.speech
 We hired Americans to work as our managers and supervisors.,give.statement
 "Our expectation was that we could trust them,",give.opinion
 "pay them a high salary, and they would serve the company.",give.opinion
@@ -932,9 +932,9 @@ I've spent 27 years in the US and 26 years in China.,give.statement
 "People always guess I am in my 40s, but I'm actually 53.",give.statement
 Why is that? Because I have passion.,give.opinion
 I have determination to do things well.,give.opinion
-"""A major shake-up of the company's senior management team,",recall
-with company President John Gauthier,recall
-"and Vice President Dave Burrows leaving.""",recall
+"""A major shake-up of the company's senior management team,",quoted.speech
+with company President John Gauthier,quoted.speech
+"and Vice President Dave Burrows leaving.""",quoted.speech
 Actually...,give.statement
 terminated.,give.statement
 ♪ We wish you a Merry Christmas ♪,misc
@@ -1022,14 +1022,14 @@ So everyone who grows up in the US is overconfident.,give.opinion
 They are super confident.,give.opinion
 Americans love being flattered to death.,give.opinion
 You will get into trouble if you fight with them.,give.opinion
-"""Donkeys like being touched in the direction their hair grows.""",recall
+"""Donkeys like being touched in the direction their hair grows.""",quoted.speech
 Right?,closed.question
 You should touch donkeys in the direction their hair grows.,give.opinion
 "Otherwise, they'll kick you.",give.statement
 Do you understand what I'm saying? You do? Okay.,closed.question
 We need to use our wisdom to guide them and help them.,give.opinion
 Because we are better than them.,give.opinion
-"They refer to us as ""the foreigners.""",recall
+"They refer to us as ""the foreigners.""",quoted.speech
 People just want... They wanna feel,give.statement
 "like they're in America working,",give.statement
 "not like, when they walk in the door,",give.statement
@@ -1040,7 +1040,7 @@ They work non-stop. They're in there all the time.,give.statement
 because they need X amount of glass out.,give.statement
 The Chinese really don't help us out at all.,give.opinion
 They just walk around and tell the Americans what to do.,give.opinion
-"""Just do this."" And you're like, ""Why?""",recall
+"""Just do this."" And you're like, ""Why?""",quoted.speech
 "They don't tell you why at all, and they walk away.",give.statement
 "I know it's a growing company, I know it's new.",give.statement
 "But with the workload that comes with it,",give.statement
@@ -1078,8 +1078,8 @@ There was a trail of yellow paint going right to the sewer.,give.statement
 - Right out our back door. - You couldn't miss it.,give.statement
 It's like they don't even know what the rules are.,give.statement
 It's...,give.statement
-"And I'm thinking, ""This is all going into the sewer",recall
-"and going into drinking water somewhere.""",recall
+"And I'm thinking, ""This is all going into the sewer",quoted.speech
+"and going into drinking water somewhere.""",quoted.speech
 I don't wanna waste your time and I don't wanna to waste my time.,give.statement
 "With what we say at this table,",give.statement
 will it make a difference?,closed.question
@@ -1176,7 +1176,7 @@ Thank you.,use.social.convention
 two dollars more next Monday.,give.statement
 Yeah.,give.statement
 Great?,closed.question
-"And the people say, ""Why are you doing that? We're losing money.""",recall
+"And the people say, ""Why are you doing that? We're losing money.""",quoted.speech
 The good efficiency generate from the good employee.,give.opinion
 How do we keep a good employee? Better pay.,give.opinion
 We want to be the best employer in this town. But in return...,give.statement
@@ -1264,8 +1264,8 @@ to make sure that every employee,give.statement
 "goes through this session,",give.statement
 "not once, but twice, maybe three times.",give.statement
 They have people walking around there with patches and stickers on,give.statement
-"that's saying: ""Vote no.",recall
-"You still have a voice.""",recall
+"that's saying: ""Vote no.",quoted.speech
+"You still have a voice.""",quoted.speech
 "Now, my question to them people are:",give.statement
 What voice do you have?,closed.question
 When have you ever had a voice?,closed.question
@@ -1282,7 +1282,7 @@ I really truly feel like... that they targeted me.,give.opinion
 It's been a pretty sad...,give.opinion
 few days.,give.opinion
 This sinking feeling of...,give.statement
-"""I don't have a job.""",recall
+"""I don't have a job.""",quoted.speech
 "I mean, I'm a good worker.",give.opinion
 Workers union.,give.statement
 Should I have gotten so involved?,closed.question
@@ -1313,7 +1313,7 @@ This is the culture I want for our company.,give.statement
 Then we will have a good atmosphere here.,give.opinion
 A lot of things here in the US are different from China.,give.opinion
 "Well, we've invested here already. It's just not working that well.",give.opinion
-Ah?,relax.atmosphere
+Ah?,exclamation
 "Morning, you all.",use.social.convention
 #NAME?,x
 #NAME?,x
@@ -1331,7 +1331,7 @@ saying that they believe the United Workers Union is corrupted,give.statement
 We all have a psychological shadow.,give.opinion
 Fuyao doesn't want to be controlled by the union.,give.opinion
 "As the Chinese saying goes,",give.statement
-"""One mountain cannot hold two tigers.""",recall
+"""One mountain cannot hold two tigers.""",quoted.speech
 Voting just ended an hour ago.,give.statement
 Now the National Labour Relations Board,give.statement
 is counting those votes inside the plant,give.statement
