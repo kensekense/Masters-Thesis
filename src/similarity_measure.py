@@ -1,3 +1,4 @@
+import numpy as np
 #STEPS for Substitution Score
 
 #STEP 1: Define the symbols in the list of traces

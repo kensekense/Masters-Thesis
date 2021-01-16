@@ -1,3 +1,5 @@
+import numpy as np
+
 def after (trace, x):
 
     assert type(trace) == list
@@ -181,6 +183,26 @@ def precedence (trace, scope, condition1, condition2):
 
     return sol
 
+def cost (trace, scope, condition, limit):
+
+    assert type(trace) == list
+    assert type(scope) == list
+    assert type(condition) == list
+    assert type(limit) == int
+
+    sol = []
+
+    for subsequence in scope:
+        c_cost = 0
+        for item in trace[subsequence[0]+1: subsequence[1]]:
+            if item in condition:
+                c_cost += 1
+        if c_cost <= limit:
+            sol.append(True)
+        else:
+            sol.append(False)
+
+    return sol
 
 #UNTIL-N DEFINITION
 
@@ -229,3 +251,28 @@ def until_N (trace, x, y, N):
             e = -1
 
     return sol
+
+#function for ltl-N sub convos
+def find_sub_conversations (trace, labels, c_cap, l):
+    assert type(trace) == list
+    assert type(labels) == list
+    assert type(c_cap) == float
+    assert type(l) == int
+
+    #counts
+    sub_convos = {}
+
+    #cycle through label pairs
+    for i in range(len(labels)):
+        for j in range(len(labels)):
+
+            if i != j: #no repeats
+                candidate = until_N(trace, [labels[i]], [labels[j]], 50) #cap at 50
+                sub_convos["{0} -> {1}".format(labels[i], labels[j])] = [0,[]] #record all possible
+
+                for item in candidate:
+                    if item[3] > 10 and item [3] < l and item[2] < item[3]*c_cap:
+                        sub_convos["{0} -> {1}".format(labels[i], labels[j])][0] += 1
+                        sub_convos["{0} -> {1}".format(labels[i], labels[j])][1].append(item)
+
+    return sub_convos

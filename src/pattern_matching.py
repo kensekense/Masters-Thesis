@@ -1,3 +1,5 @@
+import numpy as np
+
 #PREFIX-SPAN variant
 def create_init_prefix(trace, min_supp):
 
@@ -243,7 +245,7 @@ def augment_weights(trace, trace_weights, rankings):
     return weights
 
 #WEIGHTING FUNCTION
-def calc_weights(trace, sub_convos):
+def calc_weights (trace, sub_convos):
 
     assert type(trace) == list #takes a list of traces, i.e: event log
 
@@ -277,18 +279,18 @@ def calc_weights(trace, sub_convos):
     for i in range(len(idf)):
         try:
             if idf[i] == 0:
-                idf[i] = 0
+                idf[i] = np.log2(N)
             else:
                 idf[i] = np.log2(N/idf[i])
         except:
-            idf[i] = 0
+            idf[i] = np.log2(N)
 
     #calculate weights
     for i in range(len(trace)):
         if center == i:
-            tw_id[i] = 1 + (tf[i]*idf[i]) #center
+            tw_id[i] = (tf[i]*idf[i]) #center
         else:
-            tw_id[i] = (1/np.abs(center-i)) + (tf[i]*idf[i]) #w_i + tf-idf(a_i)
+            tw_id[i] = (tf[i]*idf[i]) #w_i + tf-idf(a_i)
 
     #convert to list
     trace_weights = []

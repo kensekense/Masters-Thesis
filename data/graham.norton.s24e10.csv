@@ -1,18 +1,18 @@
 U,L
-"Good evening, everybody.",use.social.convetion
-This is Matthew McConaughey saying welcome to the Graham Norton Show.,use.social.convetion
-CHEERING AND APPLAUSE,use.social.convetion
-CHEERING AND APPLAUSE,use.social.convetion
+"Good evening, everybody.",use.social.convention
+This is Matthew McConaughey saying welcome to the Graham Norton Show.,use.social.convention
+CHEERING AND APPLAUSE,use.social.convention
+CHEERING AND APPLAUSE,use.social.convention
 Oh!,relax.atmosphere
 Wow!,relax.atmosphere
 I jumped!,relax.atmosphere
-"Oh, I'm keen! I'm very keen! Hello!",use.social.convetion
-CHEERING,use.social.convetion
-Good evening!,use.social.convetion
-"Yes, yes.",use.social.convetion
-Thank you.,use.social.convetion
-You're all very welcome to the show.,use.social.convetion
-"Oh, so many great guests for you tonight.",use.social.convetion
+"Oh, I'm keen! I'm very keen! Hello!",use.social.convention
+CHEERING,use.social.convention
+Good evening!,use.social.convention
+"Yes, yes.",use.social.convention
+Thank you.,use.social.convention
+You're all very welcome to the show.,use.social.convention
+"Oh, so many great guests for you tonight.",use.social.convention
 My sofa's going to be like Theresa May in Parliament this week.,relax.atmosphere
 Totally stuffed!,relax.atmosphere
 "God love her. On Tuesday, the Prime Minister managed to lose",give.statement
@@ -24,7 +24,7 @@ At least he had the good grace to leave.,relax.atmosphere
 "By the way, did you know this? I only found out this week that",give.statement
 "I'm A Celebrity, after they make them eat those disgusting things,",give.statement
 they have a way of getting the celebrities to vomit.,relax.atmosphere
-LAUGHTER,use.social.convetion
+LAUGHTER,use.social.convention
 "That would work, wouldn't it?",closed.question
 HE MAKES A RETCHING NOISE,misc
 I do feel a bit…,relax.atmosphere
@@ -36,62 +36,62 @@ There he is. Mm!,relax.atmosphere
 "Apparently, it's quite unusual to see ""Cox"" addressing Parliament.",give.statement
 LAUGHTER,relax.atmosphere
 Well…,relax.atmosphere
-LAUGHTER AND APPLAUSE,use.social.convetion
-Let's get some guests on!,use.social.convetion
-CHEERING,use.social.convetion
+LAUGHTER AND APPLAUSE,use.social.convention
+Let's get some guests on!,use.social.convention
+CHEERING,use.social.convention
 "Later, we'll have an amazing performance of the new hit single",give.statement
 by Mark Ronson featuring Miley Cyrus.,give.statement
-CHEERING,use.social.convetion
+CHEERING,use.social.convention
 I know!,relax.atmosphere
 And they'll be chatting as well.,give.statement
-"But first, he's one of our most-loved chefs and restaurateurs",use.social.convetion
-who's published 20 bestselling cook books.,use.social.convetion
-"Here to tell us about his latest, Jamie Cooks Italy,",use.social.convetion
-please welcome Jamie Oliver!,use.social.convetion
-CHEERING AND APPLAUSE,use.social.convetion
-Woo!,use.social.convetion
+"But first, he's one of our most-loved chefs and restaurateurs",use.social.convention
+who's published 20 bestselling cook books.,use.social.convention
+"Here to tell us about his latest, Jamie Cooks Italy,",use.social.convention
+please welcome Jamie Oliver!,use.social.convention
+CHEERING AND APPLAUSE,use.social.convention
+Woo!,use.social.convention
 #NAME?,x
-"Have a seat, do.",use.social.convetion
-It is that time! It is that time!,use.social.convetion
-"She's an Oscar-nominated actress, pop sensation",use.social.convetion
-and one of Hollywood's hottest rising stars.,use.social.convetion
-Now she's saving the world in the new action movie Bumblebee.,use.social.convetion
-It's Hailee Steinfeld!,use.social.convetion
-CHEERING AND APPLAUSE,use.social.convetion
-Woo!,use.social.convetion
-Sparkling!,use.social.convetion
+"Have a seat, do.",use.social.convention
+It is that time! It is that time!,use.social.convention
+"She's an Oscar-nominated actress, pop sensation",use.social.convention
+and one of Hollywood's hottest rising stars.,use.social.convention
+Now she's saving the world in the new action movie Bumblebee.,use.social.convention
+It's Hailee Steinfeld!,use.social.convention
+CHEERING AND APPLAUSE,use.social.convention
+Woo!,use.social.convention
+Sparkling!,use.social.convention
 #NAME?,x
 #NAME?,x
-"Starring alongside Hailee, he's a 16-time World Wrestling champion",use.social.convetion
-and WWE Superstar who's now kicking ass on the big screen.,use.social.convetion
-It's John Cena!,use.social.convetion
-CHEERING AND APPLAUSE,use.social.convetion
-Woo!,use.social.convetion
-That's him!,use.social.convetion
-"- How are you? - Thanks so much. - John Cena, everybody!",use.social.convetion
-CHEERING,use.social.convetion
-And he's gone from king of romcom to Oscar-winning Hollywood icon.,use.social.convetion
-Now he's back on our screens in White Boy Rick.,use.social.convetion
-Please welcome back the great Matthew McConaughey!,use.social.convetion
-CHEERING AND APPLAUSE,use.social.convetion
-Woo!,use.social.convetion
-Lovely to see you.,use.social.convetion
-Hey.,use.social.convetion
-"Sit, sit, sit on the seats!",use.social.convetion
-"Welcome, everybody. Hello, how are you doing?",use.social.convetion
+"Starring alongside Hailee, he's a 16-time World Wrestling champion",use.social.convention
+and WWE Superstar who's now kicking ass on the big screen.,use.social.convention
+It's John Cena!,use.social.convention
+CHEERING AND APPLAUSE,use.social.convention
+Woo!,use.social.convention
+That's him!,use.social.convention
+"- How are you? - Thanks so much. - John Cena, everybody!",use.social.convention
+CHEERING,use.social.convention
+And he's gone from king of romcom to Oscar-winning Hollywood icon.,use.social.convention
+Now he's back on our screens in White Boy Rick.,use.social.convention
+Please welcome back the great Matthew McConaughey!,use.social.convention
+CHEERING AND APPLAUSE,use.social.convention
+Woo!,use.social.convention
+Lovely to see you.,use.social.convention
+Hey.,use.social.convention
+"Sit, sit, sit on the seats!",use.social.convention
+"Welcome, everybody. Hello, how are you doing?",use.social.convention
 #NAME?,x
-"You all look well. You look happy. Yeah, it's all good.",use.social.convetion
-You were saying backstage I'm the only one who didn't get,use.social.convetion
+"You all look well. You look happy. Yeah, it's all good.",use.social.convention
+You were saying backstage I'm the only one who didn't get,use.social.convention
 #NAME?,x
 "I don't know about that, if it is in the McConaughey household.",relax.atmosphere
 Everyone else made an effort!,relax.atmosphere
-LAUGHTER,use.social.convetion
+LAUGHTER,use.social.convention
 "Now, listen, we are very lucky on the show.",give.opinion
 "We often have very esteemed, acclaimed couches.",give.opinion
 But I think this is the most varied couch of achievement.,give.opinion
 Lots of different achievements on this couch.,give.opinion
-"Hailee Steinfeld, Oscar-nominated. Well done, you. Congratulations!",use.social.convetion
-APPLAUSE,use.social.convetion
+"Hailee Steinfeld, Oscar-nominated. Well done, you. Congratulations!",use.social.convention
+APPLAUSE,use.social.convention
 So that's already very impressive.,give.opinion
 This is impressive/annoying.,give.opinion
 How old were you when you got nominated for an Oscar?,closed.question
@@ -100,9 +100,9 @@ I know!,relax.atmosphere
 Nothing. You've done nothing with your lives!,relax.atmosphere
 "- That was, of course, for True Grit. - Yes.",give.statement
 "There you go. Look at her there! Oh, the baby!",relax.atmosphere
-"And we have to say, welcome to John Cena!",use.social.convetion
+"And we have to say, welcome to John Cena!",use.social.convention
 #NAME?,x
-- This is my first time. - It's the first time.,use.social.convetion
+- This is my first time. - It's the first time.,use.social.convention
 "And normally, it's fine, everybody walks on to the theme music.",give.statement
 But I felt bad making you do it to ours,give.opinion
 because you are probably our first guest ever,give.statement
@@ -111,7 +111,7 @@ who has their own theme music.,give.statement
 "So, if we play it, would you like to come on to your own theme music?",closed.question
 "Well, there's a trick. It's kind of an audience participation thing.",respond.agree
 They'll love that! They will.,relax.atmosphere
-CHEERING,use.social.convetion
+CHEERING,use.social.convention
 They will love it. It's a catchy tune. Lots of brass.,give.opinion
 And the trumpets go somewhat like…,give.statement
 ♪ Da-da-da-daaa! Da-da-da-daaa. ♪,misc
@@ -127,10 +127,10 @@ AUDIENCE: ♪ John Cena sucks,misc
 "Thank you, I think we're warmed up.",relax.atmosphere
 "OK, let's do this. OK.",relax.atmosphere
 - OK. - Wow! - OK. Here we go. Here we go.,relax.atmosphere
-"MICROPHONE ECHOES: Ladies and gentlemen,",use.social.convetion
-"please welcome WWE superstar,",use.social.convetion
-John Cena!,use.social.convetion
-CHEERING,use.social.convetion
+"MICROPHONE ECHOES: Ladies and gentlemen,",use.social.convention
+"please welcome WWE superstar,",use.social.convention
+John Cena!,use.social.convention
+CHEERING,use.social.convention
 DRAMATIC MUSIC,misc
 - AUDIENCE: - ♪ John Cena!,misc
 "Here we go, here we go!",relax.atmosphere
@@ -152,7 +152,7 @@ There's no way around it.,give.statement
 "And talking of music, this is such a bizarre thing.",give.opinion
 "Matthew, one of your standout performances",give.statement
 in The Wolf Of Wall Street…,give.statement
-CHEERING AND APPLAUSE,use.social.convetion
+CHEERING AND APPLAUSE,use.social.convention
 You were amazing in it.,give.opinion
 "Now, you've talked about this before.",give.statement
 "What would you call the beating, the humming beating thing?",closed.question
@@ -166,12 +166,12 @@ DANCE MUSIC FEATURING MATTHEW'S HUMMING,misc
 ♪ Where are my residuals?,misc
 - Isn't this great? - ♪ Give me the mailbox money!,misc
 I think that's the name of the song!,relax.atmosphere
-APPLAUSE,use.social.convetion
+APPLAUSE,use.social.convention
 "Now, here's the weird thing. So, you kind of think, oh, right,",give.opinion
 someone on the couch got sampled in a song.,give.statement
 He's not the only one on the couch who's been sampled in a song.,give.statement
 Jamie Oliver is also in a song.,give.statement
-LAUGHTER,use.social.convetion
+LAUGHTER,use.social.convention
 This is the Jamie Oliver Pukka Techno Remix.,give.statement
 "Oh, for God's sake!",relax.atmosphere
 DANCE MUSIC,misc
@@ -182,7 +182,7 @@ Which part are you doing?,closed.question
 "♪ Garlic and lemon, oh, yeah! Garlic and lemon, oh, yeah! ♪",misc
 - It's good! - Garlic and lemon! Pukka.,relax.atmosphere
 "Oh, yeah. Oh, yeah.",relax.atmosphere
-APPLAUSE,use.social.convetion
+APPLAUSE,use.social.convention
 "- Christmas, your house! - Well, yeah.",relax.atmosphere
 Pukka!,relax.atmosphere
 "Oh, dear! Is that real?",closed.question
@@ -240,7 +240,7 @@ Let go of me!,give.statement
 Take it down!,give.statement
 "- Run! - No, don't run! Do not run!",give.statement
 She ran.,give.statement
-CHEERING AND APPLAUSE,use.social.convetion
+CHEERING AND APPLAUSE,use.social.convention
 Good!,relax.atmosphere
 That thing looks so real.,give.opinion
 "The Bumblebee, you really forget,",give.opinion
@@ -248,13 +248,13 @@ it seems crazy that that thing isn't there.,give.opinion
 "Not at all, it is not there at all!",respond.agree
 "Not even in the slightest, unfortunately.",respond.agree
 The cost of a Transformer minus CGI is about 7.,relax.atmosphere
-LAUGHTER,use.social.convetion
+LAUGHTER,use.social.convention
 It is a long piece of PVC pipe and a tennis ball.,give.statement
 "But they've done an amazing job with that, they really have. Fantastic.",give.opinion
 And this is set in 1987.,give.statement
 "So, Hailee, what were you doing in 1987?",closed.question
 Well…,relax.atmosphere
-LAUGHTER,use.social.convetion
+LAUGHTER,use.social.convention
 Um…,relax.atmosphere
 No. I wasn't born yet.,give.statement
 "So, yeah, this little dive back into the '80s,",give.statement
@@ -275,7 +275,7 @@ These were dark days!,relax.atmosphere
 "to my mind, were just like, oh, yeah, that's out there.",give.statement
 But you were dealing with things you'd never really seen before?,closed.question
 "Yes, I had to be shown how to use a Walkman.",respond.agree
-LAUGHTER,use.social.convetion
+LAUGHTER,use.social.convention
 And there were other items that I came across,give.statement
 that I tried for a moment to act as if I knew what it was,give.statement
 but I didn't get away with it for long without asking.,give.statement
@@ -291,7 +291,7 @@ It was really made so I could step right in and feel right at home.,give.opinion
 "you had a persona that, am I right, was sort of half-man, half-machine?",closed.question
 "- Was that the idea? - Yes, that's correct.",respond.agree
 #NAME?,x
-LAUGHTER,use.social.convetion
+LAUGHTER,use.social.convention
 "Yes, you want to try to find a persona or,",give.statement
 "here's some more inside baseball for you, a gimmick…",give.statement
 - Oh! - …where it describes you as a character,relax.atmosphere
@@ -303,7 +303,7 @@ and you can describe your character.,give.statement
 It's a trial and error process with a lot of errors.,give.statement
 "And my first try was The Prototype, which was half-man and half-machine.",give.statement
 And 100% crap!,relax.atmosphere
-LAUGHTER,use.social.convetion
+LAUGHTER,use.social.convention
 "But given that you're not half a machine,",give.statement
 how did you demonstrate you were a machine?,closed.question
 "Well, I used this ability to talk",respond.agree
@@ -334,9 +334,9 @@ But they actually think that John Cena is a gimmick name,give.statement
 I used to love wrestling.,respond.agree
 "When we were much younger, about the same time as Transformers,",recall
 "back in the day, we had Big Daddy.",recall
-CHEERING,use.social.convetion
+CHEERING,use.social.convention
 The Giant Haystack.,give.statement
-CHEERING,use.social.convetion
+CHEERING,use.social.convention
 GRAHAM CHORTLES,relax.atmosphere
 "No, I used to love it. I thought it was just fantastic.",give.statement
 "By the way, I'm John Cena.",relax.atmosphere
@@ -346,7 +346,7 @@ GRAHAM CHORTLES,relax.atmosphere
 Is that true that came out of your family somehow?,closed.question
 "Yeah, I was dared to do it, so I was actually making the music",respond.agree
 for my own theme song that you just heard,give.statement
-and so finely serenaded to me… thank you very much…,use.social.convetion
+and so finely serenaded to me… thank you very much…,use.social.convention
 and we played it for my brother.,give.statement
 The first time he heard it… 50 Cent's crew had a really popular,recall
 "song called In Da Club… and he heard it the first time and,",recall
@@ -360,7 +360,7 @@ And I guess this was from 50 Cent's video.,give.statement
 "What are they going to do, fire me? Of course I'll do it on TV.",recall
 "But, instead of doing this, I did this.",recall
 "And, now, for 15 years…",recall
-LAUGHTER,use.social.convetion
+LAUGHTER,use.social.convention
 …because of a dare…,recall
 …I've been doing this.,recall
 And I'll do you one better… people actually think I'm invisible.,relax.atmosphere
@@ -381,7 +381,7 @@ Skandor Akba was a man dressed as a sheikh that used to throw fire.,recall
 Entertaining!,relax.atmosphere
 And I'm John Cena.,relax.atmosphere
 And he's got this!,relax.atmosphere
-APPLAUSE DROWNS SPEECH,use.social.convetion
+APPLAUSE DROWNS SPEECH,use.social.convention
 "Listen, we'd like to move on to Matthew's film.",give.statement
 The film is called White Boy Rick.,give.statement
 It opens tonight.,give.statement
@@ -451,7 +451,7 @@ My son and I walked into the lion's den this morning and walked out,give.stateme
 - That's right. - You are pathetic! Both of you!,give.statement
 "And put some clothes on, will you?",closed.question
 We're going for custard.,give.statement
-APPLAUSE,use.social.convetion
+APPLAUSE,use.social.convention
 "So, yeah, it's a little romantic comedy.",relax.atmosphere
 "Now, obviously, somebody played your mother there,",give.statement
 "but your own mother, I know she likes to visit you on set,",give.statement
@@ -507,9 +507,9 @@ We've got a picture of you as Little Mr Texas.,give.statement
 "18 years later? One day, I've got the picture, and I decide I'm just",recall
 going to zoom in on that trophy. Can you zoom in on that trophy?,closed.question
 "- No, we can't, I don't think. - Well, anyway, it says runner-up.",give.statement
-LAUGHTER,use.social.convetion
+LAUGHTER,use.social.convention
 It says runner-up!,give.statement
-APPLAUSE,use.social.convetion
+APPLAUSE,use.social.convention
 Same lady. I enter a poetry contest and I write a nice poem,give.statement
 and I think I showed you.,give.statement
 "She goes, ""Yeah, that's not bad, go try it again.""",recall
@@ -533,7 +533,7 @@ You were born in an inn.,give.statement
 "Because your parents, they ran a pub.",give.statement
 "They still do, 43 beautiful years later.",respond.agree
 #NAME?,x
-SCATTERED CHEERING,use.social.convetion
+SCATTERED CHEERING,use.social.convention
 "And, yeah, it's…",relax.atmosphere
 "That was my whole life, growing up in the pub.",give.statement
 "Locals… I still think the pub is the most democratic,",give.statement
@@ -561,7 +561,7 @@ and this is a brilliant thing to do.,give.opinion
 OK. You can make them yourself…,relax.atmosphere
 The type that you hang on to and yank. Yes.,give.statement
 And something fun comes out.,give.statement
-LAUGHTER AND APPLAUSE,use.social.convetion
+LAUGHTER AND APPLAUSE,use.social.convention
 #NAME?,x
 - Hailee's mind is going crazy now. - I'm really trying to follow here.,relax.atmosphere
 "A Christmas cracker, you put on the place setting",give.statement
@@ -600,7 +600,7 @@ They were very helpful.,relax.atmosphere
 Her face was like…,recall
 """I went, no, Nan, don't worry, it's only Smarties.""",recall
 "And she went, ""Oh.""",recall
-APPLAUSE,use.social.convetion
+APPLAUSE,use.social.convention
 "Now, oddly, grandmothers play a huge part in your new book.",give.statement
 - They do. - This is Jamie Cooks Italy and it's out now.,respond.agree
 "So, this is you… It took a long time, this book.",give.statement
@@ -668,13 +668,13 @@ called Zeppe's. And they ran a promotion.,recall
 "If you could eat a 12-slice deep dish pizza in one sitting,",recall
 you get it free and you get a coupon for another pizza…,recall
 After a week I put them sons of bitches out of business!,relax.atmosphere
-LAUGHTER,use.social.convetion
+LAUGHTER,use.social.convention
 They stopped the promotion halfway through the week and literally,recall
 closed down shortly thereafter.,recall
 - You closed them down? - Yeah!,closed.question
 For about a week and a half,respond.agree
 "I was Zeppe's pizza eating champion, thank you very much!",relax.atmosphere
-CHEERING AND APPLAUSE,use.social.convetion
+CHEERING AND APPLAUSE,use.social.convention
 "Yes, you're damn right!",relax.atmosphere
 "I have to ask you, you're still wrestling,",give.statement
 "- you're still in tiptop condition? - Yeah, my next match is December 26,",closed.question
@@ -686,47 +686,47 @@ just like everybody here!,give.statement
 #NAME?,x
 "- Space… Come here… - No, no!",respond.agree
 "- It's easy! - Oh, no, no!",give.statement
-CHEERING AND APPLAUSE,use.social.convetion
+CHEERING AND APPLAUSE,use.social.convention
 It's totally easy!,give.statement
-CHEERING AND APPLAUSE,use.social.convetion
+CHEERING AND APPLAUSE,use.social.convention
 - Don't now slam me on my back! - Yes!,relax.atmosphere
 So the take-off's easy. But the landing… My goodness!,give.opinion
 "So we're going to set you down gently! Thank you, thank you!",give.statement
 I'm an elderly gentleman!,relax.atmosphere
 And a good sport. And a very good sport.,relax.atmosphere
-CHEERING AND APPLAUSE,use.social.convetion
+CHEERING AND APPLAUSE,use.social.convention
 But let me tell you something…,relax.atmosphere
 …December 26th in the Madison Square Garden won't be so gentle!,relax.atmosphere
-CHEERING AND APPLAUSE,use.social.convetion
+CHEERING AND APPLAUSE,use.social.convention
 You can't see me!,relax.atmosphere
 You found that so… And that was ridiculous…,relax.atmosphere
 "Yeah, that was weird!",relax.atmosphere
 That was like a machine!,relax.atmosphere
 Amazing!,relax.atmosphere
 "Right, it's time to meet my next guests.",give.statement
-One is a five-time Grammy-winning record producer,use.social.convetion
-and the other is one of the world's biggest pop stars.,use.social.convetion
-Please welcome Mark Ronson and Miley Cyrus!,use.social.convetion
-CHEERING AND APPLAUSE,use.social.convetion
-There they are!,use.social.convetion
-- MILEY: - Hi!,use.social.convetion
-Very good to see you.,use.social.convetion
+One is a five-time Grammy-winning record producer,use.social.convention
+and the other is one of the world's biggest pop stars.,use.social.convention
+Please welcome Mark Ronson and Miley Cyrus!,use.social.convention
+CHEERING AND APPLAUSE,use.social.convention
+There they are!,use.social.convention
+- MILEY: - Hi!,use.social.convention
+Very good to see you.,use.social.convention
 #NAME?,x
-All move down so that we can all sit in. Slide down.,use.social.convetion
-There goes Mark and Miley.,use.social.convetion
-"Welcome, hello, hello, hello!",use.social.convetion
-Thank you for having us!,use.social.convetion
-"God, no, thrilled you're here, thank you very much!",use.social.convetion
-"Before we say another thing, we should congratulate Mark Ronson",use.social.convetion
-on a Golden Globe nomination!,use.social.convetion
-CHEERING AND APPLAUSE,use.social.convetion
-"- Yeah! - Very exciting, yeah.",use.social.convetion
+All move down so that we can all sit in. Slide down.,use.social.convention
+There goes Mark and Miley.,use.social.convention
+"Welcome, hello, hello, hello!",use.social.convention
+Thank you for having us!,use.social.convention
+"God, no, thrilled you're here, thank you very much!",use.social.convention
+"Before we say another thing, we should congratulate Mark Ronson",use.social.convention
+on a Golden Globe nomination!,use.social.convention
+CHEERING AND APPLAUSE,use.social.convention
+"- Yeah! - Very exciting, yeah.",use.social.convention
 This was for A Star Is Born?,closed.question
 This is for the song Shallow that I co-wrote on A Star Is Born,respond.agree
 and it's super exciting.,give.opinion
 "Yeah, Oscars to follow! Nice!",relax.atmosphere
 "By the way, do you all know each other? Miley, who do you know?",closed.question
-"Hi, everybody. I think we've worked together a couple of times.",use.social.convetion
+"Hi, everybody. I think we've worked together a couple of times.",use.social.convention
 We did the VMAs together.,give.statement
 We almost worked together.,give.statement
 When? Now?,closed.question
@@ -750,11 +750,11 @@ I've ever felt in my entire life.,recall
 But I'm next to Matthew McConaughey in this tiny tub,recall
 and I want to look tough.,recall
 "And he just looks at me and he's like, ""Breathe."" So…",recall
-LAUGHTER,use.social.convetion
+LAUGHTER,use.social.convention
 "So now I take this cold shower every single morning, an ice cold shower.",recall
 And I think of you every morning!,give.statement
 I'm not joking.,relax.atmosphere
-Som thank you for letting us have this. That's nice.,use.social.convetion
+Som thank you for letting us have this. That's nice.,use.social.convention
 We're having a little mini-reunion here! That's very nice.,relax.atmosphere
 "So, listen. Mark and Miley, here you are together.",give.statement
 So how did this collaboration come about?,closed.question
@@ -822,11 +822,11 @@ apart every single day.,give.statement
 "Listen, your car awaits. We might have to pay waiting",relax.atmosphere
 "if you don't hurry up. So, if you'd like to make your way over.",relax.atmosphere
 "- Yes, please. - Let's do this. OK.",respond.agree
-CHEERING,use.social.convetion
-There they go. APPLAUSE,use.social.convetion
-"So, performing Nothing Breaks Like A Heart",use.social.convetion
-it is Mark Ronson featuring Miley Cyrus!,use.social.convetion
-CHEERING AND APPLAUSE,use.social.convetion
+CHEERING,use.social.convention
+There they go. APPLAUSE,use.social.convention
+"So, performing Nothing Breaks Like A Heart",use.social.convention
+it is Mark Ronson featuring Miley Cyrus!,use.social.convention
+CHEERING AND APPLAUSE,use.social.convention
 ♪ This world can hurt you,misc
 ♪ It cuts you deep and leaves a scar,misc
 ♪ Things fall apart,misc
@@ -882,18 +882,18 @@ CHEERING AND APPLAUSE,use.social.convetion
 "♪ Ya, nothing breaks like a heart",misc
 "♪ Ya, nothing breaks like a heart",misc
 "♪ Ya, nothing breaks like a heart. ♪",misc
-CHEERING AND APPLAUSE,use.social.convetion
+CHEERING AND APPLAUSE,use.social.convention
 "Mark Ronson and Miley Cyrus! Come on back. Come on back, you!",give.statement
 "It's such a great track, it's really, really lovely.",give.opinion
-Thank you so much.,use.social.convetion
-"Hello. Hi. Welcome back, thank you very much.",use.social.convetion
-Have a seat there.,use.social.convetion
-Perch yourselves there.,use.social.convetion
-Really terrific track.,use.social.convetion
+Thank you so much.,use.social.convention
+"Hello. Hi. Welcome back, thank you very much.",use.social.convention
+Have a seat there.,use.social.convention
+Perch yourselves there.,use.social.convention
+Really terrific track.,use.social.convention
 - I love that. And that's the first single off your new album? - It is.,closed.question
 And the first time we've ever performed it together.,respond.agree
 "The first time, yeah.",give.statement
-CHEERING,use.social.convetion
+CHEERING,use.social.convention
 "Well, I feel it was a good start. It was a very good start.",give.opinion
 #NAME?,x
 "And when's the album out, Mark?",closed.question
@@ -901,15 +901,15 @@ I think it's probably going to be out in March.,respond.agree
 - March 2019. And what's it called? - It's called Late Night Feelings.,closed.question
 #NAME?,x
 That I feel things late at night?,relax.atmosphere
-LAUGHTER,use.social.convetion
+LAUGHTER,use.social.convention
 "Yeah, I think it is. I think I called it this thing,",respond.agree
 "basically, sad bangers, like,",give.statement
 "songs that make you dance but they have a bit of emotion,",give.statement
 "like, melancholy, so late night feelings is just",give.statement
 things that you think of at night. That made no sense.,give.opinion
 "It will do. Well, we look forward to hearing it all.",give.statement
-"Mark Ronson and Miley Cyrus, everybody!",use.social.convetion
-CHEERING AND APPLAUSE,use.social.convetion
+"Mark Ronson and Miley Cyrus, everybody!",use.social.convention
+CHEERING AND APPLAUSE,use.social.convention
 "Right, that's nearly it. Before we go, just time for a visit",give.statement
 to the Big Red Chair. Who's there?,closed.question
 "- Hello! - Hi. - Are you all right? - Yeah, I'm good.",respond.agree
@@ -934,7 +934,7 @@ so I'm meeting his parents and we're sitting and watching,recall
 "and that was my last time of seeing any of those,",recall
 and a John Cena moment happened.,recall
 You walk! You walk.,give.statement
-CHEERING AND APPLAUSE No wonder she seems depressed.,use.social.convetion
+CHEERING AND APPLAUSE No wonder she seems depressed.,use.social.convention
 Bless her.,relax.atmosphere
 "The horror of seeing the hotel and going, ""I wonder what happened.""",relax.atmosphere
 "OK, who's up next? Hello.",closed.question
@@ -954,7 +954,7 @@ to whip off the hair on my damaged foot.,recall
 "So I went in anyway, put the bad foot up, she was checking it",recall
 "and checking it, and she couldn't really see what the problem was.",recall
 "So she was like, can you pop your other foot up there just so I can…",recall
-LAUGHTER DROWNS SPEECH,use.social.convetion
+LAUGHTER DROWNS SPEECH,use.social.convention
 "So, anyway, I lump the other foot up and she kind of",recall
 "has a smart grin on her face, and she's examining again.",recall
 "She just goes, ""Don't worry, Mark, you'd be surprised how many people",recall
@@ -965,21 +965,21 @@ You can walk right out.,give.statement
 If you'd like to have a go in the chair yourself,give.statement
 "and tell your story, you can contact us via",give.statement
 our website at this address.,give.statement
-Please say thank you to all of my guests tonight… Mark Ronson…,use.social.convetion
-CHEERING AND APPLAUSE,use.social.convetion
-…Miley Cyrus…,use.social.convetion
-CHEERING AND APPLAUSE,use.social.convetion
-…Jamie Oliver…,use.social.convetion
-CHEERING AND APPLAUSE,use.social.convetion
-…Hailee Steinfeld…,use.social.convetion
-CHEERING AND APPLAUSE,use.social.convetion
-…John Cena…,use.social.convetion
-CHEERING AND APPLAUSE,use.social.convetion
-LAUGHTER,use.social.convetion
-…and Matthew McConaughey!,use.social.convetion
-CHEERING AND APPLAUSE,use.social.convetion
-"Join me next week with super girl band Little Mix,",use.social.convetion
-"top comic Bill Bailey, Strictly judge Dame Darcey Bussell",use.social.convetion
-"and Aquaman himself, Jason Momoa.",use.social.convetion
-"I'll see you, then! Goodnight, everybody, bye-bye!",use.social.convetion
-CHEERING AND APPLAUSE,use.social.convetion
+Please say thank you to all of my guests tonight… Mark Ronson…,use.social.convention
+CHEERING AND APPLAUSE,use.social.convention
+…Miley Cyrus…,use.social.convention
+CHEERING AND APPLAUSE,use.social.convention
+…Jamie Oliver…,use.social.convention
+CHEERING AND APPLAUSE,use.social.convention
+…Hailee Steinfeld…,use.social.convention
+CHEERING AND APPLAUSE,use.social.convention
+…John Cena…,use.social.convention
+CHEERING AND APPLAUSE,use.social.convention
+LAUGHTER,use.social.convention
+…and Matthew McConaughey!,use.social.convention
+CHEERING AND APPLAUSE,use.social.convention
+"Join me next week with super girl band Little Mix,",use.social.convention
+"top comic Bill Bailey, Strictly judge Dame Darcey Bussell",use.social.convention
+"and Aquaman himself, Jason Momoa.",use.social.convention
+"I'll see you, then! Goodnight, everybody, bye-bye!",use.social.convention
+CHEERING AND APPLAUSE,use.social.convention
