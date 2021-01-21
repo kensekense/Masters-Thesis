@@ -1,0 +1,392 @@
+respond.deny/respond.deny & -3.941447817644887 \\
+\hline
+respond.deny/give.opinion & 0.9407610990969307 \\
+\hline
+respond.deny/misc & -1000 \\
+\hline
+respond.deny/recall & -2.4378978958348365 \\
+\hline
+respond.deny/relax.atmosphere & -1.6401545685615238 \\
+\hline
+respond.deny/use.social.convention & -4.482086751617374 \\
+\hline
+respond.deny/deflection & -1000 \\
+\hline
+respond.deny/respond.agree & -3.190734075257016 \\
+\hline
+respond.deny/give.statement & 1.407123211642844 \\
+\hline
+respond.deny/inner.dialogue & -1000 \\
+\hline
+respond.deny/closed.question & 1.6385263524526643 \\
+\hline
+respond.deny/exclamation & -6.157902682789644 \\
+\hline
+respond.deny/open.question & -6.15070718138544 \\
+\hline
+respond.deny/quoted.speech & -6.746476437063179 \\
+\hline
+give.opinion/respond.deny & -9.610732658820742 \\
+\hline
+give.opinion/give.opinion & -0.9758753251957926 \\
+\hline
+give.opinion/misc & -5.828661286751312 \\
+\hline
+give.opinion/recall & -3.9614115972771566 \\
+\hline
+give.opinion/relax.atmosphere & -4.976184897177227 \\
+\hline
+give.opinion/use.social.convention & -5.090489350646208 \\
+\hline
+give.opinion/deflection & -13.262262776480888 \\
+\hline
+give.opinion/respond.agree & -5.4903839681462205 \\
+\hline
+give.opinion/give.statement & -1.7150011615242398 \\
+\hline
+give.opinion/inner.dialogue & -15.346031134173487 \\
+\hline
+give.opinion/closed.question & -6.332010663858552 \\
+\hline
+give.opinion/exclamation & -9.525297182314683 \\
+\hline
+give.opinion/open.question & -11.21854139905157 \\
+\hline
+give.opinion/quoted.speech & -10.72684781347897 \\
+\hline
+misc/respond.deny & -13.332855874477053 \\
+\hline
+misc/give.opinion & -4.339138642518244 \\
+\hline
+misc/misc & -0.23208663685094358 \\
+\hline
+misc/recall & -4.784911833308548 \\
+\hline
+misc/relax.atmosphere & -6.472595333205477 \\
+\hline
+misc/use.social.convention & -5.770207000037518 \\
+\hline
+misc/deflection & -1000 \\
+\hline
+misc/respond.agree & -8.31535559139428 \\
+\hline
+misc/give.statement & -3.6623567503019583 \\
+\hline
+misc/inner.dialogue & -13.625210853981068 \\
+\hline
+misc/closed.question & -6.912359918386698 \\
+\hline
+misc/exclamation & -10.76795102609715 \\
+\hline
+misc/open.question & -13.667646120301464 \\
+\hline
+misc/quoted.speech & -11.356524780370684 \\
+\hline
+recall/respond.deny & -10.834168074374187 \\
+\hline
+recall/give.opinion & -3.8404508424153794 \\
+\hline
+recall/misc & -6.4880294258949505 \\
+\hline
+recall/recall & -0.4938313797056882 \\
+\hline
+recall/relax.atmosphere & -5.180358410570039 \\
+\hline
+recall/use.social.convention & -5.536863766455648 \\
+\hline
+recall/deflection & -14.686610885960329 \\
+\hline
+recall/respond.agree & -5.991754497849507 \\
+\hline
+recall/give.statement & -2.5129043910821918 \\
+\hline
+recall/inner.dialogue & -15.033413649486722 \\
+\hline
+recall/closed.question & -7.842515417087707 \\
+\hline
+recall/exclamation & -11.591191320881647 \\
+\hline
+recall/open.question & -14.490886415085962 \\
+\hline
+recall/quoted.speech & -12.916730669321389 \\
+\hline
+relax.atmosphere/respond.deny & -9.2190539299108 \\
+\hline
+relax.atmosphere/give.opinion & -3.312799539202331 \\
+\hline
+relax.atmosphere/misc & -5.815327789878618 \\
+\hline
+relax.atmosphere/recall & -3.5534583000880224 \\
+\hline
+relax.atmosphere/relax.atmosphere & -1.325240828928198 \\
+\hline
+relax.atmosphere/use.social.convention & -3.4219398018342417 \\
+\hline
+relax.atmosphere/deflection & -13.100065893693714 \\
+\hline
+relax.atmosphere/respond.agree & -4.395931691994879 \\
+\hline
+relax.atmosphere/give.statement & -1.0814287953084083 \\
+\hline
+relax.atmosphere/inner.dialogue & -1000 \\
+\hline
+relax.atmosphere/closed.question & -4.483922371499439 \\
+\hline
+relax.atmosphere/exclamation & -8.741611922781237 \\
+\hline
+relax.atmosphere/open.question & -10.319378922098188 \\
+\hline
+relax.atmosphere/quoted.speech & -12.652113771942133 \\
+\hline
+use.social.convention/respond.deny & -10.050363878205047 \\
+\hline
+use.social.convention/give.opinion & -3.958082811762649 \\
+\hline
+use.social.convention/misc & -5.252661854421851 \\
+\hline
+use.social.convention/recall & -3.8880735295342923 \\
+\hline
+use.social.convention/relax.atmosphere & -2.909366929366219 \\
+\hline
+use.social.convention/use.social.convention & -0.9048914138006905 \\
+\hline
+use.social.convention/deflection & -15.335766097067294 \\
+\hline
+use.social.convention/respond.agree & -5.518290422292516 \\
+\hline
+use.social.convention/give.statement & -1.5318678474750034 \\
+\hline
+use.social.convention/inner.dialogue & -14.09760635987253 \\
+\hline
+use.social.convention/closed.question & -5.607147845614609 \\
+\hline
+use.social.convention/exclamation & -8.807387124712506 \\
+\hline
+use.social.convention/open.question & -11.23315103058441 \\
+\hline
+use.social.convention/quoted.speech & -11.980923379707198 \\
+\hline
+deflection/respond.deny & -3.1699250014423126 \\
+\hline
+deflection/give.opinion & 1.9493231126003545 \\
+\hline
+deflection/misc & -1000 \\
+\hline
+deflection/recall & -1000 \\
+\hline
+deflection/relax.atmosphere & -1000 \\
+\hline
+deflection/use.social.convention & -1000 \\
+\hline
+deflection/deflection & -3.2854022188622483 \\
+\hline
+deflection/respond.agree & -1000 \\
+\hline
+deflection/give.statement & 2.1786460278454185 \\
+\hline
+deflection/inner.dialogue & -1000 \\
+\hline
+deflection/closed.question & 4.250570954648042 \\
+\hline
+deflection/exclamation & -1000 \\
+\hline
+deflection/open.question & -3.5047152472667245 \\
+\hline
+deflection/quoted.speech & -1000 \\
+\hline
+respond.agree/respond.deny & -9.82117015833252 \\
+\hline
+respond.agree/give.opinion & -1.9470345421263848 \\
+\hline
+respond.agree/misc & -7.268580632385857 \\
+\hline
+respond.agree/recall & -4.8581886178851725 \\
+\hline
+respond.agree/relax.atmosphere & -3.9609096170609455 \\
+\hline
+respond.agree/use.social.convention & -4.995486878059192 \\
+\hline
+respond.agree/deflection & -12.936647375752456 \\
+\hline
+respond.agree/respond.agree & -3.728381747945511 \\
+\hline
+respond.agree/give.statement & -0.34331611209982277 \\
+\hline
+respond.agree/inner.dialogue & -1000 \\
+\hline
+respond.agree/closed.question & -0.6306002962640211 \\
+\hline
+respond.agree/exclamation & -1000 \\
+\hline
+respond.agree/open.question & -6.541250560041724 \\
+\hline
+respond.agree/quoted.speech & -9.844839064226152 \\
+\hline
+give.statement/respond.deny & -10.264712397163192 \\
+\hline
+give.statement/give.opinion & -3.978354297285268 \\
+\hline
+give.statement/misc & -8.606413430045414 \\
+\hline
+give.statement/recall & -5.991662917038544 \\
+\hline
+give.statement/relax.atmosphere & -5.178448181002791 \\
+\hline
+give.statement/use.social.convention & -5.678963839579919 \\
+\hline
+give.statement/deflection & -15.405724706690267 \\
+\hline
+give.statement/respond.agree & -5.815994687746143 \\
+\hline
+give.statement/give.statement & -0.8353939539911001 \\
+\hline
+give.statement/inner.dialogue & -17.974919891553107 \\
+\hline
+give.statement/closed.question & -6.3045522872802495 \\
+\hline
+give.statement/exclamation & -10.36277256150572 \\
+\hline
+give.statement/open.question & -12.262467655710035 \\
+\hline
+give.statement/quoted.speech & -11.688311909945462 \\
+\hline
+inner.dialogue/respond.deny & -1000 \\
+\hline
+inner.dialogue/give.opinion & 0.8880411374896692 \\
+\hline
+inner.dialogue/misc & 0.32138254939366584 \\
+\hline
+inner.dialogue/recall & 1.73177456389435 \\
+\hline
+inner.dialogue/relax.atmosphere & -1000 \\
+\hline
+inner.dialogue/use.social.convention & -1000 \\
+\hline
+inner.dialogue/deflection & -1000 \\
+\hline
+inner.dialogue/respond.agree & -1000 \\
+\hline
+inner.dialogue/give.statement & 1.7023265534558896 \\
+\hline
+inner.dialogue/inner.dialogue & -0.4791678366985595 \\
+\hline
+inner.dialogue/closed.question & -1.0331034417990912 \\
+\hline
+inner.dialogue/exclamation & -2.4032677223393013 \\
+\hline
+inner.dialogue/open.question & -1000 \\
+\hline
+inner.dialogue/quoted.speech & -1000 \\
+\hline
+closed.question/respond.deny & -8.103599548290672 \\
+\hline
+closed.question/give.opinion & -2.3115161775015145 \\
+\hline
+closed.question/misc & -5.7526438835136595 \\
+\hline
+closed.question/recall & -3.6945536129438556 \\
+\hline
+closed.question/relax.atmosphere & -2.673791558684629 \\
+\hline
+closed.question/use.social.convention & -3.518544260802858 \\
+\hline
+closed.question/deflection & -12.157676221046465 \\
+\hline
+closed.question/respond.agree & -3.909221503123821 \\
+\hline
+closed.question/give.statement & 0.07013767917112361 \\
+\hline
+closed.question/inner.dialogue & -13.504478984572856 \\
+\hline
+closed.question/closed.question & -2.5545888516776376 \\
+\hline
+closed.question/exclamation & -8.062256655967783 \\
+\hline
+closed.question/open.question & -9.961951750172098 \\
+\hline
+closed.question/quoted.speech & -9.802833503686367 \\
+\hline
+exclamation/respond.deny & -5.557673279148827 \\
+\hline
+exclamation/give.opinion & 0.23964674000647765 \\
+\hline
+exclamation/misc & -2.104619426753078 \\
+\hline
+exclamation/recall & -2.5015823343099974 \\
+\hline
+exclamation/relax.atmosphere & -0.8387685871227933 \\
+\hline
+exclamation/use.social.convention & -1.153453767313775 \\
+\hline
+exclamation/deflection & -9.995078591456124 \\
+\hline
+exclamation/respond.agree & -3.084493512289865 \\
+\hline
+exclamation/give.statement & 1.7908977501389045 \\
+\hline
+exclamation/inner.dialogue & -9.756918854261361 \\
+\hline
+exclamation/closed.question & -0.7428983839464258 \\
+\hline
+exclamation/exclamation & -1.8552649070189893 \\
+\hline
+exclamation/open.question & -8.214391619860601 \\
+\hline
+exclamation/quoted.speech & -8.225198374817184 \\
+\hline
+open.question/respond.deny & -1000 \\
+\hline
+open.question/give.opinion & 1.1249147635755126 \\
+\hline
+open.question/misc & -1.441743824520491 \\
+\hline
+open.question/recall & -0.18335490346485636 \\
+\hline
+open.question/relax.atmosphere & 0.02942592308729991 \\
+\hline
+open.question/use.social.convention & -0.3530746413312532 \\
+\hline
+open.question/deflection & -1000 \\
+\hline
+open.question/respond.agree & -0.12883616082943214 \\
+\hline
+open.question/give.statement & 1.617272084654371 \\
+\hline
+open.question/inner.dialogue & -1000 \\
+\hline
+open.question/closed.question & -0.6587262919633129 \\
+\hline
+open.question/exclamation & -1000 \\
+\hline
+open.question/open.question & -2.4222330006830477 \\
+\hline
+open.question/quoted.speech & -6.076895945414355 \\
+\hline
+quoted.speech/respond.deny & -5.709685434720195 \\
+\hline
+quoted.speech/give.opinion & 0.7314907742098343 \\
+\hline
+quoted.speech/misc & -1.1570959087735315 \\
+\hline
+quoted.speech/recall & -1.3316663949940033 \\
+\hline
+quoted.speech/relax.atmosphere & -2.756315489057138 \\
+\hline
+quoted.speech/use.social.convention & -1.4689646551680224 \\
+\hline
+quoted.speech/deflection & -1000 \\
+\hline
+quoted.speech/respond.agree & -2.1776119788076644 \\
+\hline
+quoted.speech/give.statement & 2.6388855945675362 \\
+\hline
+quoted.speech/inner.dialogue & -1000 \\
+\hline
+quoted.speech/closed.question & -2.5115818999662882 \\
+\hline
+quoted.speech/exclamation & -5.466708681227654 \\
+\hline
+quoted.speech/open.question & -1000 \\
+\hline
+quoted.speech/quoted.speech & -1.222392421336448 \\
+\hline
