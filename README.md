@@ -1,13 +1,14 @@
-# Masters Thesis 2020
-(title pending)
+# Conversational Modeling From a Process-Oriented Perspective
+Masters Thesis presented by Tientso Ning
+For the MSc. in Computer Science at the University of Geneva, Switzerland
 
 # Contents
 - Papers
-	- Round 1
-	- Round 2
-	- Meeting 1
-	- Round 3 *current
+- data
+- etc
+- presentation_resources
+- presentation_slides
 - sample_thesis
-- Meeting 1 Presentation
-- Notes
-- Collaborative Acts Labels
+- src
+- cites.bib
+- Tien_Tso_Ning_Master_Thesis.pdf
