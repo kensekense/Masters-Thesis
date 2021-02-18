@@ -1,5 +1,6 @@
 # Conversational Modeling From a Process-Oriented Perspective
 Masters Thesis presented by Tientso Ning
+
 For the MSc. in Computer Science at the University of Geneva, Switzerland
 
 # Contents
